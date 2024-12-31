@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 18</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 18</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="422"/>
+        <cb ed="#A" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e139"><!-- vaz-p1q18-p1 -->
+        <head xml:id="tavaz1-d1e139-Hd1e101">Quaestio 18</head>
+        <p xml:id="tavaz1-d1e139-d1e103">
+          <lb ed="#A" n="96" type="fixed=422"/>Notatio circa totam quaestionem. 
+        </p>
+        <p xml:id="tavaz1-d1e139-d1e108">
+          <lb ed="#A" n="97"/>CVm prosequatur S. Thom. disputationem. 
+          <lb ed="#A" n="98"/>de diuinis attributis, &amp; post tractatum de 
+          <lb ed="#A" n="99"/>perfectionibus Dei, quae non consistunt in ope 
+          <lb ed="#A" n="100"/>ratione, disseruerit latissime de prima operatione 
+          <lb ed="#A" n="101"/>nempe intellectione, &amp; de ijs, quae ad eam 
+          specta<lb ed="#A" n="102" break="no"/>re videntur, a q14. vsque ad 17. extra rem 
+          omni<lb ed="#A" n="103" break="no"/>no esse videtur, hic quaestionem instituere de vita 
+          <lb ed="#A" n="104"/>Dei, cum disputaturus sit in sequentide 
+          operatio<lb ed="#A" n="105" break="no"/>ne voluntatis. Vita enim si sumatur pro principio 
+          <lb ed="#A" n="106"/>substantiali operationis vitalis, non debebat hoc 
+          <lb ed="#A" n="107"/>loco numerari: si vero viurpetur pro ipsamet 
+          <lb ed="#A" n="108"/>operatione vitae, cum non distinguatur in Deo ab 
+          <lb ed="#A" n="109"/>intellectione, &amp; appetitione, frustra de illa 
+          tan<lb ed="#A" n="110" break="no"/>quam de distincta Dei perfectione, agere videtur 
+          <lb ed="#A" n="111"/>in hac quaestione. 
+        </p>
+        <p xml:id="tavaz1-d1e139-d1e143">
+          <lb ed="#A" n="112"/>Caeterum Doctorem sanctum mirabilem 
+          or<lb ed="#A" n="113" break="no"/>dinem seruasse ex initio quaestionis, &amp; art 3. illius 
+          <lb ed="#A" n="114"/>licebit colligere, in principio enim quaestionis 
+          <lb ed="#A" n="115"/>sic ait: Quoniam autem intelligere viuentium est, post 
+          <lb ed="#A" n="116"/>considerationem de scientia, &amp; intellectu diuino, 
+          con<lb ed="#A" n="117" break="no"/>siderandum est de vita ipsius. in tertio autem art. 
+          <lb ed="#A" n="118"/>probat, Deo conuenire summum gradum virae 
+          <lb ed="#A" n="119"/>ex modo intelligendi, quem habet: colligit autem 
+          <lb ed="#A" n="120"/>hoc modo. Viuentia, praesertim animantia, a non 
+          <lb ed="#A" n="121"/>viuentibus hoc differunt, quod viuentia se mo¬ 
+          <!--438.xml-->
+          <pb ed="#A" n="423"/>
+          <cb ed="#A" n="a"/>
+          <lb ed="#A" n="1"/>uent, caetera vero potius mouentur: &amp; quae 
+          per<lb ed="#A" n="2" break="no"/>fectius viuentia se mouent, perfectius viuunta 
+          <lb ed="#A" n="3"/>nam, quae se agunt per formam apprehensam 
+          <lb ed="#A" n="4"/>qualia sunt sentientia, perfectius se mouent, &amp; 
+          vi<lb ed="#A" n="5" break="no"/>uunt, quam non sentientia, quae solum per 
+          for<lb ed="#A" n="6" break="no"/>mam sibi inditam a natura, se mouent. Deinde 
+          <lb ed="#A" n="7"/>quae perfectiori sensu praedita sunt, &amp; ideo perfe 
+          <lb ed="#A" n="8"/>ctius se agunt, vt animantia, quae sentiunt 
+          distan<lb ed="#A" n="9" break="no"/>tia, &amp; ad illa se mouent, qualia sunt perfecta 
+          ani<lb ed="#A" n="10" break="no"/>malia, perfectius etiam viuunt, quam es, quae pe 
+          <lb ed="#A" n="11"/>tris, &amp; conchis affixa solum motu dilationis &amp; 
+          <lb ed="#A" n="12"/>constrictionis se mouent, quia solum praesentia, &amp; 
+          <lb ed="#A" n="13"/>coniuncta sentiunt. Demum, quae se mouent ad 
+          fi<lb ed="#A" n="14" break="no"/>nem apprehensum cum debito ordine mediorum 
+          <lb ed="#A" n="15"/>qualis est creatura rationalis, perfectius viuunt, 
+          <lb ed="#A" n="16"/>quam alia animalia, quae quanquam in distans se 
+          <lb ed="#A" n="17"/>impellunt, non seruant proportionem mediorum 
+          <lb ed="#A" n="18"/>ad finem: ergo constat creaturam rationalem 
+          per<lb ed="#A" n="19" break="no"/>fectius viuere, quia perfectius se mouet; ex 
+          perfe<lb ed="#A" n="20" break="no"/>ctiori enim modo se mouendi perfectior vita 
+          <lb ed="#A" n="21"/>optime colligitur. Sed quia creatus intellectus in 
+          <lb ed="#A" n="22"/>quibusdam a se moueri, &amp; determinari videtur 
+          <lb ed="#A" n="23"/>nam ex principijs antea notis ab intrinseco ad 
+          con<lb ed="#A" n="24" break="no"/>clusiones procedit, ad ipsa vero principia 
+          deter<lb ed="#A" n="25" break="no"/>minatur instar entis naturalis ab aliquo extrinseco 
+          <lb ed="#A" n="26"/>principio, vt 1. 2. quaest. 9. a. 4. dicturi sumus, idec 
+          <lb ed="#A" n="27"/>summùs gradus vitae ei conuenire nequit. Deus 
+          <lb ed="#A" n="28"/>autem, quae sua est excellentia, &amp; altitudo, cuma 
+          <lb ed="#A" n="29"/>nullo extrinseco principio moueri possit, aut 
+          de<lb ed="#A" n="30" break="no"/>terminari, sed omnem intellectionem a se habeat. 
+          <lb ed="#A" n="31"/>perfectissimo modo vitam habet. 
+        </p>
+        <p xml:id="tavaz1-d1e139-d1e241">
+          <lb ed="#A" n="32"/>Cum dicit S. Th. intellectum creatum ad prima 
+          <lb ed="#A" n="33"/>principia determinari ab exteriori principio, non 
+          <lb ed="#A" n="34"/>ita intelligit, vt ad illa cognoscenda non concur 
+          <lb ed="#A" n="35"/>rat, nec aliquid efficiat, sed quia non est, vnde ex se 
+          <lb ed="#A" n="36"/>potius ad hoc cogitandum quam illud determine 
+          <lb ed="#A" n="37"/>tur, &amp; ideo ab alio extrinseco determinatur, in quo 
+          <lb ed="#A" n="38"/>videtur assimilari non viuentibus, ac proinde 
+          sum<lb ed="#A" n="39" break="no"/>mum gradum vitae non participat. Hunc vero 
+          mo<lb ed="#A" n="40" break="no"/>dum determinationis ad primam cogitationem in 
+          <lb ed="#A" n="41"/>hominibus, &amp; Angelis explicabimus in eo art. 4 
+          <lb ed="#A" n="42"/>Ideo igitur S. Doctor agit nunc de vita Dei, v 
+          <lb ed="#A" n="43"/>eam probet in Deo esse perfectissimam ex 
+          perfe<lb ed="#A" n="44" break="no"/>ctissimo modo intelligendi: quocirca non praepo 
+          <lb ed="#A" n="45"/>stere, sed ordinate post tractatum de intellectione, 
+          <lb ed="#A" n="46"/>&amp; scientia Dei de vita illius disputauit. Quae vero 
+          <lb ed="#A" n="47"/>in tota quaestione tractat, facilia sunt, nec maiori 
+          <lb ed="#A" n="48"/>indigent discussione, praeter id, de quo in 4. artic. 
+          <lb ed="#A" n="49"/>agit, nempe, quomodo res omnes in Deo 
+          dicun<lb ed="#A" n="50" break="no"/>tur viuere; de hoc tamen satis, superque a nobis 
+          di<lb ed="#A" n="51" break="no"/>ctum est disp. 70. Cum vero Deo vitam tribuimus 
+          <lb ed="#A" n="52"/>sicut alias perfectiones, quas in creaturis 
+          vide<lb ed="#A" n="53" break="no"/>mus, intelligimus secundum analogicam ratio 
+          <lb ed="#A" n="54"/>nem, vt disp. 22. in vniuersum docuimus. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

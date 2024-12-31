@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 20</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 20</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="462"/>
+        <cb ed="#A" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e149">
+        <head xml:id="tavaz1-d1e149-Hd1e100">Quaestio 20</head>
+        <div xml:id="tavaz1-d1e149-Dd1e102"><!-- vaz-p1q20-p1 -->
+          <head xml:id="tavaz1-d1e149-Hd1e105">Praefatio</head>
+          <p xml:id="tavaz1-d1e149-d1e107">
+            <lb ed="#A" n="46" type="fixed=460"/>POstquam S Thomas quaest. praeced. egit de 
+            <lb ed="#A" n="47"/>voluntate Dei, &amp; quo pacto feratur in obie 
+            <lb ed="#A" n="48"/>cta vtrum libere an necessario, &amp; an in vnum pro 
+            <lb ed="#A" n="49"/>pter aliud, &amp;c. iam aggreditur disputare de varijs 
+            <lb ed="#A" n="50"/>affectibus, qui respondent passionibus appetitus 
+            <lb ed="#A" n="51"/>&amp; voluntatis nostrae &amp; ab S. holasticis Theologis 
+            <lb ed="#A" n="52"/>&amp; Philosophis passiones animi dicuntur: qualis 
+            <lb ed="#A" n="53"/>est amor, odium, gaudium, delectatio, &amp;c. de his 
+            <lb ed="#A" n="54"/>autem disp. in hac quaest. in vniuersum, sicut de 
+            no<lb ed="#A" n="55" break="no"/>stris passionibus disp. i. 2. art. q. 22. anteaquam de 
+            <lb ed="#A" n="56"/>virturibus disserat. Postea vero in hac t. p. q. 21. 
+            tra<lb ed="#A" n="57" break="no"/>ctat. de affectibus voluntatis, quatenus a nobis stu 
+            <lb ed="#A" n="58"/>diose, &amp; secundum virtutem constituuntur, 
+            nem<lb ed="#A" n="59" break="no"/>pe de misericordia, &amp; iustitia.
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e149-Dd1e141"><!-- vaz-p1q20a1-p1 -->
+          <head xml:id="tavaz1-d1e149-Hd1e144">Articulus 1</head>
+          <p xml:id="tavaz1-d1e149-d1e146">
+            <lb ed="#A" n="75" type="fixed=461"/>Conclusio est affirmans, &amp; de fide Ioan. 4. Sit 
+            <lb ed="#A" n="76"/>Deus dilexit mundum, &amp;c. lerem. 31. In caritate perpe 
+            <lb ed="#A" n="77"/>tua dilexi te. Quae quidem testimonia, &amp; similia 
+            <lb ed="#A" n="78"/>de amore Dei intelligenda esse secundum 
+            pro<lb ed="#A" n="79" break="no"/>prietatem sermonis absque metaphora in 
+            dispu<lb ed="#A" n="80" break="no"/>tat. sequ. patebit. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e149-Dd1e163"><!-- vaz-p1q20a2-p1 -->
+          <head xml:id="tavaz1-d1e149-Hd1e166">Articulus 2</head>
+          <p xml:id="tavaz1-d1e149-d1e168">
+            <lb ed="#A" n="65" type="fixed=462"/>Conclusio articuli est: Deus amat omnia, quae 
+            exi<lb ed="#A" n="66" break="no"/>stunt. Est etiam de fide Sapientiae 2. Diligis omnia 
+            <lb ed="#A" n="67"/>quae sunt, &amp; nihil odisti eorum, quae fecisti. Cur vero S. 
+            <lb ed="#A" n="68"/>Th ad res solum existentes Dei referat amorem, 
+            <lb ed="#A" n="69"/>disp. seque etiam dicemus. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e149-Dd1e182"><!-- vaz-p1q20-d84 -->
+          <head xml:id="tavaz1-d1e149-Hd1e185">Disputatio 84</head>
+          <head xml:id="tavaz1-d1e149-Hd1e187" type="question-title">De affectibus voluntatis Dei in 
+            vniuersum</head>
+          <p xml:id="tavaz1-d1e149-d1e190">
+            <lb ed="#A" n="70" type="fixed=462"/>DISPVT. LXXXIV. 
+            <lb ed="#A" n="71"/>De affectibus voluntatis Dei in 
+            vni<lb ed="#A" n="72" break="no"/>uersum. 
+          </p>
+          <p xml:id="tavaz1-d1e149-d1e199">
+            <lb ed="#A" n="73"/>Quinam affectus Deo non conueniant, cap. 1. 
+            <lb ed="#A" n="74"/>De amore Dei, cap. 2. 
+            <lb ed="#A" n="75"/>Affectum odij Deo conuenire, cap. 3. 
+            <lb ed="#A" n="76"/>De ira Dei, cap. 4. 
+          </p>
+          <div xml:id="tavaz1-d1e149-Dd1e210">
+            <p xml:id="tavaz1-d1e149-d1e212">
+              <lb ed="#A" n="77" type="fixed=462"/>CAPVT I. 
+              <lb ed="#A" n="78"/>Quinam affectus Deo non conueniant. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e219">
+              <lb ed="#A" n="79"/>INter passiones animi, seu voluntatis affectus, 
+              <lb ed="#A" n="80"/>Tqui generatim enumerari solent, quidam sine 
+              <lb ed="#A" n="81"/>controuersia Deo non conueniunt, de alijs vero 
+              <lb ed="#A" n="82"/>nonnihil difficultatis est. Sunt autem affectus 
+              ani<lb ed="#A" n="83" break="no"/>mi, siue ad concupiscibilem spectantes, siue ad 
+              <lb ed="#A" n="84"/>irascibilem, numero praesettim nouem, vt 
+              colligi<lb ed="#A" n="85" break="no"/>tur ex S. Thoma 1. 2. q. 26. ar. 2. 3. &amp; 4. est enim. 
+              <lb ed="#A" n="86"/>amor, &amp; odium, desiderium, &amp; fuga, spes, 
+              despera<lb ed="#A" n="87" break="no"/>tio, &amp; timor, gaudium, sen delectatio, &amp; tristitia. E: 
+              <lb ed="#A" n="88"/>his vero primo desiderium; &amp; fuga, quatenus ad 
+              <lb ed="#A" n="89"/>proprium bonum referuntur, non requiruntur in 
+              <lb ed="#A" n="90"/>Deo: quia cum Deus habeat omne bonum, &amp; 
+              nul<lb ed="#A" n="91" break="no"/>lum sit ei futurum, sequitur nec desidetare posse 
+              <lb ed="#A" n="92"/>bonum, nec fugere malum sibi futurum, &amp; in 
+              <lb ed="#A" n="93"/>hunc sensum loquitur S. Thomas in solutione 2. 
+              <lb ed="#A" n="94"/>Caeterum si comparentur desiderium &amp; fuga 
+              bo<lb ed="#A" n="95" break="no"/>no &amp; malo aliorum, (nec enim solum nobis 
+              desi<lb ed="#A" n="96" break="no"/>deramus bonum, &amp; fugimus malum futurum, sed 
+              <lb ed="#A" n="97"/>etiam alijs) sic vterque affectus potest Deo 
+              tribui<lb ed="#A" n="98" break="no"/>Nobis enim ardenter desiderat bonum; hoc est, vt 
+              <lb ed="#A" n="99"/>iuste &amp; pie viuamus, sicut disp 83. cap. 2. ex 
+              Chry<lb ed="#A" n="100" break="no"/>sostomo dicebamus, &amp; fugit oppositum, 
+              scelera<lb ed="#A" n="101" break="no"/>tam scilicet &amp; flagitiosam vitam, quam in nobis 
+              vi<lb ed="#A" n="102" break="no"/>det futuram. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e274">
+              <lb ed="#A" n="103"/>Secundo spes, &amp; desperatio nullo modo Deo 5 
+              <lb ed="#A" n="104"/>conueniunt. Quidam vero sic probant: tum quia, 
+              <lb ed="#A" n="105"/>spes est circa arduum, &amp; difficile; Deo autem ni 
+              <lb ed="#A" n="106"/>hil est huiusmodi: tum etiam quia spes non est 
+              <lb ed="#A" n="107"/>circa id, quod euidenter cognoscitur esse fururum. 
+              <lb ed="#A" n="108"/>vt enim ait Paulus Spes autem quae videtur, non est spes. 
+              <lb ed="#A" n="109"/>Nam quod videt quis, quid sperat? si autem quod non 
+              vide<lb ed="#A" n="110" break="no"/>mus, speramus, per patientiam spectamus. Deus autem 
+              <lb ed="#A" n="111"/>euidenter nouit omne futurum. Verum hae 
+              ratio<lb ed="#A" n="112" break="no"/>nes non sunt efficaces: nam &amp; spes circa facile esse: 
+              <lb ed="#A" n="113"/>potest: non enim differt a desiderio, quod illa sit 
+              <lb ed="#A" n="114"/>circa difficile, desiderium autem circa 
+              quodcum<lb ed="#A" n="115" break="no"/>que futurum: quoniam &amp; desiderium circa 
+              diffici<lb ed="#A" n="116" break="no"/>le versari potest: res enim quo difficiliores sunt, eo 
+              <lb ed="#A" n="117"/>ardentius desiderare solemus, sed quia desiderium 
+              <lb ed="#A" n="118"/>potest esse sine credulitate eius, quod desideratur; 
+              <lb ed="#A" n="119"/>imo etiam siquis firmissime credat oppositum 
+              fu<lb ed="#A" n="120" break="no"/>turum, potest rei desiderium habere: spes autem 
+              <lb ed="#A" n="121"/>nisi existimetur, &amp; credatur futurum id, quod 
+              desi<lb ed="#A" n="122" break="no"/>deratur esse non potest. Et haec est vna ratio 
+              diffe<lb ed="#A" n="123" break="no"/>rentiae inter hos affectus. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e322">
+              <lb ed="#A" n="124"/>Deinde, quod Deus eusdenter cognoscat, quid R 
+              <lb ed="#A" n="125"/>futurum sit, non obest, quo minus hi affectus ipsi 
+              <!--478.xml-->
+              <pb ed="#A" n="463"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>tribuantur. Nam desperatio vere esse potest eius, 
+              <lb ed="#A" n="2"/>quod euidenter cognoscitur, non esse futurum. Si 
+              <lb ed="#A" n="3"/>enim aliquis suasu aliquorum Mathematicorum 
+              <lb ed="#A" n="4"/>eclipsim, quae reuera futura erat, sperabat non esse 
+              <lb ed="#A" n="5"/>futuram, &amp; ita desiderabat, postea euidenter 
+              co<lb ed="#A" n="6" break="no"/>gnoscat, esse futuram, desperabit non fore. Quod 
+              <lb ed="#A" n="7"/>vero Paulus ait, huic doctrinae non aduersatur. 
+              <lb ed="#A" n="8"/>ideo enim negat spem eius, quod videtur: quia 
+              <lb ed="#A" n="9"/>quod iam videtur, &amp; visione ipsa quodam modo 
+              <lb ed="#A" n="10"/>possidetur, non speratur, ipsa visione 
+              possiden<lb ed="#A" n="11" break="no"/>dum. Nam cum visio speratur, postquam 
+              habe<lb ed="#A" n="12" break="no"/>tur, iam amplius non speratur. Spes enim est 
+              futu<lb ed="#A" n="13" break="no"/>ri, &amp; nondum habiti. Pos vero contendimus 
+              pos<lb ed="#A" n="14" break="no"/>se quidem spenrari id, quod euidenter cognoscitur 
+              <lb ed="#A" n="15"/>esse futurum, &amp; desperationem circa idem simili 
+              <lb ed="#A" n="16"/>ter esse posse. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e370">
+              <lb ed="#A" n="17"/>Ideo igitur Deo non comperit affectus 
+              spei<lb ed="#A" n="18" break="no"/>aut desperationis, quia spes respicit illum, a quo 
+              <lb ed="#A" n="19"/>res aliqua speratur, tanquam superiorem, &amp; 
+              po<lb ed="#A" n="20" break="no"/>tentiorem, qui possit praestare id, quod speratur, 
+              <lb ed="#A" n="21"/>in quo ratio formalis obiecti huius affectus 
+              con<lb ed="#A" n="22" break="no"/>sistit: nam a seipso nullus proprie spetare dicitur: 
+              <lb ed="#A" n="23"/>&amp; forsan in hoc consistit ratio difficilis, quam 
+              di<lb ed="#A" n="24" break="no"/>cit S. Thom. ad obiectum spei pertinere: Deus 
+              <lb ed="#A" n="25"/>autem nullum huiusmodi respicere potest: idcirco 
+              <lb ed="#A" n="26"/>affectum spei, aut desperationis habere nequit, sed 
+              <lb ed="#A" n="27"/>solum desiderium, &amp; fugam, vt supta 
+              explica<lb ed="#A" n="28" break="no"/>tum est. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e400">
+              <lb ed="#A" n="29"/>Tertio timor, &amp; tristitia non reperiuntur in 
+              <lb ed="#A" n="30"/>Deo: hae namque passiones sunt circa malum pro 
+              <lb ed="#A" n="31"/>prium; timor circa malum futurum, quod aliquo 
+              <lb ed="#A" n="32"/>modo creditur, aut dubitatur futurum; tristitia 
+              <lb ed="#A" n="33"/>veto circa malum praesens: &amp; quamuis timor etiam 
+              <lb ed="#A" n="34"/>&amp; tristitia esse possit de malo proximi, ex amore, 
+              <lb ed="#A" n="35"/>&amp; caritate erga illum; in Deo tamen adhuc hoc 
+              <lb ed="#A" n="36"/>modo esse non potest: eo quod in nobis timor, &amp; 
+              <lb ed="#A" n="37"/>tristitia etiamsi sint de malo amici futuro, aut prae 
+              <lb ed="#A" n="38"/>senti; sunt tamen de illo ita apprehenso, ac si esset 
+              <lb ed="#A" n="39"/>proprium ac proinde talis naturae in nobis est, vt 
+              <lb ed="#A" n="40"/>etiam passionem appetitus excitet, &amp; moueat. Dec 
+              <lb ed="#A" n="41"/>autem quamuis displiceat malum nostrum futurum 
+              <lb ed="#A" n="42"/>aut praesens, nunquam tamen ipse apprehendi 
+              <lb ed="#A" n="43"/>illud, ac si proprium esset, quod videtur 
+              necessa<lb ed="#A" n="44" break="no"/>rium rationem timoris, &amp; tristitiae de bono amici 
+              <lb ed="#A" n="45"/>Aliqui existimant ideo in Deo non esse tristitiam, 
+              <lb ed="#A" n="46"/>&amp; dolorem, quia nihil ei accidere potest contra suam 
+              <lb ed="#A" n="47"/>voluntatem: horum tamen sententiam impugna 
+              <lb ed="#A" n="48"/>bo infra disput. 141. cap. 1. Diximus tamen in Dec 
+              <lb ed="#A" n="49"/>esse desiderium de bono nostro futuro, &amp; fugam 
+              <lb ed="#A" n="50"/>de malo, quia ad rationem horum affectuum, ne 
+              <lb ed="#A" n="51"/>cessarium non est bonum aut malum, vt proprium 
+              <lb ed="#A" n="52"/>apprehendi. Intertimorem etiam &amp; fugam futur. 
+              <lb ed="#A" n="53"/>mali, hoc est discrimen, quod fuga esse potest de 
+              <lb ed="#A" n="54"/>malo, quod apprehenditur vt futurum, licet non 
+              <lb ed="#A" n="55"/>credatur futurum, timor autem esse debet de 
+              ma<lb ed="#A" n="56" break="no"/>lo futuro quod creditur esse futurum.
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e149-Dd1e465">
+            <p xml:id="tavaz1-d1e149-d1e467">
+              <lb ed="#A" n="57" type="fixed=463"/>CAPVT II. 
+              <lb ed="#A" n="58"/>De amore Dei. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e474">
+              <lb ed="#A" n="59"/>IAm vero dicamus de alijs affectibus, qui Deo 
+              <lb ed="#A" n="60"/>Tribuuntur, nullamque in sua formali ratione 
+              <lb ed="#A" n="61"/>imperfectionem includunt, sic enim quae Deo 
+              <lb ed="#A" n="62"/>conuenire dicimus, ei sunt assignanda, vt in sua 
+              ra<lb ed="#A" n="63" break="no"/>tione formali nullam imperfectionem contineant 
+              <lb ed="#A" n="64"/>si quam vero imperfectionem habent annexam, 
+              <lb ed="#A" n="65"/>qualis est in humanis affectibus perturbatio 
+              cor<lb ed="#A" n="66" break="no"/>poralis, non est Deo concedenda: ob id tamen 
+              na<lb ed="#A" n="67" break="no"/>tura ipsa, &amp; ratio formalis affectus non debet ipsi 
+              <!--478.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="68"/>denegari. Talis est secundum omnium sententiam 
+              <lb ed="#A" n="69"/>amor, qui formaliter solum est affectus, quo 
+              vo<lb ed="#A" n="70" break="no"/>lumus alicui bonuni, non considerata ratione 
+              fu<lb ed="#A" n="71" break="no"/>turi, neque praesentis, sed rem solum secundum se 
+              <lb ed="#A" n="72"/>considerando: qui quamuis essentialiter in omni 
+              <lb ed="#A" n="73"/>affectu prosecutionis quodammodo includatur, 
+              <lb ed="#A" n="74"/>vt i. 2. q 4. art.1. explicabitur; per se tamen potest 
+              es<lb ed="#A" n="75" break="no"/>se actus reipsa distinctus ab omnibus alijs, 
+              quate<lb ed="#A" n="76" break="no"/>nus tendit in rem secundum se abstractam a 
+              prae<lb ed="#A" n="77" break="no"/>senti, &amp; futura. Hic igitur non minus proprie Dec 
+              <lb ed="#A" n="78"/>tribuendus est, quam ratio voluntatis, &amp; intelle 
+              <lb ed="#A" n="79"/>ctus. Nam sententia Arist. 2. Rhetori. cap. 4. amare est 
+              <lb ed="#A" n="80"/>velle alicui bonum, &amp; complacentiam illius 
+              habe<lb ed="#A" n="81" break="no"/>re: ergo amare non minus proprie Deo conuenit 
+              <lb ed="#A" n="82"/>quam velle. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e533">
+              <lb ed="#A" n="83"/>Porro cum in eodemactu amoris sit duplex re 
+              <lb ed="#A" n="84"/>spectus, vt docet S. Thom. 1. 2. q. 26. art 4. Cdietan. 
+              <lb ed="#A" n="85"/>ibidem, &amp; Ferrar. 1. contragent. cap. 91. alter ad rem cu 
+              <lb ed="#A" n="86"/>volumus bonom; alter ab bonum ipsum, quod 
+              <lb ed="#A" n="87"/>volumus: ratione prioris dicitur amor amicitiae 
+              <lb ed="#A" n="88"/>ratione vero posterioris dicitur amor concupi 
+              <lb ed="#A" n="89"/>scentiae: non quidem duplex actus amoris, sed in 
+              <lb ed="#A" n="90"/>eodem actu duplex amoris respectus. Cumque 
+              <lb ed="#A" n="91"/>vtrumque in Deo necesse sit inueniti, siquidem 
+              in<lb ed="#A" n="92" break="no"/>tegra ratio amoris Deo conuenit; difficultas est 
+              <lb ed="#A" n="93"/>vtrumque amor Dei, quatenus dicitur amicitiae, 
+              <lb ed="#A" n="94"/>referri possit ad creaturas irrationales, an solum 
+              <lb ed="#A" n="95"/>quatenus est amor concupiscentiae, ad eas 
+              termi<lb ed="#A" n="96" break="no"/>netur. Ratio vero difficultatis est, quoniam illud 
+              <lb ed="#A" n="97"/>dicitur amore amicitiae per se amari, cui volumus 
+              <lb ed="#A" n="98"/>bonum vt bonum ipsius est: creaturae autem 
+              irra<lb ed="#A" n="99" break="no"/>tionali vult Deus bonum, vt bonum illius est: 
+              er<lb ed="#A" n="100" break="no"/>go diligit eam amore amicitiae 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e575">
+              <lb ed="#A" n="101"/>Existimo tamen, amorem Del quarenus est 
+              <lb ed="#A" n="102"/>amicitiae, ad res irrationales referri non posse. Sed 
+              <lb ed="#A" n="103"/>in eas solum terminari, quatenus est amor concu 
+              <lb ed="#A" n="104"/>piscentiae Sententia est expressa S. Th in hoc a 2. pr. 
+              <lb ed="#A" n="105"/>sertim in solut. Sco. in 3. d. 32. q 1. ad 2. Dur. q. 1. Pal. q.3. 
+              <lb ed="#A" n="106"/>a3 Gab. q 1. a. 1. nota. 2. &amp; a. 2. concl. 3. Capreo. in i.d. 45. 
+              <lb ed="#A" n="107"/>q 1. a. 1. concl. 11. &amp; probatur aperte ex doctrina 
+              <lb ed="#A" n="108"/>Arist 8 Ethic. c. 2. &amp; S. Th. 1. contra gen. c. 91. ratione 2. di 
+              <lb ed="#A" n="109"/>cunt enim, nos non amare res irrationales 
+              amor<lb ed="#A" n="110" break="no"/>amicitiae, etiam si illis velimus bonum, vt vine 
+              <lb ed="#A" n="111"/>conseruationem, quia res irrationalis &amp; bonum il 
+              <lb ed="#A" n="112"/>lius diligitur, vt bonum rationalium, quibus 
+              natu<lb ed="#A" n="113" break="no"/>ra sua seruiunt irrationales, &amp; ideo ait Arist. 
+              om<lb ed="#A" n="114" break="no"/>nes res irrationales per accidens semper amari: er 
+              <lb ed="#A" n="115"/>go relarae ad diuinam voluntatem non possunt esse 
+              <lb ed="#A" n="116"/>obiectum amoris amicitiae, aut beneuolentiae. 
+              <lb ed="#A" n="117"/>Cum enim amor beneuolentiae sit inchoatio quae 
+              <lb ed="#A" n="118"/>dam amicitiae, vt ait Arist. 9 Ethi. c. 5. &amp; res irratio 
+              <lb ed="#A" n="119"/>nales esse non possint obiectum amicitiae, nequeunt 
+              <lb ed="#A" n="120"/>etiam esse obiectum beneuolentiae: vnde li. 7. Eth. 
+              <lb ed="#A" n="121"/>ad Eudemum c. 8. docet Arist. amorem 
+              beneuo<lb ed="#A" n="122" break="no"/>lentiae esse initium amicitiae: est enim, inquit, 
+              af<lb ed="#A" n="123" break="no"/>fectio quaedam, qua quis alteri bonum desiderat 
+              <lb ed="#A" n="124"/>propter illius virtutem, non propter suam 
+              vtilita<lb ed="#A" n="125" break="no"/>tem, vel voluptatem, Neque enim (inquit) pro hisce 
+              <lb ed="#A" n="126"/>beneuolentia fit, alioquin sequeretur, inquit Arist 
+              <lb ed="#A" n="127"/>nos diligere bestias amore beneuolentiae: id quod 
+              <lb ed="#A" n="128"/>merito reputat absurdum, id vero manifeste sequi 
+              <lb ed="#A" n="129"/>patet. Quia aliquando bestiis certantibus in circo 
+              <lb ed="#A" n="130"/>afficimur, &amp; tamen non ob id illas amore 
+              beneuo<lb ed="#A" n="131" break="no"/>lentiae, aut amicitiae diligimus: quia ipsis afficimur 
+              <lb ed="#A" n="132"/>ob nostram vtilitatem, aut commoditatem: cum 
+              <lb ed="#A" n="133"/>igitur Deus omnia inanimata, &amp; irrationalia 
+              dili<lb ed="#A" n="134" break="no"/>gat, non propter ipsa, sed ob nostram vtilitatem 
+              <lb ed="#A" n="135"/>aut commoditatem, sequitur eas non esse obie¬ 
+              <!--479.xml-->
+              <pb ed="#A" n="464"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>ctum amoris amicitiae &amp; beneuolentiae, sed 
+              con<lb ed="#A" n="2" break="no"/>cupiscentiae solum. Ergo homo cum quo veram 
+              <lb ed="#A" n="3"/>amicitiam inire potest Deus, obiectum esse potest 
+              <lb ed="#A" n="4"/>amoris amicitiae, &amp; beneuolentiae, qui est inchoa 
+              <lb ed="#A" n="5"/>tio quaedam amicitiae. Haec enim differt ab amore 
+              <lb ed="#A" n="6"/>camicitiae, quia amor potest esse ex altera parte 
+              tan<lb ed="#A" n="7" break="no"/>tum, circa illum, cum quo amicitia conciliari po 
+              <lb ed="#A" n="8"/>test: at amicitia est mutuus amor vtrinque notus, 
+              <lb ed="#A" n="9"/>&amp; beneficijs confirmatus, de quo latius 2. 2q. 23. 
+              <lb ed="#A" n="10"/>art.1. sicut tradit Arist. 9. Ethicor.c. 5. hac ratione lib. 3 
+              <lb ed="#A" n="11"/>de adoratione disp. 1. c. 6. probaui res irrationales, 
+              <lb ed="#A" n="12"/>non posse esse integrum terminum adorationis 
+              <lb ed="#A" n="13"/>sicut neque amoris, prout amicitiae, aut 
+              beneuo<lb ed="#A" n="14" break="no"/>lentiae est. Idem, quod de amore diximus, de affe 
+              <lb ed="#A" n="15"/>ctu gaudij &amp; delectationis dicendum est: nempe 
+              <lb ed="#A" n="16"/>Deo formaliter tribuendum esse, hon tantum de 
+              <lb ed="#A" n="17"/>bono alterius: nam etiam de bono nostro gaudes 
+              <lb ed="#A" n="18"/>&amp; delectatur; sed etiam de bono suo: hic enim affe 
+              <lb ed="#A" n="19"/>ctus est de bono praesenti, vt praesens est, &amp; idec 
+              <lb ed="#A" n="20"/>non solum de nostro, sed de suo Deus gaudere po 
+              <lb ed="#A" n="21"/>test: cum tamen desiderium solum habeat nostr 
+              <lb ed="#A" n="22"/>boni, vt c. 1. explicatum manet; non boni proprij 
+              <lb ed="#A" n="23"/>quia desiderium est futuri, sibi autem nihil 
+              bon<lb ed="#A" n="24" break="no"/>futurum est, sicut nobis. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e149-Dd1e713">
+            <p xml:id="tavaz1-d1e149-d1e715">
+              <lb ed="#A" n="25" type="fixed=464"/>CAPVT III. 
+              <lb ed="#A" n="26"/>Affectum odij Deo conuenire. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e722">
+              <lb ed="#A" n="27"/>DE affectu odij aliqua est etiam inter Schola 
+              <lb ed="#A" n="28"/>sticos controuersia, an Deo proptie assig.1a 
+              <lb ed="#A" n="29"/>ri possit. Nam S. Tho.1. contra gen. c. 99. Feri. ibi &amp; 
+              Ca<lb ed="#A" n="30" break="no"/>preol. in t. d. 45. q. . a. . concl. 8. docent, in Deo non 
+              <lb ed="#A" n="31"/>esse proprie odium. Primum respectu ipsius pec 
+              <lb ed="#A" n="32"/>cati probant, quia odium proprie refertur ad 
+              sub<lb ed="#A" n="33" break="no"/>sistentia, sicut amor; sed peccatum non est res sub 
+              <lb ed="#A" n="34"/>sistens: ergo nec potest esse obiectum odij. Deinde 
+              <lb ed="#A" n="35"/>peccatorem non esse Deo obiectum odij probant 
+              <lb ed="#A" n="36"/>quia voluntas Dei ferri non potest in malum, v 
+              <lb ed="#A" n="37"/>malum est: sed aliquem odio habere est velle ill 
+              <lb ed="#A" n="38"/>malum, vt malum illius est, ergo non potest Deus 
+              <lb ed="#A" n="39"/>aliquem odisse: quare cum Deus alicui infert ma 
+              <lb ed="#A" n="40"/>lum, voluntas Dei in ipsum malum fertur, quate 
+              <lb ed="#A" n="41"/>nus aliquam habet rationem boni, manifestatio 
+              <lb ed="#A" n="42"/>nem videlicet iustitiae suae erga peccatores. Idcirco 
+              <lb ed="#A" n="43"/>potius Deus vult iustitiam suam ostendere, quam 
+              <lb ed="#A" n="44"/>malum inferre, vt malum est: cùm vero Scriptura 
+              <lb ed="#A" n="45"/>saepius dicat, Deum odio habere ipsum peccatum 
+              <lb ed="#A" n="46"/>&amp; peccatores, metaphorice intellignum putant 
+              <lb ed="#A" n="47"/>quia Deus se habet circa peccatores instar odio 
+              <lb ed="#A" n="48"/>habentis cum inferat illis malum: circa peccatum 
+              <lb ed="#A" n="49"/>vero, quod desideret ipsum non esse 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e774">
+              <lb ed="#A" n="50"/>Ego vero existimo secundum proprietatem Deo 
+              <lb ed="#A" n="51"/>conuenire odium, non solum peccati: sed etiam 
+              <lb ed="#A" n="52"/>peccatoris: hoc est, &amp; odium abominationis, &amp; 
+              <lb ed="#A" n="53"/>inimicitiae, S. Thom. in art. 2. ad 4. plane, &amp; absque 
+              <lb ed="#A" n="54"/>vlla limitatione docuit, Deum odio habere pecca 
+              <lb ed="#A" n="55"/>tores, non quatenus creaturae ipsius sunt, sed qua 
+              <lb ed="#A" n="56"/>tenus per peccatum a rectitudine deficiunt. Quare 
+              <lb ed="#A" n="57"/>censeo, omnia loca Scripturae, quae Deo odium at 
+              <lb ed="#A" n="58"/>tribuunt, non metaphorice, sed proprie esse intel 
+              <lb ed="#A" n="59"/>ligenda. Vt autem hanc sententiam explicemus, &amp; 
+              <lb ed="#A" n="60"/>confirmemus, notanda est diuisio quaedam, &amp; de 
+              <lb ed="#A" n="61"/>finitio odij, quam accurrate tradit Caiet. 1. 2. q. 29. 
+              <lb ed="#A" n="62"/>art. 1. aliud inquit est odium abominationis, aliuo 
+              <lb ed="#A" n="63"/>vero odium inimicitiae. Abominationis est 
+              displi<lb ed="#A" n="64" break="no"/>centia mali, quod nos parimur, aut alii; inimicitia 
+              <lb ed="#A" n="65"/>autem est, velle alicui malum, quatenus malum 
+              il<lb ed="#A" n="66" break="no"/>lius est ex displicentia personae. Explicat deinde 
+              <!--479.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>Caiet. diserimen interamorem, &amp; odium, &amp; 
+              qui<lb ed="#A" n="68" break="no"/>dem notatione dignum: nam in eodem actu 
+              amo<lb ed="#A" n="69" break="no"/>ris, qui non est aliud, quam velle alicui bonum, 
+              <lb ed="#A" n="70"/>inuenitur duplex respectus per modum 
+              affirma<lb ed="#A" n="71" break="no"/>tionis, prosecutionis, &amp; complacentiae, quidam 
+              <lb ed="#A" n="72"/>ad perlonam, ratione cuius dicitur amor amicitiae: 
+              <lb ed="#A" n="73"/>alter ad rem ipsam, aut ad bonum volitum 
+              perso<lb ed="#A" n="74" break="no"/>nae, ex quo dicitur amor concupiscentiae: &amp; 
+              nun<lb ed="#A" n="75" break="no"/>quam sine his duobus respectibus aliquis actus 
+              <lb ed="#A" n="76"/>amoris quo volumus alicur bonum, reperitur: at 
+              <lb ed="#A" n="77"/>duplex illud odium constituere potest duplicem 
+              <lb ed="#A" n="78"/>actum. Est enim odium inimicitiae in vno actu, 
+              <lb ed="#A" n="79"/>quo volumus alicui malum, vt malum illius est, ex 
+              <lb ed="#A" n="80"/>displicentia personae, &amp; in hoc actu est duplex 
+              re<lb ed="#A" n="81" break="no"/>spectus, aliter quam in amore est quidem 
+              respe<lb ed="#A" n="82" break="no"/>ctus ad personam, &amp; hic est per modum 
+              negatio<lb ed="#A" n="83" break="no"/>nis, &amp; fugae, &amp; constituit rationem isplicentiae, &amp; 
+              <lb ed="#A" n="84"/>odij inimicitiae, est etiam respectus ad malum, 
+              <lb ed="#A" n="85"/>quod personae desideramus, &amp; illud respicit per 
+              <lb ed="#A" n="86"/>modum affirmationis, &amp; complacentiae, sicut amor 
+              <lb ed="#A" n="87"/>respicit rem concupitam: sed non constituit actum 
+              <lb ed="#A" n="88"/>amoris. quia deficit respectus complacentiae 
+              per<lb ed="#A" n="89" break="no"/>sonae. Odium vero abominationis est displicentia 
+              <lb ed="#A" n="90"/>mali alicuius personae, vt cum displicet mihi mors 
+              <lb ed="#A" n="91"/>propria, aut amici, &amp; hic actus duplicem quoque 
+              <lb ed="#A" n="92"/>re pectum habet vnum ad personam per 
+              modum<lb ed="#A" n="93" break="no"/>affirmationis, &amp; complacentiae, ex quo 
+              essentiali<lb ed="#A" n="94" break="no"/>ter est amor amicitiae, vt dicemus in 3. p. S. Thom. 
+              <lb ed="#A" n="95"/>tractantes de contritione, alterum ad malum per 
+              <lb ed="#A" n="96"/>modum negationis, &amp; fugae, seu displicentiae, ex 
+              <lb ed="#A" n="97"/>quo habet rationem odii abominationis: ergo 
+              <lb ed="#A" n="98"/>odisse aliquid odio abominationis, est nolle 
+              ma<lb ed="#A" n="99" break="no"/>lum alicui. Quocirca S. Tho. 1. 2. q 29. art 1. amotem. 
+              <lb ed="#A" n="100"/>&amp; odium generatim definiens inquit: amor est 
+              <lb ed="#A" n="101"/>consonantia appetitus cum bono: odium vero 
+              <lb ed="#A" n="102"/>contra dissonantia appetitus cum malo, quod vt 
+              <lb ed="#A" n="103"/>nociuum, &amp; repugnans apparet. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e898">
+              <lb ed="#A" n="104"/>His iactis fundamentis facile demonstro, 
+              vtru<lb ed="#A" n="105" break="no"/>que odium Deo conuenire secundum 
+              proprieta<lb ed="#A" n="106" break="no"/>tem. Primum quidem de odio abominationnis in 
+              <lb ed="#A" n="107"/>dubitatum esse debet: Deo namque non minu 
+              <lb ed="#A" n="108"/>proprie displicet peccatum, &amp; nollet ab homins 
+              <lb ed="#A" n="109"/>fieri, quam di siderat iustam. &amp; rectam hominis vi 
+              <lb ed="#A" n="110"/>tam. Displicet autem peccatum, duplici ratione, &amp; 
+              <lb ed="#A" n="111"/>tanquam sibi contrarium, &amp; tanquam homini 
+              no<lb ed="#A" n="112" break="no"/>xium: vtroque igitur modo odio habet peccatum 
+              <lb ed="#A" n="113"/>ex complacentia sui, &amp; ex complacentia hominis 
+              <lb ed="#A" n="114"/>sicut nos odio habemus mortem, aut nostram, 
+              <lb ed="#A" n="115"/>aut amici ex complacentia nostri, aut amici. Hinc 
+              <lb ed="#A" n="116"/>etiam facile apparet infirmitas prioris rationis 
+              op<lb ed="#A" n="117" break="no"/>positae sententiae? nam odium si sit abominationis 
+              <lb ed="#A" n="118"/>secundum rationem odij non necessario refertur 
+              <lb ed="#A" n="119"/>ad subsistentia; sed ad malum ipsum. Imo vt ex 
+              de<lb ed="#A" n="120" break="no"/>finitione constat, odium abominationis relatum 
+              <lb ed="#A" n="121"/>ad rem subsistentem, rationem habent 
+              complacen<lb ed="#A" n="122" break="no"/>tiae, &amp; amoris, vt dictum est: tamen cum sit 
+              displi<lb ed="#A" n="123" break="no"/>centia ipsius mali, veram &amp; propriam habet 
+              ratio<lb ed="#A" n="124" break="no"/>nem odii: alioquin, nec nos proprie diceremui 
+              <lb ed="#A" n="125"/>odio habere peccatum, cum de illo dolemus quod 
+              <lb ed="#A" n="126"/>est absurdum. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e950">
+              <lb ed="#A" n="127"/>Deinde de odio inimicitiae idipsum probatur: 
+              <lb ed="#A" n="128"/>quoniam Deus non tantum vult homini 
+              peccato<lb ed="#A" n="129" break="no"/>ri poenam, sed etiam eam illi vult, vt illius malum 
+              <lb ed="#A" n="130"/>est, &amp; ex displicentia ipsius: ergo ipsum 
+              prosequi<lb ed="#A" n="131" break="no"/>tur odio inimicitiae, vt ex definitione ipsa odii 
+              ini<lb ed="#A" n="132" break="no"/>micitiae manifeste colligitur. Porro autem ex 
+              di<lb ed="#A" n="133" break="no"/>splicentia personae Deum velle malum illud 
+              con<lb ed="#A" n="134" break="no"/>stat. Nam licet persona ipsa, quatenus homo, &amp; 
+              <!--480.xml-->
+              <pb ed="#A" n="465"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>creatura Dei est, Deo non displiceat, displicet 
+              ta<lb ed="#A" n="2" break="no"/>men, quatenus peccatis foedata est, vt autem 
+              si<lb ed="#A" n="3" break="no"/>odium creaturae, velle illi malum, satis est, si pecca 
+              <lb ed="#A" n="4"/>tor ipse displiceat aliqua ratione, &amp; ob eam 
+              mo<lb ed="#A" n="5" break="no"/>ueatur affectus ad volendum illi malum, vt malum 
+              <lb ed="#A" n="6"/>illius est. Neque enim necessarium est ad rationem 
+              <lb ed="#A" n="7"/>odij inimicitiae, malum volitum personae esse 
+              ma<lb ed="#A" n="8" break="no"/>lum illius, ea ratione, qua ipsa persona displicet: 
+              <lb ed="#A" n="9"/>sed ad quod reuera sit malum illius, &amp; vt tale voli 
+              <lb ed="#A" n="10"/>tum ex displicentia eius sub hac, vel illa ratione. 
+              <lb ed="#A" n="11"/>Vnde iudex qui propter flagitium punit aliquem 
+              <lb ed="#A" n="12"/>eo quod iustum est, &amp; ipsum vt flagitiosum 
+              dete<lb ed="#A" n="13" break="no"/>statur, vere &amp; proprie habet odium inimicitiae, 
+              <lb ed="#A" n="14"/>non ex displicentia personae, vt talis homo est, 
+              ve<lb ed="#A" n="15" break="no"/>aliqua alia priuata ratione: sed quia homo 
+              flagi<lb ed="#A" n="16" break="no"/>tiosus est: quocirca tale odium est secundum 
+              vir<lb ed="#A" n="17" break="no"/>tutem. Porro Deum infligendo poenam propter 
+              <lb ed="#A" n="18"/>delictum velle peccatori malum, vt malum illius 
+              <lb ed="#A" n="19"/>est patet: quia infligit ei mortem, &amp; alia mala: proui 
+              <lb ed="#A" n="20"/>habent veram rationem poenae, sed poena, vt 
+              poe<lb ed="#A" n="21" break="no"/>na, est malum illius, qui illam patitur: ergo vult 
+              <lb ed="#A" n="22"/>Deus peccatori malum, vt malum illius est, &amp; ex 
+              <lb ed="#A" n="23"/>displicentia ipsius. Id vero fiet magis perspicuum 
+              <lb ed="#A" n="24"/>in solutione posterioris argumenti, quod adduxit 
+              <lb ed="#A" n="25"/>Ferrar. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1032">
+              <lb ed="#A" n="26"/>Ad illius vero explanationem obseruanda est 
+              <lb ed="#A" n="27"/>doctrina, quam fusius trademus in i. 2q. 8. a.1. nempe 
+              <lb ed="#A" n="28"/>qua ratione verum sit axioma illud vulgare 
+              Volun<lb ed="#A" n="29" break="no"/>tas tantum est boni, voluntas inquam, non facultas, 
+              <lb ed="#A" n="30"/>sed affectus per modum prosecutionis. Oportei 
+              <lb ed="#A" n="31"/>autem distinguere in obiecto voluntatis 
+              temvo<lb ed="#A" n="32" break="no"/>litam, &amp; rationem volendi illam. Si loquamur de 
+              <lb ed="#A" n="33"/>re volita: non tantum est bonum, sed etiam 
+              ma<lb ed="#A" n="34" break="no"/>lum, vt malum, non modo alterius, sed etiam 
+              pro<lb ed="#A" n="35" break="no"/>prium, ex displicentia alterius aut propriae 
+              perso<lb ed="#A" n="36" break="no"/>nae. Ratio autem volendi semper est bonitas ali 
+              <lb ed="#A" n="37"/>qua, aut propria, aut amici. Talis enim naturae 
+              vo<lb ed="#A" n="38" break="no"/>luntas est, vt bono proprio bonum amici 
+              praepo<lb ed="#A" n="39" break="no"/>nat: idque honestum iudicet, &amp; secundum rectam 
+              <lb ed="#A" n="40"/>rationem. In visu similiter est id, quod videtur, vt 
+              <lb ed="#A" n="41"/>paries, &amp; ratio videndi, vt color, sed diuerso modo 
+              <lb ed="#A" n="42"/>quam in voluntate: nam materiale quod videtur, 
+              <lb ed="#A" n="43"/>non videtur distincte, &amp; per se, sed per aliud, 
+              nefn<lb ed="#A" n="44" break="no"/>pe per colorem. At voluntas per se &amp; expresse vult 
+              <lb ed="#A" n="45"/>hanc, aut illam rem, hoc aut illud malum: ratio 
+              ta<lb ed="#A" n="46" break="no"/>men volendi est bonitas coniuncta. Hac ratione 
+              <lb ed="#A" n="47"/>non solum possumus distincte, &amp; expresse velle 
+              <lb ed="#A" n="48"/>malum alteri, vt malum est, ex displicentia 
+              perso<lb ed="#A" n="49" break="no"/>nae: sed nobis etiam ex displicentia nostri: quo odio 
+              <lb ed="#A" n="50"/>sancto prosequimur nosmetipsos, cum 
+              considera<lb ed="#A" n="51" break="no"/>mus nos peccasse contra Deum; &amp; ex displicentia 
+              <lb ed="#A" n="52"/>nostri nobis malum poenae inferimus, vt malum 
+              <lb ed="#A" n="53"/>est: sed ratio volendi hoc malum est bonitas quam 
+              <lb ed="#A" n="54"/>in ipsa inflictione poenae consideramus. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1097">
+              <lb ed="#A" n="55"/>Hinc patet solutio argumenti posterioris 
+              Ferr<lb ed="#A" n="56" break="no"/>&amp; S. Thom. cum enim vulgo dicitur, voluntatem 
+              <lb ed="#A" n="57"/>ferri non posse in malum, &amp; peculiari ratione 
+              di<lb ed="#A" n="58" break="no"/>uinam; sic est intelligendum, vt in malum etiam 
+              <lb ed="#A" n="59"/>poenae voluntas non feratur, nisi ratione alicuius 
+              <lb ed="#A" n="60"/>bonitatis coniunctae: in malum vero culpae 
+              huma<lb ed="#A" n="61" break="no"/>na quidem voluntas ferri non possit, nisi eodem 
+              <lb ed="#A" n="62"/>modo: diuina vero nullo modo, sub aliqua etiam 
+              <lb ed="#A" n="63"/>ratione boni tendere possit: hinc tamen non fit, vt 
+              <lb ed="#A" n="64"/>Deus non possit odio inimicitiae prosequi 
+              pecca<lb ed="#A" n="65" break="no"/>torem. Nam homo, vt peccator, displicet Deo &amp; 
+              <lb ed="#A" n="66"/>hac ratione Deus bonum iudicat ei infligere poe 
+              <lb ed="#A" n="67"/>nam, vt malum illius est. Quia in hoc bonum 
+              ali<lb ed="#A" n="68" break="no"/>quod etiam considerat: ergo voluntas eius suffi¬ 
+              <!--480.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="69"/>cienter ferri potest in malum ex odio inimicitiae. 
+              <lb ed="#A" n="70"/>Quod vero in eo consideret rationem boni iustitiae 
+              <lb ed="#A" n="71"/>vel aliquid aliud non obstat, quo minus velle illud 
+              <lb ed="#A" n="72"/>malum ex displicentia personae vere, &amp; proprie sit 
+              <lb ed="#A" n="73"/>odium inimicitiae: ad tationem enim odij non 
+              re<lb ed="#A" n="74" break="no"/>quiritur, vt malum poenae sit volitum sine vlla 
+              ra<lb ed="#A" n="75" break="no"/>tione boni in ipso: hoc enim est impossibile, etiam 
+              <lb ed="#A" n="76"/>in nobis: ac proinde si id requireretur, nec affectus 
+              <lb ed="#A" n="77"/>odij in nobis esse posset. Satis igitur est, si malum 
+              <lb ed="#A" n="78"/>expresse sit volitum ex displicentia personae, vt 
+              af<lb ed="#A" n="79" break="no"/>fectus veram habeat rationem odij inimicitiae. 
+              <lb ed="#A" n="80"/>Caeterum obseruandum est, tantam esse 
+              bonita<lb ed="#A" n="81" break="no"/>tem, &amp; benignitatem Dei erga nos, vt nulla alia 
+              ra<lb ed="#A" n="82" break="no"/>tione ei displicere possimus, nisi quatenus 
+              pecca<lb ed="#A" n="83" break="no"/>tis deformamus eius imaginem in nobis, &amp; hac 
+              <lb ed="#A" n="84"/>sola ratione potest nos odio prosequi, &amp; velle 
+              no<lb ed="#A" n="85" break="no"/>bis malum, vt malum nostrum. Ratio vero est quia 
+              <lb ed="#A" n="86"/>neque nos alio modo Deo aduersi, &amp; contrarij 
+              es<lb ed="#A" n="87" break="no"/>se possumus, quam ratione peccati. Sed vnus 
+              ho<lb ed="#A" n="88" break="no"/>mo multis modis potest alium odisse, &amp; malum 
+              il<lb ed="#A" n="89" break="no"/>li velle ex displicentia ipsius, quia multis modis 
+              <lb ed="#A" n="90"/>potest ipsum sibi aduersarium existimare.
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e149-Dd1e1183">
+            <p xml:id="tavaz1-d1e149-d1e1185">
+              <lb ed="#A" n="91" type="fixed=465"/>CAPVT IV. 
+              <lb ed="#A" n="92"/>De ira Dei. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1192">
+              <lb ed="#A" n="93"/>IN vero affectus irae proprie in Deo 
+              reperia<lb ed="#A" n="94" break="no"/>tur quaestionem habet: de qua re Lactantius 
+              <lb ed="#A" n="95"/>peculiarem librum edidit, in quo quidem cap. 4. 
+              <lb ed="#A" n="96"/>inquit errorem fuisse Epicuraeorum, in Deo neque 
+              <lb ed="#A" n="97"/>esse gratiam, idest, amorem, neque iram: quare 
+              <lb ed="#A" n="98"/>Deum veluti sine sensu fecerunt, qui nec bona 
+              ap<lb ed="#A" n="99" break="no"/>probaret, nec mala puniret: quae non tam 
+              beatitu<lb ed="#A" n="100" break="no"/>do, quam stupor, &amp; torpor insensibilis iudicari 
+              de<lb ed="#A" n="101" break="no"/>bet. Quod si Epicuraes ita iram negassent, vt neque 
+              <lb ed="#A" n="102"/>prouidentiam, nec voluntatem puniendi mala 
+              <lb ed="#A" n="103"/>concederent, perperam quidem sensissent. Si vero 
+              <lb ed="#A" n="104"/>negassent affectum irae secundum proprietatem, 
+              <lb ed="#A" n="105"/>nulla nota eotum sententia digna ex ea parte esset. 
+              <lb ed="#A" n="106"/>nam quatenus amorem quoque Deo auferebant, 
+              <lb ed="#A" n="107"/>manifestus erat error eorum. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1227">
+              <lb ed="#A" n="108"/>Stoici vero auctore eodem Lactantio c. 5. Deo 
+              <lb ed="#A" n="109"/>amorem tribuebant, sed iram negabant, ne vllam 
+              <lb ed="#A" n="110"/>animi perturbationem in eo ponerent. Quare 
+              pu<lb ed="#A" n="111" break="no"/>tat Lactantius, eos ita vindictam malorum a Dec 
+              <lb ed="#A" n="112"/>semouisse, vt eum nulli nocere dicerent: quodsi 
+              <lb ed="#A" n="113"/>ita iram Deo denegabant; errabant plane: nam &amp; 
+              <lb ed="#A" n="114"/>ipse vindex malorum est, vt optime demonstrat 
+              <lb ed="#A" n="115"/>Lactantius, &amp; passim Scriptura clamat 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1247">
+              <lb ed="#A" n="116"/>Ideo Lactantius, vt horum declinaret errores. 
+              <lb ed="#A" n="117"/>per multa capita docuit in Deo esse proprie iram, 
+              <lb ed="#A" n="118"/>quam ipse nihil aliud esse putauit, quam 
+              volunta<lb ed="#A" n="119" break="no"/>tem puniendi delicta. Reiectis enim aliorum 
+              phi<lb ed="#A" n="120" break="no"/>losophorum definitionibus c. 17. ipse ita iram 
+              defi<lb ed="#A" n="121" break="no"/>nit: Est motus animi ad coercendum peccata insurgentis. 
+              <lb ed="#A" n="122"/>Cum igitur in Deo talis sit affectus, vt ex 
+              Scriptu<lb ed="#A" n="123" break="no"/>ra plane colligitur; sequitur, ipsi conuenire iram 
+              <lb ed="#A" n="124"/>secundum propriam, &amp; formalem rationem, 
+              ta<lb ed="#A" n="125" break="no"/>metsi furor, e ira, quae vitiosa est, &amp; cum animi 
+              <lb ed="#A" n="126"/>perturbatione, Deo non sit tribuenda: hoc pacto 
+              <lb ed="#A" n="127"/>censet Scripturae testimonia sine tropo, &amp; figura 
+              <lb ed="#A" n="128"/>explicanda esse: nisi vbi Deo tribuitur ira, &amp; furor 
+              <lb ed="#A" n="129"/>cum perturbatione, vt Psalm. 77. Et excitatus est 
+              tan<lb ed="#A" n="130" break="no"/>quam dormiens dominus, &amp; tanquam potens crapulatus a 
+              <lb ed="#A" n="131"/>vino¬ 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1284">
+              <lb ed="#A" n="132"/>Caeterum multo verius est, affectum irae non 
+              <lb ed="#A" n="133"/>solum cum corporali commotione, &amp; perturba 
+              <lb ed="#A" n="134"/>tione; sed etiam secundum rationem suam forma 
+              <!--481.xml-->
+              <pb ed="#A" n="466"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>lem Deo non conuenire: &amp; haec est communis 
+              <lb ed="#A" n="2"/>Theologorum, &amp; Patrum sententia: ex 
+              Scriptori<lb ed="#A" n="3" break="no"/>bus scholasticis non memini me legisse alium 
+              <lb ed="#A" n="4"/>praeter S. Thom. art. 1. huius quaestionis in solutio. 
+              <lb ed="#A" n="5"/>Secundo qui exptesse ita doceat; sed nec vllus est, 
+              <lb ed="#A" n="6"/>qui oppositum asserat, &amp; in scholis sententia Do 
+              <lb ed="#A" n="7"/>ctoris Sancti receptissima est. Ex Patribus vero 
+              in<lb ed="#A" n="8" break="no"/>numeri sunt, qui hunc affectum secundum 
+              meta<lb ed="#A" n="9" break="no"/>phoram, sicut pedes, manus, &amp; reliqua 
+              membra<lb ed="#A" n="10" break="no"/>Deo esse tribuendum affirment. Verum non tam 
+              <lb ed="#A" n="11"/>ad formalem rationem affectus, quam ad 
+              corpo<lb ed="#A" n="12" break="no"/>ream perturbationem, quam habet coniunctam 
+              <lb ed="#A" n="13"/>respexisse videntur. Sic ex Graecis Origen. homil. 2 in 
+              <lb ed="#A" n="14"/>c. 2. Iudicum circa finem, &amp; in illud ad Rom. 1. Reuela 
+              <lb ed="#A" n="15"/>tur ira Dei, &amp; lib. 4. contra cellum, exponens illud 
+              <lb ed="#A" n="16"/>Deut. 23. Accommodauit se tuis moribus, Epiphan. haeres 
+              <lb ed="#A" n="17"/>38. post medium Chrysost. sermone de poenitentia non lon 
+              <lb ed="#A" n="18"/>ge a fine in 5. tomo. Nazian. in carmine lambico 21. Basit 
+              <lb ed="#A" n="19"/>in illud Psal. 37. Neque in ira tua corripias me, satis 
+              pos<lb ed="#A" n="20" break="no"/>medium, Cyril. lib 5. contra Iulianum post medium, Da 
+              <lb ed="#A" n="21"/>mas.i. de fide c. 14. Ex latinis vero Cyprian ad 
+              Demetria<lb ed="#A" n="22" break="no"/>num circa finem, Ambros. in illud psal. 37. Domine ne in 
+              <lb ed="#A" n="23"/>turore tuo, Hieron. in illud Psalm. 29. Quoniam ira in 
+              in<lb ed="#A" n="24" break="no"/>dignatione eius. &amp; in illud Isa. 65. Isti fuimus. Augusi 
+              <lb ed="#A" n="25"/>epist. 157. &amp; 13. de Trinit. cap. 16. &amp; in illa verba Psal. 105. 
+              <lb ed="#A" n="26"/>Et iratus est furore Dominus. &amp; lib. 83. quaest. q. 52. 
+              nul<lb ed="#A" n="27" break="no"/>lus tamen eorum, aut aliquis alius docet, miseri 
+              <lb ed="#A" n="28"/>cordiam proprie in peo non esse, quae eodem 
+              mo<lb ed="#A" n="29" break="no"/>do cum corporea perturbatione, &amp; compassione 
+              <lb ed="#A" n="30"/>esse solet. Forsan ad formalem rationem affectus 
+              <lb ed="#A" n="31"/>irae attendisse quoque videntur: &amp; ob id etiam 
+              <lb ed="#A" n="32"/>hunc affectum irae secundum proprietatem pec 
+              <lb ed="#A" n="33"/>denegarunt: quod nec sine perturbatione adhuc 
+              <lb ed="#A" n="34"/>Deo proprie conueniret; sicut expresse asseruit 
+              <lb ed="#A" n="35"/>S. Thom. cum docuit secundum rationem forma 
+              <lb ed="#A" n="36"/>lem iram in Deo non esse. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1379">
+              <lb ed="#A" n="37"/>Vt autem id, quod diximus, probemus, &amp; de 
+              <lb ed="#A" n="38"/>reliquis facilius iudicare possimus, obseruandum 
+              <lb ed="#A" n="39"/>est: cum quaeritur de aliquo affectu, vel virtute an 
+              <lb ed="#A" n="40"/>sit in Deo formaliter, aut metaphorice, semper es 
+              <lb ed="#A" n="41"/>se quaestionem de illo, vt communiter a 
+              philoso<lb ed="#A" n="42" break="no"/>phis, &amp; in ea arte peritis, definiri solet: nam si 
+              lice<lb ed="#A" n="43" break="no"/>ret nouas etiam confingere definitiones, plura 
+              <lb ed="#A" n="44"/>Deo tribueremus, quam tribuimus. Et quamuis 
+              <lb ed="#A" n="45"/>omnia, quae in homine, &amp; Angelis inueniuntur, 
+              <lb ed="#A" n="46"/>non tribuantur peo secundum vniuocam ratio 
+              <lb ed="#A" n="47"/>nem, secundum quam semper aliquam continent 
+              <lb ed="#A" n="48"/>imperfectionem, quae peo conuenire nequit; quam 
+              <lb ed="#A" n="49"/>obrem diximus supra disp. 22. omnia, quae de pec 
+              <lb ed="#A" n="50"/>dicuntur, ex sententia Patrum quodammodo 
+              <lb ed="#A" n="51"/>translatiue dici: tamen quaedam peculiari ratione 
+              <lb ed="#A" n="52"/>Deo conueniunt etiam analogice, quod in sua ra 
+              <lb ed="#A" n="53"/>tione formali, quantumuis abstracta, 
+              imperfectio<lb ed="#A" n="54" break="no"/>nem denotant, vt optime obseruauit Doctor 
+              An<lb ed="#A" n="55" break="no"/>gelicus in solutione 2. veluti temperantia, quae 
+              <lb ed="#A" n="56"/>formaliter consistit in eligenda mediocritate sibi 
+              <lb ed="#A" n="57"/>&amp; potus, &amp; reprimenda nimia delectatione 
+              gu<lb ed="#A" n="58" break="no"/>stus. Aliter dicendum est de sapientia, quae licet in 
+              <lb ed="#A" n="59"/>homine sit accidens; tamen secundum rationem 
+              <lb ed="#A" n="60"/>analogicam proprie etiam substantia ipsa Dei 
+              sa<lb ed="#A" n="61" break="no"/>pientia dicitur. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1436">
+              <lb ed="#A" n="62"/>Nunc igitur videndum superest, vtrum 
+              affe<lb ed="#A" n="63" break="no"/>ctus irae, secundum rationem suam formalem in 
+              <lb ed="#A" n="64"/>trinsece imperfectionem aliquam habeat, an non, 
+              <lb ed="#A" n="65"/>hoc autem iudicari debet, ex obiecto, circa quod 
+              <lb ed="#A" n="66"/>versatur. Nam sapientia versatur circa verum, quod 
+              <lb ed="#A" n="67"/>ita potest esse obiectum sapientiae, quae est 
+              acci<lb ed="#A" n="68" break="no"/>dens, qualis est creata sapientia, sicut sapientiae. 
+              <!--481.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="69"/>quae est substantia, qualis est increata. 
+              Temperan<lb ed="#A" n="70" break="no"/>tia vero, quia tanquam obiectum, &amp; materiam 
+              cir<lb ed="#A" n="71" break="no"/>ca quam habet mediocritatem sibi, &amp; potus, 
+              spiri<lb ed="#A" n="72" break="no"/>tui conuenire proprie non potest. Quia igitur ira 
+              <lb ed="#A" n="73"/>versatur circa obiectum aliquod comparate, &amp; 
+              re<lb ed="#A" n="74" break="no"/>latione quadam, quae necessario includit 
+              imperfe<lb ed="#A" n="75" break="no"/>ctionem secundum proprietatem Deo tribui non 
+              <lb ed="#A" n="76"/>debet. Haec autem imperfectio ex definitione, 
+              <lb ed="#A" n="77"/>quam tradunt philosophi manifeste colligitur. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1478">
+              <lb ed="#A" n="78"/>In primis Arist. 1. de anima cap. 1. textu 16. 
+              dupli<lb ed="#A" n="79" break="no"/>cem irae definitionem tradit, alteram, quam ipse 
+              <lb ed="#A" n="80"/>appellat per materiam, quae per effectum, &amp; 
+              per<lb ed="#A" n="81" break="no"/>turbationem corpoream iram explicat, hoc modo 
+              <lb ed="#A" n="82"/>Est sanguinis, aut caloris eius, qui circa cor est, feruor, 
+              ebul<lb ed="#A" n="83" break="no"/>litione: alteram quae rationem ipsam formalem irae 
+              <lb ed="#A" n="84"/>declarat hoc pacto: Est appetitio doloris vicissim 
+              aduer<lb ed="#A" n="85" break="no"/>sario inferendi. O missa vero priori, de qua non est 
+              <lb ed="#A" n="86"/>controuersia, ex posteriori definitione constat. 
+              <lb ed="#A" n="87"/>iram secundum formalem ipsius rationem Deo 
+              <lb ed="#A" n="88"/>non conuenire: nisi aliam rationem illius 
+              excogi<lb ed="#A" n="89" break="no"/>tare sine fundamento velimus. Nam vt bene 
+              nota<lb ed="#A" n="90" break="no"/>uit S. Thom. &amp; colligitur ex posteriori 
+              definitio<lb ed="#A" n="91" break="no"/>ne tradita ab Arist. ille qui irascitur prius tristitiam, 
+              <lb ed="#A" n="92"/>aut dolorem ab alio illatum passus est, quem illi 
+              re<lb ed="#A" n="93" break="no"/>pendere contendit: Deus autem non potest ab alio 
+              <lb ed="#A" n="94"/>tristitiam pati, quantumuis peccatis offendatur, 
+              <lb ed="#A" n="95"/>ergo cum punit peccata non irascitur proprie; sed 
+              <lb ed="#A" n="96"/>effectu ipso ita se gerit, ac si esset iratus. Neque ve 
+              <lb ed="#A" n="97"/>ro definitio praedicta solius est Arist. tametsi eius 
+              <lb ed="#A" n="98"/>sola auctoritas sufficere nobis deberet: sed omnes 
+              <lb ed="#A" n="99"/>etiam philosophi eam amplectuntur. Ex antiquis 
+              <lb ed="#A" n="100"/>vero Cicero, quem refert Lactan. c. 17. circa finem 
+              <lb ed="#A" n="101"/>inquit: Ira est libido vlciscendi. Possidonius apud 
+              eun<lb ed="#A" n="102" break="no"/>dem Lactantium eodem c. satis ante finem sic 
+              de<lb ed="#A" n="103" break="no"/>finit: Cupiditas puniendi eius, a quo te inique putes laesum. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1537">
+              <lb ed="#A" n="104"/>Seneca lib I. c. 2. &amp; lib. 2. c. 3. ait: Ira est concitatio ani¬ s 
+              <lb ed="#A" n="105"/>mi ad vltionem voluntate, &amp; iudicio pergentis: hanc vero 
+              <lb ed="#A" n="106"/>dicit ortum habere ex iniuria illata. Damas lib. 2. de t. 
+              <lb ed="#A" n="107"/>fide c. 16. cum initio capitis adduxisset definitione 
+              <lb ed="#A" n="108"/>irae ex parte materiae, deinde plures acceptiones 
+              <lb ed="#A" n="109"/>illius assignat, &amp; in omnibus formalem rationem 
+              <lb ed="#A" n="110"/>in eo constituit, vt sit appetitus recruciationis, &amp; 
+              <lb ed="#A" n="111"/>vltionis exaccepta iniuria. Denique Nyssen. lib. 4. 
+              <lb ed="#A" n="112"/>philosophiaec. 13. affert definitionem vtramque, quâm 
+              <lb ed="#A" n="113"/>Arist. assignauit, &amp; hanc inquit esse formalem, Re 
+              <lb ed="#A" n="114"/>cruciationis appetitus: id ipsum explicauit Arist. 2. Rhe¬¬ 
+              <lb ed="#A" n="115"/>tor. c. 2. in principio, &amp; c. 4. circa finem, cum ait, Qui ira 
+              <lb ed="#A" n="116"/>scitur, dolet: quare iram, ait, esse apparentis vltionis 
+              <lb ed="#A" n="117"/>appetitum cum dolore propter apparentem in se, 
+              <lb ed="#A" n="118"/>vel in suos contemptum. Idque exemplo quo 
+              vti<lb ed="#A" n="119" break="no"/>tur Ambros. loco superius citato optime probat 
+              <lb ed="#A" n="120"/>quis enim dicat, iudicem, qui illatam iniuriam in 
+              <lb ed="#A" n="121"/>se, vel in suos absque vlla, non dico corporis 
+              per<lb ed="#A" n="122" break="no"/>turbatione, &amp; concitatione sanguinis, sed etiam 
+              <lb ed="#A" n="123"/>absque animi tristitia debitam infligit poenam 
+              <lb ed="#A" n="124"/>peccati, contra delinquentem irasci: ergo absque 
+              <lb ed="#A" n="125"/>fundamento Lactantius omnes definitiones, quas 
+              <lb ed="#A" n="126"/>connumerauimus reijcit; asseritque illis tantum 
+              <lb ed="#A" n="127"/>definiri iracundiam, &amp; furorem, quae in solum 
+              ho<lb ed="#A" n="128" break="no"/>minem conuenire potest, &amp; viriosa est: &amp; subdit, 
+              <lb ed="#A" n="129"/>ita ergo definire debuerunt, Ira est motus animi ad 
+              <lb ed="#A" n="130"/>coercenda peccata insurgentis, vt hac ratione defendat 
+              <lb ed="#A" n="131"/>in Deo iram proprie reperiri: immerito igitur ita 
+              <lb ed="#A" n="132"/>docuit. Nam vt initio notabamus, cum de affectu 
+              <lb ed="#A" n="133"/>aliquo quaestio est, an Deo tribui debeat, de illo 
+              <lb ed="#A" n="134"/>loquimur secundum communem apud 
+              philoso<lb ed="#A" n="135" break="no"/>phos, &amp; peritos in arte, nominis significationem. 
+              <lb ed="#A" n="136"/>Nam frustra nomen illud aliud significare dicemus 
+              <!--482.xml-->
+              <pb ed="#A" n="467"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>vt significatum illius Deo tribuamus. Quocirca 
+              <lb ed="#A" n="2"/>nos non negamus Deo competere iram, vt a La 
+              <lb ed="#A" n="3"/>ctantio definitur; sed dicimus, eam non esse signi 
+              <lb ed="#A" n="4"/>ficationem huius nominis, nisi quatenus est 
+              dolo<lb ed="#A" n="5" break="no"/>ris illati vindicta, vt explicatum est. 
+            </p>
+          </div>
+        </div>
+        <div xml:id="tavaz1-d1e149-Dd1e1631"><!-- vaz-p1q20a3-p1 -->
+          <head xml:id="tavaz1-d1e149-Hd1e1634">Articulus 3</head>
+          <p xml:id="tavaz1-d1e149-d1e1636">
+            <lb ed="#A" n="65" type="fixed=467"/>Explicatio articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e149-d1e1641">
+            <lb ed="#A" n="66"/>PRior conclusio est: Ex parte ipsius afsectus 
+            volun<lb ed="#A" n="67" break="no"/>tatis Deus omnia aequaliter diligit: hoc est, aequali imo 
+            <lb ed="#A" n="68"/>eodem actu: aliter, quam nos, qui intensiori, &amp; minus 
+            in<lb ed="#A" n="69" break="no"/>tenso diuersa diligimus. Posterior conclusio, Ex parte 
+            <lb ed="#A" n="70"/>boni quod Deus alicui vult, magis vnum diligit; quam alium 
+            <lb ed="#A" n="71"/>quatenus vni maius vult bonum, quam alteri. Doctrint 
+            <lb ed="#A" n="72"/>haec maxime obseruanda est, pro ijs praesertim, 
+            <lb ed="#A" n="73"/>quae dicemus infra disp. 89. c. 13. vbi ostendemus, 
+            <lb ed="#A" n="74"/>ante praeuisa merita non magis ynum, quam alium 
+            <lb ed="#A" n="75"/>amari, aut eligi ad vitam aeternam: tamersi magis 
+            <lb ed="#A" n="76"/>ametur, &amp; eligatur ad gratiam: id quod ex doctrina 
+            <lb ed="#A" n="77"/>huius articuli aperte probabitur: ratio vero est 
+            ma<lb ed="#A" n="78" break="no"/>nifesta. Quoniam cuin voluntas Dei sit eius essen 
+            <lb ed="#A" n="79"/>tia, &amp; catenus dicatur, habere rationem 
+            dilectio<lb ed="#A" n="80" break="no"/>nis, aut odij, quatenus ad hoc obiectum, vel illud 
+            <lb ed="#A" n="81"/>refertur in se vero maior, &amp; minor esse non possit, 
+            <lb ed="#A" n="82"/>consequens est, ex parte ipsius vnum non dilig 
+            <lb ed="#A" n="83"/>magis, quam alium; sed totam inaequalitatem ex 
+            <lb ed="#A" n="84"/>parte boni voliti, ad quod in ratione volitionis re 
+            <lb ed="#A" n="85"/>fertur pensandam esse. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e149-Dd1e1688"><!-- vaz-p1q20a4 -->
+          <head xml:id="tavaz1-d1e149-Hd1e1691">Articulus 4</head>
+          <div xml:id="tavaz1-d1e149-Dd1e1693"><!-- vaz-p1q20a4-p1 -->
+            <p xml:id="tavaz1-d1e149-d1e1696">
+              <lb ed="#A" n="12" type="fixed=469"/>COnclusio huius articuli ex praecedenti sequi 
+              <lb ed="#A" n="13"/>tur, nimirum, Deus magis diligit meliora: nam si 
+              <lb ed="#A" n="14"/>inaequalitas amoris in Deo non ex parte affectus 
+              <lb ed="#A" n="15"/>in se, sed ex ordine ad majus, &amp; minus bonum su 
+              <lb ed="#A" n="16"/>menda est; sequitur meliora magis a Deo amari.
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e149-Dd1e1710"><!-- vaz-p1q20a4-p2 -->
+            <p xml:id="tavaz1-d1e149-d1e1713">
+              <lb ed="#A" n="17" type="fixed=469"/>Dubitationes circa articulum. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1718">
+              <lb ed="#A" n="18"/>PRior dubitatio est circa solutionem 3. Quis a 
+              <lb ed="#A" n="19"/>Christo fuerit magis dilectus S. Ioannes 
+              Euan<lb ed="#A" n="20" break="no"/>gelista, an S. Petrus. Alex. 1. p. q. 32. m. 4. absolute 
+              do<lb ed="#A" n="21" break="no"/>cet, Petrum magis fuisse a Christo dilectum. 
+              Pro<lb ed="#A" n="22" break="no"/>bat ex illo Prouerb. 8. Et diligentes me diligo: ergo eos 
+              <lb ed="#A" n="23"/>etiam magis diligit peus, a quibus ipse magis 
+              dili<lb ed="#A" n="24" break="no"/>gitur. Et quamuis locus ille Prouerb. de sapientia 
+              <lb ed="#A" n="25"/>in vniuersum intelligatur, eo quod qui diligunt 
+              sa<lb ed="#A" n="26" break="no"/>pientiam, ipsa etiam illos diligit, hoc est, illis se 
+              <lb ed="#A" n="27"/>praebet: nihiloninus aliunde id ipsum probari 
+              po<lb ed="#A" n="28" break="no"/>test. Qui enim diligit Deum, diligitur a peo, 
+              loan<lb ed="#A" n="29" break="no"/>14. Si quis diligit me, sermonem meum seruabit, &amp; pate 
+              <lb ed="#A" n="30"/>meus diligit eum: &amp; qui magis diligitur: Petrus autem 
+              <lb ed="#A" n="31"/>dilexit Christum plus, quam caeteri Apostoli, Ioan 
+              <lb ed="#A" n="32"/>nis enim 21. interrogatus a Christo, an plus dilige 
+              <lb ed="#A" n="33"/>ret ipsum, ter illud affirmauit, cui trinae 
+              responsio<lb ed="#A" n="34" break="no"/>ni Dominus consensit dicens, pasce oues meas: ac li 
+              <lb ed="#A" n="35"/>diceret, Quia plus diligis me, pasie oues meas: ergo Pe 
+              <lb ed="#A" n="36"/>trus magis fuit dilectus a nomino. Quocirca Gab 
+              <lb ed="#A" n="37"/>in 3. d. 32. q. 1. art. 3. dub. 3. sub conditione concedit 
+              <lb ed="#A" n="38"/>Petrum a Christo plus caeteris fuisse dilectum, si 
+              <lb ed="#A" n="39"/>ipse etiam plus Deum amauit. Fauent huic sen 
+              <lb ed="#A" n="40"/>tentiae Nazianzen. in oratione ad Iulianum tribu 
+              <lb ed="#A" n="41"/>torum exaequatorem, quae est 9. vbi Petrum 
+              ap<lb ed="#A" n="42" break="no"/>pellat Apostolorum Deo charissimum, cum pro 
+              <lb ed="#A" n="43"/>eo Dominus soluerit didragma. Et Cyril. Alex 
+              <lb ed="#A" n="44"/>lib. 12. in Ioann. cap. 64. cum ait, Petrum amorem 
+              <lb ed="#A" n="45"/>erga Dominum caeteris Apostolis amorem 
+              ha<lb ed="#A" n="46" break="no"/>buisse. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1783">
+              <lb ed="#A" n="47"/>Contra vero Hieron. lib. 1. contra Iouinia. ex 
+              <lb ed="#A" n="48"/>multis titulis probat, Ioannem Euangelistam fuis 
+              <lb ed="#A" n="49"/>se magis dilectum a Deo: &amp; ita pionys.. de Ecclej 
+              <lb ed="#A" n="50"/>Hierar. 3. p. &amp; Tertull. lib. de praescriptionibus aduersus ha 
+              <lb ed="#A" n="51"/>reticos cap. 22. appellant Ioannem carissimum, seu di 
+              <lb ed="#A" n="52"/>lectissimum. Quod vero Petro dederit claues 
+              re<lb ed="#A" n="53" break="no"/>gni coelorum, &amp; primatum Ecclesiae suae, non 
+              mi<lb ed="#A" n="54" break="no"/>rum, inquit Hieronym. aetati enim delatum est, vt 
+              <lb ed="#A" n="55"/>caeteri tanquam seniori auscultarent. 
+            </p>
+            <p xml:id="tavaz1-d1e149-d1e1805">
+              <lb ed="#A" n="56"/>Augustinus tamen tractatu vltimo in Ioann. 
+              <lb ed="#A" n="57"/>non audet litem dirimere, &amp; decernere, quisnam 
+              <lb ed="#A" n="58"/>eorum sanctitate, &amp; caritate praestiterit: sed 
+              my<lb ed="#A" n="59" break="no"/>sticis quibusdam interpretationibus vtramque 
+              <lb ed="#A" n="60"/>sententiam conciliare conatur. Sic etiam S. Thom. 
+              <lb ed="#A" n="61"/>in hoc articulo in solut. 3. &amp; Bonau. in 3. d. 32. q. vlt. nihi. 
+              <lb ed="#A" n="62"/>de hac re definiunt: sed loca Scripturae, quae vni 
+              <lb ed="#A" n="63"/>aut alteri fauere videntur, ita interpretantur vt 
+              Pe<lb ed="#A" n="64" break="no"/>trus fortius Christum dilexerit, loannes vero 
+              fa<lb ed="#A" n="65" break="no"/>miliarius; vtrius autem sanctitas maior fuerit, non 
+              <lb ed="#A" n="66"/>decernunt. 
+              <!--484.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>Posterior dubitatio est circa solutionem 5. qui 
+              <lb ed="#A" n="68"/>videlicet ratione dicat S. Thom. praedestinatum 
+              <lb ed="#A" n="69"/>aliquo tempore nec bonum, nec malum esse, cum 
+              <lb ed="#A" n="70"/>in hac vita mortali inter haec duo non videatur esse 
+              <lb ed="#A" n="71"/>aliquod medium. Omissis duabus solutionibus 
+              <lb ed="#A" n="72"/>quas adhibet Caietanus, tertio cum eodem re 
+              <lb ed="#A" n="73"/>spondetur, id verum esse de tempore, quo praede 
+              <lb ed="#A" n="74"/>stinatus nondum est nec natus, nec conceptus 
+              <lb ed="#A" n="75"/>tunc enim nec bonus, nec malus, etiam per 
+              origi<lb ed="#A" n="76" break="no"/>nale peccatum esse potest. 
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

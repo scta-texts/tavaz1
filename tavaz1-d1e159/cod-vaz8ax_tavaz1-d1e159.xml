@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 22</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 22</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="492"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e159">
+        <head xml:id="tavaz1-d1e159-Hd1e100">Quaestio 22</head>
+        <div xml:id="tavaz1-d1e159-Dd1e102"><!-- vaz-p1q22-p1 -->
+          <head xml:id="tavaz1-d1e159-Hd1e105">Praefatio</head>
+          <p xml:id="tavaz1-d1e159-d1e107">
+            <lb ed="#A" n="11" type="fixed=491"/>AB hac quaestione vsque ad a6. incipit iam 
+            <lb ed="#A" n="12"/>S. Thom. disputare de ijs operationibus, qua 
+            <lb ed="#A" n="13"/>mixtim ad intellectum &amp; voluntatem pertinere 
+            <lb ed="#A" n="14"/>videntur; de prouidentia nimirum, 
+            praedestinatio<lb ed="#A" n="15" break="no"/>ne, &amp; beatitudine Dei, hae namque aut 
+            operatio<lb ed="#A" n="16" break="no"/>nes sunt vtriusque facultatis, intellectus scilicet, &amp; 
+            <lb ed="#A" n="17"/>voluntatis simul, aut si ad vnam pertinent forma 
+            <lb ed="#A" n="18"/>liter, &amp; directe, aliam videntur quodammodo sup 
+            <lb ed="#A" n="19"/>ponere: sicut de electione dici consueuit, esse 
+            vo<lb ed="#A" n="20" break="no"/>iuntatem praeconsiliati, quae formaliter est 
+            opera<lb ed="#A" n="21" break="no"/>tio voluntatis, sed habet ordinem peculiarem ad 
+            <lb ed="#A" n="22"/>intellectum consultantem. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e159-Dd1e137"><!-- vaz-p1q22a1-p1 -->
+          <head xml:id="tavaz1-d1e159-Hd1e140">Articulus 1</head>
+          <p xml:id="tavaz1-d1e159-d1e142">
+            <lb ed="#A" n="8" type="fixed=492"/>COnclusio articuli est; In Deo est prouidentia. Est 
+            <lb ed="#A" n="9"/>autem in Scriptura expressa Sapient. 14. Ti 
+            <lb ed="#A" n="10"/>autem pater gubernas omnia prouidentia tua. De ea ni 
+            <lb ed="#A" n="11"/>hilominus sequenti disp. nonnihil agendum est.
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e159-Dd1e154"><!-- vaz-p1q22-d87 -->
+          <head xml:id="tavaz1-d1e159-Hd1e157">Disputatio 87</head>
+          <head xml:id="tavaz1-d1e159-Hd1e159" type="question-title">Utrum prouidentia, quam Deus de 
+            rebus habet, sit operatio 
+            intellectus, an voluntatis</head>
+          <p xml:id="tavaz1-d1e159-d1e162">
+            <lb ed="#A" n="12" type="fixed=492"/>DISPVTATIO LXXXVII. 
+            <lb ed="#A" n="13"/>Vtrum prouidentia, quam Deus de 
+            <lb ed="#A" n="14"/>rebus habet, sit operatio 
+            intel<lb ed="#A" n="15" break="no"/>lectus, an voluntatis.
+          </p>
+          <p xml:id="tavaz1-d1e159-d1e173">
+            <lb ed="#A" n="16"/>Errores circa pei prouidentiam, cap i. 
+            <lb ed="#A" n="17"/>Prouidentiam, seu praedestinationem esse operationem intel 
+            <lb ed="#A" n="18"/>Q lectus, senserunt nonnulli Scholastici, cap. 2. 
+            <lb ed="#A" n="19"/>Ex aliorum sententia prouidentia, seu praedestinatio es 
+            <lb ed="#A" n="20"/>actus voluntatis, cap. 3. 
+            <lb ed="#A" n="21"/>Prouidentia pei non semper consequitur finem, ad quen 
+            <lb ed="#A" n="22"/>dinat, &amp; praeparat media, cap. 4. 
+            <lb ed="#A" n="23"/>Pradestinatio non est pars subiectiua, sed obiectiuae proui 
+            <lb ed="#A" n="24"/>dentia, cap. 5. 
+          </p>
+          <div xml:id="tavaz1-d1e159-Dd1e195">
+            <p xml:id="tavaz1-d1e159-d1e197">
+              <lb ed="#A" n="25" type="fixed=492"/>CAPVT I. 
+              <lb ed="#A" n="26"/>Errores circa Dei prouidentiam. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e204">
+              <lb ed="#A" n="27"/>SVpponimus in hac disp. in Deo esse prouiden 
+              <lb ed="#A" n="28"/>tiam quod apud Catholicos extra controuer 
+              <lb ed="#A" n="29"/>siam est. Inquirimus autem, vtrum ad intellectum, 
+              <lb ed="#A" n="30"/>an ad voluntatem pertineat: operae pretium tamen 
+              <lb ed="#A" n="31"/>erit, in hoc capite breuiter recensere errores, qui 
+              <lb ed="#A" n="32"/>circa prouidentiam Dei fuerunt, &amp; Catholican 
+              <lb ed="#A" n="33"/>veritatem praemittere 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e222">
+              <lb ed="#A" n="34"/>Praetermissis vero Philosophis, &amp; alijs qui 
+              De<lb ed="#A" n="35" break="no"/>um esse negantes, consequenter prouidentiam il 
+              <lb ed="#A" n="36"/>lius circa res creatas negarunt, contra quos ex 
+              pro<lb ed="#A" n="37" break="no"/>fesso q. 2. art. 2. disputatum est: inter eos, qui Deum 
+              <lb ed="#A" n="38"/>esse fatentur, non de fuerunt, qui de eius 
+              proui<lb ed="#A" n="39" break="no"/>dentia erga haec inferiora perperam sentirent. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e238">
+              <lb ed="#A" n="40"/>Primus fuit Epicurus, qui Dei prouidentiam 
+              <lb ed="#A" n="41"/>omnino negauit, sic etiam Democritus, &amp; Hera 
+              <lb ed="#A" n="42"/>clitus, qui omnia ex necessitate naturae euenire 
+              di<lb ed="#A" n="43" break="no"/>centes curam, &amp; prouidentiam Dei superuaca 
+              <lb ed="#A" n="44"/>neam esse putabant: ita referunt Lactan. lib. I. de 
+              ir<lb ed="#A" n="45" break="no"/>Dei cap. 9. &amp; 10. &amp; Nyssen. lib. 8. philosophiae cap. 3. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e254">
+              <lb ed="#A" n="46"/>Secundus error fuit Ciceronis, cuius meminis 
+              <lb ed="#A" n="47"/>August. 5. de ciuit. cap. 9. &amp; nos supra retulimus dis. 64 
+              <lb ed="#A" n="48"/>cap. 1. qui 2. de diuinat. disputans cum Quinto Fra 
+              <lb ed="#A" n="49"/>tre, scientiam futurorum contingentium, quae ex 
+              <lb ed="#A" n="50"/>humano arbitrio pendent Deo prorsus negauit, ad 
+              <lb ed="#A" n="51"/>proinde horum effectuum, &amp; operationum pro 
+              <lb ed="#A" n="52"/>uidentiam abstulit: cum enim prouidentia sit cura 
+              <lb ed="#A" n="53"/>rerum futurarum, &amp; circa earum dispositionem 
+              <lb ed="#A" n="54"/>versetur, vt infra dicemus, sequitur, sine 
+              praescien<lb ed="#A" n="55" break="no"/>tia earundem esse non posse. Itaque qui dicit Deun 
+              <lb ed="#A" n="56"/>non praescire certo futura, necesse est, vt fateatur 
+              <lb ed="#A" n="57"/>earum etiam rerum prouidentiam certam non 
+              <lb ed="#A" n="58"/>habere: nam per coniecturas, quales homines 
+              ha<lb ed="#A" n="59" break="no"/>bent, nihil repugnaret sine praescientia certa, 
+              cu<lb ed="#A" n="60" break="no"/>ram aliquam habere, nisi aliunde coniectura in 
+              <lb ed="#A" n="61"/>Deum conuenire non posset, vt disp. 67. dictum 
+              <lb ed="#A" n="62"/>est. An vero aliarum rerum, etiam minimarum 
+              <lb ed="#A" n="63"/>que non sunt a libero arbitrio, peus prouiden 
+              <!--507.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="64"/>tiam habet, Cicero nihil decernit: in hoc etian 
+              <lb ed="#A" n="65"/>errore fuisse Aristotelem plane monstrauimus 
+              <lb ed="#A" n="66"/>in ea disput. 64. probantes negasse certam 
+              scien<lb ed="#A" n="67" break="no"/>tiam futurorum contingentium, quae ex arbitrio 
+              <lb ed="#A" n="68"/>pendent 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e312">
+              <lb ed="#A" n="69"/>Praeter hoc autem adhuc videtur Aristoteles 
+              <lb ed="#A" n="70"/>negasse Dei prouidentiam circa singulas alias fes, 
+              <lb ed="#A" n="71"/>quae a libero arbitrio non pendent, sed concursu 
+              <lb ed="#A" n="72"/>aliarum causarum fiunt, sicut etiam negauit Dei 
+              <lb ed="#A" n="73"/>operationem circa singulas res minutissimas: sed 
+              <lb ed="#A" n="74"/>omnia motu primi mobilis fieri, &amp; moueri existi 
+              <lb ed="#A" n="75"/>mauit. Hune errorem Aristoteli adscribunt 
+              gra<lb ed="#A" n="76" break="no"/>uissimi Patres, Clemens Alex. 5. lib. Stromat. Epiphantu 
+              <lb ed="#A" n="77"/>de haeresibus haeresi vltima, Nazian. or. 1. de Theologia, qui 
+              <lb ed="#A" n="78"/>est 33. in ordine num. 34. Amb 1. officiorum cap. 13. Theo 
+              <lb ed="#A" n="79"/>doret lib. 6. graecanicarum affectionum, Saluianus lib. 1. d. 
+              <lb ed="#A" n="80"/>prouidentia, Niss. 8. philoso.c. 3. &amp; 4. &amp; Eusebius lib. 15. de 
+              <lb ed="#A" n="81"/>praeparatione Euangelica c. 4. vbi refert Atticum 
+              <lb ed="#A" n="82"/>Platonicum, qui in sermone de prouidentia 
+              acri<lb ed="#A" n="83" break="no"/>ter inuehitur in Atistotelem, quod contra 
+              Plato<lb ed="#A" n="84" break="no"/>nem, &amp; Mosem inferiores mundi partes, quae sub 
+              <lb ed="#A" n="85"/>luna continentur a pei prouidentia excludat. Qua 
+              <lb ed="#A" n="86"/>re Nazianzenus loco citato prouidentiam 
+              Dei<lb ed="#A" n="87" break="no"/>quam Aristot. docet, merito appellat perparcam 
+              <lb ed="#A" n="88"/>&amp; angustis finibus circumscriptam prouidentiam 
+              <lb ed="#A" n="89"/>cuius etiam fecerat mentionem suppresso 
+              nomi<lb ed="#A" n="90" break="no"/>ne Aristotelis in oratione 16. quae est de 
+              panpe<lb ed="#A" n="91" break="no"/>rum amore, eam vero opinionem fuisse Arist. dixit 
+              <lb ed="#A" n="92"/>etiam Nicetas in eam orat. Nazianzenus 16. in illa 
+              <lb ed="#A" n="93"/>verba, Quin potius, &amp;c 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e369">
+              <lb ed="#A" n="94"/>Colligitur autem ex ipso Arist. 12. Metaph. cap. 2 
+              <lb ed="#A" n="95"/>text. 37. vbi inquit, Deum mouere primum con 
+              <lb ed="#A" n="96"/>pus, caetera autem ab illo moueri, &amp; eodem lib 
+              <lb ed="#A" n="97"/>cap. 9. asserit, absurdum esse, primam mentem, 
+              sci<lb ed="#A" n="98" break="no"/>licet Deum, de quibusdam cogitare; &amp; melius 
+              es<lb ed="#A" n="99" break="no"/>se, quaedam non videre, quam videre. Sed 
+              claris<lb ed="#A" n="100" break="no"/>sime lib. de mundo ad Alex. circa finem illius, ta 
+              <lb ed="#A" n="101"/>metsi dicat maxime decere Deum omnia etiam 
+              <lb ed="#A" n="102"/>minima gubernare, &amp; illis prouidere, inquit, id 
+              <lb ed="#A" n="103"/>non praestare per se ipsum, sed per alias causas, vt 
+              <lb ed="#A" n="104"/>sicut peritus artifex motu vnius cordae varias 
+              re<lb ed="#A" n="105" break="no"/>rum imaginationes ob oculos ponit, sic Deus 
+              mo<lb ed="#A" n="106" break="no"/>tu vnius coeli, haec omnia inferiora, &amp; singula 
+              <lb ed="#A" n="107"/>gubernet. Videbatur enim Aristoteli indecorum. 
+              <lb ed="#A" n="108"/>Deum singulis rebus producendis, &amp; 
+              gubernan<lb ed="#A" n="109" break="no"/>dis speciatim intendere, sicut non decet 
+              Impera<lb ed="#A" n="110" break="no"/>torem Persarum, singula sui imperij per se ipsum 
+              <lb ed="#A" n="111"/>gubernare, sed in ciuitate sua Susis, aut Ecbata 
+              <lb ed="#A" n="112"/>nis existentem, per ministros suos ea exequi. Lib. 
+              <lb ed="#A" n="113"/>etiam Magnorum moral. cap. 8. versus finem sic 
+              <lb ed="#A" n="114"/>ait: Sifortuitus casus esset Deo tribuendus, esset iniustus, 
+              <lb ed="#A" n="115"/>cum frequenter accidat, flagitiosos homines fortunatos 
+              es<lb ed="#A" n="116" break="no"/>se &amp; res omnes bene illis euenire: contra vero studiosis 
+              <lb ed="#A" n="117"/>plura aduersa, tam in bonis fortunae, quam vitae 
+              ac<lb ed="#A" n="118" break="no"/>cidant 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e426">
+              <lb ed="#A" n="119"/>Neque obstat, quod 7. Ethicorum ad Eudemum cap 
+              <lb ed="#A" n="120"/>18. inquit, diuino numine omnia moneri, &amp; fortu 
+              <lb ed="#A" n="121"/>nam eodem numine instructam operari: quasi ve 
+              <lb ed="#A" n="122"/>lit, singula, quae euehiunt, &amp; fortunae tribuuntur, 
+              <lb ed="#A" n="123"/>Deo fieti, &amp; gubernari, &amp; ipsi non esse fortuita, 
+              <lb ed="#A" n="124"/>quae nobis casu accidisse dicuntur. Hoc enim bene 
+              <lb ed="#A" n="125"/>potuit intelligere Aristot. sicut lib. de mundo ad 
+              <lb ed="#A" n="126"/>Alexan. docuerat: quia omnes causae inferiores a 
+              <lb ed="#A" n="127"/>Deo ipso mouentur remote motu vnius primi 
+              or<lb ed="#A" n="128" break="no"/>bis, qui ab ipso proxime voluitur, vt ita omnis 
+              cau<lb ed="#A" n="129" break="no"/>sa diuino numine quodammodo instructa 
+              opere<lb ed="#A" n="130" break="no"/>tur, quia virtutem pei medio primo orbe partici 
+              <lb ed="#A" n="131"/>pat. Quod vero peus ea omnia sigillatim disposue¬ 
+              <!--508.xml-->
+              <pb ed="#A" n="493"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>rit voluntate, &amp; intellectu, non docuit Arist. nec 
+              <lb ed="#A" n="2"/>alibi insiquauit: quare eo loco ad Eudemum, non 
+              <lb ed="#A" n="3"/>dicit, ea quae nobis casu eueniunt, Deo non esse 
+              <lb ed="#A" n="4"/>fortuita, cum oppositum plane indicauerit lib. illo 
+              <lb ed="#A" n="5"/>secundo Magnorum moralium, vt Deum ab iniu 
+              <lb ed="#A" n="6"/>stitia vindicaret. Adde etiam quod Arist. eo 7. ad 
+              <lb ed="#A" n="7"/>Eudemum duplicem fortunam constituit, vnam 
+              <lb ed="#A" n="8"/>diuinam, alteram naturalem, &amp; hanc videtur ne 
+              <lb ed="#A" n="9"/>gare diuinae prouidentiae, vt 4.2. q. 9. art. 4. dicemus. 
+              <lb ed="#A" n="10"/>Est alius locus Arist. in quo longe aliter sentire 
+              <lb ed="#A" n="11"/>videtur, quam hactenus diximus, lib. nimirum 10. 
+              <lb ed="#A" n="12"/>Ethic. cap. 8. circa finem vbi ait: At vero qui mente 
+              ope<lb ed="#A" n="13" break="no"/>ratur, &amp; eam colit, disponitur optime is, &amp; amicissimus 
+              Di<lb ed="#A" n="14" break="no"/>immortalibus est. Nam si Dij curam humanarum rerum, v 
+              <lb ed="#A" n="15"/>existimatur, aliquam habent, rationi sane consentaneum 
+              <lb ed="#A" n="16"/>fuerit ipsos eo gaudere, quod est optimum, maximeque sib 
+              <lb ed="#A" n="17"/>cognatum: hoc autem fuerit ipsa mens. Caeterum neque 
+              <lb ed="#A" n="18"/>hoc testimonio purgare possumus Aristotelem ab 
+              <lb ed="#A" n="19"/>omni ertore: tum quia non concedit Deo plenam, 
+              <lb ed="#A" n="20"/>&amp; perfectam curam rerum humanarum, sed 
+              ali<lb ed="#A" n="21" break="no"/>quam dumtaxat, quasi ea, quae minima sunt inter 
+              <lb ed="#A" n="22"/>homines, nec curet, neque cogitet: sed ea solum 
+              <lb ed="#A" n="23"/>quae maiora sunt &amp; ipsi maxime cognata, quale pu 
+              <lb ed="#A" n="24"/>tauit esse, mentem excolere. Tum etiam, quia cum 
+              <lb ed="#A" n="25"/>concedit curam circa ea, quae ab hominibus 
+              ge<lb ed="#A" n="26" break="no"/>runtur, nimirum quod peo placeant, qui recto 
+              <lb ed="#A" n="27"/>mentem excolunt, non concedit proinde proui 
+              <lb ed="#A" n="28"/>dentiam: haec enim est cura, &amp; solicitudo futurorum: 
+              <lb ed="#A" n="29"/>at quam Aristoteles concedit in eo cap. circi res 
+              <lb ed="#A" n="30"/>praesentes tantum versatur: eo igitur testimonio 
+              <lb ed="#A" n="31"/>non possumus omnino Aristotelem defendere 
+              <lb ed="#A" n="32"/>Tertium alium errorem tribuit Platoni Marsi 
+              <lb ed="#A" n="33"/>lius Phicinus in argumento Protagorae, &amp; Gregor. Nyss. 8. 
+              <lb ed="#A" n="34"/>Philosophiae c. 3. &amp; 4. quod assereret, peum 
+              vniuersa<lb ed="#A" n="35" break="no"/>libus, &amp; incorruptibilibus rebus proxime, &amp; per 
+              <lb ed="#A" n="36"/>se ipsum prouidere, alijs autem per medios 
+              quos<lb ed="#A" n="37" break="no"/>dam daemones. Quamobrem Michael Medina lib 2 
+              <lb ed="#A" n="38"/>de recta in Deum fidec. 1. arbitratur, nullum fuisse 
+              Phi<lb ed="#A" n="39" break="no"/>losophorum, qui luce fidei destitutus, de proui 
+              <lb ed="#A" n="40"/>dentia Dei disputans, non errauerit, aut 
+              simplici<lb ed="#A" n="41" break="no"/>ter, aut peculiari aliquo modo eam negans: sed 
+              <lb ed="#A" n="42"/>Plato lib. 34 de legibus dialogo 10. versus finem 
+              latissi<lb ed="#A" n="43" break="no"/>me ostendit Deum, prouidentiam, &amp; curam 
+              habe<lb ed="#A" n="44" break="no"/>re minimarum terum, sicut perfectissimus artifex 
+              <lb ed="#A" n="45"/>minimorum etiam, in arte notitiam habet. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e561">
+              <lb ed="#A" n="46"/>Hos errores optime tefellunt, &amp; pro Dei pro 
+              <lb ed="#A" n="47"/>uidentia eleganter disputant, Ambros. lib. 1. osficiorum 
+              <lb ed="#A" n="48"/>c. 13. Chrysost. Homil. 9. ad populum Antio. de qua etiam 
+              <lb ed="#A" n="49"/>re sex libros ipse composuit Aug 5. de ciuitate c. 9. c. 
+              <lb ed="#A" n="50"/>10. &amp; 3. de libero arb per totum, Saluianus per octo libros 
+              <lb ed="#A" n="51"/>quos de hac re edidit. &amp; Nyssen lib. 8. Philosophiae S. Thom 
+              <lb ed="#A" n="52"/>3 contragent. a cap. 71. vsque ad 75. Est igitur Catholiea 
+              <lb ed="#A" n="53"/>veritas, Deum non solum notitiam rerum 
+              om<lb ed="#A" n="54" break="no"/>nium futurarum habere, sicut disp 6. c.. 
+              proba<lb ed="#A" n="55" break="no"/>tum est: sed etiam curam, &amp; voluntatem ea omnia 
+              <lb ed="#A" n="56"/>disponendi, &amp; suo tempore faciendi, excepto pec 
+              <lb ed="#A" n="57"/>cato. Nam cum omnia etiam minima, eo auctore 
+              <lb ed="#A" n="58"/>fiant, &amp; conseruentur, vt disp. 173. dicemus, sequi 
+              <lb ed="#A" n="59"/>tur ab aeterno ea omnia facere decreuisse, &amp; desti 
+              <lb ed="#A" n="60"/>nasse, quae etiam ab aeterno nouit. Quae vero 
+              ope<lb ed="#A" n="61" break="no"/>ratio intellectus, an voluntatis prouidentia dica 
+              <lb ed="#A" n="62"/>tur, in sequentibus capitibus explicandum est. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e600">
+              <lb ed="#A" n="63"/>Haec autem veritas in vniuersum definita est in 
+              <lb ed="#A" n="64"/>Scriptura Sap. 14. Tu autem pater gubernas omnia pro 
+              <lb ed="#A" n="65"/>uidentia; Et iterum de sapientia Dei dicitur, attin 
+              <lb ed="#A" n="66"/>gens a fine vsque ad finem fortiter, disponit omnia suauiter 
+              <lb ed="#A" n="67"/>&amp; Luc. 11. &amp; Matth. 6. multa sunt de hae re, qua 
+              <lb ed="#A" n="68"/>Dei prouidentiam circa minima etiam declarant, 
+              <!--508.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="69"/>vt quod Deus curam habeat foeni, quod hodie est, 
+              <lb ed="#A" n="70"/>&amp; cras in clibanum mittitur; quod siue Dei 
+              proui<lb ed="#A" n="71" break="no"/>dentia passet non pereat &amp; similia. Quate 
+              indubi<lb ed="#A" n="72" break="no"/>tata res est apud Catholicos imo etiam apud 
+              hae<lb ed="#A" n="73" break="no"/>reticos, licet in modo explicandi aliqua sit 
+              varie<lb ed="#A" n="74" break="no"/>tas, vt disp. 99. patebit. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e633">
+              <lb ed="#A" n="75"/>Quotundam igitur recentiorum sententia, qui 
+              <lb ed="#A" n="76"/>dicunt, peum non praefinijsse prouidentia sua 
+              sin<lb ed="#A" n="77" break="no"/>gula opera, quia nec praefiniuit opera quaedam 
+              mi<lb ed="#A" n="78" break="no"/>noris momenti, vt numerum muscarum, &amp; 
+              mo<lb ed="#A" n="79" break="no"/>tum earum versus hanc, aut illam partem, nec vlla 
+              <lb ed="#A" n="80"/>opera nostra libera, mihi quidem absolute nulla 
+              <lb ed="#A" n="81"/>ratione probari potest, quocumque modo ab eius 
+              <lb ed="#A" n="82"/>auctoribus explicetur. Nam si dicant, peum 
+              nul<lb ed="#A" n="83" break="no"/>lam voluntatem speciatim habuisse circa 
+              nume<lb ed="#A" n="84" break="no"/>rum muscarum, &amp; earùm motum, est aperte 
+              ab<lb ed="#A" n="85" break="no"/>surdum. Sic enim peus non prouidereerebus 
+              om<lb ed="#A" n="86" break="no"/>nibus minimis, nisi in vniuersum, &amp; remote in suis 
+              <lb ed="#A" n="87"/>causis, qui est erros Aristot. &amp; Platonis iam 
+              impu<lb ed="#A" n="88" break="no"/>gnatus. Tum etiam deberemus dicere, nec in 
+              tem<lb ed="#A" n="89" break="no"/>pore neum habere voluntatem concurrendi cùm 
+              <lb ed="#A" n="90"/>musca ad hunc, vel illum motum, musca etiam 
+              pe<lb ed="#A" n="91" break="no"/>riret sine Patre nostro, &amp; passet similiter quod est 
+              <lb ed="#A" n="92"/>contra illud Luc. 11. &amp; Matth. 6. Aut si in tempore 
+              <lb ed="#A" n="93"/>habet peus voluntatem circa haec singula opera, 
+              <lb ed="#A" n="94"/>sequitur ipsum mutari, qui in tempore incipit 
+              vel<lb ed="#A" n="95" break="no"/>le aliquid aut dicendum est aboeterno illud 
+              voluis<lb ed="#A" n="96" break="no"/>se. Si veto dicant, non praefinijsse Deum haec 
+              om<lb ed="#A" n="97" break="no"/>nia aute praeuisum concursum secundae causae, sed 
+              <lb ed="#A" n="98"/>simul cum illo, recte docent: idem tamen de 
+              omni<lb ed="#A" n="99" break="no"/>bus asserere debent, nec maior ratio est, cur de 
+              re<lb ed="#A" n="100" break="no"/>bus minimis, quam de maximis id assetait. Hoc 
+              <lb ed="#A" n="101"/>autem intelligo circa ies, quae producendae erant 
+              <lb ed="#A" n="102"/>concursu secundae causae, nam quas Deus per se 
+              <lb ed="#A" n="103"/>facturus erat, solus facere decieuit, nulla causa 
+              <lb ed="#A" n="104"/>creata praeuisa. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e702">
+              <lb ed="#A" n="105"/>Sed de actibus humanis liberis eodem modo 
+              <lb ed="#A" n="106"/>dicendum est, aut enim asserunt, Deum ab aeterno 
+              <lb ed="#A" n="107"/>tantum habuisse voluntatem vniuersalem 
+              con<lb ed="#A" n="108" break="no"/>currendi eum omnibus hominibus, nec eam 
+              ha<lb ed="#A" n="109" break="no"/>buisse circa singulas operationes, &amp; ita defendi non 
+              <lb ed="#A" n="110"/>potest, quia in tempore concurrens cum hac cau 
+              <lb ed="#A" n="111"/>la, per singula opera. habes figillatim voluntatem 
+              <lb ed="#A" n="112"/>concurrendi cum illa, &amp; placet illi talis concursus: 
+              <lb ed="#A" n="113"/>ergo ab aeterno habuit; vel in tempore incipiens 
+              <lb ed="#A" n="114"/>habere mutatus est; vel denique incid mus in er 
+              <lb ed="#A" n="115"/>rorem Atist. qui prouidentiam tantum in 
+              vniuer<lb ed="#A" n="116" break="no"/>sum, &amp; confusam assignauit, nimirum in causis, 
+              <lb ed="#A" n="117"/>prouidentem causas ad effectus, &amp; nihil sigillatim 
+              <lb ed="#A" n="118"/>de illis curautem, quae omnia absurda sunt. Aut 
+              as<lb ed="#A" n="119" break="no"/>serunt peum nihil praefinijsse humanorum actuum 
+              <lb ed="#A" n="120"/>sine cooperatione, &amp; concursu arbitrij praeuiso, &amp; 
+              <lb ed="#A" n="121"/>hoc verissimum esse ostendemus disp 99. ob id 
+              ta<lb ed="#A" n="122" break="no"/>men non debet, nec potest absolute negari, Deum 
+              <lb ed="#A" n="123"/>singula prouidisse, &amp; praefinijsse sigillaum, quae in 
+              <lb ed="#A" n="124"/>tempore factutus etat, ita vt particula, pra, non 
+              si<lb ed="#A" n="125" break="no"/>gnificet autecessionem causalitatis Dei respectu 
+              <lb ed="#A" n="126"/>nostrae, sed temporis, respectu existentiae effectus 
+              <lb ed="#A" n="127"/>sed de hac re iterum disp. illac. 5. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e159-Dd1e756">
+            <p xml:id="tavaz1-d1e159-d1e758">
+              <lb ed="#A" n="128" type="fixed=493"/>CAPVT II. 
+              <lb ed="#A" n="129"/>Prouidentiam, seu praedestinationem esse operationem intel 
+              <lb ed="#A" n="130"/>lectus senserunt nonnulli Scholastici. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e767">
+              <lb ed="#A" n="131"/>IN quaestione initio proposita variant. S.
+              hola<lb ed="#A" n="132" break="no"/>stici, &amp; aliquoeplus aequo inter se contendunt, ea 
+              <lb ed="#A" n="133"/>enim est, non rerum, sed vocum parua dissensio, 
+              <lb ed="#A" n="134"/>anic. licet operatio intellectus, aut voluntatis vel 
+              <!--509.xml-->
+              <pb ed="#A" n="494"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>vtriusque simul, vocari debeat prouidentia. 
+              Ea<lb ed="#A" n="2" break="no"/>demque difficultas de praedestinatione est, nam 
+              <lb ed="#A" n="3"/>praedestinatio, prout a sanctis Patribus, &amp; Schola 
+              <lb ed="#A" n="4"/>sticis Doctoribus accipitur, a prouidentia solum 
+              <lb ed="#A" n="5"/>differt, sicut speciale ab vniuersali: prouidentia 
+              <lb ed="#A" n="6"/>enim res omnes generatim respicit: praedestinatio 
+              <lb ed="#A" n="7"/>vero solum circa gratiam iustificationis, &amp; glorifi 
+              <lb ed="#A" n="8"/>cationis versatur. Quamobrem de vtraque simul 
+              <lb ed="#A" n="9"/>praesens controuersia nobis examinanda est, quo 
+              <lb ed="#A" n="10"/>ad hanc enim eadem est vtriusque ratio. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e806">
+              <lb ed="#A" n="11"/>Est igitur prior opinio, prouidentiam, seu 
+              prae<lb ed="#A" n="12" break="no"/>destinationem esse actum intellectus directe, sed 
+              <lb ed="#A" n="13"/>relate ad actum voluntatis. Sic docent Alex. qui ta 
+              <lb ed="#A" n="14"/>metsi de prouidentia loquens 1. pq. 26. mem 2. ac 
+              <lb ed="#A" n="15"/>intellectum, &amp; voluntatem dicat pertinere, nec 
+              <lb ed="#A" n="16"/>determinet ad quam praecipue reducatur, 
+              quae<lb ed="#A" n="17" break="no"/>stione tamen 28. mem. i. art. 2. ad 2. de praedestina 
+              <lb ed="#A" n="18"/>tione plane docet, esse operationem intellectus 
+              <lb ed="#A" n="19"/>Idem Durand. in 1. d. 141. q.1n. 9. S.Thom. &amp; Caietan.in 
+              <lb ed="#A" n="20"/>hoc art.1. &amp; infra q. 23. art.i. Capreolus in 1. d. 40. q 1. a. 1. 
+              <lb ed="#A" n="21"/>conclus.. &amp; art. 2. conclus. 2. His fauet Marsil. in 1. q. 41. 
+              <lb ed="#A" n="22"/>art. 1. in principio, cum assetit, prouidentiam ad 
+              scien<lb ed="#A" n="23" break="no"/>tiam pertinere, quanquam postea de 
+              praedestina<lb ed="#A" n="24" break="no"/>tione sermonem habens, eodem art. notatione 2 
+              <lb ed="#A" n="25"/>corolla 3. tria inquit ad praedestinationem 
+              perti<lb ed="#A" n="26" break="no"/>nere, scientiam ad disponendum; voluntatem 
+              in<lb ed="#A" n="27" break="no"/>super, &amp; potentiam ad efficiendum, sed quaenan 
+              <lb ed="#A" n="28"/>earum directe prouidentia dicatur, non explicat 
+              <lb ed="#A" n="29"/>Haec sententia in vniuersum tam de prouidentia. 
+              <lb ed="#A" n="30"/>quam de praedestinatione probatur: primum, quo 
+              <lb ed="#A" n="31"/>niam prouidere aut praedestinare, est ordinare ali 
+              <lb ed="#A" n="32"/>quem in finem, sed ordinatio est operatio 
+              intelle<lb ed="#A" n="33" break="no"/>ctus, ergo prouidere &amp; praedestinare. Deinde quo 
+              <lb ed="#A" n="34"/>niam prouidentia est pars prudentiae, ad hanc enim 
+              <lb ed="#A" n="35"/>pertinet futura prouidere, de praeteritis 
+              meminis<lb ed="#A" n="36" break="no"/>se, &amp; praesentia nosse; sed prudentiae operatio ad 
+              <lb ed="#A" n="37"/>intellectum pertinet: ergo &amp; prouidentia. Idcirco 
+              <lb ed="#A" n="38"/>Boeth. lib. 4. de consolatione prosa. 6. dixit, prouidentiam 
+              <lb ed="#A" n="39"/>esse ipsam diuinam rationem, in summo omnium 
+              <lb ed="#A" n="40"/>principe constitutam, quae cuncta disponit. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e874">
+              <lb ed="#A" n="41"/>Caeterum auctores huius sententiae non eodem 
+              <lb ed="#A" n="42"/>modo eam defendunt, Alexand. &amp; purand. cum 
+              <lb ed="#A" n="43"/>quibus videtur facere Marsilius dicunt, 
+              prouiden<lb ed="#A" n="44" break="no"/>tiam, sen praedestinationem esse actum intellectus 
+              <lb ed="#A" n="45"/>qui praecedit voluntatem, &amp; dictat, seu proponis 
+              <lb ed="#A" n="46"/>quae voluntas debet decetnere, atque 
+              communi<lb ed="#A" n="47" break="no"/>ter iudicium appellatur; alij vero citati censent esse 
+              <lb ed="#A" n="48"/>actum intellectus post affectum voluntatis circa 
+              <lb ed="#A" n="49"/>média, quem dicunt esse imperium, quo defertur 
+              <lb ed="#A" n="50"/>virtus voluntatis, &amp; impetus illius, per modum 
+              <lb ed="#A" n="51"/>(vt ita dicamus) cuiusdam insinuationis seu inti 
+              <lb ed="#A" n="52"/>mationis ad opus, &amp; potentias exequentes, atque 
+              <lb ed="#A" n="53"/>hunc esse actum proprium prudentiae arbitrantur 
+              <lb ed="#A" n="54"/>ita vt consultare, &amp; iudicium ferre, alijs virtutibus 
+              <lb ed="#A" n="55"/>annexis prudentiae tribuant nonnulli Thomista 
+              <lb ed="#A" n="56"/>cum Doctore sancto 2. 2. q. 47. a. 8. &amp; 51. per totam. 
+              <lb ed="#A" n="57"/>&amp; 57. art. 6. in corpore &amp; ad 3. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e159-Dd1e914">
+            <p xml:id="tavaz1-d1e159-d1e916">
+              <lb ed="#A" n="58" type="fixed=494"/>CAPVT III. 
+              <lb ed="#A" n="59"/>Ex aliorum sententia prouidentia, seu 
+              praede<lb ed="#A" n="60" break="no"/>stinatio est actus voluntatis. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e925">
+              <lb ed="#A" n="61"/>Lijs vero magis probatur eorum sententia, 
+              <lb ed="#A" n="62"/>qui docent nomen prouidentia, vniuerse, &amp; 
+              <lb ed="#A" n="63"/>pradestinatio, speciatim operationem significare vo 
+              <lb ed="#A" n="64"/>luntatis formaliter, sed connotare quoque 
+              ordi<lb ed="#A" n="65" break="no"/>nem ad intellectum, non quomodocunque, sed 
+              <lb ed="#A" n="66"/>futura ordinantem, &amp; disponentem: omnis enim 
+              <!--509.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>actus voluntatis, supponit etiam operationem 
+              in<lb ed="#A" n="68" break="no"/>tellectus, non tamen ita peculiarem 
+              Quemadmo<lb ed="#A" n="69" break="no"/>dum etiam de electione dicemus in 1. 2. q. 13. art. 1. 
+              <lb ed="#A" n="70"/>esse quidem operationem voluntatis cum ordine 
+              <lb ed="#A" n="71"/>ad intellectum consultantem, &amp; conferentem 
+              in<lb ed="#A" n="72" break="no"/>ter se media, &amp; cum fine. Porro prouidentiam, &amp; 
+              <lb ed="#A" n="73"/>praedestinationem ad voluntatem pertinere, 
+              do<lb ed="#A" n="74" break="no"/>cent in primis Bonau in 1. d. 40. art. 1. q. 2. Scot. q. 1. in 
+              <lb ed="#A" n="75"/>principio. Greg q. 1. a. 1. Sic Damas. lib. 2. de fide cap. 29. 
+              <lb ed="#A" n="76"/>prouidentiam in principio bifariam definit his 
+              <lb ed="#A" n="77"/>verbis. Est rerum procuratio, qua Deus fungitur: ac 
+              rur<lb ed="#A" n="78" break="no"/>sus Preuidentia est voluntas Dei, per quam res omnes apte, 
+              <lb ed="#A" n="79"/>congrueque gubernantur. Huic sententiae adstipulan 
+              <lb ed="#A" n="80"/>tur poctores, qui docent imperium esse 
+              operatio<lb ed="#A" n="81" break="no"/>nem voluntatis, non intellectus, in quo tamen 
+              eo<lb ed="#A" n="82" break="no"/>rum sententiam 1. 2 q. 17. arr. 1. confutabimus. Hi 
+              <lb ed="#A" n="83"/>sunt Henricus quodlib 9. q. 6. Bonau. in 3. d. 17. art. 1. q. 1. 
+              <lb ed="#A" n="84"/>ad 3. Almai. tract 3. moral. cap. 2. Ilieron. ab Angest. cap. 4. 
+              <lb ed="#A" n="85"/>Moral. 3. partetextus corol. 3 Okam in 3. q. 12. art. 4. conel. 3. 
+              <lb ed="#A" n="86"/>Ratione vero hanc sententiam confirmant, nam 
+              <lb ed="#A" n="87"/>tametsi nomen prouidentia, nonnunquam pro 
+              <lb ed="#A" n="88"/>futurorum scientia sumatur, imo haec videatur 
+              <lb ed="#A" n="89"/>primaria nominis significatio, qua ratione Boeth. di 
+              <lb ed="#A" n="90"/>diuina praescientia disp. 5. de consolatione prosa vltima, 
+              di<lb ed="#A" n="91" break="no"/>xit, eam melius prouidentiam quam 
+              praeuiden<lb ed="#A" n="92" break="no"/>tiam, aut praescientiam vocari, vt supra retulimus 
+              <lb ed="#A" n="93"/>disp. 64. cap. 2. (vt ita prouidus vocetur, qui a longe 
+              <lb ed="#A" n="94"/>res videt, antequam eueniant) nihilominus fie 
+              <lb ed="#A" n="95"/>quens vsus est, vt prouidus dicatur, non qui solum 
+              <lb ed="#A" n="96"/>res futuras a longe videt, sed etiam qui earum 
+              de<lb ed="#A" n="97" break="no"/>bitam curam, &amp; rationem habet, ob idque illis 
+              <lb ed="#A" n="98"/>prospicere. &amp; recte consulere dicitur: eodem fere 
+              <lb ed="#A" n="99"/>modo prouidus nuncupatur, qui a malis futuris 
+              <lb ed="#A" n="100"/>cauet, hic enim curam etiam futurorum habet: sed 
+              <lb ed="#A" n="101"/>hic agitur de prouidentia, non solum quatenus so 
+              <lb ed="#A" n="102"/>la scientia futurorum est, sic enim non est 
+              diuer<lb ed="#A" n="103" break="no"/>sum attributum a scientia, sed quatenus est cum 
+              <lb ed="#A" n="104"/>cura aliqua, &amp; studio terum futurarum, secundum 
+              <lb ed="#A" n="105"/>rectam dispositionem. Ergo non est iudicium, quo 
+              <lb ed="#A" n="106"/>res voluntati proponuntur, sed potius studium. &amp; 
+              <lb ed="#A" n="107"/>propositum voluntatis. Hoc argumento satis 
+              pio<lb ed="#A" n="108" break="no"/>batum manet, contra Alex. &amp; alios suae paris, 
+              pro<lb ed="#A" n="109" break="no"/>nidentiam non esse operationem solius 
+              intelle<lb ed="#A" n="110" break="no"/>ctus, quae voluntatis propositum praecedit 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1040">
+              <lb ed="#A" n="111"/>Porro non esse operationem intellectus, quae 
+              <lb ed="#A" n="112"/>subsequitur voluntatem, &amp; habet rationem 
+              impe<lb ed="#A" n="113" break="no"/>rij, sicut dicunt S. Thom. &amp; alij, qui ipsum in 
+              prio<lb ed="#A" n="114" break="no"/>ri opinione sequuntur, non ita demonstrat. Haec 
+              <lb ed="#A" n="115"/>enim operatio intellectus, cum supponat 
+              impe<lb ed="#A" n="116" break="no"/>rium voluntatis, non inepte dici posset studium, 
+              <lb ed="#A" n="117"/>&amp; cura terum agendarum. Caeterum neque talem 
+              <lb ed="#A" n="118"/>actum esse probatur primum, quoniam talis ope 
+              <lb ed="#A" n="119"/>ratio etiam in nobis superflue ponitur ad motio 
+              <lb ed="#A" n="120"/>nem exequentis facultatis, sed satis est, si iudiciun 
+              <lb ed="#A" n="121"/>sequatur affectus in voluntate, vt facultas exequens 
+              <lb ed="#A" n="122"/>suo tempore operetur, nec alia indiget 
+              insinuatio<lb ed="#A" n="123" break="no"/>ne, imo nec illius capax est, vt latius ostendam in 
+              <lb ed="#A" n="124"/>1. 2. q. 13. art.s.ergo nec in Deo, adhuc nostro 
+              mo<lb ed="#A" n="125" break="no"/>do intelligendi, ponenda est: in Deo namque has 
+              <lb ed="#A" n="126"/>omnes operationes ratione distinguimus instar 
+              <lb ed="#A" n="127"/>earu, quae in nobis reipsa differunt. Deinde 
+              quam<lb ed="#A" n="128" break="no"/>uis in nobis talis operatio reuera esset, non 
+              vide<lb ed="#A" n="129" break="no"/>retur in Deo constituenda nostro etiam modo 
+              in<lb ed="#A" n="130" break="no"/>telligendi In nobis enim necessaria videtur, vt 
+              im<lb ed="#A" n="131" break="no"/>petum voluntatis intimatione quadam deferat 
+              fa<lb ed="#A" n="132" break="no"/>cultatibus exequentibus; at in peo nulla talis 
+              fa<lb ed="#A" n="133" break="no"/>cultas exequens ponenda est distincta a 
+              volunta<lb ed="#A" n="134" break="no"/>te, vt disp. 102. dicemus: frustra ergo in eo adhuc 
+              <!--510.xml-->
+              <pb ed="#A" n="495"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>sola ratione, talem operationem intellectus 
+              distin<lb ed="#A" n="2" break="no"/>gueremus. Praeterea licet in Deo poneretur 
+              facul<lb ed="#A" n="3" break="no"/>tas illa exequens diuersa ab intellectu, &amp; 
+              volun<lb ed="#A" n="4" break="no"/>tate; tamen illa insinuatio voluntatis, &amp; 
+              impe<lb ed="#A" n="5" break="no"/>rium apte Deo non conueniret: quia neque 
+              sibi<lb ed="#A" n="6" break="no"/>ipsi, &amp; suae facultati Deus diceretur imperare, eo 
+              <lb ed="#A" n="7"/>quod tale imperium non posset ad ipsum dirigi, 
+              <lb ed="#A" n="8"/>vt constat: neque diceretur imperare creaturas, 
+              <lb ed="#A" n="9"/>quas facturus est potentia sua: quia creaturae 
+              ta<lb ed="#A" n="10" break="no"/>lis imperij proprie capaces non sunt, sed commu 
+              <lb ed="#A" n="11"/>ni quadam ratione &amp; metaphorice Deo dicuntur 
+              <lb ed="#A" n="12"/>obedire, quatenus voluntate Dei absque vlla 
+              resi<lb ed="#A" n="13" break="no"/>stentia fiunt. Quomodo autem prudentiae non 
+              <lb ed="#A" n="14"/>tantum sit praecipere, quae facienda sunt, sed etiam 
+              <lb ed="#A" n="15"/>consultare, nec distinguendi sint a prudentia habi 
+              <lb ed="#A" n="16"/>tus Eubuliae, Synesis, &amp; Gnomes dicemus in 1. 2. 
+              <lb ed="#A" n="17"/>q. 17. art. 1. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1138">
+              <lb ed="#A" n="18"/>Porro de nomine, Praedestinatio. eodem modo 
+              di<lb ed="#A" n="19" break="no"/>cendum est, significare videlicet, voluntatis 
+              pro<lb ed="#A" n="20" break="no"/>positum, quod aliquid vult esse, &amp; aliquem finem 
+              <lb ed="#A" n="21"/>destinare dicitur ille, qui proponit, &amp; statuit 
+              ali<lb ed="#A" n="22" break="no"/>quem medijs congruis perducere in eum finem. 
+              <lb ed="#A" n="23"/>Quare tam praedestinatio, quam prouidentia in 
+              <lb ed="#A" n="24"/>vniuersum propositum voluntatis significat me 
+              <lb ed="#A" n="25"/>diorum circa aliquem finem: &amp; quamuis magis 
+              <lb ed="#A" n="26"/>exprimat nomen, Prouidentia, hanc mediorum 
+              di<lb ed="#A" n="27" break="no"/>spositionem, quam nomen Praedestinatio; 
+              nihilomi<lb ed="#A" n="28" break="no"/>nus vsu iam accommodatum est nomen 
+              Praedesti<lb ed="#A" n="29" break="no"/>natio, ut significet propositum aeternum Dei, quo 
+              <lb ed="#A" n="30"/>gratiam alicui praeparat in vitam aeternam, iuxta 
+              <lb ed="#A" n="31"/>definitionem August. 1. de praedest. Sanct. cap. 10. in prin 
+              <lb ed="#A" n="32"/>cipio. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1173">
+              <lb ed="#A" n="33"/>Ad prius argumentum prioris sententiae 
+              re<lb ed="#A" n="34" break="no"/>sponderi potest ex doctrina Scoti in 1.dist. 6. q. 1. &amp; 
+              <lb ed="#A" n="35"/>quodlib. 17. ordinare non esse solius intellectus 
+              in<lb ed="#A" n="36" break="no"/>telligentis vnum esse ad aliud; sed etiam 
+              volunta<lb ed="#A" n="37" break="no"/>tis decernentis, &amp; proponentis vnum ad aliud, 
+              <lb ed="#A" n="38"/>quare licet prouidentia sit ordinatio rerum, &amp; 
+              me<lb ed="#A" n="39" break="no"/>diorum in aliquem finem, non sequitur ad 
+              intelle<lb ed="#A" n="40" break="no"/>ctum pertinere, sed ad voluntatem, quae etiam 
+              or<lb ed="#A" n="41" break="no"/>dinare dicitur, quia ordinem praescriptum ab 
+              in<lb ed="#A" n="42" break="no"/>tellectu prosequitur. Ad posterius respondeo pro 
+              <lb ed="#A" n="43"/>uidentiam, quae dicitur esse praescientia, aut 
+              prae<lb ed="#A" n="44" break="no"/>notio futurorum, ad prudentiam pertinere, &amp; 
+              <lb ed="#A" n="45"/>hanc esse operationem intellectus, de qua plane 
+              <lb ed="#A" n="46"/>videtur locutus Boethius, vt paulo ante diceba 
+              <lb ed="#A" n="47"/>mus. Nunc autem agitur de prouidentia, vt est cum 
+              <lb ed="#A" n="48"/>cura e studio rerum agendarum; &amp; haec directe 
+              <lb ed="#A" n="49"/>quidem ad operationem voluntatis pertinet: 
+              tam<lb ed="#A" n="50" break="no"/>etsi supponat actum intellectus, non quomodo 
+              <lb ed="#A" n="51"/>cunque, sed ordinantis, &amp; disponentis ea, quae 
+              pro<lb ed="#A" n="52" break="no"/>uidentia prosequi studet. Vtraque harum 
+              opinio<lb ed="#A" n="53" break="no"/>num probabilis est: cumque controuersia haec 
+              <lb ed="#A" n="54"/>non terum, sed vocum sit, nec ad fidei dogmata 
+              <lb ed="#A" n="55"/>hoc modo magis, quam alio loqui quidquam re 
+              <lb ed="#A" n="56"/>ferat, non est in ea amplius immorandum.
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e159-Dd1e1229">
+            <p xml:id="tavaz1-d1e159-d1e1231">
+              <lb ed="#A" n="57" type="fixed=495"/>CAPVT IV. 
+              <lb ed="#A" n="58"/>Prouidentia Dei non semper consequitur finem, ad quem 
+              <lb ed="#A" n="59"/>ordinat, &amp; praeparat media. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1240">
+              <lb ed="#A" n="60"/>CVm prouidentia sit cura, quam Deus de 
+              re<lb ed="#A" n="61" break="no"/>bus habet, &amp; qua praeparat illis media, vt 
+              fi<lb ed="#A" n="62" break="no"/>nes suos consequantur, maximae autem 
+              imperfe<lb ed="#A" n="63" break="no"/>ctionis videatur, ita debilia media applicare, vt 
+              ef<lb ed="#A" n="64" break="no"/>fectum non sortiantur, diuinaeque prouidentiae, 
+              <lb ed="#A" n="65"/>quae perfectissima est, quaeuis imperfectio 
+              repu<lb ed="#A" n="66" break="no"/>gnet, visum est Caietano in hoc articulo ad diui¬ 
+              <!--510.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>nam prouidentiam vtrumque spectare, &amp; 
+              praepa<lb ed="#A" n="68" break="no"/>rare media ad finem, &amp; ipsum semper consequi. 
+              <lb ed="#A" n="69"/>Probat vero auctoritate Sancti Thomae, qui in 3. con 
+              <lb ed="#A" n="70"/>tra gent. cap. 94. &amp; art. seq huius quaestionis ad i. do 
+              <lb ed="#A" n="71"/>cet, nihil esse in terum natura, quod Dei 
+              subterfu<lb ed="#A" n="72" break="no"/>giat prouidentiam: si autem prouidentia Dei non 
+              <lb ed="#A" n="73"/>semper consequeretur finem sibi propositum, 
+              <lb ed="#A" n="74"/>multa eam subterfugerent, &amp; artic. 4. huius 
+              quae<lb ed="#A" n="75" break="no"/>stionis ad 2. inquit, Ea omnia, quae a Deo prouidentur, 
+              <lb ed="#A" n="76"/>eueniunt. Quare censet Caietanus, Doctorem 
+              An<lb ed="#A" n="77" break="no"/>gelicum locis allegatis mutasse sententiam, quam 
+              <lb ed="#A" n="78"/>prius docuerat in I. d. 40. q. 1. art. 2. &amp; q. 6. de 
+              verita<lb ed="#A" n="79" break="no"/>te, art. 1. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1290">
+              <lb ed="#A" n="80"/>Ego vero existimo opinionem hanc Caiet. nec 
+              <lb ed="#A" n="81"/>esse S. Th. nec vlla ratione defendi posse. Places 
+              <lb ed="#A" n="82"/>igitur id, quod asserunt Durand. in i. d. 39. q3. &amp; dist. 
+              <lb ed="#A" n="83"/>40. q. 1. Caprcel. dist. 40. q. 1 art. 1. conclus. 2. Marsil. q. 41. 
+              <lb ed="#A" n="84"/>41. in principio. Ferrar. 3. contragent cap 94. &amp; S. Th q. illa 
+              <lb ed="#A" n="85"/>6. de verit. &amp; d. ill. i 40. nempe prouidentiam Dei non 
+              <lb ed="#A" n="86"/>semper consequi finem, in quem res dirigit, 
+              pro<lb ed="#A" n="87" break="no"/>bat purandus, quia medicus prouidus dicitur, qui 
+              <lb ed="#A" n="88"/>medicamenta necessaria ad sanitatem applicat, 
+              li<lb ed="#A" n="89" break="no"/>cet eam non consequantur: haec tamen ratio de 
+              <lb ed="#A" n="90"/>Dei prouidentia non probat, quia talis defectus in 
+              <lb ed="#A" n="91"/>Deum cadere non potest. Medicus enim potest 
+              <lb ed="#A" n="92"/>velle efficere, &amp; consequi finem aliquem, &amp; ipsum 
+              <lb ed="#A" n="93"/>non sequi, etiamsi ad illum applicet ea, quae solerti 
+              <lb ed="#A" n="94"/>prouidentia adhiberi possunt: deficit antem a finis 
+              <lb ed="#A" n="95"/>consecutione, vel obdefectum scientiae, quia 
+              cau<lb ed="#A" n="96" break="no"/>sam aegritudinis ignorans, meliora medicamenta 
+              <lb ed="#A" n="97"/>non applicauit, aut quia etiamsi morbum optime 
+              <lb ed="#A" n="98"/>nosset, non potuit meliora inuenire, aut facere 
+              <lb ed="#A" n="99"/>medicamenta. Nihilominus prouidus dicitur 
+              ille<lb ed="#A" n="100" break="no"/>&amp; prudens medicus, quia nullum, quod secundum 
+              <lb ed="#A" n="101"/>artem &amp; diligentiam humanam applicari potuit 
+              <lb ed="#A" n="102"/>remedium, omisit. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1342">
+              <lb ed="#A" n="103"/>AtveroDeus, cuius scientia nec falli potest, nec 
+              <lb ed="#A" n="104"/>potentia impediri, cum non consequitur finem 
+              <lb ed="#A" n="105"/>in quem res ordinat, alia de causa illum non 
+              con<lb ed="#A" n="106" break="no"/>sequitur: nimirum quia praeparauit media causi 
+              <lb ed="#A" n="107"/>liberis, easque in sua libertate relinquens, sini 
+              <lb ed="#A" n="108"/>operari, &amp; iuxta earum libertatem cum eis 
+              coo<lb ed="#A" n="109" break="no"/>perari decreuit. Posset quidem peus, ita 
+              proui<lb ed="#A" n="110" break="no"/>dentia sua eas ad singulos actus praeuenire, vt 
+              nul<lb ed="#A" n="111" break="no"/>la a suo fine deficeret, id tamen non vult, sed 
+              pro<lb ed="#A" n="112" break="no"/>uidet singulis media necessaria quidem, licet non 
+              <lb ed="#A" n="113"/>efficacia ad finis consecutionem, quod vero illa 
+              <lb ed="#A" n="114"/>effectum non habeant, ex voluntatis nostrae 
+              li<lb ed="#A" n="115" break="no"/>bertate prouenit. Exemplo autem res illustratur, 
+              <lb ed="#A" n="116"/>nam reptobis, quos Deus gratia sua praeuenit, &amp; 
+              <lb ed="#A" n="117"/>aliquando iustificat, prouidet sine dubio omnia 
+              <lb ed="#A" n="118"/>media gratiae, vt vitam aeternam consequantur, 
+              <lb ed="#A" n="119"/>ad quam etiam eos dirigit, eos etiam ad 
+              poeniten<lb ed="#A" n="120" break="no"/>tiam adducere contendit, vt disput. 97. dicemus. 
+              <lb ed="#A" n="121"/>&amp; tamen non consequitur in eis finem: ergo non 
+              <lb ed="#A" n="122"/>est de ratione prouidentiae in vniuersum finem 
+              <lb ed="#A" n="123"/>consequi. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1390">
+              <lb ed="#A" n="124"/>Pro maiori vero explicatione obseruandum est 
+              <lb ed="#A" n="125"/>primo cum Ferrar. duo posse considerari in Dei 
+              <lb ed="#A" n="126"/>prouidentia ex parte effectus, vnum est ipsamen 
+              <lb ed="#A" n="127"/>applicatio mediorum ad finem, &amp; hanc statui 
+              <lb ed="#A" n="128"/>Deus efficaci sua voluntate ante consensum no 
+              <lb ed="#A" n="129"/>strum: sunt enim media prouidentiae Dei ad vi 
+              <lb ed="#A" n="130"/>tam aeternam gratiae prouenientis. quae fiunt in 
+              <lb ed="#A" n="131"/>nobis ante consensum, &amp; quoad hunc effectum 
+              <lb ed="#A" n="132"/>prouidentia semper impletur, &amp; quicquid Deus 
+              <lb ed="#A" n="133"/>vt medium alicui prouidit, semper reipsa 
+              tribui<lb ed="#A" n="134" break="no"/>tut, &amp; euenit, atque hoc sensu dixit S. Doctor in, 
+              <!--511.xml-->
+              <pb ed="#A" n="496"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>hac quaest. art. 3. ad 2. omnia, quae a peo 
+              prouiden<lb ed="#A" n="2" break="no"/>tur, euenire eo modo, quo ipse disposuit, &amp; decre 
+              <lb ed="#A" n="3"/>uit. Nam si prouidet auxilia praeuonientia, sempe 
+              <lb ed="#A" n="4"/>eueniunt, si vero prouidit auxilia concomitantia 
+              <lb ed="#A" n="5"/>eodem modo sequentur. Quia id, quod pens 
+              pro<lb ed="#A" n="6" break="no"/>uidit, semper statuit, &amp; decreuit voluntate efficaci 
+              <lb ed="#A" n="7"/>quae quidem semper impletur. Alterum in diuina 
+              <lb ed="#A" n="8"/>prouidentia est finis, quem non dicitur Deus pro 
+              <lb ed="#A" n="9"/>uidere, sed media ad illum, &amp; hunc diuina proui 
+              <lb ed="#A" n="10"/>dentia non semper consequitur, quia media 
+              relin<lb ed="#A" n="11" break="no"/>quit in potestate secundae causae, &amp; pro liberrate 
+              <lb ed="#A" n="12"/>illius cum ea cooperari decreuit, vt disp. 99. 
+              expli<lb ed="#A" n="13" break="no"/>cabimus. Hoc ergo posterius nostra opinio asserit. 
+              <lb ed="#A" n="14"/>quod nescio, qua ratione Caiet. inficiari possit. Nec 
+              <lb ed="#A" n="15"/>enim diuina prouidentia in reprobis consequitu 
+              <lb ed="#A" n="16"/>finem, ad quem Deus eos ordinat, &amp; ad quem ipsis 
+              <lb ed="#A" n="17"/>media praebet, ergo recte dicimus, prouidentiam 
+              <lb ed="#A" n="18"/>Dei non semper assequi finem, ad quem dirigit, &amp; 
+              <lb ed="#A" n="19"/>ad quem media praebet. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1465">
+              <lb ed="#A" n="20"/>Secundo nota, semper peum consequi ali 
+              <lb ed="#A" n="21"/>quem finem prouidentia sua. Nam in reprobis, 
+              <lb ed="#A" n="22"/>quos dicimus ad beatitudinem ordinari, &amp; proui 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1474">
+              <lb ed="#A" n="23"/>dentia pei dirigi, Deus alium finem consequitur. 
+              <lb ed="#A" n="24"/>sibi proprium: nempe ostendere diuitias gratia 
+              <lb ed="#A" n="25"/>suae in vasa misericordiae, vt disp. 95. cap. 9. ostende 
+              <lb ed="#A" n="26"/>mus: quod vero hactenus diximus, est, diuinam 
+              <lb ed="#A" n="27"/>prouidentiam ita media applicare, &amp; tribuere ho 
+              <lb ed="#A" n="28"/>minibus ad aliquem finem ab ipsis 
+              consequen<lb ed="#A" n="29" break="no"/>dum, vt aliquando illum non consequantur: non 
+              <lb ed="#A" n="30"/>tamen dicimus, Dei prouidentiam in 
+              applicatio<lb ed="#A" n="31" break="no"/>ne mediorum consecutione cuiuscumque finis 
+              <lb ed="#A" n="32"/>aliquando carere; semper enim aliquem conse 
+              <lb ed="#A" n="33"/>quitur, vt expositum est. Et hoc voluit S. Thomas 
+              <lb ed="#A" n="34"/>quaestio. illa de veritate, &amp; dist. illa 40. cum dixit 
+              <lb ed="#A" n="35"/>prouidentiam non seoper consequi finem, ad 
+              <lb ed="#A" n="36"/>quem ordinat. Quod vero asserit in art. 2. huius 
+              <lb ed="#A" n="37"/>quaest. ad I. nihil videlicet subterfugere Dei proui 
+              <lb ed="#A" n="38"/>dentiam, non est contra ea, quae diximus, quia 
+              <lb ed="#A" n="39"/>aliud est, omnia, quae eueniunt, sub diuinam 
+              pro<lb ed="#A" n="40" break="no"/>uidentiam cadere; aliud autem est, omnem finem 
+              <lb ed="#A" n="41"/>quem diuina prouidentia intendit, reipsa euenire 
+              <lb ed="#A" n="42"/>Prius igitur semper accidit, posterius vero 
+              defice<lb ed="#A" n="43" break="no"/>re potest. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1522">
+              <lb ed="#A" n="44"/>Tertio notandum est, prouidentiam 
+              commu<lb ed="#A" n="45" break="no"/>nem a praedestinatione hoc differre, quod praede 
+              <lb ed="#A" n="46"/>stinatio semper consequitur finem, ad quem ordi 
+              <lb ed="#A" n="47"/>natur, &amp; ad quem media prouidet, non quia vo 
+              <lb ed="#A" n="48"/>luntate efficaci ante applicationem mediorum 
+              fi<lb ed="#A" n="49" break="no"/>nem praefiniat, vt disp. 89. probabitur, sed quia me 
+              <lb ed="#A" n="50"/>dia talia prouidet, quae scientia sua nouit effectum 
+              <lb ed="#A" n="51"/>habitura circa consecutionem illius
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e159-Dd1e1543">
+            <p xml:id="tavaz1-d1e159-d1e1545">
+              <lb ed="#A" n="52" type="fixed=496"/>CAPVT V. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1550">
+              <lb ed="#A" n="53"/>Pradestinatio non est pars subiectiua, sed 
+              <lb ed="#A" n="54"/>obiectiua prouidentiae 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1557">
+              <lb ed="#A" n="55"/>Vaedam de praedestinatione in principie 
+              <lb ed="#A" n="56"/>quaestionis sequentis notari solent, quae cum 
+              <lb ed="#A" n="57"/>faciliora sint, &amp; ad praedestinationem pertineant 
+              <lb ed="#A" n="58"/>quatenus cum prouidentia confertur, visum est in 
+              <lb ed="#A" n="59"/>hoc cap. breuiter exponere. Qua etiam ratione si 
+              <lb ed="#A" n="60"/>mul de vtraque superius disputauimus, vtrum est 
+              <lb ed="#A" n="61"/>set operatio intellectus, an voluntatis. Primum 
+              <lb ed="#A" n="62"/>igitur, quod ad nominis Etymologiam attinet, 
+              <lb ed="#A" n="63"/>verbum praedestinare, componitur a prae, &amp; destinare: 
+              <lb ed="#A" n="64"/>significat autem destinare, duo inter alia: primum 
+              <lb ed="#A" n="65"/>mittere, deinde constiruere, aut definite; &amp; forsan 
+              <lb ed="#A" n="66"/>in omnibus locis, vbi significat mittere, vsurpari 
+              <!--511.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>etiam potest pro definire. Veluti vbi dicuntur 
+              mi<lb ed="#A" n="68" break="no"/>sites destinari ad aliquem locum, hoc est, mitti, 
+              si<lb ed="#A" n="69" break="no"/>gnificare potest, definire, vt mittantur. Secundum 
+              <lb ed="#A" n="70"/>priorem significationem deriuat S. Thomas 
+              no<lb ed="#A" n="71" break="no"/>men praedestinatio, vt denotet transmissionem 
+              quan<lb ed="#A" n="72" break="no"/>dam hominis in vitam aeternam: ideim censet 
+              Du<lb ed="#A" n="73" break="no"/>r.and. in i. d. 40. q. 1. art. 5. Sed Alex. 1. p. q. 28 mem. 1. art. 1. 
+              <lb ed="#A" n="74"/>nomen deducit ex posteriori significatione, quae 
+              <lb ed="#A" n="75"/>videtur magis conueniens. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1609">
+              <lb ed="#A" n="76"/>De praepositione vero prae varie sentiunt 
+              Do<lb ed="#A" n="77" break="no"/>ctores: Catherin. opusc. de praedest. cap. 1. asserit, 
+              signifi<lb ed="#A" n="78" break="no"/>care dignitatem. Quare praedestinari dicit, eos, qui 
+              <lb ed="#A" n="79"/>prae alijs saluandis digniori modo destinantur ad 
+              <lb ed="#A" n="80"/>gloriam, quos ipse eximie praedestinatos appellat. 
+              <lb ed="#A" n="81"/>Hi sunt in eius sententia, quibus ante merita 
+              prae<lb ed="#A" n="82" break="no"/>uisa decreuit Deus dare vitam aeternam, de quo 
+              di<lb ed="#A" n="83" break="no"/>cemus disp 90. Bartholomaeus Camerarius in Dialogo 
+              <lb ed="#A" n="84"/>Catholico, cap. 1. §. 2. censet, particulam prae, 
+              dignita<lb ed="#A" n="85" break="no"/>tem quoque significare, sed alio modo, eorum vi 
+              <lb ed="#A" n="86"/>delicet, qui saluantur relatione ad damnatos, quasi 
+              <lb ed="#A" n="87"/>hi dicantur prae alijs scilicet damnatis in viram 
+              <lb ed="#A" n="88"/>aeternam destinati. Communior tamen S. 
+              holasti<lb ed="#A" n="89" break="no"/>corum sententia est, illud prae, significare auteces 
+              <lb ed="#A" n="90"/>sionem durationis, vt ita praedestinatio idem sit. 
+              <lb ed="#A" n="91"/>quod praefinitio, &amp; aeterna pei ante omnia 
+              tempo<lb ed="#A" n="92" break="no"/>ra ordinatio. Potest etiam ea particula significare 
+              <lb ed="#A" n="93"/>antecessionem causae respectu nostri arbitrij, vt 
+              <lb ed="#A" n="94"/>Deus dicatur praedestinare, aut praefinire aliquid, 
+              <lb ed="#A" n="95"/>ante nostrum consensum etiam praeuisum, in quo 
+              <lb ed="#A" n="96"/>sensu videtur locutus Damasc. 2 de fide, cap vlt. &amp; 
+              ali<lb ed="#A" n="97" break="no"/>bi: de quo iterum in disp. 59. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1659">
+              <lb ed="#A" n="98"/>Deinde praemittendum est, vt optime notanis 
+              <lb ed="#A" n="99"/>Driedo tractatu de concordia lib. arbit. &amp; praedestinat. c. 1. 
+              <lb ed="#A" n="100"/>nomen Praedestinatio, aliquando vsurpari communm 
+              <lb ed="#A" n="101"/>ter, aliquando proprie: e peculiari modo commu 
+              <lb ed="#A" n="102"/>niter acceptum significat tam destinationem pro 
+              <lb ed="#A" n="103"/>uidentiae hominis in vitam aeternam, quam in 
+              sup<lb ed="#A" n="104" break="no"/>plicium: atque ita reprobationem quoque 
+              com<lb ed="#A" n="105" break="no"/>prehendit. Sic accipit August. 15. de Ciuit. cap t. cum 
+              <lb ed="#A" n="106"/>asserit de duabus illis ciuitatibus, alteram 
+              praede<lb ed="#A" n="107" break="no"/>stinatam ad gloriam, alteram ad ignem aeternam: 
+              <lb ed="#A" n="108"/>&amp; consentiunt Prosper in respon. 14. &amp; 15. ad capita 
+              Gal<lb ed="#A" n="109" break="no"/>lorum, Fulgent. lib. 1. ad Monymum, cap. 14. &amp; 30. &amp; ali 
+              <lb ed="#A" n="110"/>bi saepenumero. Concilium Valentinam sub Lo 
+              <lb ed="#A" n="111"/>thario Imperatore, capl4. Proprie autem 
+              praede<lb ed="#A" n="112" break="no"/>stinatio vsurpatur pro destinatione alicuius in vi 
+              <lb ed="#A" n="113"/>tam aeternam, ita Paul. ad Roman. 8. &amp; alibi, &amp; 
+              <lb ed="#A" n="114"/>Concilium Trident. Patres, &amp; Scholastici 
+              commu<lb ed="#A" n="115" break="no"/>niter. Quoties igitur nomine praedestinatio, aut 
+              <lb ed="#A" n="116"/>praedestinatus, absolute vtimur, intelligimus 
+              sem<lb ed="#A" n="117" break="no"/>pet praedestinationem ad vitam: reprobationem 
+              <lb ed="#A" n="118"/>vero nunquam nisi addamus ad mortem, seu ad 
+              <lb ed="#A" n="119"/>supplicium. Quid vero proprie sit haec 
+              praedesti<lb ed="#A" n="120" break="no"/>natio peculiaris, quae tantum est circa gratiam, &amp; 
+              <lb ed="#A" n="121"/>circa vitam aeternam, an sit voluntas ipsa solum 
+              <lb ed="#A" n="122"/>dandi vitam aeternam, vel voluntas praeparandi 
+              <lb ed="#A" n="123"/>media omnia gratiae ad illam, dicemus 
+              disputatio<lb ed="#A" n="124" break="no"/>ne 89. cap. 3. nunc autem, vt eam distinguamus a 
+              <lb ed="#A" n="125"/>prouidentia in vniuersum, &amp; vt ostendamus esse 
+              <lb ed="#A" n="126"/>partem illius subiectiuam, satis est, in genere di 
+              <lb ed="#A" n="127"/>xisle, praedestinationem proprie sumptam circa 
+              <lb ed="#A" n="128"/>gratiam, &amp; gloriam, aut circa alterum illorum 
+              <lb ed="#A" n="129"/>veriari. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1732">
+              <lb ed="#A" n="130"/>Anvero sit pars subiectiua prouidentiae, non 
+              <lb ed="#A" n="131"/>eodem modo videntur Doctores sentire. Caieta. 
+              <lb ed="#A" n="132"/>infra quaest. 23. artic. 1. docet, non esse partem 
+              sub<lb ed="#A" n="133" break="no"/>iectiuam, sed obiectiuam: per partem 
+              subiecti<lb ed="#A" n="134" break="no"/>uam alicuius omnes intelligunt speciem respectu 
+              <!--512.xml-->
+              <pb ed="#A" n="497"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>generis: dicit igitur esse partem obiectiuam, quia 
+              <lb ed="#A" n="2"/>circa aliquod peculiare obiectum prouidentia 
+              <lb ed="#A" n="3"/>versatur: sed non subiectiuam, quia non est species 
+              <lb ed="#A" n="4"/>prouidentiae. Comparare videtur 
+              praedestinatio<lb ed="#A" n="5" break="no"/>nem cum prouidentia, sicut partem aliquam phi 
+              <lb ed="#A" n="6"/>losophiae, scilicet eam, quae tractat de coelo, cum 
+              <lb ed="#A" n="7"/>vniuersa philosophia. Haec est enim scientia 
+              quae<lb ed="#A" n="8" break="no"/>dam communis, quae sub se partes aliquas, non 
+              <lb ed="#A" n="9"/>sicut species, sed quasi integrantes continet. 
+              Pro<lb ed="#A" n="10" break="no"/>bari vero potest haec opinio ex doctrina tradita su 
+              <lb ed="#A" n="11"/>pra disput. 72. videlicet. in Deo esse solum vnam 
+              <lb ed="#A" n="12"/>artem, licet sint plures ideae, quia est vnicus 
+              secun<lb ed="#A" n="13" break="no"/>dum speciem modus sciendi, etiamsi sint plura 
+              ob<lb ed="#A" n="14" break="no"/>iecta, quae ea arte fiunt, quibus plures quoque ideo 
+              <lb ed="#A" n="15"/>assignantur. Nam cum in peo videatur esse idem 
+              <lb ed="#A" n="16"/>modus prouidendi rebus media necessaria, ad suos 
+              <lb ed="#A" n="17"/>fines, etiamsi sint varia media ad varios fines; 
+              ea<lb ed="#A" n="18" break="no"/>dem in specie erit diuina prouidentia; quatenus 
+              <lb ed="#A" n="19"/>prouidentia, ac proinde non continebit sub se 
+              <lb ed="#A" n="20"/>hanc, &amp; illam prouidentiam veluti species, sed sic 
+              <lb ed="#A" n="21"/>ut partes eiusdem prouidentiae, quia circa lingula 
+              <lb ed="#A" n="22"/>obiecta versantur. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e1799">
+              <lb ed="#A" n="23"/>Alij vero plures putant, praedestinationem esse 
+              <lb ed="#A" n="24"/>partem subiectiuam prouidentiae, sic sentiunt 
+              <lb ed="#A" n="25"/>S. Th. q. 6. de verit. art. 1. &amp; in) dist. 40. quaest 1. art. 2. 
+              Du<lb ed="#A" n="26" break="no"/>rand. quaest.i.num. 6. Capreol. quaest. vnica, art. 1. 
+              conclusio<lb ed="#A" n="27" break="no"/>ne 2. Marsil. in 1. quaest. 41. art. 1. Bartholom. Camerarius in 
+              <lb ed="#A" n="28"/>Dialogo Catholico, cap. 1§. 4. sed qua ratione id 
+              pro<lb ed="#A" n="29" break="no"/>bent, non video: ideo licet non multum referat, 
+              <lb ed="#A" n="30"/>hoc, vel illo modo loqui, mihi magis probatur 
+              <lb ed="#A" n="31"/>sententia Caietani. quam non obscure indicat 
+              <lb ed="#A" n="32"/>S. Doctor q. 23. a. 1. in fine. 
+            </p>
+          </div>
+        </div>
+        <div xml:id="tavaz1-d1e159-Dd1e1825"><!-- vaz-p1q22a2-p1 -->
+          <head xml:id="tavaz1-d1e159-Hd1e1828">Articulus 2</head>
+          <p xml:id="tavaz1-d1e159-d1e1830">
+            <lb ed="#A" n="114" type="fixed=498"/>Obseruationes circa doctrinam articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e159-d1e1835">
+            <lb ed="#A" n="115"/>COnclusio est, Omnia &amp; singula creata subiecta 
+            <lb ed="#A" n="116"/>sunt diuinae prouidentiae, intelligitur autem 
+            ex<lb ed="#A" n="117" break="no"/>ceptis peccatis, de quibus postea nonnihil dice 
+            <lb ed="#A" n="118"/>mus, est autem expressa in Scriptura Sap. 8. Lucae 
+            <lb ed="#A" n="119"/>12. Matth. 6. vt disputatione praecedenti cap. 1. 
+            al<lb ed="#A" n="120" break="no"/>legauimus, vbi etiam diximus quo pacto pei cura 
+            <!--514.xml-->
+            <pb ed="#A" n="499"/>
+            <cb ed="#A" n="a"/>
+            <lb ed="#A" n="1"/>&amp; prouidentia circa fingula etiam minima verse 
+            <lb ed="#A" n="2"/>tur, &amp; dicemus disp. 99. Hic solum supersunt quae 
+            <lb ed="#A" n="3"/>dam notanda: primum est, falsum docuisse lulium 
+            <lb ed="#A" n="4"/>Sirenium lib. 2. de faro, cap. 25. cum probat monstra, &amp; 
+            <lb ed="#A" n="5"/>onnes defectus naturales, non solum casu &amp; 
+            te<lb ed="#A" n="6" break="no"/>mere euenire secundis causis, quae in oppositum 
+            <lb ed="#A" n="7"/>vi naturae ferebantur, sed etiam Deo, qui eas ad 
+            <lb ed="#A" n="8"/>oppositum inclinabat. Falsum igitur docet, &amp; 
+            ab<lb ed="#A" n="9" break="no"/>surdum: nam licet Deus quasdam secundas causa. 
+            <lb ed="#A" n="10"/>inclinet ad effectum aliquem, &amp; adiuuare incipiat: 
+            <lb ed="#A" n="11"/>quia tamen applicat contrarias, quibusdam aliae 
+            <lb ed="#A" n="12"/>impediuntur, monstra generantur, &amp; defectus 
+            <lb ed="#A" n="13"/>eueniunt: tales monstrosi euentus Deo fortuiti 
+            es<lb ed="#A" n="14" break="no"/>se nequeunt; cum non sint praeter eius 
+            intentio<lb ed="#A" n="15" break="no"/>nem applicantis oppositas causas, quibus scit, &amp; 
+            <lb ed="#A" n="16"/>vult talia monstra prodire, ergo aut Sirenius 
+            de<lb ed="#A" n="17" break="no"/>bet concedere, Deum non applicare oppolitas 
+            <lb ed="#A" n="18"/>causas, nec cum illis proposito voluntatis suae 
+            con<lb ed="#A" n="19" break="no"/>currere, quod est haereticum: aut dicere non 
+            po<lb ed="#A" n="20" break="no"/>test, tales effectus ipsi esse fortuitos, cum sint 
+            se<lb ed="#A" n="21" break="no"/>cundum illius intentionem, &amp; voluntatem. 
+          </p>
+          <p xml:id="tavaz1-d1e159-d1e1903">
+            <lb ed="#A" n="22"/>Secundo multa consumit Caiet. circa 
+            solutio<lb ed="#A" n="23" break="no"/>nem secundi, vt ostendat, quo pacto peccata sint 
+            <lb ed="#A" n="24"/>a Deo permissa propter bonum vniuersi, &amp; probat 
+            <lb ed="#A" n="25"/>perfectius fuisse hoc vniuersum, eo modo quo 
+            <lb ed="#A" n="26"/>nunc est, permisso peccato, quam si Adamus, &amp; 
+            <lb ed="#A" n="27"/>Angeli mali in gratia perseuetassent. Hoc autem 
+            <lb ed="#A" n="28"/>intelligit, non solum quia nunc habet Christum, 
+            <lb ed="#A" n="29"/>sed etiam si sine peccato ipsum haberet propter 
+            <lb ed="#A" n="30"/>alia bona, quae ex peccato nata sunt, scilicet pro 
+            <lb ed="#A" n="31"/>pter martyrium, poenitentiam, &amp;c. De hac re 
+            non<lb ed="#A" n="32" break="no"/>nihil disseremus infra disput. 107. hic tamen 
+            pri<lb ed="#A" n="33" break="no"/>mum dicendum est, Deum non permisisse 
+            pecca<lb ed="#A" n="34" break="no"/>tum ex intentione aut poenitentiae, aut martyrij 
+            <lb ed="#A" n="35"/>aut aliorum bonorum, quae ex illius occasione 
+            se<lb ed="#A" n="36" break="no"/>cuta sunt, eo quod haec bona hon sunt primariae 
+            <lb ed="#A" n="37"/>&amp; antecedentis voluntatis Dei, sed consequentis 
+            <lb ed="#A" n="38"/>quae est post praeuisum peccatum, vt ostendimus 
+            <lb ed="#A" n="39"/>ex mente Damas. supra disp. 83. cap. 3. ex quo etiam 
+            <lb ed="#A" n="40"/>infra disp. 93. cap. 2. probabimus in praedestinatis 
+            <lb ed="#A" n="41"/>Deum non permittere peccatum ex intentione 
+            <lb ed="#A" n="42"/>poenitentiae, ideoque permissionem peccati non 
+            <lb ed="#A" n="43"/>esse effectum praedestinationis. Deinde dico, 
+            mul<lb ed="#A" n="44" break="no"/>tas quidem esse rationes congruitatis, ob quas 
+            <lb ed="#A" n="45"/>Deus dicitur recte peccatum permisisse, vt videre 
+            <lb ed="#A" n="46"/>est apud S. Thomam 3. contra gentes, capite 71. nec 
+            <lb ed="#A" n="47"/>aliae deessent, si Deus non permisisset: quid auten 
+            <lb ed="#A" n="48"/>in re ipsa, &amp; vniuerso melius esset, Dei esto 
+            iu<lb ed="#A" n="49" break="no"/>dicium: tametsi nonnihil de hac re in eo articulo 
+            <lb ed="#A" n="50"/>dicemus. 
+          </p>
+          <p xml:id="tavaz1-d1e159-d1e1968">
+            <lb ed="#A" n="51"/>Tertio notandum est circa solutionem 
+            secun<lb ed="#A" n="52" break="no"/>di, quo pacto peccata subiecta sint diuinae 
+            proui<lb ed="#A" n="53" break="no"/>dentiae. Quamuis enim diuerso modo Scholastic. 
+            <lb ed="#A" n="54"/>in hac re loquantur, eadem tamen mihi videtu 
+            <lb ed="#A" n="55"/>omnium sententia. Alexan. 1.p. q. 36. mem. 4. artic. 1. 
+            <lb ed="#A" n="56"/>Durand. in 1. d. 39. q. 3. num. 10. dicunt, peccata 
+            ca<lb ed="#A" n="57" break="no"/>dere sub Dei prouidentiam, vel quia Deus circa 
+            <lb ed="#A" n="58"/>ea aliquid prouidet, ne fiant; vel quia facta ita 
+            or<lb ed="#A" n="59" break="no"/>dinat, vt materiae sint poenitentiae, &amp; eruditionis 
+            <lb ed="#A" n="60"/>&amp; aliqui putant idipsum dixisse S. Th. 3. contra gent 
+            <lb ed="#A" n="61"/>cap. 71. ibi tamen solum ait, Deum esse prouidum 
+            <lb ed="#A" n="62"/>etiamsi eius prouidentia non impediat omne 
+            ma<lb ed="#A" n="63" break="no"/>lum. Idem S. Th. q. 5. de verit. art. 4. &amp; Ferrar. 3. cont. 
+            <lb ed="#A" n="64"/>gen. cap. 71. dicunt, dupliciter aliquid sub Dei proui 
+            <lb ed="#A" n="65"/>dentiam cadere. Primum sicut id, ad quod 
+            facien<lb ed="#A" n="66" break="no"/>dum Deus alia ordinat, &amp; ipsum etiam ad aliud 
+            <lb ed="#A" n="67"/>&amp; hic est effectus diuinae prouidentiae, qui ab 
+            e<lb ed="#A" n="68" break="no"/>sit, sicut actus generandi, ad quem potentia or¬ 
+            <!--514.xml-->
+            <cb ed="#A" n="b"/>
+            <lb ed="#A" n="69"/>dinatur a Deo, &amp; ipse ordinatur ad hominem 
+            pro<lb ed="#A" n="70" break="no"/>ducendum, &amp; haec dicitur a S. Thoma 
+            prouiden<lb ed="#A" n="71" break="no"/>tia approbationis; quia est voluntas approbans 
+            <lb ed="#A" n="72"/>tem illam, aut supponit hanc voluntatem illius 
+            <lb ed="#A" n="73"/>rei, quae sub prouidentiam cadere dicitur. 
+            Dein<lb ed="#A" n="74" break="no"/>de aliquid subditur diuinae prouidentiae, non sicut 
+            <lb ed="#A" n="75"/>effectus illius, sed quia factum Deus ordinat ad 
+            <lb ed="#A" n="76"/>alia: &amp; hoc modo peccata subiecta sunt diuinae 
+            <lb ed="#A" n="77"/>prouidentiae; non autem priori modo: ergo 
+            quam<lb ed="#A" n="78" break="no"/>uis dicamus, prouidentiam Dei versari circa 
+            pec<lb ed="#A" n="79" break="no"/>cata, vel peccata esse subiecta prouidentiae, &amp; sub 
+            <lb ed="#A" n="80"/>illam cadere; tamen, vt haec vere dicantur, satis est, 
+            <lb ed="#A" n="81"/>si peccata sint veluti materia, circa quam 
+            proui<lb ed="#A" n="82" break="no"/>dentia aliquid facit. Dicitamen non potest, 
+            pec<lb ed="#A" n="83" break="no"/>cara a Deo prouisa esse, tametsi praeuisa, &amp; 
+            praesci<lb ed="#A" n="84" break="no"/>ta sint; quia prouisa esse, denotat effectus esse 
+            diui<lb ed="#A" n="85" break="no"/>nae voluntatis, &amp; prouidentiae. 
+          </p>
+          <p xml:id="tavaz1-d1e159-d1e2052">
+            <lb ed="#A" n="86"/>Hac de causa dixit S. Doctor supra q. 14. art. 16. 
+            <lb ed="#A" n="87"/>Deum habere scientiam practicam peccatorum 
+            <lb ed="#A" n="88"/>quatenus permittit ea, vel impedit, vel facta or 
+            <lb ed="#A" n="89"/>dinat: est igitur scientia practica peccatorum, non 
+            <lb ed="#A" n="90"/>tanquam effectus, sed tanquam materia, circa 
+            <lb ed="#A" n="91"/>quam aliquid faciendum ordinat. Contra vero, 
+            <lb ed="#A" n="92"/>cum in hoc articulo ait, tantum se extendere 
+            or<lb ed="#A" n="93" break="no"/>dinationem agentis in finem, quantum 
+            causali<lb ed="#A" n="94" break="no"/>tas illius se extendit, vt ita ostendat Deum ea 
+            om<lb ed="#A" n="95" break="no"/>nia prouidere in finem, quorum est causa, 
+            loqui<lb ed="#A" n="96" break="no"/>tur de ijs, quae prouidentia Dei ordinantur, vt 
+            <lb ed="#A" n="97"/>fiant: ea enim sic ordinantur a Deo, quae ab ipso 
+            <lb ed="#A" n="98"/>fiunt: non tamen loquitur de ijs, quae facta 
+            ordi<lb ed="#A" n="99" break="no"/>nantur, &amp; conducunt, qualia sunt peccata, ad haec 
+            <lb ed="#A" n="100"/>enim se extendit ordinatio diuinae prouidentiae, 
+            <lb ed="#A" n="101"/>sed non efficacitas. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e159-Dd1e2091"><!-- vaz-p1q22a3 -->
+          <head xml:id="tavaz1-d1e159-Hd1e2094">Articulus 3</head>
+          <div xml:id="tavaz1-d1e159-Dd1e2096"><!-- vaz-p1q22a3-p1 -->
+            <p xml:id="tavaz1-d1e159-d1e2099">
+              <lb ed="#A" n="63" type="fixed=500"/>DVas elicit Caietan. conclusiones ex hoc 
+              ar<lb ed="#A" n="64" break="no"/>tic. prior est: Quoad rationem ordinis rerum pro 
+              <lb ed="#A" n="65"/>uisarum Deus omnibus prouidet immediate. Posterio 
+              <lb ed="#A" n="66"/>conclusio. Quoad executionem prouidentiae, non om 
+              <lb ed="#A" n="67"/>nibus prouidet immediate, sed pluribus rebus prouidet 
+              me<lb ed="#A" n="68" break="no"/>dijs secundis causis. Eandem doctrinam habet infra 
+              qui<lb ed="#A" n="69" break="no"/>103. art. 6. vbi idem quaerit de gubernatione, quod 
+              <lb ed="#A" n="70"/>hic de prouidentia, &amp; eas duas conclusiones alijs 
+              <lb ed="#A" n="71"/>verbis tradidit. Vna est. Deus gubernat omnia 
+              imme<lb ed="#A" n="72" break="no"/>diate: quoad rationem gubernationis. Ratio enim 
+              gu<lb ed="#A" n="73" break="no"/>bernationis idem est, quod prouidentia. Altera est 
+              <lb ed="#A" n="74"/>Deus non omnia gubernat, quoad executionem immedia 
+              <lb ed="#A" n="75"/>te. Idem cum S. Tho. docuit Alexan.1. p. q. 26. memi 
+              <lb ed="#A" n="76"/>5. artic. 2. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e159-Dd1e2133"><!-- vaz-p1q22a3-p2 -->
+            <p xml:id="tavaz1-d1e159-d1e2136">
+              <lb ed="#A" n="77" type="fixed=500"/>Dubitatio circa textum articuli. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2141">
+              <lb ed="#A" n="78"/>TT mentem S. Tho. explanet Caiet. dubitat 
+              <lb ed="#A" n="79"/>V. circa vtramque conclusionem: quia non 
+              vi<lb ed="#A" n="80" break="no"/>dentur sibi constare: aut enim in vtraque loquitur 
+              <lb ed="#A" n="81"/>S. Thomas de immediatione (vt aiunt) virtutis, 
+              <lb ed="#A" n="82"/>aut de immediatione suppositi, si de 
+              immediatio<lb ed="#A" n="83" break="no"/>ne suppositi, videtur prior conclusio falsa: quia 
+              <lb ed="#A" n="84"/>peus prouidet humanis actibus media ratione, &amp; 
+              <lb ed="#A" n="85"/>voluntate creata: atque eadem media eos 
+              guber<lb ed="#A" n="86" break="no"/>nat. Si vero in vtraque sermo est de immediatione 
+              <lb ed="#A" n="87"/>virtutis, posterior propositio falsa est. Nam peus 
+              <lb ed="#A" n="88"/>immediatione virtutis, vtpote propria virtute, &amp; 
+              <lb ed="#A" n="89"/>non ab alio mendicata, omnia gubernat. quodsi in 
+              <lb ed="#A" n="90"/>vna conclusione loqueretur S. Tho. de 
+              immedia<lb ed="#A" n="91" break="no"/>tione virtutis, in alia vero de immediatione 
+              sup<lb ed="#A" n="92" break="no"/>positi, esset in paucis verbis magna varietas: quod 
+              <lb ed="#A" n="93"/>vero simile non est 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2178">
+              <lb ed="#A" n="94"/>Huic dubitationi respondet Caiet. ratione 
+              ma<lb ed="#A" n="95" break="no"/>teriae priorem conclusionem veram esse de 
+              imme<lb ed="#A" n="96" break="no"/>diatione virtutis: quia peus propria virtute 
+              om<lb ed="#A" n="97" break="no"/>nibus prouidet: posteriorem vero de immediatio 
+              <lb ed="#A" n="98"/>ne suppositi, eo quod peus supposito proximus 
+              <lb ed="#A" n="99"/>est cuilibet effectui: omnibus enim secundum es 
+              <lb ed="#A" n="100"/>sentiam adest, sed addit poctorem sanctum non 
+              <lb ed="#A" n="101"/>intelligere hoc modo: loquitur enim (ait Caiet. 
+              <lb ed="#A" n="102"/>formaliter de propria immediatione, quae in suo 
+              <lb ed="#A" n="103"/>genere cui respondet, prouidentiae scilicet, &amp; 
+              gu<lb ed="#A" n="104" break="no"/>bernationi 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2204">
+              <lb ed="#A" n="105"/>Cuius gratia notat, inter rationem 
+              gubernatri<lb ed="#A" n="106" break="no"/>cem, quae est prouidentia, &amp; res gubernatas 
+              bifa<lb ed="#A" n="107" break="no"/>riam posse intercedere aliam rationem, vno 
+              mo<lb ed="#A" n="108" break="no"/>do vt suppleat aliquid, quod defuit ratione 
+              guber<lb ed="#A" n="109" break="no"/>natrici, vtputa, quia ratio gubernatrix dedit 
+              re<lb ed="#A" n="110" break="no"/>gulas solum vniuerse, &amp; ordinauit, quae praecipua 
+              <lb ed="#A" n="111"/>erant. Caetera vero singularia commisit rationi 
+              in<lb ed="#A" n="112" break="no"/>feriori, quam assumit vt medium suae 
+              prouiden<lb ed="#A" n="113" break="no"/>tiae: id quod Regibus frequenter euenire solet. 
+              <lb ed="#A" n="114"/>Hoc modo ratio inferior media est, &amp; intercedit, 
+              <lb ed="#A" n="115"/>vt ratio: quia in prouidentia, &amp; dispositione 
+              gu<lb ed="#A" n="116" break="no"/>bernationis coniungit communia singularibus. 
+              <lb ed="#A" n="117"/>Sic autem Deus non vtitur media aliqua ratione 
+              <lb ed="#A" n="118"/>creata in sua prouidentia, aut in sua ratione 
+              guber<lb ed="#A" n="119" break="no"/>nandi. Ipse enim per se ipsum rebus minimis toto 
+              <lb ed="#A" n="120"/>studio, &amp; cura incumbit, sicut maximis, &amp; vni 
+              <lb ed="#A" n="121"/>uersalibus. Altero modo ratio potest esse media, 
+              <lb ed="#A" n="122"/>vt minister, non vt ratio? quia scilicet principalis 
+              <lb ed="#A" n="123"/>disponit omnia, etiam minima, &amp; singularia: tra 
+              <lb ed="#A" n="124"/>dit autem rationi inferiori vt ministro: sicut 
+              peri<lb ed="#A" n="125" break="no"/>ti artifices tradunt ministris etiam minima, qua 
+              <lb ed="#A" n="126"/>facienda sunt, &amp; hoc modo vtitur Deus ratione 
+              <!--516.xml-->
+              <pb ed="#A" n="501"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>humana ad rationem gubernationis suae, &amp; 
+              pro<lb ed="#A" n="2" break="no"/>uidentiae non vt ratione, sed vt ministro. Si enim 
+              <lb ed="#A" n="3"/>ratio humana intercederet, &amp; media esset, vt 
+              ra<lb ed="#A" n="4" break="no"/>tio, diuina prouidentia, &amp; ratio gubernationis 
+              <lb ed="#A" n="5"/>non attingeret sua virture proxime rerum 
+              guber<lb ed="#A" n="6" break="no"/>nationem: sed media esset alia virtus, vt ratio, quod 
+              <lb ed="#A" n="7"/>est absurdum: bene tamen dicemus, Deum habere 
+              <lb ed="#A" n="8"/>rationem gubernandarum aliquarum rerum, scili 
+              <lb ed="#A" n="9"/>cet humanarum medio aliquo, vt supposito, 
+              me<lb ed="#A" n="10" break="no"/>dia, inquam, ratioie creata, non vt ratione: sic enim 
+              <lb ed="#A" n="11"/>res disponeret media alia virture, quia quod 
+              in<lb ed="#A" n="12" break="no"/>tercedit vt ratio, intercedit vt virtus; sed media ra 
+              <lb ed="#A" n="13"/>tione vt ministro, quod est esse mediam, tanquam 
+              <lb ed="#A" n="14"/>suppositum. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2291">
+              <lb ed="#A" n="15"/>Mirabile sane est ingenium Caiet. qui dum 
+              fo<lb ed="#A" n="16" break="no"/>lita subtilitate mentem S. Tho. explanare 
+              conten<lb ed="#A" n="17" break="no"/>dit, difficiliorem plane reddit. Ergo hanc eius 
+              in<lb ed="#A" n="18" break="no"/>terpretationem non esse secundum mentem 
+              Do<lb ed="#A" n="19" break="no"/>ctoris Angelici, vel ex ipso textu articuli perspi 
+              <lb ed="#A" n="20"/>cuae colligi potest, qui non parum facilis est. Ille 
+              <lb ed="#A" n="21"/>enim distinguit in Deo duos actus voluntatis, &amp; 
+              <lb ed="#A" n="22"/>duos intellectus simul. Primum enim est in Dec 
+              <lb ed="#A" n="23"/>prouidentia de rebus, quam appellauit ille in hac 
+              <lb ed="#A" n="24"/>1. p. q. 113. a. 6. rationem gubernationis, qua scilicet 
+              <lb ed="#A" n="25"/>Deus disponit apud se, quae sunt facienda. Deinde 
+              <lb ed="#A" n="26"/>est gubernatio ipsa, actus intellectus, &amp; 
+              volunta<lb ed="#A" n="27" break="no"/>tis, quo actu mouet ad ipsam executionem. Haec 
+              <lb ed="#A" n="28"/>duo distinguere videtur S. Th. in hoc a. sed clarissi 
+              <lb ed="#A" n="29"/>me qui sequen. art. 2. docet enim ibi, praedestinatio 
+              <lb ed="#A" n="30"/>nem, seu prouidentiam, quae est ratio quaedam in 
+              <lb ed="#A" n="31"/>intellectu prouidentis, &amp; praedestinantis, nihil 
+              po<lb ed="#A" n="32" break="no"/>nere, aut efficere in rebus prouisis, aut praedestina 
+              <lb ed="#A" n="33"/>tis; sed executionem prouidentiae effectum 
+              habe<lb ed="#A" n="34" break="no"/>re in rebus prouisis. Hanc vero executionem, 
+              do<lb ed="#A" n="35" break="no"/>cet, passiue quidem esse in rebus effectis, actiue 
+              <lb ed="#A" n="36"/>vero in ipso Deo. pistinguit autem in peo hos 
+              <lb ed="#A" n="37"/>duos actus prouidentiae, &amp; gubernationis, instar 
+              <lb ed="#A" n="38"/>eorum, qui in nobis realiter diuersi inueniuntur, 
+              <lb ed="#A" n="39"/>nam primum apud nos deliberamus, quid 
+              facien<lb ed="#A" n="40" break="no"/>dum sit; deinde post aliquod tempus alio actu 
+              in<lb ed="#A" n="41" break="no"/>tellectus, &amp; voluntatis exequimur rem, &amp; ad opus 
+              <lb ed="#A" n="42"/>mouemur, quodsi peus eodem actu secundum ra 
+              <lb ed="#A" n="43"/>tionem, quo prouider, exequeretur, 
+              praedestina<lb ed="#A" n="44" break="no"/>tio, &amp; prouidentia ponerent aliquid in effectu, &amp; 
+              <lb ed="#A" n="45"/>re prouisa. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2362">
+              <lb ed="#A" n="46"/>Docet igitur in hoc art. ad prouidentiam, qua 
+              <lb ed="#A" n="47"/>respondet nostrae consultationi, non vti Deum 
+              ali<lb ed="#A" n="48" break="no"/>quo medio: eo quod neminem sibi adhibet consi 
+              <lb ed="#A" n="49"/>liarium, sed secum ipse deliberat, quid faciendum 
+              <lb ed="#A" n="50"/>sit. Non ergo excludit diuina prouidentia media 
+              <lb ed="#A" n="51"/>quae ex parte effectus conuenire debent, vt res 
+              <lb ed="#A" n="52"/>fiat; sed horum omnium in suo consilio Deus 
+              ra<lb ed="#A" n="53" break="no"/>tionem habet. Nam nisi ad haec aspiceret, proui 
+              <lb ed="#A" n="54"/>dentia sua euerteret omnem libertatem, &amp; rerum 
+              <lb ed="#A" n="55"/>creatatum efficacitatem, vt disp. 99. fusius 
+              osten<lb ed="#A" n="56" break="no"/>demus. Sed neminem admittit vt consiliarium, cu 
+              <lb ed="#A" n="57"/>ius prouidentia iuuerur in rerum dispositione, &amp; 
+              <lb ed="#A" n="58"/>prouidentia, quam apud se statuit: &amp; hoc voluit 
+              do<lb ed="#A" n="59" break="no"/>cere in priori conclusione articuli. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2395">
+              <lb ed="#A" n="60"/>At vero executio, quia tendit ad effectum, &amp; 
+              <lb ed="#A" n="61"/>ponit aliquid in reipsa, &amp; multa Deus efficit, &amp; 
+              <lb ed="#A" n="62"/>exequitur, non solus, sed concursu aliarum 
+              causa<lb ed="#A" n="63" break="no"/>rum; ideo optime dixit S. Thomas in conclusione 
+              <lb ed="#A" n="64"/>posteriori, Deum non omnia exequi per se 
+              so<lb ed="#A" n="65" break="no"/>lum, sed multa interuentu causarum secundarum 
+              <lb ed="#A" n="66"/>atque eodem modo non omnium executionem 
+              <lb ed="#A" n="67"/>prouidere apud se faciendam per se solum, sed 
+              fa<lb ed="#A" n="68" break="no"/>ciendam medijs alijs secundis causis, negat igitur 
+              <!--516.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="69"/>medium ex parte consilij, sed non negat ex parte 
+              <lb ed="#A" n="70"/>effectus 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2426">
+              <lb ed="#A" n="71"/>Sed quaeret quis, au Deus gubernet omnia im 
+              <lb ed="#A" n="72"/>mediatione suppositi, aut immediatione virtutis 
+              <lb ed="#A" n="73"/>Videtur enim S. Tho. in i.d. 37. q 1art. 1. ad 4. docere 
+              <lb ed="#A" n="74"/>Deum magis immediate agere, quam 
+              quodcun<lb ed="#A" n="75" break="no"/>que aliud agens. Idem docet dist. 12. artic. 3. ad j. sed 
+              <lb ed="#A" n="76"/>q 3. de potentia, ar. 7. circa finem ait, quodlibet agens 
+              <lb ed="#A" n="77"/>naturale esse immediatum suo effectui. Respondet 
+              <lb ed="#A" n="78"/>petrus Beigomus in concordantijs locorum S. Thom dub. 
+              <lb ed="#A" n="79"/>504. Deum operari immediatione virtutis, magis 
+              <lb ed="#A" n="80"/>immediate, quam secundas causas, &amp; secundas 
+              <lb ed="#A" n="81"/>causas magis immediate immediatione suppositi. 
+              <lb ed="#A" n="82"/>Consentite videtur Ferrarien. 3. contragent. cap. 70. 
+              <lb ed="#A" n="83"/>qui immediationem virtutis tunc esse putat, 
+              quan<lb ed="#A" n="84" break="no"/>do agens propria virtute, non virtute alterius, a 
+              <lb ed="#A" n="85"/>quo pendeat, operatur. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2461">
+              <lb ed="#A" n="86"/>Ego vero existimo, si immediationem virtutis 
+              <lb ed="#A" n="87"/>hanc esse dicamus, Deum semper operari 
+              imme<lb ed="#A" n="88" break="no"/>diate hac immediatione; imo soli Deo id 
+              conue<lb ed="#A" n="89" break="no"/>nire: omnis namque creata causa ab alio pendet. Si 
+              <lb ed="#A" n="90"/>vero dicamus esse immediationum virtutis, quo 
+              <lb ed="#A" n="91"/>ties agens operatur non virture ab ipso defluente 
+              <lb ed="#A" n="92"/>sed sibi innata, multa agentia creata operantur 
+              im<lb ed="#A" n="93" break="no"/>mediatione virtutis: quia a virtute ipsis coniuncta 
+              <lb ed="#A" n="94"/>effectus proxime exit. Nonnulla vero creata 
+              ope<lb ed="#A" n="95" break="no"/>rantur mediate, quia non per virtutem sibi 
+              inhae<lb ed="#A" n="96" break="no"/>rentem, sed ab ipsis producta, aliqua dicuntur 
+              re<lb ed="#A" n="97" break="no"/>mote operari, sicut ignis distans calefacit, quae 
+              re<lb ed="#A" n="98" break="no"/>mota sunt, per vapores calidos ab ipso manantes: 
+              <lb ed="#A" n="99"/>hoc modo Deus nunquam operatur, quia virtus 
+              <lb ed="#A" n="100"/>eius, quae est ipsius essentia, proxime attingit 
+              sem<lb ed="#A" n="101" break="no"/>per omnem effectum. 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2498">
+              <lb ed="#A" n="102"/>De mediatione vero suppositi dicendum 
+              es<lb ed="#A" n="103" break="no"/>contra Caiet. peum non omnia operari immedia 
+              <lb ed="#A" n="104"/>tione suppositi, non quod ipse secundum suppo 
+              <lb ed="#A" n="105"/>situm non sit intime in rebus &amp; effectibus omni 
+              <lb ed="#A" n="106"/>bus, &amp; hac ratione situ propinquior, quam caetere 
+              <lb ed="#A" n="107"/>causae, (illae namque sunt iuxta effectum, sed non 
+              <lb ed="#A" n="108"/>intra; peus autem intra est) sed quia in ordine 
+              agen<lb ed="#A" n="109" break="no"/>di vniuersalem actionem pei modificatur 
+              concur<lb ed="#A" n="110" break="no"/>sus multatum secundarum causarum, quae eo 
+              di<lb ed="#A" n="111" break="no"/>cuntur propinquiores, quod singulares, &amp; 
+              pro<lb ed="#A" n="112" break="no"/>priae causae sint: &amp; hoc plane docuit S. Th. in secun 
+              <lb ed="#A" n="113"/>da conclusione Falso autem dixit Caiet. ideo peum 
+              <lb ed="#A" n="114"/>agere immediarione suppositi, quia situ intra 
+              om<lb ed="#A" n="115" break="no"/>nem effectum est, nec inter ipsum &amp; effectum 
+              sup<lb ed="#A" n="116" break="no"/>positum aliquod situ, &amp; loco intercedit. Nam loc. 
+              <lb ed="#A" n="117"/>propinquitas non censetur in serie, &amp; ordine 
+              <lb ed="#A" n="118"/>agendi: naec enim inter ipsas causas, quatenus vna 
+              <lb ed="#A" n="119"/>subest alteri, &amp; vna aliam determinat, &amp; modifica 
+              <lb ed="#A" n="120"/>tur, attendi debet, vt explicatum est 
+            </p>
+            <p xml:id="tavaz1-d1e159-d1e2542">
+              <lb ed="#A" n="121"/>Caeterum necesse non est distinguere in peo 
+              <lb ed="#A" n="122"/>etiam secundum rationem alterum actum 
+              proui<lb ed="#A" n="123" break="no"/>dentiae, alterum vero gubernationis actiuae. Nam 
+              <lb ed="#A" n="124"/>si in nobis reipsa nonnunquam distinguuntu 
+              <lb ed="#A" n="125"/>duo actus, alter prouidentiae, cum multo ante 
+              <lb ed="#A" n="126"/>quam res fiat, de illa capitur consilium, &amp; quid fa 
+              <lb ed="#A" n="127"/>ciendum sit, statuitur: alter vero, quando res ipsi 
+              <lb ed="#A" n="128"/>fit, hoc contingit, quia id, quod semel apud nos 
+              <lb ed="#A" n="129"/>statuimus, non possumus mente retinere, neque 
+              <lb ed="#A" n="130"/>actu semper considerare, &amp; velle. Quare 
+              acceden<lb ed="#A" n="131" break="no"/>te occasione rei faciendae, iterum in memoriam 
+              <lb ed="#A" n="132"/>reuocamus id, quod consultatione deliberatum, 
+              <lb ed="#A" n="133"/>&amp; prouisum est, atque iterum volumus: sed si 
+              il<lb ed="#A" n="134" break="no"/>le primus actus prouidentiae, &amp; consilij 
+              perseuera<lb ed="#A" n="135" break="no"/>ret, non opus esset alio ad exequendum. Veluti 
+              <lb ed="#A" n="136"/>quando subito occurrit occasio, &amp; ea praesente 
+              <!--517.xml-->
+              <pb ed="#A" n="502"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>breuiter consultamus, &amp; deliberamus, quid fieri 
+              <lb ed="#A" n="2"/>debeat, &amp; continuo exequimur, non 
+              multiplica<lb ed="#A" n="3" break="no"/>mus actus; sed eodem statuimus, &amp; exequimur 
+              <lb ed="#A" n="4"/>ergo cum in Deo non sit hic defectus, sed idem 
+              <lb ed="#A" n="5"/>ipse actus continuo perseueret, non videtur ne 
+              <lb ed="#A" n="6"/>ceslarium etiam secundum rationem distinguere 
+              <lb ed="#A" n="7"/>tot actus, sed eodem potest Deus prouidere futu 
+              <lb ed="#A" n="8"/>ris, &amp; ea suo tempore exequi. 
+            </p>
+          </div>
+        </div>
+        <div xml:id="tavaz1-d1e159-Dd1e2605"><!-- vaz-p1q22a4-p1 -->
+          <head xml:id="tavaz1-d1e159-Hd1e2608">Articulus 4</head>
+          <p xml:id="tavaz1-d1e159-d1e2610">
+            <lb ed="#A" n="90" type="fixed=502"/>COnclusio est, Prouidentia Dei quibusdam rebus 
+            <lb ed="#A" n="91"/>necessitatem imponit, non tamen omnibus. Intelli 
+            <lb ed="#A" n="92"/>git S. Th. rebus naturalibus necessitatem impone 
+            <lb ed="#A" n="93"/>re, non tamen libero arbitrio. In hoc art. nihil 
+            pe<lb ed="#A" n="94" break="no"/>culiare est disputatione, aut explicatione dignum: 
+            <lb ed="#A" n="95"/>communis, enim difficultas de voluntate Dei, aut 
+            <lb ed="#A" n="96"/>prouidentiae, aut praedestinatione, quomodo 
+            con<lb ed="#A" n="97" break="no"/>ueniat cum libertate nostri arbitrij, examinanda? 
+            <lb ed="#A" n="98"/>nobis est disp. 99. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

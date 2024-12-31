@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="107"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e66"><!-- vaz-p1q4-p1 -->
+        <head xml:id="tavaz1-d1e66-Hd1e101">Quaestio 4</head>
+        <p xml:id="tavaz1-d1e66-d1e103">
+          <lb ed="#A" n="5" type="fixed=105"/>Notatio circa totam quaestionem. 
+        </p>
+        <p xml:id="tavaz1-d1e66-d1e108">
+          <lb ed="#A" n="6"/>QVemadmodum in iis quaestionibus 
+          eluci<lb ed="#A" n="7" break="no"/>dandis, quae difficiliores sunt, &amp; aliquid 
+          ha<lb ed="#A" n="8" break="no"/>bent animaduersione dignum, nec tempori, nec 
+          <lb ed="#A" n="9"/>labori parcendum est, sic etiam in facilioribus 
+          <lb ed="#A" n="10"/>longam texere tractationem, reprehensione 
+          di<lb ed="#A" n="11" break="no"/>gnum iudicari debet. Ideo in totam hanc quaest. 
+          <lb ed="#A" n="12"/>quae facillima est, vnum tantum adnotare libet, 
+          <lb ed="#A" n="13"/>quod ex doctrina praecedenti, &amp; ex iis, quae 
+          dice<lb ed="#A" n="14" break="no"/>mus in quaest. 13. manifeste colligitur: nempe in 
+          <lb ed="#A" n="15"/>Deo quasdam esse perfectiones eminenter solum, 
+          <lb ed="#A" n="16"/>&amp; virtute, quasdam vero formaliter, &amp; proprie 
+          <lb ed="#A" n="17"/>vel potius naturam Dei simplicissimam virtute 
+          <lb ed="#A" n="18"/>quasdam perfectiones continere, alias vero ipsi 
+          <lb ed="#A" n="19"/>formaliter conuenire. Illas quidem dicitur virtute 
+          <lb ed="#A" n="20"/>continere, quae in suo intrinseco, &amp; essentiali 
+          con<lb ed="#A" n="21" break="no"/>ceptu quantumuis abstracto imperfectionem 
+          ali<lb ed="#A" n="22" break="no"/>quam includunt: quales sunt rerum corporearum 
+          <lb ed="#A" n="23"/>Dicitur autem eas eminenter continere, quia in 
+          <lb ed="#A" n="24"/>se virtutem habet eminentem ad eas 
+          producen<lb ed="#A" n="25" break="no"/>das. Quare perfectio lapidis, quae in Deo est 
+          emi<lb ed="#A" n="26" break="no"/>nenter, in ipso Deo vitam habet, in lapide autem 
+          <lb ed="#A" n="27"/>sine vita est. De hoc modo quo res in Deo 
+          dicun<lb ed="#A" n="28" break="no"/>tur esse. multa dicemus disp. 51. c. 3. &amp; disp. 70. c. 2. 
+          <lb ed="#A" n="29"/>Illae autem perfectiones, quae intelligi possunt ab 
+          <lb ed="#A" n="30"/>omni imperfectione purgatae in Deo formaliter 
+          <lb ed="#A" n="31"/>&amp; proprie dicuntur esse, non quidem distinctae ex 
+          <lb ed="#A" n="32"/>natura rei, vt disp. 116. dicemus, sed in vna simpli 
+          <lb ed="#A" n="33"/>cissima essentia absque distinctione coniunctae 
+          <lb ed="#A" n="34"/>Caetera, quae Caietanus, &amp; recentiores in hanc 
+          <lb ed="#A" n="35"/>quaestionem tractant facilia sunt, &amp; ad ea, quae 
+          de<lb ed="#A" n="36" break="no"/>inceps dicenda sunt minime necessaria. In artic. 3. 
+          <lb ed="#A" n="37"/>in sol. 4. notandum erat, quare creaturae dicantur 
+          <lb ed="#A" n="38"/>Deo assimilari, Deus autem non creaturis, de hoc 
+          <lb ed="#A" n="39"/>tamen disseremus d. 167, c. vlt. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

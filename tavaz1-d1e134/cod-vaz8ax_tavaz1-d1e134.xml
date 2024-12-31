@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 17</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 17</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="422"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e134">
+        <head xml:id="tavaz1-d1e134-Hd1e100">Quaestio 17</head>
+        <div xml:id="tavaz1-d1e134-Dd1e102"><!-- vaz-p1q17a1-p1 -->
+          <head xml:id="tavaz1-d1e134-Hd1e105">Articulus 1</head>
+          <p xml:id="tavaz1-d1e134-d1e107">
+            <lb ed="#A" n="31" type="fixed=416"/>Prior conclusio est: res relatae ad intellectum, cui pe 
+            <lb ed="#A" n="32"/>se comparantur, nempe ad diuinum, aut practicum 
+            artifi<lb ed="#A" n="33" break="no"/>cis, dicuntur falsae quatenus deficiunt a forma, quae est 
+            prin<lb ed="#A" n="34" break="no"/>cipium illarum Posterior conclusio: Res relatae ad in 
+            <lb ed="#A" n="35"/>tellectum speculatiuum, cui comparantur per accidens, se 
+            <lb ed="#A" n="36"/>cundum quid dicuntur falsae vno ex duobus modis, vel 
+            pe<lb ed="#A" n="37" break="no"/>modum signi, vel quia sunt causa falsae opinionis. Circa 
+            <lb ed="#A" n="38"/>vtramque conclusionem multa ex professo dicta 
+            <lb ed="#A" n="39"/>sunt <ref xml:id="tavaz1-d1e134-Rd1e128">supra disp. 77.</ref>
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e134-Dd1e132"><!-- vaz-p1q17a2-p1 -->
+          <head xml:id="tavaz1-d1e134-Hd1e135">Articulus 2</head>
+          <p xml:id="tavaz1-d1e134-d1e137">
+            <lb ed="#A" n="7" type="fixed=417"/>Prima conclusio est. Eo modo in sensu est falsitas, quo 
+            <lb ed="#A" n="8"/>etiam est veritas, non quia cognoscat veritatem, sed quia 
+            <lb ed="#A" n="9"/>habeat veran apprehensionem Secunda conclusio: Cir 
+            <lb ed="#A" n="10"/>ca propria sensibilia sensus non habet falsam cognitionem, 
+            <lb ed="#A" n="11"/>nisi per accidens, &amp; raro, propter malam organi dispositio 
+            <lb ed="#A" n="12"/>nem. Tertia conclusio: Circa sensibilia communia, pote, 
+            <lb ed="#A" n="13"/>esse falsum iudicium in sensu etiam recte disposito. Circa 
+            <lb ed="#A" n="14"/>has etiam conclusiones satis superque dictum est 
+            <lb ed="#A" n="15"/>
+            <ref xml:id="tavaz1-d1e134-Rd1e158">disp. 75</ref>
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e134-Dd1e162"><!-- vaz-p1q17a3-p1 -->
+          <head xml:id="tavaz1-d1e134-Hd1e165">Articulus 3</head>
+          <p xml:id="tavaz1-d1e134-d1e167">
+            <lb ed="#A" n="115" type="fixed=417"/>Prior conclusio: Circa quod quid est ipsius rei in 
+            <lb ed="#A" n="116"/>intellectu non potest esse falsitas, sed ignoratio. Posterior 
+            <lb ed="#A" n="117"/>conclusio: In compositione &amp; diuisione intellectus potest 
+            <lb ed="#A" n="118"/>esse falsitas, non solum quia cognitio intellectus falsa est, sed 
+            <lb ed="#A" n="119"/>quia intellectus falsitatem cognoscit, sicut veritatem. De 
+            <lb ed="#A" n="120"/>vtraque propositione fuse tractatum est disputat. 
+            <lb ed="#A" n="121"/>illa7, 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e134-Dd1e186"><!-- vaz-p1q17a4-p1 -->
+          <head xml:id="tavaz1-d1e134-Hd1e189">Articulus 4</head>
+          <p xml:id="tavaz1-d1e134-d1e191">
+            <lb ed="#A" n="84" type="fixed=418"/>Conclusio est: Verum &amp; falsum opponuntur, non vi 
+            <lb ed="#A" n="85"/>affirmatio, &amp; negatio, sicut quidam dixerunt sed contrarie. 
+            <lb ed="#A" n="86"/>In hoc articulo nihil est disputatione dignum.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

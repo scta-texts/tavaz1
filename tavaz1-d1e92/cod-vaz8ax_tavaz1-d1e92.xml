@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="161"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e92"><!-- vaz-p1q9-p1 -->
+        <head xml:id="tavaz1-d1e92-Hd1e101">Quaestio 9</head>
+        <p xml:id="tavaz1-d1e92-d1e103">
+          <lb ed="#A" n="48" type="fixed=161"/>Observationes circa totam questionem. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e108">
+          <lb ed="#A" n="49"/>SEquitur aliud attributu diuinae essentiae, quod 
+          <lb ed="#A" n="50"/>dicitur immutabilitas, quo praeter essentiam 
+          si<lb ed="#A" n="51" break="no"/>gnificatur etiam respectus quidam, quamuis per 
+          <lb ed="#A" n="52"/>modum negationis, ratione cuius optime potest 
+          <lb ed="#A" n="53"/>nouum attributum numerari. Circa totam vero 
+          <lb ed="#A" n="54"/>quaestionem pauca sunt notatione digna, nihil 
+          ta<lb ed="#A" n="55" break="no"/>men quod longa indigeat disputatione. quocirca 
+          <lb ed="#A" n="56"/>breuiter eam expediemus. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e128">
+          <lb ed="#A" n="57"/>Obseruandum igitur in primis est, ttipler 
+          ge<lb ed="#A" n="58" break="no"/>hus mutationis in natura rationali excogitari 
+          pos<lb ed="#A" n="59" break="no"/>se. Primum secundum esse, quod videlicet ea ita 
+          <lb ed="#A" n="60"/>sit, vt possit non esse; atque hoc modo Deus mu¬ 
+          <!--176.xml-->
+          <cb ed="#A" n="b"/>
+          <lb ed="#A" n="61"/>tari nequit: non quia sit suum esse, sed quod ab 
+          <lb ed="#A" n="62"/>alio non pendeat: &amp; hanc esse propriam causam, 
+          <lb ed="#A" n="63"/>seu rationem incorruptibilitatis, non autem quod 
+          <lb ed="#A" n="64"/>essentia ex natura rei non distinguatur ab esse, 
+          <lb ed="#A" n="65"/>ostendemus disput. 183. cap. 5. vbi monstrabimus 
+          <lb ed="#A" n="66"/>naturam angelicam hoc genere mutationis posse 
+          <lb ed="#A" n="67"/>mutari, tametsi re ipsa sit suum esse. Idcirco 
+          quae<lb ed="#A" n="68" break="no"/>stionem, quam quidam hic de 
+          incorruptibilita<lb ed="#A" n="69" break="no"/>te Dei, &amp; Angeli disputant, in eum locum 
+          remit<lb ed="#A" n="70" break="no"/>timus. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e165">
+          <lb ed="#A" n="71"/>Secundum genus mutationis est secundum 
+          ac<lb ed="#A" n="72" break="no"/>cidens aliquod: quo pacto omnis creatura mutari 
+          <lb ed="#A" n="73"/>potest. Quare cum in Deo nullum sit accidens, vt 
+          <lb ed="#A" n="74"/>quaest. 3. 2. 6. probatum est, hoc mutationis genere 
+          <lb ed="#A" n="75"/>mutari non potest: quomodo vero nec loco 
+          mo<lb ed="#A" n="76" break="no"/>ueri queat, disp. 29. cap. 5. explicatum manet. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e182">
+          <lb ed="#A" n="77"/>Tertium genus mutationis est propositi, &amp; 
+          vo<lb ed="#A" n="78" break="no"/>luntatis, seu cognitionis: vt quod quis antea 
+          puta<lb ed="#A" n="79" break="no"/>bat verum, deinde falsum iudicet: &amp; quod antea 
+          <lb ed="#A" n="80"/>facere decreuerat, postea nolit: &amp; hoc genus 
+          mu<lb ed="#A" n="81" break="no"/>tationis in Deum non posse conuenire, ex ijs, quae 
+          <lb ed="#A" n="82"/>inferius dicemus, patebit. Immutabilitas quidem 
+          <lb ed="#A" n="83"/>cognitionis Dei dedutitur ex certitudine scientiae, 
+          <lb ed="#A" n="84"/>quam ipse habet, eamque quaest. 14. art. 15. fusius 
+          <lb ed="#A" n="85"/>declarabimus. Immutabilitas vero decreti, 
+          aliun<lb ed="#A" n="86" break="no"/>de, vt quaest. 19. art. 17. dicemus. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e206">
+          <lb ed="#A" n="87"/>Deptimo genere immutabilitatis intelligatur 
+          <lb ed="#A" n="88"/>illud 1. ad Timoth. 3. Qui solus habet 
+          immortalita<lb ed="#A" n="89" break="no"/>tem. Den secundo accipi potest illud Iacobi 1. Apud 
+          <lb ed="#A" n="90"/>quem non est transmutatio, nec vicissitudinis obumbratio 
+          <lb ed="#A" n="91"/>vbi pro transmutatione Graece est νox παράλλαγη 
+          <lb ed="#A" n="92"/>quae conseruationem denotat, &amp; Proclus in sua 
+          <lb ed="#A" n="93"/>Sphaera pro Solis conuersione vsurpat. Significa 
+          <lb ed="#A" n="94"/>igitur Iacobus. Deo, quem Patrem luminum 
+          ap<lb ed="#A" n="95" break="no"/>pellauerat, non conuenire eam luminis, &amp; 
+          obum<lb ed="#A" n="96" break="no"/>brationis alternationem, quam in Sole nostro 
+          vi<lb ed="#A" n="97" break="no"/>demus: per reciprocationem enim, &amp; ab Oriente 
+          <lb ed="#A" n="98"/>in Occidens conuersionem Sol nobis obumbra 
+          <lb ed="#A" n="99"/>tur: quapropter &amp; nox diei succedit. Deus autem, 
+          <lb ed="#A" n="100"/>quod in se nullam habet mutationem, non solum 
+          <lb ed="#A" n="101"/>lux, sed pater, &amp; fons luminis metito dicitur, in 
+          <lb ed="#A" n="102"/>quem nulla conuersio, seu reciprocatio cadere 
+          po<lb ed="#A" n="103" break="no"/>test. Quod vero subiungit, Voluntarie enim genuit nos 
+          <lb ed="#A" n="104"/>verbo veritatis, non ad immutabilitatem voluntatis 
+          <lb ed="#A" n="105"/>ipsius, de qua nihil dictum fuerat, referendum est, 
+          <lb ed="#A" n="106"/>sed ad id, quod paulo antea dixerat, Omne datum 
+          <lb ed="#A" n="107"/>optimum, &amp;c. De tertio autem genere mutationis 
+          <lb ed="#A" n="108"/>intelligenda sunt alia Scripturae testimonla, quae 
+          <lb ed="#A" n="109"/>inferius referemus, quaest. 19. art. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e258">
+          <lb ed="#A" n="110"/>Deinde notandum est, cum nostro modo 
+          in<lb ed="#A" n="111" break="no"/>telligendi varias perfectiones ad modum 
+          passio<lb ed="#A" n="112" break="no"/>num Deo tribuamus, eodem quoque pacto vnam 
+          <lb ed="#A" n="113"/>ab alia non tanquam a causa, sed veluti a ratione 
+          <lb ed="#A" n="114"/>procedere: de hoc vero attributo 
+          immutabilita<lb ed="#A" n="115" break="no"/>tis non pauci arbitrantur, ex immensitatis ratione 
+          <lb ed="#A" n="116"/>proxime nasci: ideoque S. Thomam, postquam 
+          <lb ed="#A" n="117"/>tractauit de immensitate, statim de 
+          immutabilita<lb ed="#A" n="118" break="no"/>te disputasse. 
+        </p>
+        <p xml:id="tavaz1-d1e92-d1e280">
+          <lb ed="#A" n="119"/>Vetum ex ijs, quae hactenus diximus, facile 
+          col<lb ed="#A" n="120" break="no"/>ligitur, id verum non esse. Nam primum genus 
+          <lb ed="#A" n="121"/>immutabilitatis eo conuenit Deo, quod ab alio 
+          <lb ed="#A" n="122"/>non pendet, in quo rationem infinitatis 
+          secun<lb ed="#A" n="123" break="no"/>dum essentiam sitam esse probauimus disput. 25. 
+          <lb ed="#A" n="124"/>cap. 5. ergo immutabilitas hoc modo potius ex 
+          in<lb ed="#A" n="125" break="no"/>finitate, quam ex immensitate oritur. Secundum 
+          <lb ed="#A" n="126"/>genus nascitur ex eo, quod in Deo nullum sit 
+          ac<lb ed="#A" n="127" break="no"/>cidens: id quod ad diuinam simplicitatem 
+          perti<lb ed="#A" n="128" break="no"/>net; ac proinde de ea re qu 3. quae est de simplici¬ 
+          <!--177.xml-->
+          <pb ed="#A" n="162"/>
+          <cb ed="#A" n="a"/>
+          <lb ed="#A" n="1"/>tate Del, disputatum est. Haec igitur immutabilitas 
+          <lb ed="#A" n="2"/>ex simplicitate ortum habet, in quo quidem gene 
+          <lb ed="#A" n="3"/>re est etiam immutabilitas secundum locum, qua 
+          <lb ed="#A" n="4"/>ratione immensitatis Deo tribuitur. Tertium de 
+          <lb ed="#A" n="5"/>nique genus est immutabilitatis scientiae, &amp; 
+          vo<lb ed="#A" n="6" break="no"/>luntatis Dei, quod ex infinitate, &amp; certitudine 
+          ip<lb ed="#A" n="7" break="no"/>sius scientiae, &amp; voluntatis prouenit, vt ex ijs, qua 
+          <lb ed="#A" n="8"/>dicemus locis citatis, manifeste constabit. Quare 
+          <lb ed="#A" n="9"/>sola immurabilitas secundum locum ex 
+          immensi<lb ed="#A" n="10" break="no"/>tate prouenit: ac proinde sententia, quae asserit 
+          at<lb ed="#A" n="11" break="no"/>tributum immutabilitatis ex immensitate 
+          proue<lb ed="#A" n="12" break="no"/>nire, vniuerse vera esse non potest. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

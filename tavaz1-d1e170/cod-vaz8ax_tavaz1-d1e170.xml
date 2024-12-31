@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 24</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 24</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="679"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e170">
+        <head xml:id="tavaz1-d1e170-Hd1e100">Quaestio 24</head>
+        <div xml:id="tavaz1-d1e170-Dd1e102"><!-- vaz-p1q24a1-p1 -->
+          <head xml:id="tavaz1-d1e170-Hd1e105">Articulus 1</head>
+          <p xml:id="tavaz1-d1e170-d1e107">
+            <lb ed="#A" n="84" type="fixed=677"/>Explicatio articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e112">
+            <lb ed="#A" n="85"/>COnclusio est. De notitia, qua firmiter retinet, si 
+            <lb ed="#A" n="86"/>aliquos praedestinasse ad vitam aeternam, est liber 
+            vita<lb ed="#A" n="87" break="no"/>Ex qua constat S. Thom. directe non respondisse 
+            <lb ed="#A" n="88"/>quaestioni. Nec enim in toto art. quidquam alius 
+            <lb ed="#A" n="89"/>definit: ex ea tamen non obscure colligitur, 
+            li<lb ed="#A" n="90" break="no"/>brum vitae non esse praedestinationem ipsam, 
+            et<lb ed="#A" n="91" break="no"/>iam in Schola S. Thom. qui putat, 
+            praedestinatio<lb ed="#A" n="92" break="no"/>nem esse actum intellectus. Nam ipse, &amp; qui eius 
+            <lb ed="#A" n="93"/>sequuntur sententiam, sentiunt 
+            praedestinatio<lb ed="#A" n="94" break="no"/>nem esse actum intellectus practici per modum 
+            <lb ed="#A" n="95"/>imperij, qui praecedit res futuras, &amp; scientiam 
+            <lb ed="#A" n="96"/>speculatricem illarum. Liber autem vitae ex 
+            men<lb ed="#A" n="97" break="no"/>te Doctoris Sancti, vt ex conclusione articuli 
+            li<lb ed="#A" n="98" break="no"/>quet, est actus intellectus speculatiui, quatenu 
+            <lb ed="#A" n="99"/>ad memoriam refertur, &amp; ratio idem probat: nam 
+            <lb ed="#A" n="100"/>per translationem dicitur res aliqua in intellectu 
+            <lb ed="#A" n="101"/>alicuius esse descripta, non prout intellectus 
+            im<lb ed="#A" n="102" break="no"/>perio suo est principium illius, sed prout 
+            memo<lb ed="#A" n="103" break="no"/>ria retinetur: memoria autem non est actus 
+            pra<lb ed="#A" n="104" break="no"/>cticus, sicut in sententia S. Thom. est 
+            praedestina<lb ed="#A" n="105" break="no"/>tio, &amp; imperium, sed speculatiuus. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e170-Dd1e161"><!-- vaz-p1q24a2-p1 -->
+          <head xml:id="tavaz1-d1e170-Hd1e164">Articulus 2</head>
+          <p xml:id="tavaz1-d1e170-d1e166">
+            <lb ed="#A" n="54" type="fixed=678"/>Explicatio articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e171">
+            <lb ed="#A" n="55"/>COnclusio est. Liber vitae dicitur potius vitae gloria 
+            <lb ed="#A" n="56"/>quam vitae gratiae. Pro huius explicatione 
+            ob<lb ed="#A" n="57" break="no"/>seruandum est, hic non comparari vitam gloria 
+            <lb ed="#A" n="58"/>cum morte aeterna inferni, cum quaeritur, an sit 
+            li<lb ed="#A" n="59" break="no"/>ber vitae gloriae, sed cum vita gratiae, quae est 
+            me<lb ed="#A" n="60" break="no"/>dium ad vitam gloria. Respondet autem S. Thom. 
+            <!--693.xml-->
+            <cb ed="#A" n="b"/>
+            <lb ed="#A" n="61"/>potius dici librum uitae gloriae, quam gratiae, 
+            de<lb ed="#A" n="62" break="no"/>sumpta analogia ex libro militiae, in quo non 
+            di<lb ed="#A" n="63" break="no"/>cuntur milites scribi, aut eligi, vt armentur, sed vt 
+            <lb ed="#A" n="64"/>pugnent, hic enim est finis militiae; ita ergo &amp; 
+            <lb ed="#A" n="65"/>praedestinati non dicuntur scribi in lib. vitae, &amp; vt 
+            <lb ed="#A" n="66"/>iustificentur: iustificatio enim medium est, sed vt 
+            <lb ed="#A" n="67"/>glorificentur: gloria enim finis est, ad quem 
+            eli<lb ed="#A" n="68" break="no"/>guntur, &amp; conscribuntur. Superiori autem art. in 
+            <lb ed="#A" n="69"/>solutione secundi dixerat S. Thom, praescientiam, 
+            <lb ed="#A" n="70"/>Dei non consueuisse appellari librum mortis, &amp; 
+            <lb ed="#A" n="71"/>reproborum, sed solum vitae, &amp; 
+            praedestinato<lb ed="#A" n="72" break="no"/>rum, desumpta etiam metaphora ex humanis, 
+            <lb ed="#A" n="73"/>Nam illi, qui reiiciuntur a malitia, in aliquo libro 
+            <lb ed="#A" n="74"/>non scribuntur: ideo ergo neque reprobi 
+            dicun<lb ed="#A" n="75" break="no"/>tur esse in praescientia Dei, tanquam in libro 
+            mor<lb ed="#A" n="76" break="no"/>tis, &amp; damnationis. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e226">
+            <lb ed="#A" n="77"/>Basilius tamen in quartum cap. Isaiae in 
+            illaver<lb ed="#A" n="78" break="no"/>ba, Erit, quod relictum fuit. ait, duos esse libros, 
+            alte<lb ed="#A" n="79" break="no"/>rum viuentium, hoc est, praedestinatorum, in quo 
+            <lb ed="#A" n="80"/>sunt scripti discipuli Christi quibus ipse 
+            dixi<lb ed="#A" n="81" break="no"/>Luc. 10. Gaudete quia nomina vestra scripta sunt in caelis 
+            <lb ed="#A" n="82"/>alterum eorum, qui damnantur, iuxta illud 
+            <lb ed="#A" n="83"/>lerem. 17. Recedentes a te in terra scribentur. Idem 
+            sen<lb ed="#A" n="84" break="no"/>tit. Natian. in orat. 9. quaest. ad Iulianum tributorum 
+            exe<lb ed="#A" n="85" break="no"/>quatorem num. 41. vbi ait, ad ipsam, Nisi forte de 
+            quo<lb ed="#A" n="86" break="no"/>dam pereuntiumque libro nihil vnquam audisti, illic omnes 
+            <lb ed="#A" n="87"/>scribemur, vel vt rectius dicamus, iam inscripti sumus. Vbi 
+            <lb ed="#A" n="88"/>quamuis non distinguat duos libros, dicit tamen 
+            <lb ed="#A" n="89"/>esse vnum, in quo tam qui saluantur, quam qui 
+            <lb ed="#A" n="90"/>damnantur, scribuntur. Et quidem quamuis non 
+            <lb ed="#A" n="91"/>scribantur milites, qui eiiciuntur a militia, quia 
+            <lb ed="#A" n="92"/>tamen scribi consueuerunt, qui morte damnandi 
+            <lb ed="#A" n="93"/>sunt, alter quoque liber reproborum non inepte 
+            <lb ed="#A" n="94"/>in Deo potest constitui. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e170-Dd1e269"><!-- vaz-p1q24a3-p1 -->
+          <head xml:id="tavaz1-d1e170-Hd1e272">Articulus 3</head>
+          <p xml:id="tavaz1-d1e170-d1e274">
+            <lb ed="#A" n="65" type="fixed=679"/>Obseruationes circa articulum. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e279">
+            <lb ed="#A" n="66"/>COnclusio est. Aliqui delentur de libro vita non 
+            se<lb ed="#A" n="67" break="no"/>cundum notitiam Dei sed secundum aliquem 
+            affe<lb ed="#A" n="68" break="no"/>ctum gratiae. Eam vero optime explicat Caietan. in 
+            <lb ed="#A" n="69"/>Commentario, ita vt deleri de libro vitae 
+            secun<lb ed="#A" n="70" break="no"/>dum notitiam, nihil aliud sit, quam id, quod 
+            an<lb ed="#A" n="71" break="no"/>tea a Deo praesciebatur, non praesciri: cumque 
+            <lb ed="#A" n="72"/>scientia Dei variari nequeat, vt que artic. 14. art. 15. 
+            <lb ed="#A" n="73"/>dictum est; consequitur, neminem deleri de libro 
+            <lb ed="#A" n="74"/>vitae secundum notitiam. Deleri autem de libro 
+            <lb ed="#A" n="75"/>vitae secundum aliquem effectum gratiae, idem 
+            <lb ed="#A" n="76"/>est, quod amittere gratiam, qua pertinebat homo 
+            <lb ed="#A" n="77"/>ad statum gloriae. Quocirca, qui amittit caritatem, 
+            <lb ed="#A" n="78"/>dicitur quodammodo deleri de libro vitae, qui 
+            <lb ed="#A" n="79"/>enim secundum praesentem iustitiam 
+            pertineba<lb ed="#A" n="80" break="no"/>ad gloriam, postea per peccatum fit reus 
+            damna<lb ed="#A" n="81" break="no"/>tionis. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e316">
+            <lb ed="#A" n="82"/>Verum contra conclusionem sunt tria loca 
+            <lb ed="#A" n="83"/>Scripturae difficilia. Primus est Exodi 32. vbi 
+            Mo<lb ed="#A" n="84" break="no"/>ses ita orauit Dominum, Aut dimitte noxam 
+            popu<lb ed="#A" n="85" break="no"/>huius aut dele me de libro vitae, quem scripsisti. Verum cum 
+            <lb ed="#A" n="86"/>hunc locum varie exponant Doctores, nullo 
+            mo<lb ed="#A" n="87" break="no"/>do ex illo probari potest, aliquem deleri de libro 
+            <lb ed="#A" n="88"/>notitiae Dei. Prima expositio est quorundam, qui 
+            <lb ed="#A" n="89"/>dixerunt, Moysem perturbatione animi 
+            commo<lb ed="#A" n="90" break="no"/>tum, illud dixisse: eos tamen merito reprehendit 
+            <lb ed="#A" n="91"/>Lyranus: nam de Moyse viro sanctissimo, &amp; 
+            admo<lb ed="#A" n="92" break="no"/>dum mansueto talis animi perturbatio 
+            praesu<lb ed="#A" n="93" break="no"/>menda non est. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e345">
+            <lb ed="#A" n="94"/>Secunda interpretatio est Burgensis in additione 
+            <lb ed="#A" n="95"/>illius loci, qui lib. vitae interpretatur, non Dei 
+            noti<lb ed="#A" n="96" break="no"/>tiam, sed librum, in quo gesta insignium viro 
+            <lb ed="#A" n="97"/>rum populi Istael describebantur: quem appellat 
+            <lb ed="#A" n="98"/>librum iustorum: huic interpretationi fauet 
+            Hila<lb ed="#A" n="99" break="no"/>rius in Psal. 68. in illa verba, Deleantur de libro 
+            viuen<lb ed="#A" n="100" break="no"/>tium. Ceterum Turingus in replica contra 
+            additio<lb ed="#A" n="101" break="no"/>nem Burgensis eam acriter reprehendit, 
+            proban<lb ed="#A" n="102" break="no"/>ex contextu de libro praedestin. Moysem fuisse 
+            lo<lb ed="#A" n="103" break="no"/>quutum. Nam statim Dominus respondit haec 
+            <lb ed="#A" n="104"/>verba: Non, sed, qui peccauerit, delebo eum de libro meo 
+            <lb ed="#A" n="105"/>quasi dicat, illum solum delebo de libro 
+            praedesti<lb ed="#A" n="106" break="no"/>nat. Meo tamen indicio hoc non obstat, quo 
+            mi<lb ed="#A" n="107" break="no"/>nus sensus Burgensis literae quadrare possit. Nam 
+            <lb ed="#A" n="108"/>quamuis Moyses periisset deleri de libro virorum 
+            <lb ed="#A" n="109"/>illustrium Israel, bene respondisset Dominus, ne 
+            <lb ed="#A" n="110"/>minem delendum esse de libro, nisi qui peccatis 
+            <lb ed="#A" n="111"/>suis id fuisset promeritus 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e388">
+            <lb ed="#A" n="112"/>Tertio eundem locum exponunt Liranus, &amp; 
+            <lb ed="#A" n="113"/>Dionys. Carthus. ita vt hoc Moyses postulauerit 
+            se<lb ed="#A" n="114" break="no"/>cundum partem inferiorem, qua ostendebat 
+            affe<lb ed="#A" n="115" break="no"/>ctum erga populum suum; vel ita, vt ex nimio 
+            af<lb ed="#A" n="116" break="no"/>fectu desiderauerit Moyses, si fieri posset, 
+            deler<lb ed="#A" n="117" break="no"/>de libro vitae, &amp; gloria priuarii sine sua culpa, vt ig, 
+            <lb ed="#A" n="118"/>nosceret Deus peccata populi sui. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e406">
+            <lb ed="#A" n="119"/>Quarto demum Aug. qui super Exod. 247. existimat. 
+            <lb ed="#A" n="120"/>Moysen a Domino postulasse, deleri de libro vitae. 
+            <lb ed="#A" n="121"/>aut dimittendam esse noxam populi: quia sicut 
+            <lb ed="#A" n="122"/>non timebat se delendum esse, ita etiam absque 
+            <lb ed="#A" n="123"/>haesitatione confidebat dimittendum esse a 
+            Do<lb ed="#A" n="124" break="no"/>mino peccatum sui. Ex quibus interpretationibus 
+            <lb ed="#A" n="125"/>illa, quae est Burgensis secundo loco allata, mihi 
+            <lb ed="#A" n="126"/>maxime probatur. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e426">
+            <!--695.xml-->
+            <pb ed="#A" n="680"/>
+            <cb ed="#A" n="a"/>
+            <lb ed="#A" n="1"/>Secundus locus est ad Rom. 9. vbi de se 
+            Pa<lb ed="#A" n="2" break="no"/>lus ait: Optabam ego, anathema esse pro fratribus meum, 
+            <lb ed="#A" n="3"/>Quem varie etiam explicant Doctores. Primo 
+            <lb ed="#A" n="4"/>Orig. Chrysost. Theophyl. &amp; S. Tho. in commentariis illius 
+            <lb ed="#A" n="5"/>dicunt praeteritum imperfectum, Optabam, 
+            vsur<lb ed="#A" n="6" break="no"/>pari pro perfecto futuro, Optauerim, quo explicat 
+            <lb ed="#A" n="7"/>Paulus affectum, quem tunc habebat, vt esset 
+            ana<lb ed="#A" n="8" break="no"/>thema a Christo pro fratribus; hoc est, si posset fie 
+            <lb ed="#A" n="9"/>ri sine culpa, Christi fruitione priuatus. Idcirco 
+            <lb ed="#A" n="10"/>notat Orig. haec verba dixisse Paulum deuotione 
+            <lb ed="#A" n="11"/>animi, non praeuaricatione, vt ita ostenderet 
+            affe<lb ed="#A" n="12" break="no"/>ctum, quo populum suum prosequebatur. 
+            Secun<lb ed="#A" n="13" break="no"/>do exponit Anselm. vt anathema idem sit, quod 
+            <lb ed="#A" n="14"/>mors; quasi Paulus optaret mori pro fratribus suis 
+            <lb ed="#A" n="15"/>quam interpretationem sumpsit ex Hieron in epist. 
+            <lb ed="#A" n="16"/>ad Algasiam, quae est 151. qu. 9. Obstat tamen, quod 
+            <lb ed="#A" n="17"/>Paulus adducit a Christo: anathema enim a Christo 
+            <lb ed="#A" n="18"/>non mortem corporalem, sed spiritualem 
+            signifi<lb ed="#A" n="19" break="no"/>cat. 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e476">
+            <lb ed="#A" n="20"/>Sed his praeferenda videtures positio 
+            Hierony<lb ed="#A" n="21" break="no"/>Ansel. &amp; Caiet. in eum locum; quos sequitur 
+            Bartho<lb ed="#A" n="22" break="no"/>maeus Camerarius in Dialogo Catholico cap. 6. vt Paulus 
+            <lb ed="#A" n="23"/>loquatur de tempore quo erat in Iudaismo, &amp; 
+            tan<lb ed="#A" n="24" break="no"/>to zelo, &amp; amore prosequebatur populum Israel 
+            <lb ed="#A" n="25"/>&amp; antiquae legis, caeremonias contra Christi Euan 
+            <lb ed="#A" n="26"/>gelium, vt cuperet tunc anathema esse, &amp; omnino 
+            <lb ed="#A" n="27"/>separatus a Christo pro fratribus suis, hoc est, vt 
+            <lb ed="#A" n="28"/>fratrum suorum Iudaeorum leges tueretur. Hic 
+            <lb ed="#A" n="29"/>autem sensus recte cohaeret cum praecedentibus 
+            <lb ed="#A" n="30"/>&amp; sequentibus: nam cum ca. praeced. Paulus 
+            mul<lb ed="#A" n="31" break="no"/>ta cum iniuria ludaeorum dixisse videretur, quae re 
+            <lb ed="#A" n="32"/>vera non dixerat ex maleuolentia, &amp; in eo capiti 
+            <lb ed="#A" n="33"/>iterum de eorum reprobatione dicturus esset, v 
+            <lb ed="#A" n="34"/>hanc animi sui synceritatem ostenderet, sub iura 
+            <lb ed="#A" n="35"/>mento affirmauit, se magno dolore torqueri, quod 
+            <lb ed="#A" n="36"/>videret Iudaeos eiectos esse a gratia Dei: &amp; in eius 
+            <lb ed="#A" n="37"/>confirmationem adduxit naturalem affectum, quo 
+            <lb ed="#A" n="38"/>suam gentem, &amp; ceremonias prosequebatur, cum 
+            <lb ed="#A" n="39"/>erat in Iudaismo, verba Pauli sunt. Veritatem dico in 
+            <lb ed="#A" n="40"/>Christo Iesu, non mentior, testimonium mihi perhibent 
+            <lb ed="#A" n="41"/>conscientia mea in Spiritu sancto; quoniam tristitia mihi 
+            <lb ed="#A" n="42"/>magna est, &amp; continuus dolor cordi meo. Quibus sub 
+            <lb ed="#A" n="43"/>luramento asseuerat, se magno dolore angi, quod 
+            <lb ed="#A" n="44"/>videat fratres suos expulsos a gratia Euangelij 
+            <lb ed="#A" n="45"/>Confirmat deinde ex affectu, quo illos semper 
+            <lb ed="#A" n="46"/>prosequutus fuerat, dicens, Optabam enim ego 
+            ip<lb ed="#A" n="47" break="no"/>atnahema esse a Christo pro fratribus meis, qui sunt 
+            cogna<lb ed="#A" n="48" break="no"/>ti mei secundum carnem 
+          </p>
+          <p xml:id="tavaz1-d1e170-d1e541">
+            <lb ed="#A" n="49"/>Tertius locus est Psalmus 68. quem allegat 
+            <lb ed="#A" n="50"/>S. Tho. in argument. sed contra: Deleantur de libro 
+            vi<lb ed="#A" n="51" break="no"/>uentium, &amp; cum iustis non scribantur. Huius autem 
+            <lb ed="#A" n="52"/>duplex est expositio, altera est Aug. Russini, Cassiod 
+            <lb ed="#A" n="53"/>&amp; Glossae ordinariae in eum locum, vt illud deleantur, ac 
+            <lb ed="#A" n="54"/>cipiatur non absolute, sed secundum spem, &amp; 
+            opi<lb ed="#A" n="55" break="no"/>nionem eorum, &amp; sensus sit: innotescat illis, si 
+            <lb ed="#A" n="56"/>non esse scriptos in libro vitae Dei, qui 
+            putaban<lb ed="#A" n="57" break="no"/>se in eo signatos esse: quia secundum phrasim 
+            <lb ed="#A" n="58"/>Scripturae nonnunquam dicitur tunc res fieri 
+            <lb ed="#A" n="59"/>quando innotescit, Altera interpretatio Hilalij &amp; 
+            <lb ed="#A" n="60"/>Hieron. vt verbum Deleantur idem significet, quod 
+            <lb ed="#A" n="61"/>non scribantur, vel non sint scripti. Quae 
+            interpre<lb ed="#A" n="62" break="no"/>tatio sequentibus verbis optime quadrat, 
+            subiun<lb ed="#A" n="63" break="no"/>gitur enim, &amp; cum iustis non scribantur. S. Thom. non 
+            <lb ed="#A" n="64"/>respondet argumento, sed contra ex doctrina tamen 
+            <lb ed="#A" n="65"/>articuli colligitur, quid dicendum sit. Nam cum 
+            <lb ed="#A" n="66"/>secundum aliquem effectum gratiae deleri 
+            qui<lb ed="#A" n="67" break="no"/>dicatur de libro vitae, recte postulat Dauid, Delean 
+            <lb ed="#A" n="68"/>tur de libro viuentium, dum illa propter ipsorum 
+            <lb ed="#A" n="69"/>peccata, malum imprecatur.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

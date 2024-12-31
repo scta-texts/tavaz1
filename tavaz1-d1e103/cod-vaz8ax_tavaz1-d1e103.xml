@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 11</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 11</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="191"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e103">
+        <head xml:id="tavaz1-d1e103-Hd1e100">Quaestio 11</head>
+        <div xml:id="tavaz1-d1e103-Dd1e102"><!-- vaz-p1q11a1-p1 -->
+          <head xml:id="tavaz1-d1e103-Hd1e105">Articulus 1</head>
+          <p xml:id="tavaz1-d1e103-d1e107">
+            <lb ed="#A" n="49" type="fixed=189"/>COnclusio est, Vnum supra ens solam addit 
+            negatio<lb ed="#A" n="50" break="no"/>nem diuisionis. Quanquam materia huius 
+            arti<lb ed="#A" n="51" break="no"/>culi ad metaphysicum spectat, qui de ipso vno &amp; 
+            <lb ed="#A" n="52"/>formali ratione vnitatis plenius disputare debet. 
+            <lb ed="#A" n="53"/>posset tamen alicui videri, non fore alienum a 
+            no<lb ed="#A" n="54" break="no"/>stro instituto, si eam ex professo examinaremus; vt 
+            <lb ed="#A" n="55"/>ea, quae de vnitate Dei, in a 3. dicenda sunt, magis 
+            <lb ed="#A" n="56"/>perspicua redderentur: qua de causa de ratione 
+            bo<lb ed="#A" n="57" break="no"/>nitatis, qu 6. fusius tractauimus, vt attributum 
+            bo<lb ed="#A" n="58" break="no"/>nitatis Dei explicaremus; &amp; de veritate q. 16. est 
+            <lb ed="#A" n="59"/>nobis disserendum; vt ostendamus qua ratione 
+            <lb ed="#A" n="60"/>Deus verus sit. 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e136">
+            <lb ed="#A" n="61"/>Caeterum quia tota de ratione vnitatis contro¬ 
+            <!--204.xml-->
+            <cb ed="#A" n="b"/>
+            <lb ed="#A" n="62"/>uersia in eo sita est, an formaliter sit aliquid 
+            positi<lb ed="#A" n="63" break="no"/>uum, vel sola negatio diuisionis, &amp; ad 
+            demonstran<lb ed="#A" n="64" break="no"/>dum Deum esse vnum, &amp; non plures, quod in hac 
+            <lb ed="#A" n="65"/>quaestione praecipuum est, Theologoque maxime 
+            <lb ed="#A" n="66"/>necessarium, parum interest hoc, aut alio modo 
+            <lb ed="#A" n="67"/>de ratione formali vnitatis philosophari: tum 
+            et<lb ed="#A" n="68" break="no"/>iam quia de hac re necessario iterum redibit sermo 
+            <lb ed="#A" n="69"/>jisp. 128. ibique nonnihil de ea dicemus, ideo hac 
+            <lb ed="#A" n="70"/>jisputat. in praesenti supersedere decreui.
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e103-Dd1e166"><!-- vaz-p1q11a2-p1 -->
+          <head xml:id="tavaz1-d1e103-Hd1e169">Articulus 2</head>
+          <p xml:id="tavaz1-d1e103-d1e171">
+            <lb ed="#A" n="73" type="fixed=190"/>COnclusio est: Vnum, quod conuertitur cum ente, 
+            <lb ed="#A" n="74"/>opponitur multis, sicut negatio, aut priuatio, forma 
+            <lb ed="#A" n="75"/>contrariae: hoc est, sicut indiuisum diuiso. De qua nihil in 
+            <lb ed="#A" n="76"/>hoc artic. dicemus, tota enim eius explicatio ex 
+            <lb ed="#A" n="77"/>doctrina superioris art. pendet, de vtraque autem 
+            <lb ed="#A" n="78"/>artic. illo tertio disserendum est. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e103-Dd1e188"><!-- vaz-p1q11a3-p1 -->
+          <head xml:id="tavaz1-d1e103-Hd1e191">Articulus 3</head>
+          <p xml:id="tavaz1-d1e103-d1e193">
+            <lb ed="#A" n="43" type="fixed=191"/>Confirmatio doctrinae articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e198">
+            <lb ed="#A" n="44"/>COnclusio est affirmans, eaque tanquam ne 
+            <lb ed="#A" n="45"/>cessarium principium Theologo 
+            supponen<lb ed="#A" n="46" break="no"/>da, expressa est in scriptura Deuter. 6. &amp; ut optime 
+            <lb ed="#A" n="47"/>notauit pamasc.1. de fide c 5. apud eos, qui sacrae 
+            Scri<lb ed="#A" n="48" break="no"/>pturae credunt, extra controuersiam omnino est. 
+            <lb ed="#A" n="49"/>Caeterum praeter gentiles, qui nullam Scripturae 
+            <lb ed="#A" n="50"/>sactae fidem adhibent, multi fuerunt haeretici, qui 
+            <lb ed="#A" n="51"/>plures Deos asserere ausi sunt. Primum quidem 
+            <lb ed="#A" n="52"/>Manichaeus, qui licet non concesserit plures Deos 
+            <lb ed="#A" n="53"/>bonos, duo tamen prima principia rerum posuit, 
+            <lb ed="#A" n="54"/>alterum bonum, alterum malum; Id quod prius 
+            <lb ed="#A" n="55"/>docuerat Cerdon, de quibus fusius dicemus dispi 
+            <lb ed="#A" n="56"/>172.c. 1. Deinde Peratae teste Theodoreto lib. 1. haereti 
+            <lb ed="#A" n="57"/>carum fabularum c. 18. &amp; Philoponus, vt scribunt 
+            <lb ed="#A" n="58"/>Suidas, verbo Ioannes Grammancus, &amp; Nicephorus lib. 
+            <lb ed="#A" n="59"/>18 historiae c. 48. diuinam naturam in tres personas 
+            <lb ed="#A" n="60"/>diuidebant, ac proinde Tritheitae iure sunt appel 
+            <lb ed="#A" n="61"/>lati. Eundem errorem adscribunt alij loachimo 
+            <lb ed="#A" n="62"/>Abbati, de quo infra q. 39. art. 6. dicemus. Imme¬ 
+            <!--206.xml-->
+            <cb ed="#A" n="b"/>
+            <lb ed="#A" n="63"/>rito tamen illum tribuit <name xml:id="tavaz1-d1e103-Nd1e247">Raimundo Lullio</name>
+            <name xml:id="tavaz1-d1e103-Nd1e250">Be 
+              <lb ed="#A" n="64"/>nardus Lucemburgensis</name> in suo Catalogo haere 
+            <lb ed="#A" n="65"/>sum, quasi docuerit tres personas, esse tres essen 
+            <lb ed="#A" n="66"/>tias, cum nihil tale in eius operibus inueniatur, 
+            <lb ed="#A" n="67"/>Solum enim dixit. Essentia in Deo essentiat, non quia 
+            <lb ed="#A" n="68"/>aliam producat essentiam, vt falso nonnulli 
+            inter<lb ed="#A" n="69" break="no"/>pretantur, sed quia tribuit esse tanquam actum 
+            <lb ed="#A" n="70"/>proprium essentiae; aut, vt ostendat correlata 
+            in<lb ed="#A" n="71" break="no"/>trinseca, quae ipse passim adstruere molitur, de 
+            <lb ed="#A" n="72"/>quibus disp. 134. aliquantulum disserendum est. 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e273">
+            <lb ed="#A" n="73"/>Demum hisce calamitosis temporibus, quibus 
+            <lb ed="#A" n="74"/>haereses adeo vigent, vt iam diu sepultae &amp; 
+            damna<lb ed="#A" n="75" break="no"/>tae, denuo per Poloniam, Transiluaniam, 
+            Germa<lb ed="#A" n="76" break="no"/>niam, Galliam, &amp; Angliam excitentur, Valentinus 
+            <lb ed="#A" n="77"/>Gentilis Cosentinus discipulus Caluini eandem 
+            <lb ed="#A" n="78"/>haeresim sectatus est. Sed cum videret, hanc 
+            Deo<lb ed="#A" n="79" break="no"/>rum Trinitatem ex Scriptura non posse defendi, 
+            <lb ed="#A" n="80"/>ad Arrianismum postea declinauit. Haec haeresis 
+            <lb ed="#A" n="81"/>eodem modo impugnanda est, atque gentilium 
+            <lb ed="#A" n="82"/>error, qui plurium Deorum familiam esse 
+            dice<lb ed="#A" n="83" break="no"/>bant. Contra quos omissis innumeris Scripturae, 
+            <lb ed="#A" n="84"/>&amp; Patrum testimonijs, longam possemus in 
+            prae<lb ed="#A" n="85" break="no"/>senti ordiri disputationem, atque ex antiquis 
+            Phi<lb ed="#A" n="86" break="no"/>losophis ipsorumque gentilium Sybillis, Dei vni 
+            <lb ed="#A" n="87"/>tatem comprobare, nisi hoc accuratissime 
+            Augusti<lb ed="#A" n="88" break="no"/>nus Eugubinus lib. 3. de perenni Philosophia in principio 
+            <lb ed="#A" n="89"/>illius praestitisset. Quam disputationem suscepe 
+            <lb ed="#A" n="90"/>rant Lactantius lib. I. diuin. institut. ac. 4. Tertull. in libr. 
+            <lb ed="#A" n="91"/>Apologetico aduersus Gentes, &amp; SThomas 1. contra gent 
+            <lb ed="#A" n="92"/>c. 42. Nobis igitur sufficiat tam contra Manichaeum, 
+            <lb ed="#A" n="93"/>quam contra gentiles, duos, aut plures non esse 
+            <lb ed="#A" n="94"/>Deos vnica solum ratione demonstrare, quam 
+            te<lb ed="#A" n="95" break="no"/>tigerunt Tertullia. 1. lib. aduersum Marcionem c. 3. &amp; 4 
+            <lb ed="#A" n="96"/>Athanasius in orat. contra idola, &amp; Damasc. loco allegato 
+            <lb ed="#A" n="97"/>Supponendum autem est id, quod disp. 20. proba 
+            <lb ed="#A" n="98"/>tum manet, videlicet nomine Dei apud omnes 
+            na<lb ed="#A" n="99" break="no"/>tiones illud significari, quod nullum habet 
+            supe<lb ed="#A" n="100" break="no"/>riorem, &amp; ab alio non est: quod enim ab alio 
+            pen<lb ed="#A" n="101" break="no"/>det, sine dubio illud tanquam Deum debet 
+            agno<lb ed="#A" n="102" break="no"/>scere. Etenim nulla natio tam barbara fuit, quae 
+            <lb ed="#A" n="103"/>Deum verum alterius veri Dei esse diceret: nam 
+            <lb ed="#A" n="104"/>licet consuetum fuerit apud gentiles, insignes vi 
+            <lb ed="#A" n="105"/>ros, vt Imperatores, diuos nuncupare, quod in 
+            so<lb ed="#A" n="106" break="no"/>cietatem Deorum referrentur, nunquam tamen 
+            <lb ed="#A" n="107"/>Dij appellati sunt. Hac vero ratione apud 
+            Christia<lb ed="#A" n="108" break="no"/>nos sancti viri non immerito Diui vocantur, quod 
+            <lb ed="#A" n="109"/>in Dei societatem admissi sunt: quamuis aliqui 
+            ni<lb ed="#A" n="110" break="no"/>mium religiosi hanc appellationem tanquam 
+            Eth<lb ed="#A" n="111" break="no"/>nicorum propriam, &amp; sacrilegam ex ecrentur. 
+            Er<lb ed="#A" n="112" break="no"/>go in hac controuersia de vnitate Dei Deum verum 
+            <lb ed="#A" n="113"/>intelligimus eum esse, qui a seipso non ab alio 
+            pen<lb ed="#A" n="114" break="no"/>det. hoc autem sensu vnum tantum verum Deum 
+            <lb ed="#A" n="115"/>esse, hac ratione demonstro. Si duo essent Dij, 
+            <lb ed="#A" n="116"/>opus esset, vnum ab altero non pendere, vt 
+            suppo<lb ed="#A" n="117" break="no"/>situm est; atque adeo altero nolente, alterum 
+            pos<lb ed="#A" n="118" break="no"/>se esse, &amp; existere. Quare (vt inquit Athanasius) 
+            <lb ed="#A" n="119"/>AEqua in ambobus esset potestas &amp; imbecillitas, per 
+            qui<lb ed="#A" n="120" break="no"/>dem potestas, quod alter alterius voluntatem vinceret, es 
+            <lb ed="#A" n="121"/>ipso, quod altero inuito esse posset: per item imbecillitas, 
+            <lb ed="#A" n="122"/>quod nolentibus ipsis ea, quae nollent, euenirent: si quidem 
+            <lb ed="#A" n="123"/>vnus praeter alterius voluntatem existeret. Id quod 
+            tan<lb ed="#A" n="124" break="no"/>quam absurdum infert Athanasius, vt contra 
+            Ma<lb ed="#A" n="125" break="no"/>nichaeum probet, non esse duos Deos, alterum 
+            <lb ed="#A" n="126"/>malum, alterum bonum: sic enim vnus alteri 
+            con<lb ed="#A" n="127" break="no"/>trarius esset, &amp; ipsum vellet destruere, recte igitur 
+            <lb ed="#A" n="128"/>Tertull. lib illo 1 c. 3. veritatem Catholicam sic 
+            pro<lb ed="#A" n="129" break="no"/>nuntiat, Deus, si non vnus est, non est 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e399">
+            <lb ed="#A" n="130"/>Caeterum, quoniam gentilis aliquis possetasse¬ 
+            <!--207.xml-->
+            <pb ed="#A" n="192"/>
+            <cb ed="#A" n="a"/>
+            <lb ed="#A" n="1"/>rere, duos quidem esse Deos, eosque bonos, qui 
+            <lb ed="#A" n="2"/>necessario se mutuo diligant, ac proinde nullam 
+            <lb ed="#A" n="3"/>in ipsis esse imbecillitatem, sed aequalem potentiam 
+            <lb ed="#A" n="4"/>vrgeamus magis rationem, &amp; probemus nulla 
+            ra<lb ed="#A" n="5" break="no"/>tione duos esse posse in hunc modum. Si duo es 
+            <lb ed="#A" n="6"/>sent, non solum ipsi a seipsis, verum etiam caetera 
+            <lb ed="#A" n="7"/>omnia ab eis esse deberent, hoc enim est de 
+            ratio<lb ed="#A" n="8" break="no"/>ne Dei, &amp; primi principij: aut ergo ab vno solo sine 
+            <lb ed="#A" n="9"/>altero possent caeterae res conseruari; &amp; fieri, quod 
+            <lb ed="#A" n="10"/>ille esset potentior &amp; perfectior, &amp; ita ille solum 
+            <lb ed="#A" n="11"/>esset Deus: tum quia Deus idem est, quod omnium 
+            <lb ed="#A" n="12"/>perfectissimus, ad cuius perfectionem nihil 
+            desi<lb ed="#A" n="13" break="no"/>deratur: tum etiam quoniam alius velesset ab illo 
+            <lb ed="#A" n="14"/>vel a seipso: si esset ab illo, non posset esse Deus, 
+            <lb ed="#A" n="15"/>sed creatura illius: si a seipso, sicut alter, eiusdem 
+            <lb ed="#A" n="16"/>prorsus esset naturae, &amp; aeque perfectus: quocirca 
+            <lb ed="#A" n="17"/>qua ratione res caeterae ab vno, eodem quoque 
+            <lb ed="#A" n="18"/>modo ab altero penderent: aut denique aequalis 
+            <lb ed="#A" n="19"/>omnino essent perfectionis: &amp; ita alter omnino 
+            <lb ed="#A" n="20"/>superfluus esset: quare temere etiam &amp; sine 
+            ratio<lb ed="#A" n="21" break="no"/>ne duo esse dicerentur: non solum autem alter es 
+            <lb ed="#A" n="22"/>set superfluus, quod sine illo reliqua omnia aeque 
+            <lb ed="#A" n="23"/>bene fieri possent, sed quia simul cum altero 
+            nul<lb ed="#A" n="24" break="no"/>lum prorsus haberet effectum. Cum n. totus 
+            effe<lb ed="#A" n="25" break="no"/>ctus ab vna causa omnino fit; in eodem genere, &amp; 
+            <lb ed="#A" n="26"/>aeque primo, ab alia fieri non potest, vel adiuuari, 
+            <lb ed="#A" n="27"/>vt latius ostendemus 3. p. q. 3. art. 6. Dicere autem 
+            <lb ed="#A" n="28"/>quamlibet rem creatam ab vnoquoque illorum 
+            <lb ed="#A" n="29"/>duorum cum altero simul produci, tamquam a 
+            <lb ed="#A" n="30"/>causa partiali, sicut onus aliquod a duobus deferri 
+            <lb ed="#A" n="31"/>solet, ridiculum est. Non n. possumus res 
+            spiritua<lb ed="#A" n="32" break="no"/>les, imo nec corporales secundum substantiam 
+            <lb ed="#A" n="33"/>suam ita partiri, vt partem vnam vni Deo, alteram 
+            <lb ed="#A" n="34"/>alteri tribuamus: vel ipsorum Deorum vires ita 
+            <lb ed="#A" n="35"/>metiri, vt ad producendam tantum effectum 
+            <lb ed="#A" n="36"/>vnum dicamus sufficere; ad tantum vero duos aut 
+            <lb ed="#A" n="37"/>plures esse necessarios. Porro asserere eos inter se 
+            <lb ed="#A" n="38"/>conuenisse, vt quaedam ab vno, quaedam ab alio 
+            <lb ed="#A" n="39"/>voluntate libera producerentur, est omnino 
+            com<lb ed="#A" n="40" break="no"/>mentitium &amp; sine fundamento: neutrum igitu 
+            <lb ed="#A" n="41"/>est asserendum. 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e500">
+            <lb ed="#A" n="42"/>Denique qua rationem aliquis duos Deos 
+            aequa<lb ed="#A" n="43" break="no"/>lis perfectionis, &amp; naturae esse diceret, infinitos 
+            <lb ed="#A" n="44"/>quoque deberet concedere. Nam quae maior 
+            ra<lb ed="#A" n="45" break="no"/>tio, quare duo, aut tres, quam plures esse debeant 
+            <lb ed="#A" n="46"/>cum necessario sint, &amp; a nullo pendeant, ac 
+            proin<lb ed="#A" n="47" break="no"/>de numerus illorum si semel vnitatem excedat,a 
+            <lb ed="#A" n="48"/>nullo possit determinari, vt luculenter Tertull. pro 
+            <lb ed="#A" n="49"/>bat lib. 1. contra Marcion. c. 4. &amp; seq 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e103-Dd1e521"><!-- vaz-p1q11a4-p1 -->
+          <head xml:id="tavaz1-d1e103-Hd1e524">Articulus 4</head>
+          <p xml:id="tavaz1-d1e103-d1e526">
+            <lb ed="#A" n="115" type="fixed=192"/>Explicatio doctrinae articuli. 
+          </p>
+          <p xml:id="tavaz1-d1e103-d1e531">
+            <lb ed="#A" n="116"/>COnclusio est affirmans. Ea vero non indiget 
+            <lb ed="#A" n="117"/>longa disputatione, sed facili negotio 
+            expli<lb ed="#A" n="118" break="no"/>cari potest. Obseruandum igitur est, siue vnitas 
+            <lb ed="#A" n="119"/>formaliter sit negatio diuisionis, hoc est, 
+            indiui<lb ed="#A" n="120" break="no"/>sio; siue sit quid positiuum, ita reciprocari cum 
+            in<lb ed="#A" n="121" break="no"/>diuisione, &amp; opponi multitudini, vt vbicunque 
+            <lb ed="#A" n="122"/>fuerit masor indiuisio, minorque pluralitas seu 
+            <lb ed="#A" n="123"/>multitudo, sit maior vnitas: &amp; quia vbi est maior 
+            <lb ed="#A" n="124"/>simplicitas: minus est pluralitatis, &amp; magis 
+            indiui<lb ed="#A" n="125" break="no"/>sionis, Ideo maior est vnitas: cumque Dei 
+            simpli<lb ed="#A" n="126" break="no"/>citas secundum rem sit maior, quam excogitari 
+            <!--208.xml-->
+            <pb ed="#A" n="193"/>
+            <cb ed="#A" n="a"/>
+            <lb ed="#A" n="1"/>possit, quod in eo non solum essentia non 
+            distin<lb ed="#A" n="2" break="no"/>guatur ab esse ex natura rei, sed neque a supposito, 
+            <lb ed="#A" n="3"/>nec aliquod accidens ei adueniat, sed omnia idem 
+            <lb ed="#A" n="4"/>omnino cum ea sint, fit, vt eius vnitas sit maior. 
+            <lb ed="#A" n="5"/>quam intelligi possit in creaturis. In eis namque 
+            <lb ed="#A" n="6"/>licer esse &amp; essentia sint idem secundum rem, vt 3. 
+            <lb ed="#A" n="7"/>p. q. 17. a. 2. &amp; in hac 1. p. q. 50. art. 5. dicemus, 
+            nihilo<lb ed="#A" n="8" break="no"/>minus earum omniumvnitas est composita 
+            secun<lb ed="#A" n="9" break="no"/>dum rem, ex substantia, &amp; accidentibus: ex natura 
+            <lb ed="#A" n="10"/>&amp; supposito. Quantum vero deroget diuinae 
+            sim<lb ed="#A" n="11" break="no"/>plicitati opinio Scoti, qui affirmat, Dei artributa 
+            <lb ed="#A" n="12"/>inter se, &amp; ab essentia ex natura rei ante ir tellectus 
+            <lb ed="#A" n="13"/>operationem distingui, notabimus disp. 116. In 
+            <lb ed="#A" n="14"/>hunc sensum forsan antiqui Philosophi, et 
+            Melis<lb ed="#A" n="15" break="no"/>sus, &amp; alij, quos refert Eugubinus lib. 3. de perenni 
+            Phi<lb ed="#A" n="16" break="no"/>losophia c. 7. Deum appellabant rὸ ἐν, hoc est ipsam 
+            <lb ed="#A" n="17"/>vnitatem, vel ipsum vnum: sicut etiam dici solet 
+            <lb ed="#A" n="18"/>τὸ ὖν, hoc est, ipsum esse, quod ei maxime prae 
+            cae<lb ed="#A" n="19" break="no"/>teris haec duo conueniant. Neque vero quidquam 
+            <lb ed="#A" n="20"/>obest personarum pluralitas in Deo, quo minus 
+            il<lb ed="#A" n="21" break="no"/>lius vnitas maxima sit. Nam in Deo non 
+            concedi<lb ed="#A" n="22" break="no"/>mus vnitatem in persona, sed in natura; hanc vero 
+            <lb ed="#A" n="23"/>diximus esse maximam, vt ex praedictis constat. 
+            <lb ed="#A" n="24"/>personarum vero est vera pluralitas, vt in materia 
+            <lb ed="#A" n="25"/>de Trinitate pa ebit. Hinc demum nullam inferri 
+            <lb ed="#A" n="26"/>distinctionem inter personam, &amp; naturam, nec 
+            vl<lb ed="#A" n="27" break="no"/>lam compositionem ex natura rei, disp. 120. etiam 
+            <lb ed="#A" n="28"/>perspicuum fiet. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

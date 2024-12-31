@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-vaz8ax">Antwerp 1621</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="122"/>
+        <cb ed="#A" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tavaz1-d1e77">
+        <head xml:id="tavaz1-d1e77-Hd1e100">Quaestio 6</head>
+        <div xml:id="tavaz1-d1e77-Dd1e102"><!-- vaz-p1q6a1-p1 -->
+          <head xml:id="tavaz1-d1e77-Hd1e105">Articulus 1</head>
+          <p xml:id="tavaz1-d1e77-d1e107">
+            <lb ed="#A" n="80" type="fixed=120"/>Conclusio est: Bonum esse, praecipue conuenit Deo.
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e77-Dd1e113"><!-- vaz-p1q6a2-p1 -->
+          <head xml:id="tavaz1-d1e77-Hd1e116">Articulus 2</head>
+          <p xml:id="tavaz1-d1e77-d1e118">
+            <lb ed="#A" n="50" type="fixed=121"/>Conclusio est: Deus est summum bonum simpliciter, 
+            <lb ed="#A" n="51"/>&amp; non solum in aliquo genere, vel ordine rerum. De 
+            do<lb ed="#A" n="52" break="no"/>ctrina vtriusque articuli satis dictum est disputat. 
+            <lb ed="#A" n="53"/>praecedenti. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e77-Dd1e130"><!-- vaz-p1q6a3-p1 -->
+          <head xml:id="tavaz1-d1e77-Hd1e133">Articulus 3</head>
+          <p xml:id="tavaz1-d1e77-d1e135">
+            <lb ed="#A" n="24" type="fixed=122"/>Conclusio est: Solus Deus est bonus per essentiam. 
+            <lb ed="#A" n="25"/>Quae primo intuitu facilis videtur; eo tamen 
+            mo<lb ed="#A" n="26" break="no"/>do quo a S. Thoma intelligitur, difficilis est, vt 
+            di<lb ed="#A" n="27" break="no"/>sput. sequenti patebit. 
+          </p>
+        </div>
+        <div xml:id="tavaz1-d1e77-Dd1e147"><!-- vaz-p1q6-d24 -->
+          <head xml:id="tavaz1-d1e77-Hd1e150">Disputatio 24</head>
+          <head xml:id="tavaz1-d1e77-Hd1e152" type="question-title">An esse bonum per essentiam sit 
+            proprium Dei</head>
+          <p xml:id="tavaz1-d1e77-d1e155">
+            <lb ed="#A" n="28" type="fixed=122"/>DISPVTATIO XXIV. 
+            <lb ed="#A" n="29"/>An esse bonum per essentiam sit 
+            <lb ed="#A" n="30"/>proprium Dei. 
+          </p>
+          <p xml:id="tavaz1-d1e77-d1e164">
+            <lb ed="#A" n="31"/>Sententia S Thomae, &amp; Caietani, cap. 1. 
+            <lb ed="#A" n="32"/>Exponitur difficultas praedictae sententiae, cap. 2. 
+            <lb ed="#A" n="33"/>Cui conueniat bonum per essentialem, cap. 3.
+          </p>
+          <div xml:id="tavaz1-d1e77-Dd1e173">
+            <p xml:id="tavaz1-d1e77-d1e175">
+              <lb ed="#A" n="34" type="fixed=122"/>CAPVT I. 
+              <lb ed="#A" n="35"/>Sententia S. Thoma, &amp; Caietam. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e182">
+              <lb ed="#A" n="36"/>PRoposita controuersia ita facilis videbatur, vt 
+              <lb ed="#A" n="37"/>nulla circa illam esse posset varietas 
+              opinio<lb ed="#A" n="38" break="no"/>num: nihilominus circa modum eam explicandi 
+              <lb ed="#A" n="39"/>non est omnium eadem sententia. Prior sit S. 
+              Tho<lb ed="#A" n="40" break="no"/>mae, quam sequitur Caietan in hoc art. 3. nempe 
+              <lb ed="#A" n="41"/>proprium esse Dei, esse bonum per essentiam, ita 
+              <lb ed="#A" n="42"/>vt nulla alia res per essentiam bona esse possit 
+              <lb ed="#A" n="43"/>Cuius rei gratia notat Caietanus particulam il 
+              <lb ed="#A" n="44"/>lam, Per essentiam, in ea propositione ad diuersa re 
+              <lb ed="#A" n="45"/>ferri posse: aut enim refertur ad subiectum, 
+              scilice<lb ed="#A" n="46" break="no"/>Deum, &amp; ita sensus erit; Deus per suam essentiam 
+              <lb ed="#A" n="47"/>ita est bonus, vt non sit per aliquid ei additum. 
+              <lb ed="#A" n="48"/>Aut particula, Per essentiam, refertur ad praedicatum 
+              <lb ed="#A" n="49"/>scilicet ad bonum; &amp; ita sensus erit; Deum esse 
+              bo<lb ed="#A" n="50" break="no"/>num bonitate non participata, sed quae per 
+              essen<lb ed="#A" n="51" break="no"/>tiam talis est. Dicitur autem, inquit Caietanus 
+              bo<lb ed="#A" n="52" break="no"/>nitas participata, quae non habet plenitudinem 
+              <lb ed="#A" n="53"/>perfectionis conuenientem rationi formali 
+              boni<lb ed="#A" n="54" break="no"/>tatis, &amp; haec est finita, &amp; ab alio pendens. Contra 
+              <lb ed="#A" n="55"/>vero bonitas per essentiam est infinita secundum 
+              <lb ed="#A" n="56"/>se, &amp; a nullo alio habens esse. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e230">
+              <lb ed="#A" n="57"/>Deinde notat Caietanus in praesenti 
+              difficulta<lb ed="#A" n="58" break="no"/>te ratione materiae haec duo idem omnino esse 
+              <lb ed="#A" n="59"/>Nam quod est bonum per essentiam priori 
+              mo<lb ed="#A" n="60" break="no"/>do, est etiam bonum per essentiam posteriori 
+              mo<lb ed="#A" n="61" break="no"/>do: sed quia haec duo, Per essentiam esse tale: &amp; esse ta¬ 
+              <!--137.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="62"/>le per essentiam, vniuersim non in idem recidunt, 
+              <lb ed="#A" n="63"/>sed formaliter distinguuntur; Socrates enim per 
+              <lb ed="#A" n="64"/>suam essentiam est homo, &amp; tamen non est homo 
+              <lb ed="#A" n="65"/>per essentiam; tum etiam quia praesens quaestio 
+              <lb ed="#A" n="66"/>apud S. Thomam est de bono, quod per 
+              essen<lb ed="#A" n="67" break="no"/>tiam est bonum, non de essentia Dei, vtrum per 
+              <lb ed="#A" n="68"/>se ipsam, an per aliquid aliud sit bona. Iam enim 
+              <lb ed="#A" n="69"/>quaest. 3. demonstrauerat Deum esse summe 
+              sim<lb ed="#A" n="70" break="no"/>plicem, ac proinde nihil ei inesse accidentarium: 
+              <lb ed="#A" n="71"/>&amp; ita constabat Deum per suam essentiam esse 
+              <lb ed="#A" n="72"/>bonum non per aliquid additum; ideo in hoc 
+              <lb ed="#A" n="73"/>art. particula, Per essentiam, referenda est ad 
+              prae<lb ed="#A" n="74" break="no"/>dicatum, non ad subiectum, vt sensus sit, Deum 
+              <lb ed="#A" n="75"/>esse bonum bonitate, quae est per essentiam 
+              bo<lb ed="#A" n="76" break="no"/>nitas. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e280">
+              <lb ed="#A" n="77"/>Verum licet haec doctrina Caietani vera sit, ea 
+              <lb ed="#A" n="78"/>tamen non est iuxta mentem S. Thomae, quem in 
+              <lb ed="#A" n="79"/>terpretari conatur. Nam quamuis ex argumento 
+              <lb ed="#A" n="80"/>Sed contra, colligi videatur, loqui de bono per 
+              es<lb ed="#A" n="81" break="no"/>sentiam, quod a bono per participationem 
+              distin<lb ed="#A" n="82" break="no"/>guitur; quia tamen in omnibus aliis argumentis 
+              <lb ed="#A" n="83"/>particulam, Per essentiam, plane refert ad subiectum 
+              <lb ed="#A" n="84"/>propositionis, non ad praedicatum, idque ex 
+              do<lb ed="#A" n="85" break="no"/>ctrina art. manifeste colligitur, vt mox 
+              ostende<lb ed="#A" n="86" break="no"/>mus, ideo quod ex argumento, Sed contra, deduci 
+              <lb ed="#A" n="87"/>videtur, minoris momenti censeri debet. Saepius 
+              <lb ed="#A" n="88"/>enim hoc genus argumenti non tam ponitur a 
+              <lb ed="#A" n="89"/>S. Thoma, vt confirmet id, quod docet in artic. 
+              <lb ed="#A" n="90"/>quam vt quaestionem propositam more solito ex 
+              <lb ed="#A" n="91"/>vtraque parte dubiam reddat. Quare illius 
+              sen<lb ed="#A" n="92" break="no"/>tentia ex solutionibus argumentorum, &amp; 
+              doctri<lb ed="#A" n="93" break="no"/>na articuli semper coniicienda est. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e319">
+              <lb ed="#A" n="94"/>In art. igitur docet S. Thomas tres esse 
+              bonira<lb ed="#A" n="95" break="no"/>tes, aut perfectiones in vnaquaque re. Prima, 
+              in<lb ed="#A" n="96" break="no"/>quit, est integritas ipsius, prout existentis, atque! 
+              <lb ed="#A" n="97"/>adeo iam constitutae ex essentia &amp; existentia. 
+              Se<lb ed="#A" n="98" break="no"/>cunda est accidentium, quibus res bene 
+              disponi<lb ed="#A" n="99" break="no"/>tur. Tertia est assecutio proprii finis. In lapide ista 
+              <lb ed="#A" n="100"/>tria ostendit, qui primo perfectus est suo esse, &amp; 
+              <lb ed="#A" n="101"/>essentia: secundo grauitate, &amp; aliis qualitatibus: 
+              <lb ed="#A" n="102"/>tertio centro, &amp; fine sui motus. Inquit ergo S.
+              Do<lb ed="#A" n="103" break="no"/>ctor nulli creaturae per suam essentiam conuenire 
+              <lb ed="#A" n="104"/>aliquam ex his bonitatibus: si enim aliqua hoc 
+              <lb ed="#A" n="105"/>modo conueniret, esset prima: ea vero 
+              nequa<lb ed="#A" n="106" break="no"/>quam conuenit, quoniam in nulla creatura, sed in 
+              <lb ed="#A" n="107"/>solo Deo, esse est sua essentia: nulla igitur creatura 
+              <lb ed="#A" n="108"/>per suam essentiam habet aliquam bonitatem, sed 
+              <lb ed="#A" n="109"/>solus Deus. Videtur quidem S. Thomas docere 
+              <lb ed="#A" n="110"/>primam bonitatem, quae consequitur rem in 
+              ra<lb ed="#A" n="111" break="no"/>tione entis ante aduentum existentiae, &amp; alicuius 
+              <lb ed="#A" n="112"/>accidentis, nulli rei consideratae secundum 
+              essen<lb ed="#A" n="113" break="no"/>tiam, &amp; secundum esse possibile conuenire: si 
+              <lb ed="#A" n="114"/>enim ante existentiam bona esset, non diceret, 
+              <lb ed="#A" n="115"/>nullam esse bonam per essentiam suam, quia 
+              nul<lb ed="#A" n="116" break="no"/>la essentia creata esset suum esse. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e372">
+              <lb ed="#A" n="117"/>Hoc ipsum colligitur ex doctrina eiusdenS. 
+              Tho<lb ed="#A" n="118" break="no"/>mae infra quaest. 19. art. 3. vt paulo inferius 
+              notabi<lb ed="#A" n="119" break="no"/>mus. Vt autem hanc sententiam defendat, asserere 
+              <lb ed="#A" n="120"/>debet essentiam in rebus creatis ab existentia 
+              reali<lb ed="#A" n="121" break="no"/>ter distingui, vt ipse docuit 2. contra gent. cap. 52. 
+              <lb ed="#A" n="122"/>&amp; de ente, &amp; essentia c. 5. atque cum eo 
+              Scholasti<lb ed="#A" n="123" break="no"/>ci alij, quos referemus 3. par. q. 18. artic. 2. nam si 
+              <lb ed="#A" n="124"/>non distinguatur nisi sola ratione, omnis res esset 
+              <lb ed="#A" n="125"/>bona per seipsam, id est, non aliquo ei adueniente 
+              <lb ed="#A" n="126"/>ab ea distinctio. Parum autem referret dicere, 
+              bo<lb ed="#A" n="127" break="no"/>nitatem rerum creatarum ratione distingui ab 
+              es<lb ed="#A" n="128" break="no"/>sentia, tanquam passionem consequentem: nam 
+              <lb ed="#A" n="129"/>in Deo etiam hoc modo a nobis distinguitur, ni¬ 
+              <!--138.xml-->
+              <pb ed="#A" n="123"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>hilominus dicimus, Deum esse bonum per 
+              essen<lb ed="#A" n="2" break="no"/>tiam suam: eodem igitur modo res omnis creata 
+              <lb ed="#A" n="3"/>diceretur bona. atque Deus ipse. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e77-Dd1e418">
+            <p xml:id="tavaz1-d1e77-d1e420">
+              <lb ed="#A" n="4" type="fixed=123"/>CAPVT II. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e425">
+              <lb ed="#A" n="5"/>Exponitur difficultas praedictae sententiae. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e430">
+              <lb ed="#A" n="6"/>OPinio praecedens hoc modo explicata 
+              diffi<lb ed="#A" n="7" break="no"/>cultate non caret. Primo quomam bonitas 
+              <lb ed="#A" n="8"/>est passio entis, &amp; cum eo conuertitur: ergo de 
+              quo<lb ed="#A" n="9" break="no"/>cumque vere enunciatur ens praedicari poterit 
+              <lb ed="#A" n="10"/>bonum: de qualibet autem essentia antequam 
+              exi<lb ed="#A" n="11" break="no"/>stat vere enuntiatur ens: ergo &amp; bonum. Copula 
+              <lb ed="#A" n="12"/>namque harum propositionum non significat 
+              exi<lb ed="#A" n="13" break="no"/>stentiam, sed connexionem ex natura rei inter 
+              <lb ed="#A" n="14"/>subiectum, &amp; praedicatum, ac proinde de rebus 
+              <lb ed="#A" n="15"/>nondum existentibus talia enuntiari possunt. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e454">
+              <lb ed="#A" n="16"/>Secundo, vt probabitur 3. p. q. 17. art. 1. 
+              existen<lb ed="#A" n="17" break="no"/>tia idem omnino secundum rem est cum essentia: 
+              <lb ed="#A" n="18"/>si ergo res sunt bonae per existentiam, erunt etiam 
+              <lb ed="#A" n="19"/>per essentiam re ipsa bonae, tametsi bonitas ab 
+              es<lb ed="#A" n="20" break="no"/>sentia, &amp; existentia ipsarum per modum passionis 
+              <lb ed="#A" n="21"/>sola ratione distinguatur: nisi quod 
+              quemadmo<lb ed="#A" n="22" break="no"/>dum res antequam existant actu, dicuntur esse 
+              pos<lb ed="#A" n="23" break="no"/>sibiles secundum eandem existentiam sub esse 
+              possi<lb ed="#A" n="24" break="no"/>bili, ita etiam bonitas ante existentiam, rei ipsi 
+              con<lb ed="#A" n="25" break="no"/>ueniet sub esse tantum possibili: cumque verbum, 
+              <lb ed="#A" n="26"/>est, in illa propositione, Homo est bonus, aut equus 
+              es<lb ed="#A" n="27" break="no"/>bonus: non denotet existentiam, sed connexionem 
+              <lb ed="#A" n="28"/>extremorum, efficitur de homine, &amp; de equo 
+              an<lb ed="#A" n="29" break="no"/>tequam existant, praedictam propositionem 
+              enun<lb ed="#A" n="30" break="no"/>tiari posse. Porro sicut quaecumque essentia 
+              creata<lb ed="#A" n="31" break="no"/>quamuis cum existentia idem omnino sit secundum 
+              <lb ed="#A" n="32"/>rem, quia tamen ab alio pendet, antequam sit, &amp; 
+              <lb ed="#A" n="33"/>postquam existit, potest non existere, ideo 
+              peculia<lb ed="#A" n="34" break="no"/>ri ratione dicitur existentia, non esse de essentia 
+              il<lb ed="#A" n="35" break="no"/>lius formaliter: ita quoque debemus dicere 
+              crea<lb ed="#A" n="36" break="no"/>turam sic esse bonam per suam essentiam, vt interire 
+              <lb ed="#A" n="37"/>possit, &amp; corrumpi, atque ita aliquod malum ei 
+              op<lb ed="#A" n="38" break="no"/>positum sit, vt sequenti capite magis explicabitur. 
+              <lb ed="#A" n="39"/>Tertio eadem sententia difficilis est, quia vt 
+              di<lb ed="#A" n="40" break="no"/>cemus disp. 79. Deus ita anmat creaturas secundum 
+              <lb ed="#A" n="41"/>esse possibile amore simplicis complacentiae, vt 
+              <lb ed="#A" n="42"/>eas necessario diligat: est igitur in illis ante 
+              existen<lb ed="#A" n="43" break="no"/>tiam, etiam futuram, aliqua bonitas, in quam actus 
+              <lb ed="#A" n="44"/>diuinae voluntatis feratur. Fateor nihilominus ex 
+              <lb ed="#A" n="45"/>sententia S. Thomae creaturas possibiles non dili 
+              <lb ed="#A" n="46"/>gi a Deo, sed solum aliquando futuras, qua ratione 
+              <lb ed="#A" n="47"/>cum inferius quaest. 19. art. 3. docuisset, creaturas a 
+              <lb ed="#A" n="48"/>Deo libere diligi, necessario tamen cognosci. 
+              sta<lb ed="#A" n="49" break="no"/>tim in solutione 6. inter scientiam, &amp; dilectionem 
+              <lb ed="#A" n="50"/>discrimen assignat, quia scilicet, res cognoscuntur 
+              <lb ed="#A" n="51"/>a Deo, quatenus sunt in ipso, diliguntur, vero qua 
+              <lb ed="#A" n="52"/>tenus sunt in seipsis: &amp; quia in Deo necessario 
+              <lb ed="#A" n="53"/>sunt, sed in seipsis non necessario, ideo necessario 
+              <lb ed="#A" n="54"/>cognoscuntur, sed non necessario diliguntur. Id 
+              <lb ed="#A" n="55"/>quod verum non esset, si res diligerentur a Deo 
+              se<lb ed="#A" n="56" break="no"/>cundum esse possibile. Hoc enim ita necessarium 
+              <lb ed="#A" n="57"/>est, &amp; in Deo necessario repraesentatur, sicut 
+              enti<lb ed="#A" n="58" break="no"/>tas, &amp; veritas rerum; ac proinde eodem modo 
+              di<lb ed="#A" n="59" break="no"/>ligerentur, sicut cognoscuntur. Idem omnino 
+              do<lb ed="#A" n="60" break="no"/>cuit art. 6. illius qui ad 2. &amp; 1. contra gent. c. 81. in vlt. 
+              <lb ed="#A" n="61"/>ratione. Concordat etiam doctrina huius articuli 
+              <lb ed="#A" n="62"/>cum dicit, in rerum essentijs ante aduentum 
+              exi<lb ed="#A" n="63" break="no"/>stentiae non esse aliquam bonitatem. Consentit 
+              et<lb ed="#A" n="64" break="no"/>iam Ferrariens. in eo cap. 81. &amp; 4. contragen. c. 13. 
+              <lb ed="#A" n="65"/>S. dicitur 2. quamuis enim cap. 75. §. Respondetur, illius 
+              <lb ed="#A" n="66"/>primi libri dicat creaturas diligi a Deo in seipso, 
+              <lb ed="#A" n="67"/>quatenus etiam se diligit, idemque repetat 4. con¬ 
+              <!--138.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="68"/>tra gent. cap. 13. §. Non obstant: mea tamen sententia 
+              <lb ed="#A" n="69"/>non loquitur de creaturis secundum rationes 
+              pro<lb ed="#A" n="70" break="no"/>prias, &amp; formales obiectas diuino intellectui, sed 
+              <lb ed="#A" n="71"/>de creaturis, quatenus dicuntur esse ipse Deus, 
+              <lb ed="#A" n="72"/>aut virtute in ipso contineri. Quo pacto lapis in 
+              <lb ed="#A" n="73"/>Deo dicitur viuere vita Dei, vt disput. 70. 
+              videbi<lb ed="#A" n="74" break="no"/>mus. Hoc etiam sensu dixit S. Thom. infra q 19. 
+              <lb ed="#A" n="75"/>artic. 6. ad 2. Deum non velle omne bonum, nisi 
+              <lb ed="#A" n="76"/>quatenus vult seipsum, in quo virtute est omne 
+              <lb ed="#A" n="77"/>bonum. Quid vero in hac re sentiat Caietanus, 
+              di<lb ed="#A" n="78" break="no"/>cendum est infra disp. 79. &amp; disp. 144. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e597">
+              <lb ed="#A" n="79"/>Haec tamen doctrina difficilis videtur. Nam 
+              <lb ed="#A" n="80"/>quamuis res antequam existat, non habeat actu 
+              <lb ed="#A" n="81"/>bonitatem, sicut non habet esse actu, neque 
+              quid<lb ed="#A" n="82" break="no"/>quam aliud: nihilominus dici debet quaecunque 
+              <lb ed="#A" n="83"/>res bona simpliciter, etiam secundum esse 
+              possibi<lb ed="#A" n="84" break="no"/>le, quia verbum, Est, in ea propositione non 
+              siguifi<lb ed="#A" n="85" break="no"/>cat existentiam praedicati in subiecto, sed 
+              conue<lb ed="#A" n="86" break="no"/>nientiam, &amp; connexionem cum illo: &amp; 
+              quemad<lb ed="#A" n="87" break="no"/>modum essentia rei secundum esse possibile simul 
+              <lb ed="#A" n="88"/>intelligitur cum existentia etiam possibili, imo re 
+              <lb ed="#A" n="89"/>ipsaidem cum ea est, sic etiam intelligitur bona 
+              <lb ed="#A" n="90"/>quare nihil obstat, quo minus Deus diligat res 
+              so<lb ed="#A" n="91" break="no"/>lum possibiles: quinimo voluntas Dei efficax, qua 
+              <lb ed="#A" n="92"/>vult rem aliquam esse futuram, non supponit 
+              exi<lb ed="#A" n="93" break="no"/>stentiam futuram tanquam obiectum, in quod 
+              fe<lb ed="#A" n="94" break="no"/>ratur per modum dilectionis, sed solum supponit 
+              <lb ed="#A" n="95"/>possibilem. Posterius enim est, rem esse futuram, 
+              <lb ed="#A" n="96"/>quam Deum illam velle esse futuram. Cum ergo 
+              <lb ed="#A" n="97"/>intelligitur Deus velle rem esse futuram, iam 
+              in<lb ed="#A" n="98" break="no"/>telligitur illam diligere, vt possibilem 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e644">
+              <lb ed="#A" n="99"/>Postremo contra superiorem sententiam haec 
+              <lb ed="#A" n="100"/>ratio potest confici. Bonitas rei idem est, quod 
+              in<lb ed="#A" n="101" break="no"/>tegritas illius: omnis autem essentia antequan 
+              <lb ed="#A" n="102"/>existat intelligitur integra, aut seipsa, si simplex sit, 
+              <lb ed="#A" n="103"/>aut partibus essentialibus, vt materia &amp; forma, si 
+              <lb ed="#A" n="104"/>sit composita: ergo per se ipsam ante existentiam 
+              <lb ed="#A" n="105"/>bona est. Huic rationi Caiet. in hoc art. respondet, 
+              <lb ed="#A" n="106"/>duobus modis rem dici bonam. Primum 
+              secun<lb ed="#A" n="107" break="no"/>dum quid, atque hoc modo quamcunque 
+              essen<lb ed="#A" n="108" break="no"/>tiam, antequam sit in rerum natura, esse bonam 
+              <lb ed="#A" n="109"/>per seipsam: Deinde simpliciter, sic autem nunquam 
+              <lb ed="#A" n="110"/>esse perfectam, &amp; bonam, donec sit in rerum 
+              natu<lb ed="#A" n="111" break="no"/>ra; qua propter esse existentiae, esse de integritate 
+              <lb ed="#A" n="112"/>naturae, &amp; ad bonitatem illius hoc posteriori 
+              mo<lb ed="#A" n="113" break="no"/>do pertinere: non tanquam partem essentiae, sed vt 
+              <lb ed="#A" n="114"/>actum illius: &amp; cum dicitur essentia alicuius rei 
+              <lb ed="#A" n="115"/>perfectior alia non debet ita intelligi (inquit 
+              Caie<lb ed="#A" n="116" break="no"/>tanus) quasi essentia alicuius rei per se ipsam sit 
+              bo<lb ed="#A" n="117" break="no"/>na, absque aliquo alio, nisi tantum, vt ipse ait, 
+              radi<lb ed="#A" n="118" break="no"/>caliter. Cum vero negat S. Thomas, rem aliquam 
+              <lb ed="#A" n="119"/>creatam esse bonam per suam essentiam, intelligit 
+              <lb ed="#A" n="120"/>simpliciter, &amp; sufficienter absque alio. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e694">
+              <lb ed="#A" n="121"/>Verum ex ijs, quae diximus, perspicue patet, 
+              <lb ed="#A" n="122"/>hanc distinctionem Caietan. nullius esse momen 
+              <lb ed="#A" n="123"/>tisnam rerum essentiae siue per feipsas, siue per 
+              ali<lb ed="#A" n="124" break="no"/>quid aliud sint bonae, absolute, &amp; simpliciter 
+              di<lb ed="#A" n="125" break="no"/>cendae sunt bonae, antequam existant. Quia 
+              ver<lb ed="#A" n="126" break="no"/>bum, est, in propositione non significat existentiam 
+              <lb ed="#A" n="127"/>Esse autem per seipsas bonas rerum essentias 
+              sim<lb ed="#A" n="128" break="no"/>pliciter ex eo probatur, quia simpliciter entia 
+              di<lb ed="#A" n="129" break="no"/>cuntur, bonum autem, &amp; ens reciprocantur.
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e77-Dd1e717">
+            <p xml:id="tavaz1-d1e77-d1e719">
+              <lb ed="#A" n="130" type="fixed=123"/>CAPVT III. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e724">
+              <lb ed="#A" n="131"/>Cui conueniat bonum per essentiam. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e729">
+              <lb ed="#A" n="132"/>Espondeo igitur ad quaestionem propositam. 
+              <lb ed="#A" n="133"/>esse bonum per essentiam quodammodo 
+              so<lb ed="#A" n="134" break="no"/>li Deo conuenire, &amp; quodammodo etiam crea¬ 
+              <!--139.xml-->
+              <pb ed="#A" n="124"/>
+              <cb ed="#A" n="a"/>
+              <lb ed="#A" n="1"/>turis: id quod explico in hunc modum. Prime 
+              <lb ed="#A" n="2"/>non solus Deus per suam essentiam absque vllo 
+              <lb ed="#A" n="3"/>alio a se realiter distincto est bonus bonitate, qua 
+              <lb ed="#A" n="4"/>consequitur essentiam, sed quacunque bonitate 
+              <lb ed="#A" n="5"/>creaturae vero licet sint bonae per suam essentiam 
+              <lb ed="#A" n="6"/>hoc est, non addito aliquo, quod realiter ab ipsis 
+              <lb ed="#A" n="7"/>distinguatur, eo genere bonitatis, quod 
+              consequi<lb ed="#A" n="8" break="no"/>tur essentiam; non tamen sunt bonae per suam es 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e762">
+              <lb ed="#A" n="9"/>sentiam, quacunque bonitate: perficiuntur enim 8 
+              <lb ed="#A" n="10"/>accidentarie aliquo distincto a sua essentia, vt 
+              su<lb ed="#A" n="11" break="no"/>perius explicatum est: Deus autem hoc modo 
+              <lb ed="#A" n="12"/>non perficitur, quia quicquid in Deo est, de es 
+              <lb ed="#A" n="13"/>sentia illius est. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e775">
+              <lb ed="#A" n="14"/>Secundo, quaecumque res creata etiam 
+              spiti<lb ed="#A" n="15" break="no"/>rualis, tametsi eius essentia, &amp; existentia non 
+              di<lb ed="#A" n="16" break="no"/>stinguantur ex natura rei, potest non existere, &amp; 
+              <lb ed="#A" n="17"/>interire non discessu, &amp; secretione ipsius esse, &amp; 
+              <lb ed="#A" n="18"/>essentiae, quae iunctione aliqua ante teneantur, sed 
+              <lb ed="#A" n="19"/>quod ex Dei voluntate efficiente pendeat, vt 
+              in<lb ed="#A" n="20" break="no"/>ferius disput. 182. dicemus. Quare actu existere 
+              <lb ed="#A" n="21"/>non debet numerari a nobis inter praedicata cre 
+              <lb ed="#A" n="22"/>aturae, quae nostro modo intelligendi, 
+              essentiali<lb ed="#A" n="23" break="no"/>ter, dicuntur, atque necessario, &amp; semper de ipsa 
+              <lb ed="#A" n="24"/>praedicantur. Homo namque non modo 
+              intelligi<lb ed="#A" n="25" break="no"/>tur a nobis secundum essentiam, non intellecta 
+              <lb ed="#A" n="26"/>existentia ipsius, verumetiam intelligere 
+              possu<lb ed="#A" n="27" break="no"/>mus, essentiam hominis corrumpi, interire, &amp; 
+              <lb ed="#A" n="28"/>non existere. Deo autem ita necessario 
+              conueni<lb ed="#A" n="29" break="no"/>existere, vt quamuis nostro modo intelligendi 
+              <lb ed="#A" n="30"/>eius existentia ab essentia distinguatur, sicut etiam 
+              <lb ed="#A" n="31"/>distinguuntur attributa, &amp; personae: tamen re ipse 
+              <lb ed="#A" n="32"/>non possit non existere, atque adeo de eius essen 
+              <lb ed="#A" n="33"/>tia nequeat enuntiari, non esse: qua de causa 
+              exi<lb ed="#A" n="34" break="no"/>stentia Dei dicitur esse de essentia illius, sicut 
+              et<lb ed="#A" n="35" break="no"/>iam attributa, quamuis ab ea ratione 
+              distinguan<lb ed="#A" n="36" break="no"/>tur, eo quod re ipsa ita eam comitentur, vt 
+              impli<lb ed="#A" n="37" break="no"/>cet contradictionem sine illis esse. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e831">
+              <lb ed="#A" n="38"/>Tertio ex his colligitur, Deo peculiari quadam 
+              <lb ed="#A" n="39"/>ratione conuenire, esse bonum, qua creaturis non 
+              <lb ed="#A" n="40"/>conuenit primo etiam illo genere bonitatis quod 
+              <lb ed="#A" n="41"/>consequitur essentiam. Deus enim ita est bonus. 
+              <lb ed="#A" n="42"/>vt sicut eius essentia non potest non existere, ita 
+              <lb ed="#A" n="43"/>quoque eius bonitas non possit actu ipsi non inesse 
+              <lb ed="#A" n="44"/>Quocirca non tantum est necessaria haec propo 
+              <lb ed="#A" n="45"/>sitio, Deus est per essentiam bonus, si particula, est, 
+              deno<lb ed="#A" n="46" break="no"/>tet connexionem, sic enim necessaria etiam est de 
+              <lb ed="#A" n="47"/>quacumque re creata, verumetiam si particula, est 
+              <lb ed="#A" n="48"/>significet existentiam: quo pacto nulli creatura 
+              <lb ed="#A" n="49"/>conuenit, per suam essentiam esse bonam. Sicur 
+              <lb ed="#A" n="50"/>enim quaecumque creatura potest non esse sic et 
+              <lb ed="#A" n="51"/>iam potest non habere actu bonitatem. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e864">
+              <lb ed="#A" n="52"/>Quarto ex eodem principio infertur bonitati 
+              <lb ed="#A" n="53"/>Dei re ipsa nullam malitiam opponi, cum essentia 
+              <lb ed="#A" n="54"/>ipsius non possit non esse: creatae autem bonitat 
+              <lb ed="#A" n="55"/>opponi malitiam, quae est corruptio, aut interitur 
+              <lb ed="#A" n="56"/>ipsius substantiae: hac enim sublata omnis rei 
+              bo<lb ed="#A" n="57" break="no"/>nitas de medio tollitur. Ex quibus liquet qua ra 
+              <lb ed="#A" n="58"/>tione proprium sit Dei, esse bonum per suam es 
+              <lb ed="#A" n="59"/>sentiam. 
+            </p>
+          </div>
+        </div>
+        <div xml:id="tavaz1-d1e77-Dd1e887"><!-- vaz-p1q6a4 -->
+          <head xml:id="tavaz1-d1e77-Hd1e890">Articulus 4</head>
+          <div xml:id="tavaz1-d1e77-Dd1e892"><!-- vaz-p1q6a4-p1 -->
+            <p xml:id="tavaz1-d1e77-d1e895">
+              <lb ed="#A" n="3" type="fixed=125"/>Conclusio est: Quacumque res dicitur bona bonitate 
+              <lb ed="#A" n="4"/>diuina sicut primo principio efficienti, exemplari, &amp; final 
+              <lb ed="#A" n="5"/>totius bonitatis, formaliter vero dicitur bona similitudine 
+              <lb ed="#A" n="6"/>diuinae bonitatis sibi inhaerente, quae est formalis vnius 
+              cuius<lb ed="#A" n="7" break="no"/>que bonitas. 
+            </p>
+          </div>
+          <div xml:id="tavaz1-d1e77-Dd1e909"><!-- vaz-p1q6a4-p2 -->
+            <p xml:id="tavaz1-d1e77-d1e912">
+              <lb ed="#A" n="8" type="fixed=125"/>Dubitatio circa articulum. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e917">
+              <lb ed="#A" n="9"/>JAc vnica dubitatione, &amp; mentem S. Thoma 
+              <lb ed="#A" n="10"/>in hoc articulo, &amp; doctrinam illius examinabi 
+              <lb ed="#A" n="11"/>mus. Est autem dubitatio, an res aliqua dicatur bo 
+              <lb ed="#A" n="12"/>na, extrinseca solum denominatione ex bonitate 
+              <lb ed="#A" n="13"/>alterius. Sententiam S. Thomae in hunc modum 
+              <lb ed="#A" n="14"/>explico. Nulla res dicitur bona a bonitate diuina 
+              <lb ed="#A" n="15"/>tanquam a forma denominante, sicut paries dicitur 
+              <lb ed="#A" n="16"/>dexter a dextera parte animalis, sed quaelibet rei 
+              <lb ed="#A" n="17"/>dicitur bona bonitate sibi inhaerente, quae est 
+              par<lb ed="#A" n="18" break="no"/>ticipatio quaedam diuinae bonitatis, per quam e 
+              <lb ed="#A" n="19"/>quodammodo assimilatur. Hanc autem sententiam 
+              <lb ed="#A" n="20"/>S. Doctor sic probat: quamuis ea, quae relatae 
+              di<lb ed="#A" n="21" break="no"/>cuntur, possint ab extrinseco aliquo, veluti a 
+              for<lb ed="#A" n="22" break="no"/>ma, denominari, vt in exemplo proxime allato 
+              <lb ed="#A" n="23"/>constat, ea tamen, quae absolute talia dicuntur, ne 
+              <lb ed="#A" n="24"/>queunt ab aliquo extrinseco veluti a forma 
+              deno<lb ed="#A" n="25" break="no"/>minationem accipere: in quo S. Doctor reprehen 
+              <lb ed="#A" n="26"/>dit Platonis opinionem, qui teste Arist.I. Metaph 
+              <lb ed="#A" n="27"/>text. 6. posuit ideas rerum quasi species 
+              commu<lb ed="#A" n="28" break="no"/>nes separatas, a quibus indiuidua 
+              denominaren<lb ed="#A" n="29" break="no"/>tur, sicque asserebat Socratem hominem denomi 
+              <lb ed="#A" n="30"/>nari ab homine quodam per se separato, qui 
+              om<lb ed="#A" n="31" break="no"/>nium esset idea: reprehendit igitur Platonem, non 
+              <lb ed="#A" n="32"/>quod poneret principium ad aliquid primum, quod 
+              <lb ed="#A" n="33"/>per suam essentiam esset ens, &amp; bonum, qualis est 
+              <lb ed="#A" n="34"/>Deus, sed quod diceret rem omnem indiuiduam 
+              <lb ed="#A" n="35"/>talis, aut talis naturae ab eo primo ente, veluti a 
+              <lb ed="#A" n="36"/>forma denominari. Concedit vero Sanctus 
+              Tho<lb ed="#A" n="37" break="no"/>mas, denominationem absolure posse ab alique 
+              <lb ed="#A" n="38"/>prouenire, tanquam a principio efficienti, aut 
+              ex<lb ed="#A" n="39" break="no"/>emplari; quod perinde est, ac si diceret, posse esse 
+              <lb ed="#A" n="40"/>principium efficiens, &amp; exemplare alicuius 
+              for<lb ed="#A" n="41" break="no"/>mae, quae inhaerens subiecto, ipsum denominat. 
+              <lb ed="#A" n="42"/>Ideo asserit res omnes bonas appellari a bonitate 
+              <lb ed="#A" n="43"/>sibi inhaerente, sicut a forma, a bonitate autem 
+              <lb ed="#A" n="44"/>Dei, sicut ab efficienti, exemplari, &amp; fine. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e998">
+              <lb ed="#A" n="45"/>Verum sententia S. Thomae faciliori ratione 
+              <lb ed="#A" n="46"/>confirmari posset hoc modo, tametsi denomina 
+              <lb ed="#A" n="47"/>tio relatiua possit ab aliquo extrinseco tanquam 
+              <lb ed="#A" n="48"/>a forma desumi, &amp; quamuis denominatio boni sit 
+              <lb ed="#A" n="49"/>relatiua, ea tamen non potest nisi rationem alicuius 
+              <lb ed="#A" n="50"/>intrinseci rebus conuenire: neque enim omnis re 
+              <lb ed="#A" n="51"/>latiua denominatio ab extrinseco desumitur, sed 
+              <lb ed="#A" n="52"/>sunt plures relationes, quae in re, quam denominant, 
+              <lb ed="#A" n="53"/>postulant aliquid absolutum, &amp; reale: quales sunt 
+              <lb ed="#A" n="54"/>omnes primi generis assignati ab Arist. 5. met. c. 15. 
+              <lb ed="#A" n="55"/>&amp; aliae plures: talis est relatio bonitatis, quae 
+              consi<lb ed="#A" n="56" break="no"/>stit in integritate, &amp; consequitur naturam entis. Sicut 
+              <lb ed="#A" n="57"/>enim res substantialiter. aut accidentaliter nequit 
+              <lb ed="#A" n="58"/>integrari, nisi rebus inhaerentibus, sic denomina 
+              <lb ed="#A" n="59"/>tio illius non potest a sola extrinseca forma 
+              desu<lb ed="#A" n="60" break="no"/>mi. Idem dico de bonitate rei, quae est perfectio il 
+              <lb ed="#A" n="61"/>lius ex coniunctione cum fine: haec enim non su 
+              <lb ed="#A" n="62"/>mitur solum ab ipso fine, sed a natura, &amp; qualitate 
+              <lb ed="#A" n="63"/>rei simul coniunctae cum fine. Est tamen quaedam 
+              <lb ed="#A" n="64"/>acceptio bonitatis cuius denominatio in aliquib 
+              <lb ed="#A" n="65"/>rebus potest ab alterius forma, &amp; bonitate deriua 
+              <lb ed="#A" n="66"/>ri: huiusmodi est bonitas conuenientiae vnius re¬ 
+              <!--140.xml-->
+              <cb ed="#A" n="b"/>
+              <lb ed="#A" n="67"/>cum alia, quae, vt d. 23. notauimus, non est passic 
+              <lb ed="#A" n="68"/>entis, neque in omnibus rebus reperitur. Sunt 
+              e<lb ed="#A" n="69" break="no"/>nim nonnullae, quae ratione sui non sunt alteri 
+              <lb ed="#A" n="70"/>conuenientes, sed ratione effectus, quem 
+              produ<lb ed="#A" n="71" break="no"/>cunt: quo pacto Sol est bonus frigescenti ratione 
+              <lb ed="#A" n="72"/>caloris, quem efficit in eo, &amp; quamuis haec 
+              boni<lb ed="#A" n="73" break="no"/>tas, quae est telatio conuenientiae, esset relatio 
+              ra<lb ed="#A" n="74" break="no"/>tionis, &amp; extrinseca denominatio in vniuersum, 
+              <lb ed="#A" n="75"/>tamen non eodem modo in omnibus 
+              reperire<lb ed="#A" n="76" break="no"/>tur. Nam quaedam res sunt bonae, &amp; 
+              conuenien<lb ed="#A" n="77" break="no"/>tes alteri secundum se, non ratione alicuius 
+              effe<lb ed="#A" n="78" break="no"/>ctus producti, quare primarie dicuntur bonae? 
+              <lb ed="#A" n="79"/>quaedam vero sunt conuenientes ratione effectus 
+              <lb ed="#A" n="80"/>ac proinde secundarie dicuntur bonae: qua etiam 
+              <lb ed="#A" n="81"/>ratione 1. 2.q. 20. art.1. dicemus, malitiam moralem, 
+              <lb ed="#A" n="82"/>quae in vniuersum est relatio rationis, &amp; 
+              extrinse<lb ed="#A" n="83" break="no"/>ca denominatio, primarie reperiri in aliquibus 
+              <lb ed="#A" n="84"/>operationibus humanis, &amp; secundarie in aliis. 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e1092">
+              <lb ed="#A" n="85"/>Ex his omnibus licet colligere, 
+              denominatio<lb ed="#A" n="86" break="no"/>nem sancti, &amp; iusti apud Deum talis esse naturae 
+              <lb ed="#A" n="87"/>vt nullus possit iustus appellari ab alterius iustitia 
+              <lb ed="#A" n="88"/>&amp; sanctitate tanquam a forma denominante, sed 
+              <lb ed="#A" n="89"/>ab aliqua in ipso iusto qualitate, aut mutatione 
+              <lb ed="#A" n="90"/>facta actu, vel habitu: adde etiam vnionem 
+              hypo<lb ed="#A" n="91" break="no"/>staticam, vt fusiùs explicabitur 1. 2. q. 113. artic. 2. 
+              <lb ed="#A" n="92"/>Quare nemo potest dici, aut esse iustus iustitia 
+              <lb ed="#A" n="93"/>Christi, aut Dei, sed neque fauore illius tantum, 
+              <lb ed="#A" n="94"/>amore, aut lege, vt ibidem monstrabitur. Cum 
+              er<lb ed="#A" n="95" break="no"/>go dicitur Christus, Factus nobis sapientia, sanctifica 
+            </p>
+            <p xml:id="tavaz1-d1e77-d1e1118">
+              <lb ed="#A" n="96"/>tio, &amp; redemptio. 1. ad Corint. 1. ad eundem modum 1 
+              <lb ed="#A" n="97"/>intelligendum est, quo dicimus, Dei bonitate not 
+              <lb ed="#A" n="98"/>esse bonos, tanquam efficienti, &amp; exemplari, quia 
+              <lb ed="#A" n="99"/>in nobis efficit, quicquid est boni: tum etiam 
+              tan<lb ed="#A" n="100" break="no"/>quam fine, Vniuersa enim propter semetipsum operatu 
+              <lb ed="#A" n="101"/>est Dominus. Prouerb. 16. Sic igitur Christus, quia 
+              <lb ed="#A" n="102"/>merito suo sanctificationem, &amp; redemptionem 
+              <lb ed="#A" n="103"/>nobis comparauit, dicitur sanctificatio, sapientia, 
+              <lb ed="#A" n="104"/>&amp; redemptio nostra 
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
