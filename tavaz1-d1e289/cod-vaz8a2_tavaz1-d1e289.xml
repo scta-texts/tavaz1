@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 47</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 47</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="398"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e289"><!-- p1-q47 -->
+            <head xml:id="tavaz1-d1e289-Hd1e99">Quaestio 47</head>
+            <div xml:id="tavaz1-d1e289-Dd1e101"><!-- vaz-p1q47a1 -->
+               <head xml:id="tavaz1-d1e289-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e289-d1e106">
+                  <lb ed="#A" n="105" type="fixed=397"/>CONCLVSIO est. Diuina sapientia est causa di 
+      <lb ed="#A" n="106"/>stinctionis rerum. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e289-Dd1e114"><!-- vaz-p1q47a2 -->
+               <head xml:id="tavaz1-d1e289-Hd1e117">Articulus 2</head>
+               <p xml:id="tavaz1-d1e289-d1e119">
+      <!--00407.xml-->
+                  <pb ed="#A" n="399"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1" type="fixed=399"/>CONCLVSIO est, Sapientia Dei est causa inaqua: 
+      <lb ed="#A" n="2"/>litatis rerum, sicut est distinctionis. 
+    </p>
+               <p xml:id="tavaz1-d1e289-d1e132">
+                  <lb ed="#A" n="3"/>Annotatio circa vtrumque Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e289-d1e137">
+                  <lb ed="#A" n="4"/>DOctrina vtriusque articuli sic est intelligen 
+      <lb ed="#A" n="5"/>da, vt in quibusdam rebus proxime a Deo 
+      <lb ed="#A" n="6"/>productis, Deus sit tota causa distinctionis, &amp; in 
+      <lb ed="#A" n="7"/>aequalitatis; in alijs vero Deus quidem sit causa 
+      <lb ed="#A" n="8"/>efficiens; sed praeterea natura ipsarum rerum 
+      di<lb ed="#A" n="9" break="no"/>stinctionem postulet, &amp; inaequalitatem, ita vt aliud 
+      <lb ed="#A" n="10"/>nec ab ipso Deo fieri posset. Quare huius 
+      distin<lb ed="#A" n="11" break="no"/>ctionis, &amp; inaequalitatis erit ipsa natura velut 
+      <lb ed="#A" n="12"/>causa formalis, &amp; intrinseca. Prius contingit in 
+      ho<lb ed="#A" n="13" break="no"/>mogeneis, &amp; quae sunt eiusdem rationis, &amp; 
+      sola<lb ed="#A" n="14" break="no"/>diuisione continui multiplicantur. Posterius vero 
+      <lb ed="#A" n="15"/>in his tantum, quae specie differunt: imo in ijs 
+      e<lb ed="#A" n="16" break="no"/>tiam, quae ita solo numero sunt diuersa, vt non fiant 
+      <lb ed="#A" n="17"/>ex sola diuisione continus. Hac ratione diuisio 
+      <lb ed="#A" n="18"/>fluminum, &amp; maris, &amp; in ipso mari diuisiones, &amp; 
+      <lb ed="#A" n="19"/>inaequalitates aquarum sola Dei voluntate factae sunt, 
+      <lb ed="#A" n="20"/>quas alioqui in vnum posset congregare, aut 
+      aequa<lb ed="#A" n="21" break="no"/>liter omnino diuidere. At diuisio hominis ab 
+      An<lb ed="#A" n="22" break="no"/>gel. lucis a tenebris, Solis a Lunas, vnius Angeli ab 
+      <lb ed="#A" n="23"/>alio, vnius hominis ab alio homine, &amp; inaequalitas 
+      <lb ed="#A" n="24"/>quoque hon solum voluntate Dei facta est, sed natura 
+      <lb ed="#A" n="25"/>ipsarum rerum, ita consentanea fuit, vt aliter fieri 
+      <lb ed="#A" n="26"/>non posset, quia hae res suapte natura seipsis 
+      for<lb ed="#A" n="27" break="no"/>maliter differunt, &amp; inaequales sunt: neque e 
+      <lb ed="#A" n="28"/>nim essentiae rerum pro voluntate Dei tales sunt 
+      <lb ed="#A" n="29"/>licet sola Dei voluntate producantur, vt disp. 104 
+      <lb ed="#A" n="30"/>c. 3. dictum est. Deus ergo solum sicut efficiens 
+      <lb ed="#A" n="31"/>distinxit lucem a tenebris hominem ab equo, &amp; 
+      <lb ed="#A" n="32"/>inaequales fecit: sed formaliter, ac propria natura 
+      <lb ed="#A" n="33"/>distinctae, &amp; inaequales sunt. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e289-Dd1e206"><!-- vaz-p1q47a3 -->
+               <head xml:id="tavaz1-d1e289-Hd1e209">Articulus 3</head>
+               <p xml:id="tavaz1-d1e289-d1e211">
+                  <lb ed="#A" n="111" type="fixed=399"/>CONCLVSIO est affirmans, &amp; de fide: sic enim 
+      <lb ed="#A" n="112"/>&amp; supponit Scriptura Genesis 1. Faciens enim 
+      <lb ed="#A" n="113"/>mentionem creationis rerum, vbi debuit omnia 
+      <lb ed="#A" n="114"/>a Deo producta enumerare, solum dixit, fecisse 
+      <lb ed="#A" n="115"/>hunc mundum, &amp; partes illius. An vero potuisset 
+      <lb ed="#A" n="116"/>alium mundum facere, diximus iam disput. 107. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 44</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 44</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="346"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e273"><!-- p1-q44 -->
+            <head xml:id="tavaz1-d1e273-Hd1e99">Quaestio 44</head>
+            <div xml:id="tavaz1-d1e273-Dd1e101"><!-- vaz-p1q44a1 -->
+               <head xml:id="tavaz1-d1e273-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e273-d1e106">
+                  <lb ed="#A" n="87" type="fixed=346"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e273-d1e111">
+                  <lb ed="#A" n="88"/>CONCLVSIO est. Omne ens quocumque modo sit, a 
+      <lb ed="#A" n="89"/>Deo est. Rationem, &amp; doctrinam totius 
+      arti<lb ed="#A" n="90" break="no"/>culi in disputat. examinabimus. Circa articulum 
+      <lb ed="#A" n="91"/>vero primum notandum est cum Calet. in 
+      com<lb ed="#A" n="92" break="no"/>mentarijs, hic non esse quaestionem, an Deus sit 
+      <lb ed="#A" n="93"/>causa rerum omnium per creationem: ex iis enim, 
+      <lb ed="#A" n="94"/>quae dicuntur in quod sequenti de natura creationis, 
+      <lb ed="#A" n="95"/>facile colligi poterit, quae entia fuerint a Deo 
+      pro<lb ed="#A" n="96" break="no"/>ducta per creationem: sed quaeritur vniuersim, an 
+      <lb ed="#A" n="97"/>omne aliud, praeter Deum, sit a Deo, vt efficienti. 
+      <lb ed="#A" n="98"/>Id autem patet ex ipso textu, vbi nulla mentio fit 
+      <lb ed="#A" n="99"/>creationis: &amp; clarius ex conclusione, qua S. 
+      Tho<lb ed="#A" n="100" break="no"/>titulo articuli respondit. Quare nomen illud, 
+      crea<lb ed="#A" n="101" break="no"/>tum, (inquit Caietanus) quo vtitur S. Thomas 
+      <lb ed="#A" n="102"/>in titulo articuli, non significat id, quod est 
+      pro<lb ed="#A" n="103" break="no"/>ductum per veram creationem; sed id, quod 
+      qua<lb ed="#A" n="104" break="no"/>cumque ratione effectum est: &amp; ob id in distin 
+      <lb ed="#A" n="105"/>ctione titulorum huius quaestionis ponitur a S. 
+      <lb ed="#A" n="106"/>Thoma sub hac forma, Vtrum Dens sit causa efficiens 
+      <lb ed="#A" n="107"/>omnium terum. 
+      </p>
+               <p xml:id="tavaz1-d1e273-d1e157">
+                  <lb ed="#A" n="108"/>Ego tamen existimo participium, creatum, in 
+      <lb ed="#A" n="109"/>titulo, qui est praefixus huic articulo, significare, 
+      <lb ed="#A" n="110"/>id quod productum est per creationem. Nec 
+      e<lb ed="#A" n="111" break="no"/>nim quaeritur, an necessarium sit, ens creatum, a 
+      <lb ed="#A" n="112"/>Deo esse; sed vtrum sit necessarium, omne ens 
+      es<lb ed="#A" n="113" break="no"/>se creatum a Deo, an non: vt apparet ex initio 
+      pri<lb ed="#A" n="114" break="no"/>mi argumenti, ex quo titulus desumptus est. 
+      Ni<lb ed="#A" n="115" break="no"/>hilominus non tespondet. S. Thom. omne ens 
+      <lb ed="#A" n="116"/>esse a Deo creatum: sed omne ens, 
+      quomodo<lb ed="#A" n="117" break="no"/>cumque sit, hoc est, quacunque ratione 
+      produ<lb ed="#A" n="118" break="no"/>ctum sit, a Deo esse: intelligit autem vt a causa 
+      ef<lb ed="#A" n="119" break="no"/>ficienti: nam de causa exemplari, &amp; finali, quae 
+      <lb ed="#A" n="120"/>Deo conuenire possunt respectu creaturarum, 
+      <lb ed="#A" n="121"/>deinde in art. 3. &amp; 4. disputat: nunc igitur 
+      gene<lb ed="#A" n="122" break="no"/>ratim respondet, omne ens esse a Deo, vt 
+      effi<lb ed="#A" n="123" break="no"/>cienti, quoque modo illud fiat. 
+      </p>
+               <p xml:id="tavaz1-d1e273-d1e194">
+                  <lb ed="#A" n="124"/>Deinde obseruandum est, hic non disputare 
+      <!--00355.xml-->
+      <pb ed="#A" n="347"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>S. Thom. de operatione Dei cum omnibus causis. 
+      <lb ed="#A" n="2"/>hoc est, vtrum Deus omnia operetur per seipsum, 
+      <lb ed="#A" n="3"/>an cum secundis causis: de hoc enim disputat q 
+      <lb ed="#A" n="4"/>104. &amp; 105. &amp; praesertim de substantijs creatis 
+      do<lb ed="#A" n="5" break="no"/>cet q. 104. ar. 2. omnes a Deo proxime conseruari 
+      <lb ed="#A" n="6"/>de omnibus vero operationibus creaturarum 
+      in<lb ed="#A" n="7" break="no"/>quit, non solum esse a secundis causis creatis: sed 
+      <lb ed="#A" n="8"/>etiam a Deo prima omnium causa: non modo re 
+      <lb ed="#A" n="9"/>mote, hoc est conseruando creatas causas: verum 
+      <lb ed="#A" n="10"/>etiam proxime cum illis operando eundem effe 
+      <lb ed="#A" n="11"/>ctum omnino indiuiduum: de quo hic 
+      disseren<lb ed="#A" n="12" break="no"/>dum non est, sed t. 2. q. 79. artic. 1. &amp; 2. Nunc ergo 
+      <lb ed="#A" n="13"/>solum inquirendum est, an vnus verus Deus sit 
+      <lb ed="#A" n="14"/>causa omnium rerum, siue per creationem, siue a 
+      <lb ed="#A" n="15"/>lio modo; siue proxime, siue remote. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e273-Dd1e239"><!-- vaz-p1q44a1-d171 -->
+               <head xml:id="tavaz1-d1e273-Hd1e242">Disputatio 171</head>
+               <head xml:id="tavaz1-d1e273-Hd1e244" type="question-title">
+    An vnus Deus sit author omnium 
+    rerum
+  </head>
+               <p xml:id="tavaz1-d1e273-d1e247">
+                  <lb ed="#A" n="16" type="fixed=347"/>DISPVTATIO CLXXI. 
+      <lb ed="#A" n="17"/>An vnus Deus sit author omnium 
+      <lb ed="#A" n="18"/>rerum. 
+    </p>
+               <div xml:id="tavaz1-d1e273-Dd1e256">
+                  <head xml:id="tavaz1-d1e273-Hd1e258">Caput 1</head>
+                  <p xml:id="tavaz1-d1e273-d1e260">
+                     <lb ed="#A" n="19" type="fixed=347"/>CAPVT I. 
+      <lb ed="#A" n="20"/>Varij errores haereticorum,
+    </p>
+                  <p xml:id="tavaz1-d1e273-d1e267">
+                     <lb ed="#A" n="21"/>ANtequam doctrinam Catholicam in 
+      me<lb ed="#A" n="22" break="no"/>dium afferamus, &amp; confirmemus, varios 
+      er<lb ed="#A" n="23" break="no"/>rores recensere operaepretium erit. Prima igitur 
+      <lb ed="#A" n="24"/>haeresis fuit Simonis Magi, qui omnium primus 
+      <lb ed="#A" n="25"/>ex Euangelio haeteticus, vt author est Tertull. loco 
+      <lb ed="#A" n="26"/>infra citando, hunc mundum visibilem, &amp; 
+      homi<lb ed="#A" n="27" break="no"/>nes, non a Deo, sed ab Angelis factos fuisse, 
+      An<lb ed="#A" n="28" break="no"/>gelos vero ex seipso, &amp; ex muliere quadam 
+      circum<lb ed="#A" n="29" break="no"/>latrice, quam Helenam vocauit, progenitos esse 
+      <lb ed="#A" n="30"/>dixit: se enim esse Spiritum sanctum, &amp; Deum, 
+      la<lb ed="#A" n="31" break="no"/>ctabat: Sic scribunt leren. lib. 1. aduers. haereses cap. 20. 
+      <lb ed="#A" n="32"/>&amp; 22. Epiph. haeres. 21. Theod. lib. I. haeretic. fabul capit. 3 
+      <lb ed="#A" n="33"/>&amp; Tertull. libro de praescript. cap. 46. qui addit, hunc 
+      <lb ed="#A" n="34"/>Simonem seipsum appellasse infinitam sapientiam 
+      <lb ed="#A" n="35"/>&amp; Iudaeis tanquam Filium apparuisse: ad 
+      Samari<lb ed="#A" n="36" break="no"/>tanos autem tanquam Patrem descendisse: ad alias 
+      <lb ed="#A" n="37"/>autem gentes tanquam Spiritum sanctum 
+      acces<lb ed="#A" n="38" break="no"/>sisse, lactitabat. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e309">
+                     <lb ed="#A" n="39"/>Secunda haeresis fuit Saturnilianorum, qui a 
+      <lb ed="#A" n="40"/>Saturnilo sic vocati sunt. Hi dicebant Deum 
+      au<lb ed="#A" n="41" break="no"/>thorem fuisse omnium Angelorum: a Septem 
+      ta<lb ed="#A" n="42" break="no"/>men ex illis, praeter ipsius Dei consensum, hunc 
+      <lb ed="#A" n="43"/>mundum visibilem formatum fuisse, atque in ho 
+      <lb ed="#A" n="44"/>minis productione illis verbis vsos fuisse Genes. I. 
+      <lb ed="#A" n="45"/>Faciamus hominem ad imaginem &amp; similitudinem nostram 
+      <lb ed="#A" n="46"/>Sic referunt ex Graecis Epiph. haeresi 23. &amp; Theod. lib. I. 
+      <lb ed="#A" n="47"/>haeretic fabular. cap. de Saturnilo, hen. lib. 1. cap. 22. ex 
+      <lb ed="#A" n="48"/>Latinis vero Tertull. lib. de praescgipt. cap. 46. August. lib. 
+      <lb ed="#A" n="49"/>de haeres. cap. 3. qui hunc haereticum Saturnium ap 
+      <lb ed="#A" n="50"/>pellant. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e338">
+                     <lb ed="#A" n="51"/>Tertia haeresis est Basilidis, qui teste Epiph. 
+      hae<lb ed="#A" n="52" break="no"/>res. 24. &amp; Theod. lib. 1. haeretic. fabular. cap. de Basilide, &amp; 
+      <lb ed="#A" n="53"/>Tertull. libr. citato, cap illo 46. &amp; Irenae lib. 1. cap. 234u. 
+      <lb ed="#A" n="54"/>gust. eodem lib. cap. 4. cum assereret, esse 365. coelos. 
+      <lb ed="#A" n="55"/>&amp; multitudinem Angelorum; omnes sic dicebat 
+      <lb ed="#A" n="56"/>esse productos; vt ex Deo, quem Abraxan voca 
+      <lb ed="#A" n="57"/>bat, creata fuerit mens, ex mente verbum, ex 
+      <lb ed="#A" n="58"/>illo prouidentia, ex prouidentia virtus, &amp; sapien 
+      <lb ed="#A" n="59"/>tia; ex ipsis deinde principatus, &amp; potestates, &amp; 
+      <lb ed="#A" n="60"/>Angeli: ab his vero Angelis coelos illos hoc 
+      or<lb ed="#A" n="61" break="no"/>dine procreatos asserebat; vt primum coelum con 
+      <lb ed="#A" n="62"/>ditum fuerit a virtutibus potestatibus, atque 
+      An<lb ed="#A" n="63" break="no"/>gelis, &amp; cum eo alij Angeli creati; qui tursus pro¬ 
+      <!--00355.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="64"/>duxerint, secundum coelum, &amp; alios cum eo 
+      An<lb ed="#A" n="65" break="no"/>gelos: qui deinde tertium cum alijs Angelis 
+      coe<lb ed="#A" n="66" break="no"/>lum fecerunt; &amp; sic vsque ad vltimum: &amp; tandem 
+      <lb ed="#A" n="67"/>mundum inferiorem, &amp; hominem a postremi 
+      coe<lb ed="#A" n="68" break="no"/>li conditoribus emanasse dicebat. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e385">
+                     <lb ed="#A" n="69"/>Quarta haeresis Carpocratis, &amp; Cerinthi, atque 
+      <lb ed="#A" n="70"/>eorum discipulorum, qui dicti sunt Gnostici, id 
+      <lb ed="#A" n="71"/>est, scientes, cum praedictis conuenit. Asserit enim 
+      <lb ed="#A" n="72"/>Angelos a suprema virtute productos, defecisse, 
+      <lb ed="#A" n="73"/>&amp; mundum visibilem condidisse, vt scribit Epiph 
+      <lb ed="#A" n="74"/>haeresi 27. &amp; 28. Theodor. lib. citato, cap. de Carpocrate, 
+      <lb ed="#A" n="75"/>Irenae lib. 1. cap. 24. &amp; 26. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e403">
+                     <lb ed="#A" n="76"/>Hae sunt non solum manifestae haereses, sed 
+      et<lb ed="#A" n="77" break="no"/>iam fabulae, aut somnia plena figmentis: quae 
+      fa<lb ed="#A" n="78" break="no"/>cile quisque Scriptura, &amp; ratione refutare potest. 
+      <lb ed="#A" n="79"/>Ceterum hi somniatores non omnino negarunt, 
+      <lb ed="#A" n="80"/>Deum authorem rerum omnium, siue proxime &amp; 
+      <lb ed="#A" n="81"/>per se ipsum, sine remote &amp; medijs causis ab eo 
+      <lb ed="#A" n="82"/>conditis. In eo tamen manifeste delirarunt, quod 
+      <lb ed="#A" n="83"/>assererent, mundum a Deo effectum sine ipsius 
+      <lb ed="#A" n="84"/>Dei nutu, &amp; voluntate, vt dicebat Cerinthus, &amp; 
+      <lb ed="#A" n="85"/>qui ipsum sequuti sunt. Cum enim omnia nutu 
+      <lb ed="#A" n="86"/>ipsius subsistant, &amp; conseruentur, vt infra disput. 
+      <lb ed="#A" n="87"/>174. ostendemus; fieri nequit, vt aliqua causa sine 
+      <lb ed="#A" n="88"/>ipsius concursu operetur: nam licet peccatum, 
+      <lb ed="#A" n="89"/>quatenus malum est, sine ipsius nutu &amp; consensu 
+      fi<lb ed="#A" n="90" break="no"/>at, tamen substantia actus sine illo produci nequit, 
+      <lb ed="#A" n="91"/>vt 1. 2. q. 79. art. 1. &amp; 2. videbimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e440">
+                     <lb ed="#A" n="92"/>Gnostici porro, qui vel a Nicolao, vel a 
+      Carpo<lb ed="#A" n="93" break="no"/>crate exorti sunt, asserentes, esse duos Deos, 
+      al<lb ed="#A" n="94" break="no"/>terum bonum, alterum malum. videntur, sicut 
+      <lb ed="#A" n="95"/>Manichaeus, docuisse; mundum hunc visibilem a 
+      <lb ed="#A" n="96"/>Deo malo fuisse productum. Hunc errorem hoc 
+      <lb ed="#A" n="97"/>modo tribuunt recentiores Theologi his 
+      haereti<lb ed="#A" n="98" break="no"/>cis, quod August de haeresib. ad Quoduultdeum cap. 6. de 
+      <lb ed="#A" n="99"/>illis dicat in haec verba: Dicunt quoque bonum Deum, 
+      <lb ed="#A" n="100"/>&amp; malum Deum in suis habere dogmatibus. Sed in Epiph 
+      <lb ed="#A" n="101"/>haeres. 26. &amp; 27. vbi de his Gnosticis agit, nihil tale 
+      <lb ed="#A" n="102"/>inuenire potui: quinimo haeres. 27. de 
+      Carpocra<lb ed="#A" n="103" break="no"/>te, a quo etiam dixit, Gnosticos effluxisse, tantum 
+      <lb ed="#A" n="104"/>refert haeresim illam proxime memoratam de 
+      pro<lb ed="#A" n="105" break="no"/>ductione mundi ab Angelis: neque August. refert 
+      <lb ed="#A" n="106"/>Ex Epiphanio, Gnosticos dixisse mundum hunc 
+      <lb ed="#A" n="107"/>corporeum a malo Deo conditum fuisse 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e477">
+                     <lb ed="#A" n="108"/>Primus igitur, qui posuit duo principia 
+      alte<lb ed="#A" n="109" break="no"/>rum Deum bonum, alterum malum, fuit Apelles, 
+      <lb ed="#A" n="110"/>vt auctor est Epiph. haeresi 44. &amp; August haeres. 23. a quo 
+      <lb ed="#A" n="111"/>Appelleiani dicti sunt, mundum deinde visibilem 
+      <lb ed="#A" n="112"/>Deo malo factum esse, dixit: ita vt nullam illins 
+      <lb ed="#A" n="113"/>Deus bonus curam gereret. Ceterum cum diceret 
+      <lb ed="#A" n="114"/>Apelles, vt etiam referunt Epiphanius, &amp; August 
+      <lb ed="#A" n="115"/>Deum malum factum a Deo bono, nec duo 
+      prin<lb ed="#A" n="116" break="no"/>cipia aeque prima poneret; remote saltem in Dei 
+      <lb ed="#A" n="117"/>bonum, tanquam in auctorem mundum hunc 
+      re<lb ed="#A" n="118" break="no"/>ferebat. Quocirca doctrinae huius articuli non tam 
+      <lb ed="#A" n="119"/>directe opponitur. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e506">
+                     <lb ed="#A" n="120"/>Tandem Manichaeus, vt scribit Epiph haeresi 66. 
+      <lb ed="#A" n="121"/>&amp; Theodor. lib. 1.haeretic. fabul. cap. vlt. non modo duo 
+      <lb ed="#A" n="122"/>principia seu duos Deos posuit, alterum bonum, 
+      <lb ed="#A" n="123"/>alterum malum; sed etiam eos ingenitos, 
+      coaeter<lb ed="#A" n="124" break="no"/>nos, &amp; sibi inuicem contrarios esse affirmauit. 
+      <lb ed="#A" n="125"/>Quare cum dixit, hunc mundum visibilem, quod 
+      <lb ed="#A" n="126"/>ad naturas malas spectat, a malo Deo conditum 
+      <lb ed="#A" n="127"/>fuisse. Deum autem bonum non esse auctorem 
+      re<lb ed="#A" n="128" break="no"/>rum omnium neque proxime, neque remote; 
+      di<lb ed="#A" n="129" break="no"/>recte contra Catholicam doctrinam, quam habet 
+      <lb ed="#A" n="130"/>S. Th. in hoc art spugnauit: quae autem essent 
+      bo<lb ed="#A" n="131" break="no"/>nae, &amp; malae naturae tradit Augustin. loco citato. 
+      <!--00356.xml-->
+      <pb ed="#A" n="348"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Ceterum ante Manichaeum Cerdon tempore 
+      <lb ed="#A" n="2"/>Higinij Papae, teste Epiph. haeres. 41. &amp; August. cap. 21 
+      <lb ed="#A" n="3"/>Irenao lib. 1. aduersus haereses, cap. 28. &amp; Tertulian. lib. d. 
+      <lb ed="#A" n="4"/>praescrip. haretic. cap. 51. introduxit etiam duos Deos 
+      <lb ed="#A" n="5"/>alterum ignotum mundo, quem Patrem esse di 
+      <lb ed="#A" n="6"/>cebat Christi; hunc autem bonum appellabat; al 
+      <lb ed="#A" n="7"/>terum vero opificem totius creaturae, saeuum, &amp; 
+      <lb ed="#A" n="8"/>crudelem, &amp; hominibus satis notum. Sic 
+      intelli<lb ed="#A" n="9" break="no"/>gendus est Irenaeus, cuius verba obscura sunt, cum 
+      <lb ed="#A" n="10"/>ait: altetum quidem iustum, alterum autem 
+      bo<lb ed="#A" n="11" break="no"/>num esse ex sententia Cerdonis: nam nomine 
+      iu<lb ed="#A" n="12" break="no"/>sti, saeuum &amp; crudelem intelligit. Clariora sunt 
+      <lb ed="#A" n="13"/>verba Irenaei apud Euseb. lib. 4. hist. c. 10. 
+      Conuenie<lb ed="#A" n="14" break="no"/>bat ergo cum Manichaeo, ponens duo principia 
+      <lb ed="#A" n="15"/>alterum bonum, alterum malum: nisi quod ipse 
+      <lb ed="#A" n="16"/>omnes creaturas Deo meo, vt auctori tribuebat. 
+      <lb ed="#A" n="17"/>Manichaeus autem aliquas bonas Deo bono re 
+      <lb ed="#A" n="18"/>seruabat. Manichaeo consenserunt, Priscillianista 
+      <lb ed="#A" n="19"/>in Hispania; qui a Priscilliano Abulensi 
+      origi<lb ed="#A" n="20" break="no"/>nem traxerunt, vt scribit Leo I. Epist. 91. quae est ad 
+      <lb ed="#A" n="21"/>Turibium cap. 14. vbi eorum damnat errorem: de 
+      <lb ed="#A" n="22"/>inde Albigenses noui Manichaei in Gallia tem 
+      <lb ed="#A" n="23"/>pore Innocentij III. vt auctor est Antonius 3. part. 
+      <lb ed="#A" n="24"/>histor. tit. 19. cap. 1. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e273-Dd1e594">
+                  <head xml:id="tavaz1-d1e273-Hd1e596">Caput 2</head>
+                  <p xml:id="tavaz1-d1e273-d1e598">
+                     <lb ed="#A" n="25" type="fixed=348"/>CAPVT II. 
+      <lb ed="#A" n="26"/>Catholica doctrina contra haereticos statuitur.
+    </p>
+                  <p xml:id="tavaz1-d1e273-d1e605">
+                     <lb ed="#A" n="27"/>CAtholica doctrina est, vnum Deum summe 
+      <lb ed="#A" n="28"/>bonum initio temporis vtramque de nihilo 
+      <lb ed="#A" n="29"/>condidisse creaturam corpoream, &amp; spiritualem 
+      <lb ed="#A" n="30"/>spiritus videlicet angelicos, coelestia, corporea, &amp; 
+      <lb ed="#A" n="31"/>elementa. Nam pisces, aues, arbores, bruta 
+      ani<lb ed="#A" n="32" break="no"/>mantia, &amp; hominem de materia horum 
+      elemen<lb ed="#A" n="33" break="no"/>torum produxit, vt ex 1. c. Genes. constat. demum 
+      <lb ed="#A" n="34"/>ita omnia etiam, quae deinceps genita fuerunt, in 
+      <lb ed="#A" n="35"/>Deum auctorem reuocanda esse: vt saltem ea me 
+      <lb ed="#A" n="36"/>dijs causis creatis Deus produxerit. Vtrum autem 
+      <lb ed="#A" n="37"/>cum illis actu concurrat, &amp; operetur, an eas solum 
+      <lb ed="#A" n="38"/>conseruet, nunc disputandum non est. sed f. 2. q. 
+      <lb ed="#A" n="39"/>79. ar. 1. &amp; 2. neque enim de hac re hic disserit S. 
+      <lb ed="#A" n="40"/>Thom. vt in notationibus articuli dixi. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e638">
+                     <lb ed="#A" n="41"/>Haec veritas ex Scriptura, Concilijs, &amp; Patribus 
+      <lb ed="#A" n="42"/>adeo manifesta est, vt superuacaneum sit, eorum 
+      <lb ed="#A" n="43"/>testimonia singulatim referre. Superestigitur, vi 
+      <lb ed="#A" n="44"/>ratione philosophica confirmemus. Inter reliquas 
+      <lb ed="#A" n="45"/>vero optima est, quam affert S. Th. in hoc art. in 
+      <lb ed="#A" n="46"/>hunc modum. Quidquid est tale per participatio 
+      <lb ed="#A" n="47"/>nem, debet esse ab eo, cui essentialiter conueni 
+      <lb ed="#A" n="48"/>esse tale: sicut ferrum ignitum, quia per 
+      partici<lb ed="#A" n="49" break="no"/>pationem ignitum est, illud habet ab igne, qui est 
+      <lb ed="#A" n="50"/>per essentiam tale: at qui omni alia praeter Deum, 
+      <lb ed="#A" n="51"/>non sunt suum esse, sed participant illud: ergo ha 
+      <lb ed="#A" n="52"/>bere debent esse ab eo, qui per suam essentiam ha 
+      <lb ed="#A" n="53"/>bet esse: hoc est, cui est essentiale ipsum esse &amp; exi 
+      <lb ed="#A" n="54"/>stere, huiusmodi ens est Deus: ergo omnia a Dec 
+      <lb ed="#A" n="55"/>habent esse. Haec ratio plane demonstrat, omnia 
+      <lb ed="#A" n="56"/>esse a Deo, saltem remote: nam hic non 
+      conten<lb ed="#A" n="57" break="no"/>dimus probare. Deum proxime operari in 
+      omni<lb ed="#A" n="58" break="no"/>bus rebus: id enim alio loco tractat S. Th. &amp; nos 
+      <lb ed="#A" n="59"/>alibi etiam probabimus, vt promisimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e273-d1e682">
+                     <lb ed="#A" n="60"/>Omissis autem multis, quae in explicationem 
+      <lb ed="#A" n="61"/>huius rationis notat Caietanus, hoc solum 
+      obser<lb ed="#A" n="62" break="no"/>uandum est, S. Tho. inde colligere, ipsum existere. 
+      <lb ed="#A" n="63"/>esse de essentia Dei, &amp; Deum esse suum existere: 
+      <lb ed="#A" n="64"/>quia est idem omnino essentia Dei, &amp; eius esse 
+      <lb ed="#A" n="65"/>Sic probauit q 3. art. 4. Atque hinc etiam deduxit 
+      <lb ed="#A" n="66"/>quaest. 7. art. 1. Deum esse infinitum per essentiam, 
+      <lb ed="#A" n="67"/>eo quod non habet esse receptum in essentia; sed 
+      <!--00356.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>eius essentia est suum esse: contra vero ar. 2. 
+      osten<lb ed="#A" n="69" break="no"/>dit omne ens, praeter Deum, non esse infinitum 
+      <lb ed="#A" n="70"/>secundum essentiam; quia non est suum esse, sed 
+      <lb ed="#A" n="71"/>habet esse receptum, vel est forma recepta in 
+      ma<lb ed="#A" n="72" break="no"/>teria, vel existentia, &amp; esse in essentia. Verum, quia 
+      <lb ed="#A" n="73"/>non ita facile probari potest, in rebus creatis 
+      exi<lb ed="#A" n="74" break="no"/>stentiam distingui ab essentia, &amp; in ea recipi; 
+      quin<lb ed="#A" n="75" break="no"/>imo oppositum non minus probabile est, vt in 3 
+      <lb ed="#A" n="76"/>p. q. 17. art. 2. monstrabimus: ideo faciliori via haec 
+      <lb ed="#A" n="77"/>ratio formari potest, hoc modo. Id quod ita est a 
+      <lb ed="#A" n="78"/>ctu, vt non possit non esse, per essentiam existit, 
+      <lb ed="#A" n="79"/>hoc est, ita est illi essentiale ipsum esse, sicut 
+      quae<lb ed="#A" n="80" break="no"/>uis alia praedicata: ac proinde a seipso est, nullo 
+      a<lb ed="#A" n="81" break="no"/>lio indigens: &amp; hoc diximus esse infinitum per 
+      <lb ed="#A" n="82"/>essentiam disp. 25. est autem proprium ipsius Dei: 
+      <lb ed="#A" n="83"/>nam quod ex se ita est, vt non possit non esse, nec 
+      <lb ed="#A" n="84"/>aliquo alio indiget, est ens supremum, quod 
+      ap<lb ed="#A" n="85" break="no"/>pellamus Deum: atqui non potest esse nisi vnus 
+      <lb ed="#A" n="86"/>Deus, vt q. 11. demonstratum manet: ergo caetera 
+      <lb ed="#A" n="87"/>omnia, praeter hoc ens, non erunt entia actu 
+      exi<lb ed="#A" n="88" break="no"/>stentia per essentiam, sed talia, quae possint ex se es 
+      <lb ed="#A" n="89"/>se, &amp; non esse: quod autem est huiusmodi ab alio 
+      <lb ed="#A" n="90"/>est: nam ex se nihil potest esse indifferens, vt sit, 
+      <lb ed="#A" n="91"/>&amp; non sit: neque potest esse processus in infinitum: 
+      <lb ed="#A" n="92"/>ergo tandem ad vnum illud ens, quod per 
+      essen<lb ed="#A" n="93" break="no"/>tiam est deuenire debemus, a quo caetera omnia 
+      <lb ed="#A" n="94"/>vel remote vel proxime esse fateamur, &amp; hoc 
+      so<lb ed="#A" n="95" break="no"/>lum S. Thom. in hoc art. demonstrare contendit. 
+      <lb ed="#A" n="96"/>Quid vero de hac re sentiat Aristot. breuiter dixi 
+      <lb ed="#A" n="97"/>disput. 81. capit. 1. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e273-Dd1e773"><!-- vaz-p1q44a2 -->
+               <head xml:id="tavaz1-d1e273-Hd1e776">Articulus 2</head>
+               <p xml:id="tavaz1-d1e273-d1e778">
+                  <lb ed="#A" n="69" type="fixed=349"/>Notationes circa doctrinam articuli.
+    </p>
+               <p xml:id="tavaz1-d1e273-d1e783">
+                  <lb ed="#A" n="70"/>CONCLVSIO est affirmans, &amp; non minus de 
+      <lb ed="#A" n="71"/>fide, quam praecedens. Patet autem ex omni 
+      <lb ed="#A" n="72"/>bus, quae diximus in disput. praeced. Et quidem 
+      <lb ed="#A" n="73"/>cum superiori art. iam probasset S. Doctor, Deum 
+      <lb ed="#A" n="74"/>esse causam efficientem ceterorum omnium, qua 
+      <lb ed="#A" n="75"/>sunt praeter se; iam satis idipsum probatum fuerat 
+      <lb ed="#A" n="76"/>de materia prima. Ceterum quia non defuerunt 
+      <lb ed="#A" n="77"/>haeretici, qui speciatim circa materiam primam er 
+      <lb ed="#A" n="78"/>rauerint; ideo operaepretium fuit, nouum de ea 
+      <lb ed="#A" n="79"/>articulum instituere. Fuerunt autem in primis 
+      <lb ed="#A" n="80"/>Philosophi, qui cum plane sentirent, mundum 
+      <lb ed="#A" n="81"/>initio temporis conditum esse; asseruerunt tamen, 
+      <lb ed="#A" n="82"/>materiam primam ingenitam fuisse, &amp; Deo 
+      coae<lb ed="#A" n="83" break="no"/>ternam. Sic sensit Plato, vt scribit Plutarch. 1. libr 
+      <lb ed="#A" n="84"/>de placitis philosophorum, &amp; plerique alij, &amp; Ambr. lib. 
+      <lb ed="#A" n="85"/>1. Hexam. Sic etiam docuerunt Stoici, vt ex 
+      Ter<lb ed="#A" n="86" break="no"/>tull. statim referemus. Et Zevon philosophus, vt 
+      <lb ed="#A" n="87"/>ipse Tertull. testatur libr. de praescript. haeretic. cap. 7. 
+      In<lb ed="#A" n="88" break="no"/>ter haereticos vero hunc errorem primus 
+      sequu<lb ed="#A" n="89" break="no"/>tus est Hermogenes, vt author est Tertull. libr 
+      <lb ed="#A" n="90"/>aduersus ipsum, cap. 1. secutus (vt ipse ait) 
+      Stoico<lb ed="#A" n="91" break="no"/>rum porticum, seu scholam. Eundem errorem 
+      <lb ed="#A" n="92"/>Tertullianus eidem Hermogeni adscribit libr. de 
+      prae<lb ed="#A" n="93" break="no"/>script. haeretic. c. 33. &amp; Marcioni libr. 5. aduersus ipsum, 
+      <lb ed="#A" n="94"/>cap. penult. Eisdem impingit hunc errorem Theod. 
+      <lb ed="#A" n="95"/>lib. 1. haeretic. fabular. cap. de Hermogene, &amp; cap. de 
+      Mar<lb ed="#A" n="96" break="no"/>cione. Eiusdem erroris Hermogenis mentionem 
+      <lb ed="#A" n="97"/>faciunt Isidor. libr. 8. Etymol cap. 5. Rabanus libr. 2. 
+      <lb ed="#A" n="98"/>iusti cleri capite 58. &amp; Gratianus Canone, quidam 
+      au<lb ed="#A" n="99" break="no"/>tem 14. quaest. 3. Quare fallitur cabriel Prateolus in 
+      <lb ed="#A" n="100"/>Elencho haeresum, cum Hermogenem facit Sabelli 
+      <lb ed="#A" n="101"/>asseclam tempore Galieni Imperatoris; cum 
+      mul<lb ed="#A" n="102" break="no"/>to fuerit antiquior. An vero erorem Sabellij 
+      com<lb ed="#A" n="103" break="no"/>tra Trinitatem personarum fuerit secutus, dictum 
+      <lb ed="#A" n="104"/>est disp. 109. cap. 1. 
+      </p>
+               <p xml:id="tavaz1-d1e273-d1e861">
+                  <lb ed="#A" n="105"/>In eodem errore fuisse Sabellium, constat ex 
+      <lb ed="#A" n="106"/>Eusebio libr. 7. de praepar. Euang. cap. 8. &amp; 9. Deinde 
+      <lb ed="#A" n="107"/>Seleucum, a quo Seleuciani, &amp; Hermiam, a quo 
+      <lb ed="#A" n="108"/>Hermiani, vt scribit August. haeres. 59. quinimo, si 
+      <lb ed="#A" n="109"/>credimus Chrysost. homil. 2. in Genes. post medium. Va 
+      <lb ed="#A" n="110"/>lent. &amp; Manich. idem docuerunt. Sic enim ait 
+      <lb ed="#A" n="111"/>Si Manichaeus te accesserit dicens, materiam praeexistere, vel 
+      <lb ed="#A" n="112"/>Marcion, vel Valentinus, vel Gentilis; dic ad illum. In 
+      prin<lb ed="#A" n="113" break="no"/>cipio fecit Deus coelum. &amp; terram: &amp; hac de causa 
+      Al<lb ed="#A" n="114" break="no"/>banenses, seu Albigenses, noui in Gallia 
+      Mani<lb ed="#A" n="115" break="no"/>chaei idem senserunt, vt refert Alphonsus Castro 
+      ad<lb ed="#A" n="116" break="no"/>uersus haereses, verbo, mundus. 
+      </p>
+               <p xml:id="tavaz1-d1e273-d1e890">
+                  <lb ed="#A" n="117"/>Contra hunc errorem est manifesta Ecclesia 
+      <lb ed="#A" n="118"/>definitio in Concilio Lateran. &amp; refertur in cap 
+      <lb ed="#A" n="119"/>firmiter. de summa Trinit. &amp; fide Catholica. vbi de 
+      <lb ed="#A" n="120"/>finitur, Deum ex nihilo vtramque condidisse crea 
+      <lb ed="#A" n="121"/>turam. Multi quoque Patres scripserunt, Lactantius 
+      <lb ed="#A" n="122"/>diuin. institut lib. 2. c. 9. Tertull. loco citato, Ambros. lib. 1. 
+      <lb ed="#A" n="123"/>hexam. Aug. lib. 1. de Genesi. c. 1. &amp; 5. idem lib. i. super 
+      Ge<lb ed="#A" n="124" break="no"/>nesim ad literam, c. 14. &amp; lib. de vera religione. c. 18. &amp; lib. 
+      <lb ed="#A" n="125"/>10. contra Faustum, c. 14. &amp; lib. 12. confess. c. 4. de hac 
+      <lb ed="#A" n="126"/>re fragmentum habet Orig. apud Euseb. lib. 7. de praepa¬ c 
+      <!--00358.xml-->
+      <pb ed="#A" n="350"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>ratione Euangelica 8. ibi etiam &amp; c. 9. ipse Eusebius 
+      <lb ed="#A" n="2"/>disputat, Epiphan haeres. 66. vbi Manichaeo hunc 
+      <lb ed="#A" n="3"/>tribuit errorem: Gregor Nyss. lib. de homine. Athanas 
+      <lb ed="#A" n="4"/>de Incarnat. verbi. Ex Scriptura quoque confutar 
+      <lb ed="#A" n="5"/>potest. Tum quia Genel.I. di. itur Deum in 
+      prin<lb ed="#A" n="6" break="no"/>cipio fecisse omnia; neque exprimitur de quo illa 
+      <lb ed="#A" n="7"/>produxerit: cum tamen dicatur, quando produxii 
+      <lb ed="#A" n="8"/>hominem, de limo terrae eum fecisse, pisces ex a 
+      <lb ed="#A" n="9"/>qua, &amp;c. Tum e iam quia Psal. 145. dicitur fecisse 
+      <lb ed="#A" n="10"/>Coelum, &amp; terram, mare, &amp; omnia quae in eis sunt. Isa 
+      <lb ed="#A" n="11"/>q1 Ecce vos estis ex nihilo &amp; 2 Machab. 7. Et peto a te, 
+      <lb ed="#A" n="12"/>vt aspicias ad coelum &amp; terram, &amp; ad omnia, quae in ei 
+      <lb ed="#A" n="13"/>sunt, vt intelligas quia ex nihilo fecit illa Deus, &amp; homi 
+      <lb ed="#A" n="14"/>num genus, ad Rom. I1. Quoniam ex ipso, &amp; in ipso, e 
+      <lb ed="#A" n="15"/>per ipsum sunt omnia. 
+      </p>
+               <p xml:id="tavaz1-d1e273-d1e954">
+                  <lb ed="#A" n="16"/>Porro ratione naturali idem optime conuinci 
+      <lb ed="#A" n="17"/>tur. Id enim, quod ex seipso est, &amp; nullius indige 
+      <lb ed="#A" n="18"/>extra se, vt sit ita perfectum est, vt sit Deus, &amp; in 
+      <lb ed="#A" n="19"/>finitum secundum essentiam, hanc enim diximus 
+      <lb ed="#A" n="20"/>esse rationem infiniti secundum essentiam dispi 
+      <lb ed="#A" n="21"/>25. si ergo materia non esset ab alio; non modo 
+      <lb ed="#A" n="22"/>non esset imperfectissimum ens; verum etiam es 
+      <lb ed="#A" n="23"/>set Deus. Aut qua ratione fieri potest, vt materia 
+      <lb ed="#A" n="24"/>prima, quae est omnium imperfectissimum ens 
+      <lb ed="#A" n="25"/>causa non indigeat, vt producatur; cetera autem 
+      <lb ed="#A" n="26"/>producantur? An vero a secundis causis media 
+      <lb ed="#A" n="27"/>forma, quam inducunt efficienter procedat, seda 
+      <lb ed="#A" n="28"/>Deo conseruetur, iufra disp. 147. dicemus. Nunc 
+      <lb ed="#A" n="29"/>vero de materia haec sufficiant. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e273-Dd1e988"><!-- vaz-p1q44a3 -->
+               <head xml:id="tavaz1-d1e273-Hd1e991">Articulus 3</head>
+               <p xml:id="tavaz1-d1e273-d1e993">
+                  <lb ed="#A" n="17" type="fixed=351"/>CONCLVSIO est, Deus ratione idearum, quar in 
+      <lb ed="#A" n="18"/>se halet, est rerum omnium causa exemplaris. De 
+      <lb ed="#A" n="19"/>ideis autem satis superque a nobis dictum est pe 
+      <lb ed="#A" n="20"/>totam quaest. 15. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e273-Dd1e1006"><!-- vaz-p1q44a4 -->
+               <head xml:id="tavaz1-d1e273-Hd1e1009">Articulus 4</head>
+               <p xml:id="tavaz1-d1e273-d1e1011">
+                  <lb ed="#A" n="97" type="fixed=351"/>Notationes circa articulum.
+    </p>
+               <p xml:id="tavaz1-d1e273-d1e1016">
+                  <lb ed="#A" n="98"/>CONCLVSIO est affirmas, &amp; de fide vt 
+      con<lb ed="#A" n="99" break="no"/>stat ex illo, Vniuersa propter semetipsum 
+      opera<lb ed="#A" n="100" break="no"/>tus est Dominus, Prouerb. 16. Hinc primum 
+      obser<lb ed="#A" n="101" break="no"/>ua, non quaeri a S. Thom. in tota hac quaestione. 
+      <lb ed="#A" n="102"/>an Deus sit causa formalis rerum; sed de aliis 
+      dum<lb ed="#A" n="103" break="no"/>taxat causae generibus inquirit: quia iam quaest. 3. 
+      <lb ed="#A" n="104"/>artic. 8. probauerat, Deum non posse venire in 
+      <lb ed="#A" n="105"/>compositionem alicuius: causa autem formalis 
+      <lb ed="#A" n="106"/>semper componit id, cuius est causa. Deinde no 
+      <lb ed="#A" n="107"/>ta, Deum non esse finem cuius gratia; hic enim 
+      <lb ed="#A" n="108"/>finis fit per operationem; Deus autem non fit: sed 
+      <lb ed="#A" n="109"/>esse finem cui; quia omnia cedunt in laudem, &amp; 
+      <lb ed="#A" n="110"/>gloriam ipsius, quae fiunt in hoc mundo. De qua 
+      <lb ed="#A" n="111"/>distinctione finis cuius gratia, &amp; finis cui plura 
+      <lb ed="#A" n="112"/>diximus 3. libro de cultu adorationis, disput... 
+      <lb ed="#A" n="113"/>cap. 6. &amp; dicemus 1. disput. 2. cap. 3. quomodo 
+      <lb ed="#A" n="114"/>autem Deus habeat, &amp; respiciat seipsum tanquam 
+      <lb ed="#A" n="115"/>finem; &amp; vtrum aliquid creatum possit illi vt fi 
+      <lb ed="#A" n="116"/>nis comparari, an non, diximus supra disp. 28.
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

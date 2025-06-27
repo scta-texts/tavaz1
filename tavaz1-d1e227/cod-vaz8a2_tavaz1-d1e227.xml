@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 35</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 35</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="196"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e227"><!-- p1-q35 -->
+            <head xml:id="tavaz1-d1e227-Hd1e99">Quaestio 35</head>
+            <div xml:id="tavaz1-d1e227-Dd1e101"><!-- vaz-p1q35a1 -->
+               <head xml:id="tavaz1-d1e227-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e227-d1e106">
+                  <lb ed="#A" n="104" type="fixed=195"/>COnclusio est. Hoc nomen imago in diuinis non est 
+      <lb ed="#A" n="105"/>personale. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e227-Dd1e114"><!-- vaz-p1q35a2 -->
+               <head xml:id="tavaz1-d1e227-Hd1e117">Articulus 2</head>
+               <p xml:id="tavaz1-d1e227-d1e119">
+                  <lb ed="#A" n="75" type="fixed=196"/>COnclusio est, Secundum sententiam Patrum 
+      Lati<lb ed="#A" n="76" break="no"/>norum solus filius in diuinis dicitur imago. Circa 
+      li<lb ed="#A" n="77" break="no"/>teram vtriusque articuli nihil est, quod indigeat 
+      <lb ed="#A" n="78"/>notatione, &amp; explicatione: nam, quod attinet ad 
+      <lb ed="#A" n="79"/>eorum doctrinam, sequenti disputatione 
+      explica<lb ed="#A" n="80" break="no"/>bimus, quod vero hic nonnulli disputant 
+      recen<lb ed="#A" n="81" break="no"/>tiores, an in creatura rationali sit imago 
+      Trinita<lb ed="#A" n="82" break="no"/>tis, &amp; in irrationali sit vestigium, extra rem omni 
+      <lb ed="#A" n="83"/>no videtur. Quaestionem hanc disputat S. Thomas 
+      <lb ed="#A" n="84"/>infra quaest. 93. &amp; Bonauent. in 1. distinct. 3. part. 2. art. 1. 
+      <lb ed="#A" n="85"/>&amp; 2. Scotus quaest. 5. &amp; 9. Durand. 1. parte distinct. quaest. 5. 
+      <lb ed="#A" n="86"/>&amp; 2. parte quaest.1. Capreol. quaest. 2. &amp; 5. Gabriel. quaest. 5. 
+      <lb ed="#A" n="87"/>&amp; 10. Marsil. in 1. distinct quaest. 7. &amp; Ferrariens. 4. con 
+      <lb ed="#A" n="88"/>tra gentes, cap. 26. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e227-Dd1e153"><!-- vaz-p1q35a2-d145 -->
+               <head xml:id="tavaz1-d1e227-Hd1e156">Disputatio 145</head>
+               <head xml:id="tavaz1-d1e227-Hd1e158" type="question-title">An ratio imaginis solum 
+      conueniat filio</head>
+               <p xml:id="tavaz1-d1e227-d1e161">
+                  <lb ed="#A" n="89" type="fixed=196"/>DISPVTATIO CLXV. 
+      <lb ed="#A" n="90"/>An ratio imaginis solum 
+      conue<lb ed="#A" n="91" break="no"/>niat filio
+    </p>
+               <div xml:id="tavaz1-d1e227-Dd1e170">
+                  <head xml:id="tavaz1-d1e227-Hd1e172">Caput 1</head>
+                  <p xml:id="tavaz1-d1e227-d1e174">
+                     <lb ed="#A" n="92" type="fixed=196"/>CAPVT I. 
+      <lb ed="#A" n="93"/>Opinio Durandi
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e181">
+                     <lb ed="#A" n="94"/>DVrand. in 1. distinct. 28. eodem fere modo de 
+      <lb ed="#A" n="95"/>imagine, atque de verbo Philosophatur. Do 
+      <lb ed="#A" n="96"/>cet igitur primum, imaginem in diuinis non vsur 
+      <lb ed="#A" n="97"/>pari proprie, sed improprie, &amp; latiori quadam si 
+      <lb ed="#A" n="98"/>gnificatione. Probat vero hac ratione: quia aut 
+      <lb ed="#A" n="99"/>imago Deo conuenit respectu creaturae, aut vni 
+      <lb ed="#A" n="100"/>personae respectu alterius: respectu creaturae pro 
+      <lb ed="#A" n="101"/>prie dici non potest. Quia imago proprie dicitur 
+      <lb ed="#A" n="102"/>producta ad imitationem illius, cuius est imago: 
+      <lb ed="#A" n="103"/>in Deo autem nihil est productum ad 
+      imitatio<lb ed="#A" n="104" break="no"/>nem creaturae: ergo in eo non est imago 
+      creatu<lb ed="#A" n="105" break="no"/>rae. Nec obstat, quod dicitur Deus imago creatu 
+      <lb ed="#A" n="106"/>rae, cum Scriptura ait, Faciamus hominem ad imaginem, 
+      <lb ed="#A" n="107"/>&amp; similitudinem nostram, ibi enim sumitur imago 
+      <lb ed="#A" n="108"/>improprie, nimirum pro ipso exemplari: nam si 
+      <lb ed="#A" n="109"/>cut ad eius imitationem fieri aliquid dicitur, sic 
+      <lb ed="#A" n="110"/>etiam ad illius imaginem. Hoc sensu accepit ima 
+      <lb ed="#A" n="111"/>ginem, Chrysost. serm 5. aduersus Anomaeos, post 
+      me<lb ed="#A" n="112" break="no"/>dium, explicans eundem locum Genesis cum ait, 
+      <lb ed="#A" n="113"/>esse vnam, &amp; eandem, aequalemque imaginem pa 
+      <lb ed="#A" n="114"/>tris, &amp; filij. Nec esse potest imago in vna persona 
+      <!--00205.xml-->
+      <pb ed="#A" n="197"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>respectu alterius, quia de ratione imaginis est si 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e238">
+                     <lb ed="#A" n="2"/>militudo. at inter diuinas personas non est 
+      pro<lb ed="#A" n="3" break="no"/>prie similitudo, quia illorum similitudo est solum 
+      <lb ed="#A" n="4"/>ratio quaedam rationis, vt disput 167. ostendemus 
+      <lb ed="#A" n="5"/>ergo nec proprie est imago. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e249">
+                     <lb ed="#A" n="6"/>Addit. Deinde Durandus. Si imago sumatur 
+      <lb ed="#A" n="7"/>improprie, &amp; latiore significatione, conuenire 
+      <lb ed="#A" n="8"/>non solum filio, sed etiam spititu sancto i non 
+      di<lb ed="#A" n="9" break="no"/>cit esse quid essentiale, quia putat, de ratione ima 
+      <lb ed="#A" n="10"/>ginis esse processionem, sed ait conuenire 
+      vtri<lb ed="#A" n="11" break="no"/>quo personae procedenti, quia vtraque 
+      procedi<lb ed="#A" n="12" break="no"/>similis producenti. Subdit tamen, appropriari 
+      fi<lb ed="#A" n="13" break="no"/>lio, quemadmodum essentialia nonnunquam ap 
+      <lb ed="#A" n="14"/>propriantur alicui personae, vt nomen, Amor, Spi 
+      <lb ed="#A" n="15"/>ritui sancto; tum quia, &amp; nomen filius 
+      commu<lb ed="#A" n="16" break="no"/>niter praese fert imaginem patris, dicitur enim 
+      fi<lb ed="#A" n="17" break="no"/>lius, quasi sit sicut ille, hoc est, sicut pater. Tum etiam 
+      <lb ed="#A" n="18"/>quia filius procedit modo naturae, hoc est, ab vno: 
+      <lb ed="#A" n="19"/>modus autem naturae producit simile, at Spiritus 
+      <lb ed="#A" n="20"/>sanctus non procedit modo naturae, sed modo 
+      <lb ed="#A" n="21"/>voluntatis, vt ex mente illius explicauimus supra 
+      <lb ed="#A" n="22"/>disput. 113. cap. 4. quare licet reuera procedat si 
+      <lb ed="#A" n="23"/>milis, id tamen non habet ex modo procedendi, 
+      <lb ed="#A" n="24"/>quia modus voluntatis ex se non producit sibi si 
+      <lb ed="#A" n="25"/>mile. Videtur autem consentire Aureol. apud 
+      Ca<lb ed="#A" n="26" break="no"/>Capreolum in 1.distinct. 27. quaest. 2. artic. 2. in 
+      argumen<lb ed="#A" n="27" break="no"/>tis contra sextam conclusionem, ait enim, tam 
+      <lb ed="#A" n="28"/>Spiritui sancto, quam filio conuenire rationem 
+      <lb ed="#A" n="29"/>imaginis, quia vterque procedit similis ex modo 
+      <lb ed="#A" n="30"/>suae productionis, additque, non esse de ratione 
+      <lb ed="#A" n="31"/>imaginis procedere ab eo, quod repraesentat. Ac 
+      <lb ed="#A" n="32"/>cedunt Basil. lib. 5. contra Eunomium cap. 12. in princip. 
+      <lb ed="#A" n="33"/>&amp; Damasc. lib. 1. de fide, ca. 8. &amp; Gregor. Thaumaturgus in 
+      <lb ed="#A" n="34"/>Confessione fidei, quae extat apud Gregor. Nyssen. in 
+      <lb ed="#A" n="35"/>vita illius Athanas. in Epist. illa longa ad Serapio 
+      <lb ed="#A" n="36"/>nem post medium, qui vocant Spiritum sanctum 
+      <lb ed="#A" n="37"/>imaginem filij, quam sententiam dixit S. Thomas 
+      <lb ed="#A" n="38"/>art. 2. esse Graecorum Patrum. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e227-Dd1e324">
+                  <head xml:id="tavaz1-d1e227-Hd1e326">Caput 2</head>
+                  <p xml:id="tavaz1-d1e227-d1e328">
+                     <lb ed="#A" n="39" type="fixed=197"/>CAPVT II. 
+      <lb ed="#A" n="40"/>Rationem imaginis soli filio proprie conuenire, 
+      <lb ed="#A" n="41"/>authoritate probatur. 
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e337">
+                     <lb ed="#A" n="42"/>VEra, &amp; communis in hac re sententia duo as 
+      <lb ed="#A" n="43"/>serit: vnum est, vere &amp; proprie absque vll 
+      <lb ed="#A" n="44"/>metaphora imaginem in Deo reperiri, alterum est, 
+      <lb ed="#A" n="45"/>rationem hanc imaginis Deo non conuenire 
+      es<lb ed="#A" n="46" break="no"/>sentialiter, sed notionaliter alicui personae, vide 
+      <lb ed="#A" n="47"/>licet soli filio. Priorem partem huius sententia 
+      <lb ed="#A" n="48"/>tradunt S. Thom. Caiet. &amp; recentiores Thomista 
+      <lb ed="#A" n="49"/>in hac quaest. Bonauen. in 1. distinct 31. part. 2. art.1. quaest. 1. 
+      <lb ed="#A" n="50"/>Capreol. in 1. distinct. 27. quaest. 2. art 1. conclus. 6. Henricu 
+      <lb ed="#A" n="51"/>quodlibet. 4. quaest. 2. Canariens. in quaest 27. artic. 2. &amp; 4 
+      <lb ed="#A" n="52"/>parte commentarij, August. etiam &amp; Patres, quos 
+      <lb ed="#A" n="53"/>infra commemorabimus, aliquam personam in 
+      <lb ed="#A" n="54"/>diuinis appellant imaginem absolute, sicut etiam 
+      <lb ed="#A" n="55"/>Scriptura ad Coloss.1.de filio ait. Qui est imago De 
+      <lb ed="#A" n="56"/>inuisibilis, ad Hebr. 1. Qui cum sit splendor gloriae, &amp; 
+      fi<lb ed="#A" n="57" break="no"/>gura substantiae eius, Graece, ὑλόστασεο:, hoc est, hypo 
+      <lb ed="#A" n="58"/>stasis aut personae ipsius, vt supra disput. 24. cap. 4. 
+      <lb ed="#A" n="59"/>vidimus. Quod si haec Patrum &amp; Scripturae 
+      testi<lb ed="#A" n="60" break="no"/>monia absque vlla improprietates explicari pos 
+      <lb ed="#A" n="61"/>sunt, vt cap. 3. &amp; 4. ex definitione imaginis patebit, 
+      <lb ed="#A" n="62"/>temere ad tropos &amp; figuras confugiemus. 
+      <lb ed="#A" n="63"/>Posteriorem partem huius sententiae, quae 
+      asse<lb ed="#A" n="64" break="no"/>rit, rationem imaginis absque appropriatione 
+      so<lb ed="#A" n="65" break="no"/>li filio esse tribuendam, amplectuntur etiam S 
+      <lb ed="#A" n="66"/>Thom. Caiet. Recentiores Capreol. Henticus, &amp; 
+      <!--00205.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>Canariensis locis citatis, &amp; Bonauent. in eodem art. 1. 
+      <lb ed="#A" n="68"/>quaest. 2. tametsi in ratione reddenda non omnes 
+      <lb ed="#A" n="69"/>consentiant. Ex Patribus vero non solum Latini 
+      <lb ed="#A" n="70"/>sed Graeci etiam filium solum imaginem appel 
+      <lb ed="#A" n="71"/>lant. Origenes lib. Periarchon cap. 2. cum 
+      larissi<lb ed="#A" n="72" break="no"/>me probet, filium esse imaginem patris, capite 
+      <lb ed="#A" n="73"/>sequenti disserens de Spiritu sancto, nunquam 
+      <lb ed="#A" n="74"/>ipsum imaginem vocat. Quinimo ex Graecis A 
+      <lb ed="#A" n="75"/>thanas. sermone 4. contra Arrianos, non multum 
+      <lb ed="#A" n="76"/>ab initio affirmat, solum filium esse imaginem: 
+      <lb ed="#A" n="77"/>de Martyribus enim sic loquitur: Qui ergo fit, vt 
+      <lb ed="#A" n="78"/>cum isti istius modi sint. solus tamen filius vnigenitus, &amp; 
+      <lb ed="#A" n="79"/>verbum, &amp; sapientia appelletur? aut cur, cum tot sint 
+      si<lb ed="#A" n="80" break="no"/>miles patri, solus hic sit imago? Huius vero rationem 
+      <lb ed="#A" n="81"/>subinde latius prosequitur. Et in Epistola de 
+      de<lb ed="#A" n="82" break="no"/>cretis Nicenae Synodi parum ante medium, ita 
+      <lb ed="#A" n="83"/>scribit, Et quandoquidem vnus est Deus, necessarium est 
+      <lb ed="#A" n="84"/>quoque, vnam esse Dei imaginem, quae ipsius est filius. 
+      <lb ed="#A" n="85"/>Et paulo post, Si eum imaginem nomines filium hoc ip 
+      <lb ed="#A" n="86"/>so cum esse indicaueris, quid enim simile Deo, nisi sua ip 
+      <lb ed="#A" n="87"/>sius progenies? de quo testimonio disput. 113. cap. 7. 
+      <lb ed="#A" n="88"/>etiam diximus. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e446">
+                     <lb ed="#A" n="89"/>Ex Latinis vero Hylarius libr. 7. de Trinit. sub fin 
+      <lb ed="#A" n="90"/>August. lib. 3. de Trinit. cap. 2. lilocap. vlt. Richard. de sanct 
+      <lb ed="#A" n="91"/>Victore lib. 6. de Trinit. cap. 19. &amp; Rupert. lib. 1. de Trinit. 
+      <lb ed="#A" n="92"/>cap. 2. soli filio tribuunt rationem imaginis. 
+      Ru<lb ed="#A" n="93" break="no"/>pertus autem dicit verbum esse imaginem, sed 
+      <lb ed="#A" n="94"/>Spiritum sanctum similitudinem vtriusque, vt ita 
+      <lb ed="#A" n="95"/>explicet illud Genes. 1. Faciamus hominem ad 
+      imagi<lb ed="#A" n="96" break="no"/>nem, &amp; similitudinem, &amp;c. refertur etiam pro hac 
+      <lb ed="#A" n="97"/>sententia Ansel. in Monolog. cap. 37. ibi tamen 
+      so<lb ed="#A" n="98" break="no"/>lum docet, filium ita esse verbum, &amp; imaginem 
+      <lb ed="#A" n="99"/>patris, vt pater non sit imago, vt colligitur ex 
+      vlti<lb ed="#A" n="100" break="no"/>mis verbis capitis, de Spiritu sancto nihil asserit 
+      <lb ed="#A" n="101"/>Basilius ergo, &amp; Damasc. Thaumaturgus, &amp; Atha 
+      <lb ed="#A" n="102"/>nasius superiori cap. allegati, videntur mihi non 
+      <lb ed="#A" n="103"/>proprie locuti, cum Spiritum sanctum etiam 
+      ap<lb ed="#A" n="104" break="no"/>pellant imaginem attendentes potius rationem 
+      <lb ed="#A" n="105"/>similitudinis fundatam in vnitate naturae, quam 
+      <lb ed="#A" n="106"/>naturam imaginis, quae in repraesentatione &amp; 
+      ori<lb ed="#A" n="107" break="no"/>gine consistit 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e227-Dd1e492">
+                  <head xml:id="tavaz1-d1e227-Hd1e494">Caput 3</head>
+                  <p xml:id="tavaz1-d1e227-d1e496">
+                     <lb ed="#A" n="108" type="fixed=197"/>CARVT III. 
+      <lb ed="#A" n="109"/>In Deo esse rationem imaginis proprie, ratione 
+      <lb ed="#A" n="110"/>probatur. 
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e505">
+                     <lb ed="#A" n="111"/>CAeterum iam ratione confirmemus prio 
+      <lb ed="#A" n="112"/>rem partem nostrae sententiae, videlicet ra 
+      <lb ed="#A" n="113"/>tionem imaginis proprie Deo conuenire: id quod 
+      <lb ed="#A" n="114"/>ex ipsa imaginis definitione perspicuum fiet. Au 
+      <lb ed="#A" n="115"/>gust. lib. imperfecto de Genesi ad literam cap. 16. &amp; lib. 5. 
+      <lb ed="#A" n="116"/>quaest. 4. &amp; lib. 83. qq. quaest. 74. docet imaginem non 
+      <lb ed="#A" n="117"/>esse quamcumque similitudinem, sed eam solum, 
+      <lb ed="#A" n="118"/>quae est expressa ad repraesentandum; quare 
+      pu<lb ed="#A" n="119" break="no"/>tat, imaginem sua natura habere originem ab eo, 
+      <lb ed="#A" n="120"/>quod repraesentat, &amp; cuius dicitur imago, &amp; ob 
+      <lb ed="#A" n="121"/>hanc rationem dicit, vnum ouum esse alteri simi 
+      <lb ed="#A" n="122"/>le; non tamen esse eius imaginem. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e534">
+                     <lb ed="#A" n="123"/>Ex hac definitione sequitur, rationem simili 
+      <lb ed="#A" n="124"/>tudinis, quae fundatur in vnitate qualitatis, aut 
+      <lb ed="#A" n="125"/>naturae, nec sufficere ad rationem imaginis, nec 
+      <lb ed="#A" n="126"/>requiri: Primum quidem non sufficere iam 
+      pro<lb ed="#A" n="127" break="no"/>batum est, deinde eam non requiri, sic 
+      ostendi<lb ed="#A" n="128" break="no"/>tur. Ratio imaginis, quae est similitudo ad 
+      reprae<lb ed="#A" n="129" break="no"/>sentandum expressa, potest esse sine hac vnitate 
+      <lb ed="#A" n="130"/>naturae, imo cum magna diuersitate, vt constat 
+      <lb ed="#A" n="131"/>in verbo, &amp; cognitione mentis nostrae, quae est 
+      <lb ed="#A" n="132"/>imago rei intellectae, alterius tamen omnino na 
+      <!--00206.xml-->
+      <pb ed="#A" n="198"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>turae, ea solum ratione, quia est expressa ad reprae 
+      <lb ed="#A" n="2"/>sentandum, ergo similitudo in natura non requi 
+      <lb ed="#A" n="3"/>ritur. Colligitur etiam, in diuinis esse imaginem 
+      <lb ed="#A" n="4"/>proprie absque vlla prorsus imperfectione, hoc 
+      <lb ed="#A" n="5"/>modo. In diumis est verbum expressum vi suae pro 
+      <lb ed="#A" n="6"/>cessionis ad repraesentandum: ergo est proprie &amp; 
+      <lb ed="#A" n="7"/>absque vlla imper fectione imago: quomodo 
+      ve<lb ed="#A" n="8" break="no"/>ro hoc sit proprium verbi, &amp; Spiritui sancto non 
+      <lb ed="#A" n="9"/>conueniat, cap. 5. videbimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e584">
+                     <lb ed="#A" n="10"/>Denique ex dictis infertur, imaginis ad eum 
+      <lb ed="#A" n="11"/>cuius est imago, esse relationem realem. Nam 
+      <lb ed="#A" n="12"/>cum imago ab eo realiter procedat, cuius esse di 
+      <lb ed="#A" n="13"/>citur, &amp; ad illum referatur; efficitur, vt eius rela 
+      <lb ed="#A" n="14"/>tio sit realis, nempe fundata in reali origine, &amp; 
+      <lb ed="#A" n="15"/>processione. Atque hinc iam apparet, quam de 
+      <lb ed="#A" n="16"/>bile sit argumentum, quo Durandus in primo 
+      ca<lb ed="#A" n="17" break="no"/>pite probare nitebatur, in Deo non esse proprio 
+      <lb ed="#A" n="18"/>imaginem, quia non est proprie similitudo. Nam 
+      <lb ed="#A" n="19"/>quaniuis similitudo fundata in vnitate naturae, vt 
+      <lb ed="#A" n="20"/>proprie sit similitudo, debear esse relatio realis 
+      <lb ed="#A" n="21"/>&amp; in diuinis sit tantum rationis; tamen, cum hoc 
+      <lb ed="#A" n="22"/>genus similitudinis non sit de ratione imaginis 
+      <lb ed="#A" n="23"/>nihil obstat, quo minus in Deo sit vera, &amp; propria 
+      <lb ed="#A" n="24"/>ratio imaginis, si ibi est vera, &amp; propria ratio 
+      ex<lb ed="#A" n="25" break="no"/>pressionis ad repraesentandum, nulla adhuc 
+      exi<lb ed="#A" n="26" break="no"/>stente propria ratione similitudinis priori illo 
+      <lb ed="#A" n="27"/>modo 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e227-Dd1e627">
+                  <head xml:id="tavaz1-d1e227-Hd1e629">Caput 4</head>
+                  <p xml:id="tavaz1-d1e227-d1e631">
+                     <lb ed="#A" n="28" type="fixed=198"/>CAPVT IV. 
+      <lb ed="#A" n="29"/>Rationem imaginis in Des soli filis conuenire, varie. 
+      <lb ed="#A" n="30"/>Doctoribus probatur 
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e640">
+                     <lb ed="#A" n="31"/>TAmetsi Doctores 2. cap. allegati contra Du 
+      <lb ed="#A" n="32"/>tandum doceant, soli filio aeterni patris 
+      con<lb ed="#A" n="33" break="no"/>uenire rationem imaginis, id tamen non eodem 
+      <lb ed="#A" n="34"/>modo probant. Commemorabo igitur eorum 
+      <lb ed="#A" n="35"/>praecipuas rationes, vt ex illis meliorem facilius 
+      <lb ed="#A" n="36"/>eligam. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e656">
+                     <lb ed="#A" n="37"/>Prima ratio sit Bonauent. in 1. distinct. 31. 2. parte di 
+      <lb ed="#A" n="38"/>stinct artic. 1. quaest. 2. qui hanc sententiam probat 
+      <lb ed="#A" n="39"/>tum quia filius tantum est similitudo vnius: tum 
+      <lb ed="#A" n="40"/>etiam quia filius assimilatur patri, non solum in 
+      <lb ed="#A" n="41"/>natura, sed etiam in proprietate, &amp; notione, eo 
+      <lb ed="#A" n="42"/>quod accipit eandem naturam a patre cum 
+      poten<lb ed="#A" n="43" break="no"/>tia eam communicandi Spiritui sancto: inde au 
+      <lb ed="#A" n="44"/>tem recte colligi, soli filio conuenire rationem 
+      <lb ed="#A" n="45"/>imaginis, probat Bonauent. hoc modo, in diuinis 
+      <lb ed="#A" n="46"/>est imago secundum perfectissimam tationem, per 
+      <lb ed="#A" n="47"/>fectissima a. imago debet esse vnius: nam quae est 
+      <lb ed="#A" n="48"/>duorum imago, cum sit quasi in plura diuisa, non 
+      <lb ed="#A" n="49"/>videtur esse perfectissima. Tum etiam debet esse 
+      <lb ed="#A" n="50"/>vnius: nam quae est duorum imago, cum sit 
+      quas<lb ed="#A" n="51" break="no"/>in plura diuisa, non videtur esse perfectissima 
+      <lb ed="#A" n="52"/>Tum etiam debet esse secundum omnem 
+      mo<lb ed="#A" n="53" break="no"/>dum; nam si solum esset in essentia, non in pro 
+      <lb ed="#A" n="54"/>prietate, vel contra, non esset maxima, quae esse 
+      <lb ed="#A" n="55"/>potest. Hanc rationem, quod attinet ad eius par 
+      <lb ed="#A" n="56"/>tem posteriorem, desumpsit ex Ricardo de sancto Vi 
+      <lb ed="#A" n="57"/>ctore lib. 6. de Trinit. cap 1g. 20. &amp; it. eiusque memi 
+      <lb ed="#A" n="58"/>nir SThomas in hac quaest. artic. 2. &amp; quod spectat ad 
+      <lb ed="#A" n="59"/>posteriorem partem idem S. Thomas eam sic 
+      im<lb ed="#A" n="60" break="no"/>pugnat, quia in dininis non attenditur similitudo 
+      <lb ed="#A" n="61"/>secundum proprietates, sed secundum naturam, 
+      <lb ed="#A" n="62"/>vt disput. 167. dicemus. Adde, quod si attendere 
+      <lb ed="#A" n="63"/>tur similitudo secundum proprietates personales, 
+      <lb ed="#A" n="64"/>non esset maxima in Deo, cum sint oppositae, ma 
+      <lb ed="#A" n="65"/>gisque duae creaturae personae assimilarentur in 
+      <lb ed="#A" n="66"/>proptietatibus, quia non opponerentur, quam 
+      <!--00206.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>diuinae Eandem etiam rationem supra disput. 113. 
+      <lb ed="#A" n="68"/>cap. 3. ostendimus infirmam esse ad probandum, 
+      <lb ed="#A" n="69"/>solum verbum in diuinis proprie generari non 
+      spi<lb ed="#A" n="70" break="no"/>ritum sanctum. Porro imaginem summe 
+      perfe<lb ed="#A" n="71" break="no"/>ctam. debere esse vnius, vndenam constat, si 
+      <lb ed="#A" n="72"/>duos ita perfecte representat, atque quemlibet 
+      <lb ed="#A" n="73"/>illorum; Nihil etiam obstare, quo minus Spiritus 
+      <lb ed="#A" n="74"/>sanctus sit filius, quod a duobus procedat, non 
+      si<lb ed="#A" n="75" break="no"/>cut a patre, &amp; matre, ostendimus disput. 113. c. 3. 
+      <lb ed="#A" n="76"/>contra August. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e750">
+                     <lb ed="#A" n="77"/>Secunda ratio eiusdem Bonauent. &amp; Henrici 
+      <lb ed="#A" n="78"/>locis citatis in 2.c. est huiusmodi De ratione ima 
+      <lb ed="#A" n="79"/>ginis est procedere modo naturali, atqui Spiritus 
+      <lb ed="#A" n="80"/>sanctus non procedit hoc modo, quia producitur 
+      <lb ed="#A" n="81"/>per voluntatem, &amp; ideo liberaliter videtur 
+      produ<lb ed="#A" n="82" break="no"/>ctus: filius autem procedit modo naturali, ergo 
+      <lb ed="#A" n="83"/>vnitas naturae; quae in vtroque reperitur in solo fi 
+      <lb ed="#A" n="84"/>lio constituit rationem imaginis. Hanc eandem 
+      <lb ed="#A" n="85"/>rationem adduximus eo eodem Bonau. &amp; alijs disp. 
+      <lb ed="#A" n="86"/>113. c. 4. ad probandum secundam personam diuinam 
+      <lb ed="#A" n="87"/>esse vere filium, at vero Spiritum sanctum non 
+      es<lb ed="#A" n="88" break="no"/>se, atque ibidem contra illam probauimus, 
+      vtran<lb ed="#A" n="89" break="no"/>que personam modo naturali omnino 
+      procede<lb ed="#A" n="90" break="no"/>re, &amp; ex hac parte aequales esse, quare aut vtrique 
+      <lb ed="#A" n="91"/>ratio filij, &amp; imaginis, aut neutri hac ratione 
+      con<lb ed="#A" n="92" break="no"/>ueniet. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e788">
+                     <lb ed="#A" n="93"/>Tertia ratio Henrici, &amp; Capreoli locis 
+      allega<lb ed="#A" n="94" break="no"/>tis, quam amplectitur &amp; late confirmat Caiet. in 
+      <lb ed="#A" n="95"/>hac quo art. 2. est huiusmodi, Filius procedit per 
+      <lb ed="#A" n="96"/>intellectum: ergo vi suae processionis producitur 
+      <lb ed="#A" n="97"/>similis productio intelligendi: ac proinde habet 
+      <lb ed="#A" n="98"/>virtute suae productionis, &amp; non aliunde esse 
+      si<lb ed="#A" n="99" break="no"/>milem principio, in quo consistit ratio imaginis: 
+      <lb ed="#A" n="100"/>at Spiritus sanctus, licet procedat similis 
+      princi<lb ed="#A" n="101" break="no"/>pio, id certe non habet quatenus procedit per 
+      vo<lb ed="#A" n="102" break="no"/>luntatem, ex vi proptiae processionis, sed aliunde: 
+      <lb ed="#A" n="103"/>quia scilicet est in natura diuina, quare on ex 
+      prin<lb ed="#A" n="104" break="no"/>cipio, sed ex natura quasi subiecti id habet, de 
+      ra<lb ed="#A" n="105" break="no"/>tione autem imaginis est, procedere similem 
+      prin<lb ed="#A" n="106" break="no"/>cipio formaliter &amp; ex vi productionis, non 
+      mate<lb ed="#A" n="107" break="no"/>rialiter proptet subiectum, in quo est, ego solus 
+      <lb ed="#A" n="108"/>filius, non Spiritus sanctus est imago personae a 
+      <lb ed="#A" n="109"/>qua procedit, quomodo vero secunda persona id 
+      <lb ed="#A" n="110"/>habeat ex vi suae processionis, non Spiritus 
+      san<lb ed="#A" n="111" break="no"/>ctus, fusius explicat, vt vidimus disput. illa 113. ca. 
+      <lb ed="#A" n="112"/>5. Huc etiam spectat ratio, Ferrariensis 4. contra 
+      <lb ed="#A" n="113"/>gentes capitul. 11. eodem capite relata, qua proba 
+      <lb ed="#A" n="114"/>Spiritum sanctum non esse filium, licet procedat 
+      <lb ed="#A" n="115"/>similis, quia non procedit similis exvi suae 
+      pro<lb ed="#A" n="116" break="no"/>cessionis, sicut filius, &amp; videtur esse doctrina 
+      San<lb ed="#A" n="117" break="no"/>cti Thomae in hac quaest. artie. 2. sed vtraque 
+      eo<lb ed="#A" n="118" break="no"/>dem prorsus modo impugnanda est, quo ibidem 
+      <lb ed="#A" n="119"/>vtramque refutauimus, ex qua impugnatione 
+      con<lb ed="#A" n="120" break="no"/>stabit, non minus ex vi suae processionis Spiritum 
+      <lb ed="#A" n="121"/>sanctum procedere similem in natura, quam 
+      fi<lb ed="#A" n="122" break="no"/>lium; ac proinde, si de ratione imaginis est 
+      proce<lb ed="#A" n="123" break="no"/>dere similem in eadem natura perse ex vi suae 
+      pro<lb ed="#A" n="124" break="no"/>cessionis, &amp; non aliunde, vt supponunt 
+      Henri<lb ed="#A" n="125" break="no"/>cus, Capreolus, Caietanus, &amp; Fertariensis, 
+      <lb ed="#A" n="126"/>quod tamen non satis probant, efficitur non 
+      mi<lb ed="#A" n="127" break="no"/>nus Spiritum sanctum esse imaginem Pattis &amp; 
+      <lb ed="#A" n="128"/>Filij, quam Filium imaginem patris. Sed quia eo 
+      <lb ed="#A" n="129"/>loco contra Caietanum, &amp; Ferrariensem satis 
+      <lb ed="#A" n="130"/>superque ostendimus, non minus Spiritum 
+      san<lb ed="#A" n="131" break="no"/>ctum procedere similem in natura vi suae 
+      produ<lb ed="#A" n="132" break="no"/>ctionis, nam filium, &amp; horum Doctorum effu 
+      <lb ed="#A" n="133"/>gia praeclusimus, non necesse, iterum contra eos 
+      <lb ed="#A" n="134"/>disputare.
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e882">
+      <!--00207.xml-->
+                     <pb ed="#A" n="199"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Alij denique eam reddunt rationem, quia de 
+      <lb ed="#A" n="2"/>ratione imaginis est, exprimi ad imitationem 
+      ali<lb ed="#A" n="3" break="no"/>cuius per intellectum, ergo, cum filius per 
+      intel<lb ed="#A" n="4" break="no"/>lectum exprimatur, Spiritus sanctus per 
+      volun<lb ed="#A" n="5" break="no"/>tatem; sequitur, filium esse imaginem patris ex 
+      <lb ed="#A" n="6"/>pressam, at vero Spiritum sanctum non esse. Haec 
+      <lb ed="#A" n="7"/>ratio supponit definitionem imaginis, quam 
+      nul<lb ed="#A" n="8" break="no"/>lus hactenus tradidit, licet enim aliqua imago 
+      <lb ed="#A" n="9"/>producatur per intellectum, vt est artificialis, &amp; 
+      <lb ed="#A" n="10"/>verbum mentis, non tamen omnis imago hoc 
+      <lb ed="#A" n="11"/>modo producitur. Nani quis neget Adamum 
+      ge<lb ed="#A" n="12" break="no"/>nuisse filium suum Seth, &amp; in eo sui imaginem 
+      <lb ed="#A" n="13"/>expressisse? Denique cum omnis filius praesefe 
+      <lb ed="#A" n="14"/>rat imaginem pattis recte reperiri potest imago, 
+      <lb ed="#A" n="15"/>quae non procedat per intellectum. Ideo, vt 
+      vidi<lb ed="#A" n="16" break="no"/>mus in ea disput. 113. cap. 7. recte colligit Athanas 
+      <lb ed="#A" n="17"/>verbum Dei esse filium, ex eo, quod non sequere 
+      <lb ed="#A" n="18"/>tur: nisi de ratione filij esset imago, &amp; quamuis 
+      <lb ed="#A" n="19"/>imago latius pateat, quam filius, tamen imago 
+      <lb ed="#A" n="20"/>substantialis in eadem natura reciprocatur cum 
+      <lb ed="#A" n="21"/>filio, &amp; ex hac colligic Athanasius verbum esse 
+      fi<lb ed="#A" n="22" break="no"/>lium, si est imago. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e227-Dd1e940">
+                  <head xml:id="tavaz1-d1e227-Hd1e942">Caput 5</head>
+                  <p xml:id="tavaz1-d1e227-d1e944">
+                     <lb ed="#A" n="23" type="fixed=199"/>CAPVT V. 
+      <lb ed="#A" n="24"/>Optima ratione ostenditur, solum filium 
+      ess<lb ed="#A" n="25" break="no"/>imaginem patris. 
+    </p>
+                  <p xml:id="tavaz1-d1e227-d1e953">
+                     <lb ed="#A" n="26"/>CAeterum ex definitione tradita cap. 3. recto 
+      <lb ed="#A" n="27"/>Cpotest inferri, soli filio rationem imaginis 
+      <lb ed="#A" n="28"/>conuenire. Definitio autem talis est, Similitudo ex 
+      <lb ed="#A" n="29"/>pressa ad repraesentandum, &amp;, vt notauimus eo capit. 
+      <lb ed="#A" n="30"/>ea similitudo dicitur imago, quae est ad 
+      repraesen<lb ed="#A" n="31" break="no"/>tandum expressa, siue illa habeat vnitatem naturae 
+      <lb ed="#A" n="32"/>cuim re repraesentata, siue non: nam vtroque 
+      mo<lb ed="#A" n="33" break="no"/>do esse potest imago Rursus si contingat aliquam 
+      <lb ed="#A" n="34"/>esse similitudinem duorum in natura, &amp; vnum ab 
+      <lb ed="#A" n="35"/>alio oriri, non sequitur, illud, quod est ab alio, &amp; 
+      <lb ed="#A" n="36"/>ei simile, esse imaginem illius, nisi illud 
+      reprae<lb ed="#A" n="37" break="no"/>sentet. Nam interdum vnum simile non 
+      reprae<lb ed="#A" n="38" break="no"/>sentat id, a quo ducit originem, &amp; ideo non est 
+      il<lb ed="#A" n="39" break="no"/>lius similitudo, vt videmus in generatione vniuo 
+      <lb ed="#A" n="40"/>ca non videntium, in quibus producitur vnum si 
+      <lb ed="#A" n="41"/>mile ab alio: quod idem non est illius imago, quia 
+      <lb ed="#A" n="42"/>non repraesentat illud: ignis enim productus non 
+      <lb ed="#A" n="43"/>magis repraesentat hunc ignem producentem, 
+      <lb ed="#A" n="44"/>quam alium, cum eodem modo omnibus alijs 
+      si<lb ed="#A" n="45" break="no"/>milis sit. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e999">
+                     <lb ed="#A" n="46"/>Praeterea obserua cum Canariensis in artic. 2 
+      <lb ed="#A" n="47"/>huius quaest. 4 parte commentarij, imaginem 
+      de<lb ed="#A" n="48" break="no"/>bere expressam ad huhc finem, vt repraesentet, vel 
+      <lb ed="#A" n="49"/>arte, vel natura; dicitur autem natura eo fine simi 
+      <lb ed="#A" n="50"/>litudinem exprimere, quando renera similitudo 
+      <lb ed="#A" n="51"/>natura producta repraes entat: finis enim naturae in 
+      <lb ed="#A" n="52"/>operando ex ipso opere producto desumitur, quod 
+      <lb ed="#A" n="53"/>si casu sigillum imprimit figuram in cera, vel alia 
+      <lb ed="#A" n="54"/>materia, vere producit imaginem, quia illius pro 
+      <lb ed="#A" n="55"/>ductio reducitur in attificialem, quae ea 
+      intentio<lb ed="#A" n="56" break="no"/>nem ad imitationem producta est 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e1025">
+                     <lb ed="#A" n="57"/>Hinc recte colligit Canariensis, verbum diui 
+      <lb ed="#A" n="58"/>num vere &amp; proprie esse patris imaginem: est enim 
+      <lb ed="#A" n="59"/>similitudo patris, quod nullus negat expressa per 
+      <lb ed="#A" n="60"/>intellectum, vt verbum illius, sicut disputat. 141. 
+      <lb ed="#A" n="61"/>praedictum est: ergo est expressa similitudo ad 
+      re<lb ed="#A" n="62" break="no"/>presentandum id, a quo procedit, vt a principio 
+      <lb ed="#A" n="63"/>intelligibili, &amp; obiecto per se. Quare, cum 
+      pa<lb ed="#A" n="64" break="no"/>trem hoc modo reptaesentet, &amp; ex illo hoc modo 
+      <lb ed="#A" n="65"/>procedat, vt disput. 142. cap. 3. probauimus erit il 
+      <lb ed="#A" n="66"/>lius imago, cumque non procedat ab Spiritu 
+      san<lb ed="#A" n="67" break="no"/>cto, vt a principio intelligibili, etiam si secundarie 
+      <!--00207.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>ipsum repraesentat non erit imago eius, vt ibidem 
+      <lb ed="#A" n="69"/>etiam cap. 4. ostendimus, eademque ratione non 
+      <lb ed="#A" n="70"/>est imago creaturarum, vt disput. 143. cap. 5. pro 
+      <lb ed="#A" n="71"/>batum manet. Verbum autem in diuinis patrem 
+      <lb ed="#A" n="72"/>repraesentare spsimet patri, &amp; hon alteri, constat 
+      <lb ed="#A" n="73"/>ex disput. 144. cap. 2. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e1070">
+                     <lb ed="#A" n="74"/>Verumenimuero Canar. non probat, 
+      quomo<lb ed="#A" n="75" break="no"/>do Spiritui sancto non conueniat ratio imaginis, 
+      <lb ed="#A" n="76"/>id autem facili ratione ex dictis sequitur. Nam, vt 
+      <lb ed="#A" n="77"/>Spiritus sanctus esset imago, deberet non solum 
+      <lb ed="#A" n="78"/>esse similis in natura, sed etiam repraesentare eos, 
+      <lb ed="#A" n="79"/>a quibus procedit: atqui nullum repraesentat: 
+      er<lb ed="#A" n="80" break="no"/>go non est alicuius imago, namque si aliquem 
+      re<lb ed="#A" n="81" break="no"/>praesentaret, alicui intelligenti, nulli autem re 
+      <lb ed="#A" n="82"/>praesentat, vt in inductione patebit, nec enim 
+      re<lb ed="#A" n="83" break="no"/>praesentat patri, nec filio, cum neutri se ipsum 
+      in<lb ed="#A" n="84" break="no"/>telligat Spiritu sancto, neque tanquam forma, 
+      ne<lb ed="#A" n="85" break="no"/>que tanquam termino suae intellectionis, nec 
+      re<lb ed="#A" n="86" break="no"/>praesentat sibi ipsi, nisi quatenus essentiali 
+      intel<lb ed="#A" n="87" break="no"/>lectione, quae est sua ipsius essentia, cognoscit se, 
+      <lb ed="#A" n="88"/>&amp; alias personas in seipso, nec repraesentat alicul 
+      <lb ed="#A" n="89"/>intellectui creato, non viatori, vt perspicuum est, 
+      <lb ed="#A" n="90"/>non videnti Deum sicuti est: nam qui tres 
+      perso<lb ed="#A" n="91" break="no"/>nas clare intuetur, non videt vnam, quia in alia 
+      re<lb ed="#A" n="92" break="no"/>praesentaretur, sed omnes aeque primo intuetur, 
+      <lb ed="#A" n="93"/>ergo nulli intellectui Spiritus sanctus 
+      repraesen<lb ed="#A" n="94" break="no"/>tat, nec repraesentare potest, quare nec alicuius 
+      <lb ed="#A" n="95"/>imago est. 
+      </p>
+                  <p xml:id="tavaz1-d1e227-d1e1120">
+                     <lb ed="#A" n="96"/>Duo supersunt in hac dispur. notanda. Vnum 
+      <lb ed="#A" n="97"/>est, ratione imaginis conuenire filio, non ratione 
+      <lb ed="#A" n="98"/>solius essentiae, quia imago notionalis proprietas 
+      <lb ed="#A" n="99"/>est, nec ratione solius proptietatis personalis, sed 
+      <lb ed="#A" n="100"/>ratione vtriusque, vt de verbo superiori disputat 
+      <lb ed="#A" n="101"/>dictum est, quia ratione vtriusque conuenit filio 
+      <lb ed="#A" n="102"/>repraesentare patrem ipsi patri, tanquam dicenti, 
+      <lb ed="#A" n="103"/>&amp; intelligenti. Alterum est, eandem esse 
+      proprie<lb ed="#A" n="104" break="no"/>tatem filiationis, imaginis, &amp; verbi, quamuis 
+      di<lb ed="#A" n="105" break="no"/>uerso modo significetur. Quia aliquid 
+      connota<lb ed="#A" n="106" break="no"/>tur vna, quod non connotatur alia, filius enim 
+      so<lb ed="#A" n="107" break="no"/>lam significat relationem procedentis ab alio per 
+      <lb ed="#A" n="108"/>generationem: verbum autem praeter hanc, quam 
+      <lb ed="#A" n="109"/>expresse, &amp; speciatim non significat, connotat 
+      re<lb ed="#A" n="110" break="no"/>spectum rationis ad creaturas, eum vero non 
+      com<lb ed="#A" n="111" break="no"/>notat imago: haec autem se habet ad filiationem, 
+      <lb ed="#A" n="112"/>sicut ratio communis ad particularem, vt disput. 
+      <lb ed="#A" n="113"/>137. cap. 5. notaui, quare vero non sint tres 
+      notio<lb ed="#A" n="114" break="no"/>nes diuersae, ibidem etiam ostendimus. 
+      Immeri<lb ed="#A" n="115" break="no"/>to tamen dixit Bonauent. in 1. distinct. 31. parte 2. art. 1. 
+      <lb ed="#A" n="116"/>quaest. 3. in fine, imaginem praeter respectum ad 
+      pa<lb ed="#A" n="117" break="no"/>trem connotare etiam relationem ad Spiritum 
+      <lb ed="#A" n="118"/>sanctum. Nam cum nullo modo ab eo procedat, 
+      <lb ed="#A" n="119"/>vt disput. 143. cap. 4. probauimus, nullum ad illum 
+      <lb ed="#A" n="120"/>connotabit respectum in ratione imaginis, 
+      quam<lb ed="#A" n="121" break="no"/>uis illum secundarie saltem repraesentat. 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

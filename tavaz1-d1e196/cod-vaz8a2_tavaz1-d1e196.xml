@@ -1,0 +1,2702 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 29</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 29</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="90"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e196"><!-- p1-q29 -->
+            <head xml:id="tavaz1-d1e196-Hd1e99">Quaestio 29</head>
+            <div xml:id="tavaz1-d1e196-Dd1e101"><!-- vaz-p1q29a1 -->
+               <head xml:id="tavaz1-d1e196-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e196-d1e106">
+                  <lb ed="#A" n="7" type="fixed=90"/>Explicatio articuli, &amp; definitionis persona. 
+      <lb ed="#A" n="8"/>Anctus Thomas in hoc articulo probat defi 
+      <lb ed="#A" n="9"/>Onitionem Boethij in libro de duabus naturis, 
+      <lb ed="#A" n="10"/>pagina 3. Persona est indiuidua substantia rationalis na 
+      <lb ed="#A" n="11"/>turae, nomine substantiae intelligit Boethius, quod 
+      <lb ed="#A" n="12"/>alij nomine subsistentiae: indiuiduam vero appel 
+      <lb ed="#A" n="13"/>lat, quam alij incommunicabilem vocant, ac 
+      pro<lb ed="#A" n="14" break="no"/>inde, eo nomine intelligit indiuiduum comple 
+      <lb ed="#A" n="15"/>tum, quod neque est pars, necalteri, vt 
+      supposi<lb ed="#A" n="16" break="no"/>to communicari potest; id vero vna voce, ὑποστα¬ 
+      <lb ed="#A" n="17"/>σις. Hypostasis, significant Graeci, de qua articulo 
+      <lb ed="#A" n="18"/>sequenti erit nobis disputandum. Additur in 
+      de<lb ed="#A" n="19" break="no"/>finitione, Rationalis naturae, quia indiuidua 
+      sub<lb ed="#A" n="20" break="no"/>stantia irrationalis dicitur solum hypostasis, aut 
+      <lb ed="#A" n="21"/>suppositum, non persona. Et quia hic nobis 
+      dis<lb ed="#A" n="22" break="no"/>serendum non est de persona humana per quid 
+      vi<lb ed="#A" n="23" break="no"/>delicet reddatur incommunicabilis de hoc enim 
+      <lb ed="#A" n="24"/>disputabimus 3. parte, quaestione 4. artic. 2. ided 
+      <lb ed="#A" n="25"/>sufficiat nunc, vniuerse adnotare, quae sit perso 
+      <lb ed="#A" n="26"/>na, obiter tamen obseruandum est, Graecos 
+      Pa<lb ed="#A" n="27" break="no"/>tres distinguere personam a natura, sicut singu 
+      <lb ed="#A" n="28"/>lare a communi, non alia ratione, nisi quia perso 
+      <lb ed="#A" n="29"/>sona indiuiduum, quod amplius iam 
+      communi<lb ed="#A" n="30" break="no"/>cari nequit. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e161">
+                  <lb ed="#A" n="31"/>it: 
+      <lb ed="#A" n="32"/>Hanc definitionem improbat Scotus in 1. 
+      di<lb ed="#A" n="33" break="no"/>stinct. 23. quaest. 1. §. Ad quaestionem, quia ex ea 
+      seque<lb ed="#A" n="34" break="no"/>retur, animam rationalem esse personam, (quod 
+      <lb ed="#A" n="35"/>nullus hactenus dixit) est enim indiuidua, hoc est, 
+      <lb ed="#A" n="36"/>singularis substantia rationalis naturae. Sed 
+      obie<lb ed="#A" n="37" break="no"/>ctio Scoti friuola est, quia nomine indiuidua, non 
+      <lb ed="#A" n="38"/>significatur singulatis, sed incommunicabilis, vt 
+      <lb ed="#A" n="39"/>iam explicauimus. Sic etiam intellexit Otto Phri 
+      <lb ed="#A" n="40"/>singensis Episcopus lib.i.de gestis Friderici, cap. 5. 
+      <lb ed="#A" n="41"/>cuius mentionem fecimus disputat. 120. cap. 1. at 
+      <lb ed="#A" n="42"/>enim in haec verba: Neque enim indiuiduam 
+      substan<lb ed="#A" n="43" break="no"/>tiam dicere solemus eam rem singularem, quae cum 
+      ali<lb ed="#A" n="44" break="no"/>identidem re singulari ad aliquod totum constituendum. 
+      <lb ed="#A" n="45"/>conuenire valens, non est per se vna, ex quibus ipsa 
+      in<lb ed="#A" n="46" break="no"/>fert animam rationalem non esse personam: falso 
+      <lb ed="#A" n="47"/>igitur Canariensis in hunc articulum Scotum 
+      im<lb ed="#A" n="48" break="no"/>pugnat, quasi dixerit animam rationalem esse per 
+      <lb ed="#A" n="49"/>sonam, cum id expresse negauerit, imo tanquam 
+      <lb ed="#A" n="50"/>absurdum contra definitionem Boethij 
+      deduxe<lb ed="#A" n="51" break="no"/>rit. Deceptus autem videtur Canariensis his 
+      ver<lb ed="#A" n="52" break="no"/>bis Caietani in Commentario huius articuli cir 
+      <lb ed="#A" n="53"/>ca solutionem 5. Aduerte, quod hinc habes, quod ex hac 
+      <lb ed="#A" n="54"/>definitione anima separata non est persona, vt Scotus vo 
+      <lb ed="#A" n="55"/>luit in 1. disput. 23. non penetrans, quid importet 
+      substan<lb ed="#A" n="56" break="no"/>tia prima, quibus sane non reprehendit Scotum, 
+      <lb ed="#A" n="57"/>quod asseruerit, animam separatam esse personam, 
+      <lb ed="#A" n="58"/>ipse enim Caietanus bene legerat Scotum, sed 
+      <lb ed="#A" n="59"/>quod putauerit, ex definitione Boethij sequi, ani 
+      <lb ed="#A" n="60"/>mam rationalem esse personam, quod nullus ha 
+      <lb ed="#A" n="61"/>ctenus docuit. Impugnat enim praedictam 
+      Boe<lb ed="#A" n="62" break="no"/>thij definitionem Richardus de sancto Victore, 
+      <lb ed="#A" n="63"/>lib. 4. de Trinitate, cap. 21. quia videtur alijs, quam 
+      <lb ed="#A" n="64"/>definitio conuenire. Natura enim diuina est 
+      in<lb ed="#A" n="65" break="no"/>diuidua substantia rationalis naturae, &amp; tamen 
+      <lb ed="#A" n="66"/>non est persona, quare ipse cap. 22. definitionem 
+      <!--00098.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="67"/>personae diuinae hoc modo tradit. Est naturae diuina 
+      <lb ed="#A" n="68"/>incommunicabilis existentia, vtitur vero nomine, in 
+      <lb ed="#A" n="69"/>communicabilis, vt ostendat, personam non solum 
+      <lb ed="#A" n="70"/>debere esse singularem, nec distribui posse in 
+      plu<lb ed="#A" n="71" break="no"/>res naturas; sed etiam non posse esse communem 
+      <lb ed="#A" n="72"/>pluribus personis, quare cap. 23. concludit posse 
+      <lb ed="#A" n="73"/>quoque definitionem Boethij probari, si indiui 
+      <lb ed="#A" n="74"/>dua substantia dicatur, quae nec potest distribui in 
+      <lb ed="#A" n="75"/>plures naturas, nec in plures personas, hoc est, 
+      <lb ed="#A" n="76"/>quae nec communis est pluribus naturis, nec 
+      plu<lb ed="#A" n="77" break="no"/>ribus personis, quo sensu accipitur nomen 
+      indiui<lb ed="#A" n="78" break="no"/>dua, a Boethio, vt supra notauimus. Quid vero 
+      in<lb ed="#A" n="79" break="no"/>telligat Ricardus nomine illo, existentia, 
+      explica<lb ed="#A" n="80" break="no"/>bitur infra disput. 126. cap. 2. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e276">
+                  <lb ed="#A" n="81"/>Est, &amp; alia definitio cuiusuis personae etiam 
+      <lb ed="#A" n="82"/>creatae, quae colligitur ex Ricardo eodem libr. 4. 
+      <lb ed="#A" n="83"/>cap. 23. in hunc modum. Rationalis natura 
+      incom<lb ed="#A" n="84" break="no"/>municabilis existentia, qua quidem vsus est loannes 
+      <lb ed="#A" n="85"/>Theologus Ecclesiae Latinae in Concilio 
+      Floren<lb ed="#A" n="86" break="no"/>tino sessione 19. post medium: hanc vero mul 
+      <lb ed="#A" n="87"/>tum commendat Scotus, &amp; praefert definitioni, 
+      <lb ed="#A" n="88"/>quam Boethius assignauit, quia per vocem, intom 
+      <lb ed="#A" n="89"/>municabilis, excludit anima rationalis, &amp; quaelibet 
+      <lb ed="#A" n="90"/>pars, quae cum alia totum componit, excluditur 
+      <lb ed="#A" n="91"/>enim natura singulatis humanitatis, qualis est 
+      <lb ed="#A" n="92"/>Christi, quae cum careat complemento sui 
+      sup<lb ed="#A" n="93" break="no"/>positi, nempe modo illo existendi per se, 
+      com<lb ed="#A" n="94" break="no"/>municatur alteri personae, scilicet verbo Dei, 
+      <lb ed="#A" n="95"/>quod non dicitur assumpsisse personam, sed 
+      na<lb ed="#A" n="96" break="no"/>turam: tametsi eam indiuiduam, hoc est, singula 
+      <lb ed="#A" n="97"/>rem assumpserit. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e315">
+                  <lb ed="#A" n="98"/>Est tamen difficultas, vtrum quaeuis pars 
+      ali<lb ed="#A" n="99" break="no"/>cuius totius separata, vt manus abscissa, sit 
+      perso<lb ed="#A" n="100" break="no"/>na, an saltem suppositum. Ratio dubitandi est 
+      <lb ed="#A" n="101"/>quia S. Thomas in solutione 5. docet manum aut 
+      <lb ed="#A" n="102"/>partem substantiae non esse primam substantiam, 
+      <lb ed="#A" n="103"/>ex quo sequi videtur, non esse suppositum: nam 
+      <lb ed="#A" n="104"/>prima substantia, &amp; hypostasis, seu suppositum 
+      <lb ed="#A" n="105"/>idem sunt. Respondet Canariensis in 
+      Commen<lb ed="#A" n="106" break="no"/>tario huius articuli, manum, &amp; partes etiam 
+      ab<lb ed="#A" n="107" break="no"/>scissas, non esse supposita, in quam sententiam 
+      ad<lb ed="#A" n="108" break="no"/>ductus est verbis solum S. Thomae in ea 
+      solutio<lb ed="#A" n="109" break="no"/>ne. Ego tamen eum intelligerem de partibus 
+      in<lb ed="#A" n="110" break="no"/>tegrantibus, quae aut actu sunt in toto supposito, 
+      <lb ed="#A" n="111"/>vt de manu coniuncta, aut etiam de separatis, quae 
+      <lb ed="#A" n="112"/>suapte natura communicari possunt, quales sunt 
+      es<lb ed="#A" n="113" break="no"/>sentiales, materia nimirum &amp; anima; quia hae non 
+      <lb ed="#A" n="114"/>sunt indiuiduae, hoc est incommunicabiles, vt 
+      expli<lb ed="#A" n="115" break="no"/>catum est, at de partibus integrantibus diuisis, &amp; 
+      <lb ed="#A" n="116"/>abscissis a toto, vt de manu, aliud existimo 
+      dicen<lb ed="#A" n="117" break="no"/>dum; nempe esse supposita, non personas, 
+      suppo<lb ed="#A" n="118" break="no"/>sita quidem, quia ita per se sunt, vt suapte natura 
+      <lb ed="#A" n="119"/>sub ea forma, &amp; esse, quod habent, non possint 
+      <lb ed="#A" n="120"/>communicari alteri, sednon personas, quia non 
+      <lb ed="#A" n="121"/>sunt rationalis naturae. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e371">
+                  <lb ed="#A" n="122"/>Tandem obserua haec tria nomina, indiuiduum 
+      <lb ed="#A" n="123"/>suppositum, persona, secum comparari, vt inferius 
+      <lb ed="#A" n="124"/>&amp; superius, ex quibus indiuiduum commune 
+      <lb ed="#A" n="125"/>est; dicitur enim tam de accidentibus, quam de 
+      <lb ed="#A" n="126"/>substantijs, nisi nomine indiuidui intelligamus 
+      <lb ed="#A" n="127"/>incommunicabile, vt reuera intellexit Boethius 
+      <lb ed="#A" n="128"/>Deinde suppositum latius patet, quam persona, 
+      <lb ed="#A" n="129"/>quia de rebus quoque rationis expertibus 
+      dici<lb ed="#A" n="130" break="no"/>tur. Ex quibus etiam colligitur, an possint in Deo 
+      <lb ed="#A" n="131"/>concedi tria indiuidua, sicut diximus supra dispu 
+      <lb ed="#A" n="132"/>tat. 122. cap. 3. &amp; vltimo, esse tres res, si enim 
+      in<lb ed="#A" n="133" break="no"/>diuiduum sumatur, vt sumitur a Boethio pro in 
+      <lb ed="#A" n="134"/>communicabili, sine dubio potest, &amp; debet con¬ 
+      <!--00099.xml-->
+      <pb ed="#A" n="91"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>cedi, esse in Deo tria indiuidua, &amp; similiter si ad 
+      <lb ed="#A" n="2"/>datur, Substantia rationalis naturae, cum enim sit 
+      defi<lb ed="#A" n="3" break="no"/>nitio personae, sicut sunt tres personae, concedi 
+      <lb ed="#A" n="4"/>debent tres substantiae indiuiduae rationalis 
+      natu<lb ed="#A" n="5" break="no"/>rae. Verum quia iam communiter nomine indi 
+      <lb ed="#A" n="6"/>uidui non significamus incommunicabile, sed sin 
+      <lb ed="#A" n="7"/>gulare naturae, sine explicatione absolute non de 
+      <lb ed="#A" n="8"/>bent dici in Deo tria indiuidua. Et haec satis circa 
+      <lb ed="#A" n="9"/>hunc articulum, nam quod hic disputari solet, 
+      v<lb ed="#A" n="10" break="no"/>trum persona supra naturam addat negationem, 
+      <lb ed="#A" n="11"/>an positiuum, &amp; quid illud sit, disputandum est, 
+      <lb ed="#A" n="12"/>3. p. quaest. 4. articu. 2. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e435"><!-- vaz-p1q29a2 -->
+               <head xml:id="tavaz1-d1e196-Hd1e438">Articulus 2</head>
+               <p xml:id="tavaz1-d1e196-d1e440">
+                  <lb ed="#A" n="37" type="fixed=92"/>COnclusio est? idem quod significat res naturae, 
+      <lb ed="#A" n="38"/>supi positum, &amp;, hypostasis in tota natura sub 
+      <lb ed="#A" n="39"/>stantiae, sis mifitat nomen, persona, in natura rationali 
+      <lb ed="#A" n="40"/>circa te: itum articuli nihil video, quod peculiar 
+      <lb ed="#A" n="41"/>indige at explicatione, sed doctrinam illius 
+      dif<lb ed="#A" n="42" break="no"/>putat sonibus solitis examinare necesse erit. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e457"><!-- vaz-p1q29a2-d124 -->
+               <head xml:id="tavaz1-d1e196-Hd1e460">Disputatio 124</head>
+               <head xml:id="tavaz1-d1e196-Hd1e462" type="question-title">
+    Quae sit differentia inter has voces 
+    Graecas ὑόσας ε Hypostasis, 
+    et cüci. Vsia
+  </head>
+               <p xml:id="tavaz1-d1e196-d1e465">
+                  <lb ed="#A" n="43" type="fixed=92"/>DISPVTATIO CXXIV. 
+      <lb ed="#A" n="44"/>Quae sit differentia inter has voces 
+      <lb ed="#A" n="45"/>Graecas ὑόσας ε Hypostasis, 
+      <lb ed="#A" n="46"/>&amp; cüci. Vsia. 
+    </p>
+               <div xml:id="tavaz1-d1e196-Dd1e476">
+                  <head xml:id="tavaz1-d1e196-Hd1e478">Caput 1</head>
+                  <p xml:id="tavaz1-d1e196-d1e480">
+                     <lb ed="#A" n="47" type="fixed=92"/>CAPVT I. 
+      <lb ed="#A" n="48"/>Vbi fuerit contentio exotta in Ecclesia 
+      <lb ed="#A" n="49"/>de voce Hypostasis. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e489">
+                     <lb ed="#A" n="50"/>TRia sunt nomina, vt inquit, Georgius 
+      Cas<lb ed="#A" n="51" break="no"/>sander in commentario de duabus in Chri¬ 
+      <!--00100.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="52"/>sto naturis, ούσις Plysis, &amp; Sogio, Vsia, quae teste 
+      <lb ed="#A" n="53"/>Damasceno in lib. primarum institutionum e. 1. 
+      <lb ed="#A" n="54"/>substantiam vel essentiam sine vlla controuersia 
+      <lb ed="#A" n="55"/>significant: tertium est, ὅπόστασις Hypostasis, de 
+      <lb ed="#A" n="56"/>quo magna olim in Ecclesia Dei dissensio fuit. 
+      <lb ed="#A" n="57"/>Scribunt autem Nicephorus lib. 10. historiae c.15. 
+      <lb ed="#A" n="58"/>&amp; Socrates lib. 3. c. 7. huic controuersiae primum 
+      <lb ed="#A" n="59"/>occasionem dedisse Hosium Cordubensem, qui 
+      <lb ed="#A" n="60"/>missus Alexandriam ab Imperatore Constantino 
+      <lb ed="#A" n="61"/>vt excitatam ab Arrio turbam sedaret, primus de 
+      <lb ed="#A" n="62"/>substantia &amp; subsistentia, hoc est, ὁυσία Vsia, &amp; ὁπό¬ 
+      <lb ed="#A" n="63"/>σάσε Hypostasi, mentionem fecit: &amp; an idem 
+      omni<lb ed="#A" n="64" break="no"/>no significarent, in quaestionem vocauit. Postea 
+      <lb ed="#A" n="65"/>vero, vt idem Niceph. affirmat, synodus Nicena 
+      <lb ed="#A" n="66"/>indignam indicauit quaestionem, quae ibi tracta 
+      <lb ed="#A" n="67"/>retur: sed paulo post in Concilio Alexandrino 
+      <lb ed="#A" n="68"/>teste Ruffino lib. 1. historiae c. 29. iterum suborta 
+      <lb ed="#A" n="69"/>fuit controuersia inter Patres, quidam enim di 
+      <lb ed="#A" n="70"/>cebant idem esse substantiam, &amp; subsistentiam 
+      <lb ed="#A" n="71"/>(sic enim interpretatur Ruffinus duo illa nomina 
+      <lb ed="#A" n="72"/>Graeca ὀὐσία Vsia, &amp; Hypostasis) alij vero contra as 
+      <lb ed="#A" n="73"/>serebant, non esse idem: quia dicebant 
+      substan<lb ed="#A" n="74" break="no"/>tiam esse naturam: subsistentiam vero ese 
+      perlo<lb ed="#A" n="75" break="no"/>nam, seu suppositum. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e552">
+                     <lb ed="#A" n="76"/>Porro Nicephorus lib. 10. historiae capit. 15. &amp; 
+      <lb ed="#A" n="77"/>Socrates lib. 3. cap. 7. narrant. in eo Concilio A 
+      <lb ed="#A" n="78"/>lexandrino fuisse definitum, ne nomine 
+      Hyposta<lb ed="#A" n="79" break="no"/>sis communiter vteremur; cum in sacris literis non 
+      <lb ed="#A" n="80"/>contineatur, &amp; Paulus necessitate docendi coa 
+      <lb ed="#A" n="81"/>ctus, tali voce fuerit vsus, nihilominus tandem in 
+      <lb ed="#A" n="82"/>eodem concilio concessum fuisse, vt interim pro 
+      <lb ed="#A" n="83"/>pter inopiam nominum, ea voce contra 
+      Sabel<lb ed="#A" n="84" break="no"/>lium, ad adstruendam personarum Trinitatem, 
+      <lb ed="#A" n="85"/>vti liceret, ne solo nomine Trinitatem confitei 
+      <lb ed="#A" n="86"/>videremur: sic ergo, vt ait Ruffinus contentione 
+      <lb ed="#A" n="87"/>caute, moderateque composita, vnusquisque iti 
+      <lb ed="#A" n="88"/>nere suo perrexit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e583">
+                     <lb ed="#A" n="89"/>Hinc occasionem ceperunt Concilium Sir 
+      <lb ed="#A" n="90"/>miense, &amp; Ariminense, vt definirent his 
+      no<lb ed="#A" n="91" break="no"/>minibus Vsia, &amp; Hypostasis, non esse vtendum 
+      <lb ed="#A" n="92"/>quo liberius &amp; nomen ὁν ούσιον Hombusions teij 
+      <lb ed="#A" n="93"/>cerent, &amp; haeresim Arrianam, quam sectaban 
+      <lb ed="#A" n="94"/>tur, confirmarent, sicut notanimus ex 
+      senten<lb ed="#A" n="95" break="no"/>tia Athanasij, &amp; Epiphanij disputat. 110. cap. 5. 
+      <lb ed="#A" n="96"/>&amp; docet idem Nicephorus lib. 9. historiae capit. 
+      <lb ed="#A" n="97"/>39. &amp; 44 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e606">
+                     <lb ed="#A" n="98"/>Ceterum litem illam in Concilio Alexandrine 
+      <lb ed="#A" n="99"/>excitatam composuisse videtur magnus 
+      Athana<lb ed="#A" n="100" break="no"/>sius, qui, vt refert Nicephorus. libro 10. cap. 16. 
+      <lb ed="#A" n="101"/>huic interfuit Concilio. Nam de Athanasio 
+      lo<lb ed="#A" n="102" break="no"/>quens Nazianzenus oratione 21. quae est de lau 
+      <lb ed="#A" n="103"/>dibus Athanasij. sic ait. Vtraque parte leniter, &amp; hu 
+      <lb ed="#A" n="104"/>mane accersita, verborumque sententia diligenter, &amp; 
+      ac<lb ed="#A" n="105" break="no"/>curate perpensa, postea quam concordes reperit, nec 
+      quan<lb ed="#A" n="106" break="no"/>tum ad doctrinam quidquam inter se dissidentes, ita 
+      nego<lb ed="#A" n="107" break="no"/>tium transegit, vt nominum vsum ipsis concedens rebus eo 
+      <lb ed="#A" n="108"/>adstringeret. Id ipsum praestitit Naziar zenus 
+      Con<lb ed="#A" n="109" break="no"/>stantinopoli, vt testatur ipse in oratione ad 150. E. T 
+      <lb ed="#A" n="110"/>piscopos, quae est oratio 32. nam cum essent illi a 
+      <lb ed="#A" n="111"/>Theodosio conuocati, &amp; similis inter eos fuisset 
+      <lb ed="#A" n="112"/>orta controuersia, probauit Nazianzenus, nullam 
+      <lb ed="#A" n="113"/>de rebus esse dissensionem inter eos, qui dicunt 
+      <lb ed="#A" n="114"/>tres hypostases, &amp; eos qui vnam fatentur: qua re vt 
+      <lb ed="#A" n="115"/>vtrosque conciliaret, concludit: An fieri potest, vt quid 
+      <lb ed="#A" n="116"/>magis inter se concordent, atque idem dicant, quem cum 
+      <lb ed="#A" n="117"/>ita sentiunt, tametsi alioqui syllabis discrepent? &amp;c. 
+      Er<lb ed="#A" n="118" break="no"/>go ad haec vsque tempora liberum videbatur 
+      v<lb ed="#A" n="119" break="no"/>nicuique, vti voce Hypostasis, in sensu catho¬ 
+      <!--00101.xml-->
+      <pb ed="#A" n="93"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>lico, aut pro natura &amp; essentia, quae dicitur, Vsia 
+      <lb ed="#A" n="2"/>aut pro persona: nec significatio huius nominis 
+      <lb ed="#A" n="3"/>Hypostasis, ad haec vsque tempora fuit satis mani 
+      <lb ed="#A" n="4"/>festa. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e672">
+                  <head xml:id="tavaz1-d1e196-Hd1e674">Caput 2</head>
+                  <p xml:id="tavaz1-d1e196-d1e676">
+                     <lb ed="#A" n="5" type="fixed=93"/>CAPVT II. 
+      <lb ed="#A" n="6"/>De Antiquitate vocis ὑπόστασις Hypostasis.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e683">
+                     <lb ed="#A" n="7"/>HAnc vocem, Hypostasis, in significatione, qua 
+      <lb ed="#A" n="8"/>Hutuntur Ecclesiastici, barbaram esse existi 
+      <lb ed="#A" n="9"/>marunt Nicephorus lib. 10. historiae cap. 15. So 
+      <lb ed="#A" n="10"/>crates lib. 3. cap. 7. Probant vero authoritate Ire 
+      <lb ed="#A" n="11"/>naei Grammatici: nam si apud prophanos au 
+      <lb ed="#A" n="12"/>thores reperiatur, in alia omnino 
+      signification<lb ed="#A" n="13" break="no"/>est. Sophocles in Phaenice pro insidijs vsus est 
+      <lb ed="#A" n="14"/>Menander pro iuris conditamento: aliquando 
+      <lb ed="#A" n="15"/>etiam ponitur pro foece vini in fundo dolij sub 
+      <lb ed="#A" n="16"/>sistentes, veteres ergo (inquit ille) in alia 
+      signifi<lb ed="#A" n="17" break="no"/>catione hoc nomine vsi sunt, quam recentiores: 
+      <lb ed="#A" n="18"/>hi enim subsistantiam frequenter pro substantia 
+      <lb ed="#A" n="19"/>vsurpant. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e714">
+                     <lb ed="#A" n="20"/>Verum non solum a tempore Athanasij 
+      scri<lb ed="#A" n="21" break="no"/>ptores Ecclesiastici eo nomine frequenter 
+      vtun<lb ed="#A" n="22" break="no"/>tur ad significandum mysterium Trinitatis, vt in 
+      <lb ed="#A" n="23"/>fra videbimus; sed etiam, vt notauit Budaeus in 
+      <lb ed="#A" n="24"/>Commentatijs Linguae Graecae, nomen Hypostasis, 
+      <lb ed="#A" n="25"/>inuenitur apud Aristotelem libro de mundo ad 
+      <lb ed="#A" n="26"/>Alexandrum, ad significandam substantiam indi 
+      <lb ed="#A" n="27"/>uiduam, vel naturam subsistentem; seu potius, vt 
+      <lb ed="#A" n="28"/>ego existimo, ad significandum veritatem 
+      natu<lb ed="#A" n="29" break="no"/>rae, &amp; non solam speciem apparentem. Inquit 
+      <lb ed="#A" n="30"/>enim longe ante medium, Eorum, quae ex aere nobi 
+      <lb ed="#A" n="31"/>obseruantur, vt strictim haec attingantur, alia appare t, 
+      <lb ed="#A" n="32"/>alia substant. Graece autem pio eo, quod est, 
+      Sub<lb ed="#A" n="33" break="no"/>stant, dicitur καθ ὕπις 2σι, hoc est, secundum 
+      hy<lb ed="#A" n="34" break="no"/>postasin sunt, hoc est, vere existunt; alia enim in 
+      <lb ed="#A" n="35"/>aere videntur esse, quae reuera non sunt, &amp; 
+      Ma<lb ed="#A" n="36" break="no"/>gnus Dionysius cap. 1. de diuinis nominibus 
+      an<lb ed="#A" n="37" break="no"/>te medium, vt testatur ipse Budaeus, Deum ap 
+      <lb ed="#A" n="38"/>pellat ἐναδα ἐρισυηόστατον, henada trisypostaton 
+      <lb ed="#A" n="39"/>hoc est, vnitatem ter subsistentem, vel potius, vt 
+      <lb ed="#A" n="40"/>ego puto, ipsam foecunditatis diuinae narratio 
+      <lb ed="#A" n="41"/>nem, Trisypostaton vocat, inquit enim; Itaque in 
+      <lb ed="#A" n="42"/>omnibus fere diuinis libris diuinitatem ipsam sacris laudi 
+      <lb ed="#A" n="43"/>bus ornari, animaduertimus, vt monada quidem, &amp; vni 
+      <lb ed="#A" n="44"/>tem propter simplicitatem, deinde dicit, Vi Trinitaten 
+      <lb ed="#A" n="45"/>autem, propter coelestis foecunditatis in tribus personi 
+      <lb ed="#A" n="46"/>enuntiationem, Graece autem est hoc modo, ὧ¬ 
+      <lb ed="#A" n="47"/>τρίαδ ὰ δὲ δικ τὴν τρισυτόσατον τὴς ὑπερυσίου γὸ 
+      <lb ed="#A" n="48"/>νιωενότος ἐκφασι, haec ille, ac si verbum pro 
+      ver<lb ed="#A" n="49" break="no"/>bo reddidisset hoc pacto, Secundum Trinitatem pro 
+      <lb ed="#A" n="50"/>pter Trisypostaton supersubstantialis foecunditatis enarra 
+      <lb ed="#A" n="51"/>tionem. Et quod caput est, idem etiam Dionysius 
+      <lb ed="#A" n="52"/>cap. 3. de diuinis nominibus post medium in 
+      <lb ed="#A" n="53"/>Graeco codice cap. 2. ter vtitur eodem nomine 
+      <lb ed="#A" n="54"/>Hypostasis, &amp; vbi Latine habemus, principalium per 
+      <lb ed="#A" n="55"/>sonarum, &amp; vnaquaque personarum, Graece autem di 
+      <lb ed="#A" n="56"/>citur, δεπρχικῶν ὑπόστασεων, Thearchicon hyposta 
+      <lb ed="#A" n="57"/>scon. Eodem nomine in eadem significatione vti 
+      <lb ed="#A" n="58"/>tur lustinus in expositione verae confessionis Tri 
+      <lb ed="#A" n="59"/>nitatis aliquantulum a principio, &amp; in libro 
+      quae<lb ed="#A" n="60" break="no"/>stionum. Christianis a gentibus positarum quae 
+      <lb ed="#A" n="61"/>stione 17. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e808">
+                     <lb ed="#A" n="62"/>Neque vero haec nominis significatio aliena 
+      <lb ed="#A" n="63"/>est ab alijs sigij ificationibus, in quibus 
+      prophan<lb ed="#A" n="64" break="no"/>authores, &amp; Philosophi hoc nomen, Hypostasis, v 
+      <lb ed="#A" n="65"/>surpant. Nam cum significat condimentum iuris, 
+      <lb ed="#A" n="66"/>vel insidias, vel faecem vini in fundo cadi, non 
+      a<lb ed="#A" n="67" break="no"/>lia ratione ea denotat, nisi quia sub alijs posita 
+      <!--00101.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>sunt: qua ratione subsistere, vel sub alio existere 
+      <lb ed="#A" n="69"/>dicuntur: hac eadem de causa dicitur substantia; 
+      <lb ed="#A" n="70"/>quia accidentibus substat, &amp; ideo Augustinus li 
+      <lb ed="#A" n="71"/>bro 7. de Trinitate capit. 4. circa finem dicit; in 
+      <lb ed="#A" n="72"/>Deo esse substantiam abusiue, quia secundum 
+      <lb ed="#A" n="73"/>primariam nominis significationem nihil in Dec 
+      <lb ed="#A" n="74"/>est, quod accidentibus subsit: sic ergo, cum 
+      Hypo<lb ed="#A" n="75" break="no"/>stasis, si Latine verbum pro verbo reddere velis; 
+      <lb ed="#A" n="76"/>idem sit, quod subsistentia, vel (vt alij volunt 
+      <lb ed="#A" n="77"/>substantia, quasi, sub alio existens, &amp; Larini ap 
+      <lb ed="#A" n="78"/>pellent substantiam naturam ipsam subsistenrem, 
+      <lb ed="#A" n="79"/>vt opponitur accidentibus, vel etiam indiuiduam 
+      <lb ed="#A" n="80"/>substantiam, quam vocamus suppositum, vel 
+      <lb ed="#A" n="81"/>personam, hinc effectum est, vt de nomine 
+      Hypo<lb ed="#A" n="82" break="no"/>slasis, fuerit inter Catholicos etiam contronersia 
+      <lb ed="#A" n="83"/>quid significaret. Vtrum naturam ipsam, an 
+      per<lb ed="#A" n="84" break="no"/>sonam, seu suppositum: vtrumque enim, sub alio 
+      <lb ed="#A" n="85"/>esse, quodammodo dicitur. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e869">
+                  <head xml:id="tavaz1-d1e196-Hd1e871">Caput 3</head>
+                  <p xml:id="tavaz1-d1e196-d1e873">
+                     <lb ed="#A" n="86" type="fixed=93"/>CAPVT III. 
+      <lb ed="#A" n="87"/>Qui putauerint ese idem nypostasin, &amp; vsian.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e880">
+                     <lb ed="#A" n="88"/>FVerunt in primis Latini Patres, qui nomen 
+      <lb ed="#A" n="89"/>hypostasis, &amp; Vsia, idem omnino significare 
+      <lb ed="#A" n="90"/>arbitrati iunt: interpretantur enim vtrumque 
+      <lb ed="#A" n="91"/>Latine, sulstantiam. Quamobrem &amp; suspectum 
+      <lb ed="#A" n="92"/>esse dicebant nomen Hypostasis; cum aliqui 
+      tre<lb ed="#A" n="93" break="no"/>hypostases in Deo concedebant: ex quo 
+      videban<lb ed="#A" n="94" break="no"/>tur, naturam &amp; essentiam Trinitatis diuidere 
+      <lb ed="#A" n="95"/>Sic Hietonym. in Epistola ad Damasc. 57. quae in 
+      <lb ed="#A" n="96"/>cipit. Quoniam verusto: Taceantur (inquit) tres hy 
+      <lb ed="#A" n="97"/>postases si placet, &amp; vna teneatur, nomen hoc non bonae 
+      <lb ed="#A" n="98"/>suspicionis est. Et paulo inferius: Mihi credite 
+      ve<lb ed="#A" n="99" break="no"/>nenum sub melle latet: transfigurat enim se Angelus 
+      Sa<lb ed="#A" n="100" break="no"/>tahae in Angelum lucis, nempe existimabat, nomen 
+      <lb ed="#A" n="101"/>Graecum Hypostasis, idem significare, quod apud 
+      <lb ed="#A" n="102"/>Latinos Substantia, vel Essentia, cumque Latini 
+      <lb ed="#A" n="103"/>non audeant dicere tres substantias, ideo neque 
+      <lb ed="#A" n="104"/>tres hypostases ille volebat admittere. Quare 
+      sta<lb ed="#A" n="105" break="no"/>tim subiungit: Tota literarum saecularium schola ni 
+      <lb ed="#A" n="106"/>hil aliud hypostasin, nisi vsian nouit, &amp; quis rogo ore 
+      <lb ed="#A" n="107"/>sacrilego tres substantias praedicabit? In eadem 
+      sen<lb ed="#A" n="108" break="no"/>tentia cum Hieronymo fuit Augustinus lib. 5. de 
+      <lb ed="#A" n="109"/>Trinitate, cap. 8. vbi sic ait. Essentiam dico, quae vsia 
+      <lb ed="#A" n="110"/>Graece dicitur, quam vsitatius substantiam vocamus: 
+      di<lb ed="#A" n="111" break="no"/>cunt quidem, &amp; illi (scilicet Graeci) hipostasin, sed 
+      nesci<lb ed="#A" n="112" break="no"/>quid volunt interesse inter vsian &amp; hypostasin. ita vt pleri 
+      <lb ed="#A" n="113"/>que nostri, qui haec Graeco tractant eloquio, dicere consueue 
+      <lb ed="#A" n="114"/>rint, μιὰν οὐσίαν, τρεῖς ὑπος ἐσεῖς, quod idem prorsu 
+      <lb ed="#A" n="115"/>esi vnam essentiam, tres substantias. Et continuo ca. 9 
+      <lb ed="#A" n="116"/>subiungit. Sed quia nostra loquendi consuetudo iam 
+      ob<lb ed="#A" n="117" break="no"/>tinuit, t hoc intelligatur, cum dicimus essentiam, quod 
+      <lb ed="#A" n="118"/>intelligitur, cum dicimus substantiam, non 
+      aude<lb ed="#A" n="119" break="no"/>mus dicere vnam essentiam, tres substantias. Et libre 
+      <lb ed="#A" n="120"/>7. cap. 4. in principio inquit; Dictum est a nostri 
+      <lb ed="#A" n="121"/>Graecis vna essentia, tres substantiae; a Latinis vna essentia 
+      <lb ed="#A" n="122"/>vel substantia. tres personae, quia sicut iam diximus, non 
+      ali<lb ed="#A" n="123" break="no"/>ter in sermone nostro, id est Latino, essentia, quam substantia 
+      <lb ed="#A" n="124"/>solet intelligi. Ex quibus constat, Augustinum eode 
+      <lb ed="#A" n="125"/>modo suspectam habuisse dictam vocem 
+      Hypo<lb ed="#A" n="126" break="no"/>stasis; apud Latinos, sicut eam habuit 
+      Hierony<lb ed="#A" n="127" break="no"/>mus, nisi quod tandem libro 7. de Trinitate, 
+      ca<lb ed="#A" n="128" break="no"/>pite 6. concedit, Latine dici posse tres substan 
+      <lb ed="#A" n="129"/>tias in Deo, sicut Graece dicuntur tres hypostases 
+      <lb ed="#A" n="130"/>vbi scandalum non esset, &amp; de sensu Catholico 
+      <lb ed="#A" n="131"/>constaret. At Hieronymus seuerius negat prae 
+      <lb ed="#A" n="132"/>dictum modum loquendi. Ricardus vero de 
+      San<lb ed="#A" n="133" break="no"/>cto Victore lib. 4. de Trinitate, cap. 20. nouit hanc 
+      <!--00102.xml-->
+      <pb ed="#A" n="94"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>differentiam vocum inter Latinos, &amp; Graecos, &amp; 
+      <lb ed="#A" n="2"/>vtrosque in sua lingua recte loqui, &amp; recte 
+      senti<lb ed="#A" n="3" break="no"/>re, affirmauit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e995">
+                     <lb ed="#A" n="4"/>Ex Graecis quoquae fuit Paulinus Episcopus 
+      <lb ed="#A" n="5"/>Thessalonicensis, de quo Acacius Episcopus Be 
+      <lb ed="#A" n="6"/>roensis in Epistola ad Cyrillum, quae est 15. inte 
+      <lb ed="#A" n="7"/>Epistolas Cyrilli, scribit in hunc modum: Detra 
+      <lb ed="#A" n="8"/>ctabat tres dicere hypostases, diserte cum virtute, ac verita 
+      <lb ed="#A" n="9"/>te eadem sentiens, ac tractans. Et infra. Adhaesit autem 
+      <lb ed="#A" n="10"/>Occi dentalibus Deo dilectissimis Episcopis, propterea, quod 
+      <lb ed="#A" n="11"/>angustior est Romana lingua, quam quae iuxta nostran 
+      <lb ed="#A" n="12"/>Graecorum Phrasim tres hypostases dicere queat. Qua de 
+      <lb ed="#A" n="13"/>causa existimo etiam inter Graecos dissensionem 
+      <lb ed="#A" n="14"/>fuisse in Concilio Alexandrino, quam forsan 
+      La<lb ed="#A" n="15" break="no"/>tini cum Hosio excitarunt, quod suspecta ea vor 
+      <lb ed="#A" n="16"/>videretur, ad significandum personas. Ex Graecis 
+      <lb ed="#A" n="17"/>igitur non defuerunt, qui Latinorum sensum 
+      se<lb ed="#A" n="18" break="no"/>querentur. Quare interpres Concilij Ephesini 
+      <lb ed="#A" n="19"/>noster Peltanus, cum hanc Epistolam Acacij 
+      con<lb ed="#A" n="20" break="no"/>uertit, in I. tom. cap. 23. non debuit dicere, 
+      Secta<lb ed="#A" n="21" break="no"/>batur hic autem pijssimos Orientis Episcopis, sed, Oc 
+      <lb ed="#A" n="22"/>cidentis, vt ex dictis perspicuum est. Sed idem 
+      <lb ed="#A" n="23"/>Acacius in eadem Epistola admonet Cyrillum, vi 
+      <lb ed="#A" n="24"/>quamuis Orientales, tam laici, quam clerici, fa 
+      <lb ed="#A" n="25"/>ueant opinioni dicentium in Deo esse tres hypo 
+      <lb ed="#A" n="26"/>stases, comprimat nihiloninus hunc modum lo 
+      <lb ed="#A" n="27"/>quendi, ne nouitas vocis causa sit diuisionis in 
+      <lb ed="#A" n="28"/>Ecclesia. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1052">
+                     <lb ed="#A" n="29"/>In eadem sententia fuit Magnus Athanasius in 
+      <lb ed="#A" n="30"/>Epistola ad Episcopos in Africa, vbi ait, idem 
+      <lb ed="#A" n="31"/>significare nomina, Hypostasis, ὑπόστασις, εὐσί¬ 
+      <lb ed="#A" n="32"/>Vsia, ὥπαρξις, Hyparxis, nempe naturam, &amp; sub 
+      <lb ed="#A" n="33"/>stantiam rei, teste autem Budaeo in 
+      Commenta<lb ed="#A" n="34" break="no"/>rijs linguae Graecae, parum distat Hyparxis ab 
+      hy<lb ed="#A" n="35" break="no"/>postasi. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1071">
+                     <lb ed="#A" n="36"/>Et, quod caput est, Concilium Sardicense 
+      ge<lb ed="#A" n="37" break="no"/>nerale, cui interfuerunt cum Hosio Cordubens. 
+      <lb ed="#A" n="38"/>Episcopi Latini circiter trecenti, vt narrat Nice 
+      <lb ed="#A" n="39"/>phorus lib. 9. cap. 12. in Epistola ad Episcopos, post 
+      <lb ed="#A" n="40"/>medium illius, sic loquitur. Quodque cohors studet 
+      <lb ed="#A" n="41"/>haereticorum, diuersas esse substantias Patris, Filij, &amp; Spi 
+      <lb ed="#A" n="42"/>ritus sancti pronuntiat, &amp; eas esse diuisas, nos autem han 
+      <lb ed="#A" n="43"/>accepimus, &amp; eruditi sumus, hanc habemus Catholicam, 
+      <lb ed="#A" n="44"/>Apostolicamque traditionem, &amp; fidem atque confessionem. 
+      <lb ed="#A" n="45"/>vnam esse substantiam Patris, Filij, &amp; Spiritus sancti, vbi 
+      <lb ed="#A" n="46"/>quod Latine dicitur, substantia, Graece est, 
+      Hyposta<lb ed="#A" n="47" break="no"/>sis, hanc enim Epistolam referens Theodor. lib. 2 
+      <lb ed="#A" n="48"/>cap. 8 sic ait. Quodque cohors studet haereticorum, 
+      diuer<lb ed="#A" n="49" break="no"/>sas esse subsistentias Patris, &amp; Filij. &amp; Spiritus sancti, pro 
+      <lb ed="#A" n="50"/>nuntiant, &amp; eas diuisas, nos autem hunc accepimus 
+      do<lb ed="#A" n="51" break="no"/>ctrinam, sic didicimus, hanc habemus Catholicam tradi 
+      <lb ed="#A" n="52"/>tionem, videlicet, quod vna sit hypostasis (quam vocem hae 
+      <lb ed="#A" n="53"/>retici vsurpant pro substantia) Patris, &amp; Filij, &amp; Spiritu 
+      <lb ed="#A" n="54"/>sancti, est autem in Graeco codice Theodoreti hoc 
+      <lb ed="#A" n="55"/>modo, ἂν μίαν ἔιναι ὑπόστασιν (ἀυτοῖ ὅι ἀιρετικος 
+      <lb ed="#A" n="56"/>ούσιαν προσαγορεύουσι) τοῦ πατρὸς, &amp;c. ac si 
+      La<lb ed="#A" n="57" break="no"/>tine dicas, vnam esse hypostasim (quam haeretic 
+      <lb ed="#A" n="58"/>vsiam dicunt, vel pro vsia vsurpant) Patris; &amp; 
+      Fi<lb ed="#A" n="59" break="no"/>lij, &amp; Spiritus sancti. Rusticus etiam lib. de Incar 
+      <lb ed="#A" n="60"/>natione, contra Acephalos ita scribit, Clarissim 
+      <lb ed="#A" n="61"/>igitur subsistentia nomen nonnunquam personam, 
+      inter<lb ed="#A" n="62" break="no"/>dum vero naturam significat. Quo sensu explicare 
+      <lb ed="#A" n="63"/>contendit sententiam quandam Cyrilli, de qua 
+      <lb ed="#A" n="64"/>nos ex professo disputauimus 3. part. qu. 2. art. 1.
+    </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e1137">
+                  <head xml:id="tavaz1-d1e196-Hd1e1139">Caput 4</head>
+                  <p xml:id="tavaz1-d1e196-d1e1141">
+      <!--00102.xml-->
+                     <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="65" type="fixed=94"/>CAPVT IV. 
+      <lb ed="#A" n="66"/>Vera differentia inter ὅπόστασιν, Hypostasin, &amp; 
+      <lb ed="#A" n="67"/>οὐσίαν, vsian, ex sententia Patrum.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e1154">
+                     <lb ed="#A" n="68"/>CAeterum iam tandem discrimen manifestum 
+      <lb ed="#A" n="69"/>constitutum est inter duo illa nomina non 
+      <lb ed="#A" n="70"/>solum apud Graecos Patres; verumetiam apud 
+      La<lb ed="#A" n="71" break="no"/>tinos, quod optime explicarunt Basil. in Epist. 43. 
+      <lb ed="#A" n="72"/>quae est ad Gregorium Nyssenum, &amp; idem 
+      Nys<lb ed="#A" n="73" break="no"/>senus in libello de differentia vsiae, &amp; hypostasis 
+      <lb ed="#A" n="74"/>Damasc. lib. 3. de fide, cap. 3. 4. &amp; 6. &amp; in lib. 
+      prima<lb ed="#A" n="75" break="no"/>rum Institutionum, cap. 1. Anastasius Patriarcha 
+      <lb ed="#A" n="76"/>in explicatione fidei, quae habetur quinto tomo 
+      <lb ed="#A" n="77"/>Bibliothecae sacrae, &amp; loannes Maxentius in 
+      pro<lb ed="#A" n="78" break="no"/>fessione fidei, quae est in quinto tomo 
+      Bibliothe<lb ed="#A" n="79" break="no"/>cae sacrae; quinimo antiquior Athanasius in tra 
+      <lb ed="#A" n="80"/>ctatu de definitionibus, quos ex Latinis 
+      sequun<lb ed="#A" n="81" break="no"/>tur Boethius in libro de duabus naturis, &amp; vna 
+      <lb ed="#A" n="82"/>persona Christi: videlicet nomen, Vsia, Graecis 
+      <lb ed="#A" n="83"/>idem significare, quod Latinis, Natura, &amp; Essentia, 
+      <lb ed="#A" n="84"/>nam de nomine, Sulstantia, dicemus infra: 
+      no<lb ed="#A" n="85" break="no"/>men vero, Hypostasis, idem, quod suppositum, vel 
+      <lb ed="#A" n="86"/>persona, quocirca in Deo vnam Vsian, hoc est, 
+      es<lb ed="#A" n="87" break="no"/>sentiam, &amp; tres hypostases, hoc est, personas debere 
+      <lb ed="#A" n="88"/>concedi. Quinimo Paulinus ille 
+      Thessalonicen<lb ed="#A" n="89" break="no"/>sis, quem Acacius Epistola 15. apud Cyrillum 
+      di<lb ed="#A" n="90" break="no"/>xisse hartat, vnam solum esse hypostasin in Deo, 
+      <lb ed="#A" n="91"/>quod ipsi videretur, hoc nomen essentiam 
+      signi<lb ed="#A" n="92" break="no"/>ficare, postea in confessione fidei, quam ex illo 
+      <lb ed="#A" n="93"/>refert Epiphansus haetes. 77. tres hypostases con 
+      <lb ed="#A" n="94"/>fiteri, pium, &amp; omnibus necessarium esse 
+      iudica<lb ed="#A" n="95" break="no"/>uit: cuius Paulini authoritatem allegatam fuisse 
+      <lb ed="#A" n="96"/>Hietonymo, vt concederet tres hypostases, 
+      col<lb ed="#A" n="97" break="no"/>ligitur ex eo, quod ipse Hieronymus ait in illa 
+      E<lb ed="#A" n="98" break="no"/>pistola 57. Ignoro Paulinum, &amp;c. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1224">
+                     <lb ed="#A" n="99"/>In hac significatione vsurpant hanc vocem 
+      <lb ed="#A" n="100"/>Hypostasis, plura Concilia Graeca, Chalcedonense 
+      <lb ed="#A" n="101"/>act. quinta, in secunda fidei confessione, quae est 
+      <lb ed="#A" n="102"/>in fine actionis: quod enim in vna transsatione 
+      <lb ed="#A" n="103"/>dicitur, In vna coeunte persona, alia habet, In vnan 
+      <lb ed="#A" n="104"/>peisonam, &amp; in vnam subsistentiam concurrente, es 
+      <lb ed="#A" n="105"/>autem Subsistentia Latinis idem, quod Graecis, 
+      <lb ed="#A" n="106"/>Hypostasis. Eodem modo vtuntur hac voce Hy 
+      <lb ed="#A" n="107"/>postasis, Concilium Alexandrinum, &amp; 
+      Ephesi<lb ed="#A" n="108" break="no"/>num, anathematismo secundo &amp; quarto, qui ha 
+      <lb ed="#A" n="109"/>bentur in Epistola Cyrill. 10. &amp; Concilium Con 
+      <lb ed="#A" n="110"/>stantinopolitanum quintum, collatione octaua, 
+      <lb ed="#A" n="111"/>canone quinto &amp; octauo, &amp; sexta Synodus 
+      gene<lb ed="#A" n="112" break="no"/>ralis actione quarta, in Epistola Agathonis Papae, 
+      <lb ed="#A" n="113"/>&amp; actione 11. in Epistola Sophronij, &amp; in 
+      actio<lb ed="#A" n="114" break="no"/>ne decima octaua, in confessione fidei, &amp; 
+      Con<lb ed="#A" n="115" break="no"/>stantinopolitanum primum, in Epistola ad 
+      Da<lb ed="#A" n="116" break="no"/>masum. Quocirca vsu Ecclesiastico ita 
+      vsurpa<lb ed="#A" n="117" break="no"/>tur in hac significatione vox Hypostasis, vt nullus 
+      <lb ed="#A" n="118"/>iam pro essentia ea vtatur. Quare lustinianus 
+      Im<lb ed="#A" n="119" break="no"/>perator &amp; ipse Graecus in edicto fidei ad 
+      loan<lb ed="#A" n="120" break="no"/>nem Papam secundum, columna nona, est autem 
+      <lb ed="#A" n="121"/>in secundo volumine Conciliorum, inquit: 
+      Om<lb ed="#A" n="122" break="no"/>nes sancti Patres consonanter nos docent, aliud esse 
+      <lb ed="#A" n="123"/>naturam, seu substantiam, &amp; formam, &amp; aliud 
+      sub<lb ed="#A" n="124" break="no"/>sistentiam, siue personam: id est, hoc specialius, illud 
+      <lb ed="#A" n="125"/>generalius: &amp; ita in edicto pro eodem vtitur 
+      no<lb ed="#A" n="126" break="no"/>mine subsistentiae &amp; personae: Graece autem pro 
+      <lb ed="#A" n="127"/>subsistentia vtitur nomine hypostasis. Vsi etiam 
+      <lb ed="#A" n="128"/>sunt ea voce eodem modo Patres allegati capite 
+      <lb ed="#A" n="129"/>secundo, imo &amp; Hieronymus in expositione 
+      fi<lb ed="#A" n="130" break="no"/>dei ad Damasum, &amp; Latine interpretatur 
+      subsi<lb ed="#A" n="131" break="no"/>stentiam, verba illius referemus disputatione 158. 
+      <!--00103.xml-->
+      <pb ed="#A" n="95"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>cap. I. Quare hoc tempore adeo indubitata res est, 
+      <lb ed="#A" n="2"/>vt qui negaret modo tres in Deo subsistentias 
+      La<lb ed="#A" n="3" break="no"/>tine, aut Graece hypostases, vel vnam tantum 
+      con<lb ed="#A" n="4" break="no"/>fiteretur hypostasin, erroris nota dignus esset. An 
+      <lb ed="#A" n="5"/>vero possit concedi sermone Latino vna 
+      absolu<lb ed="#A" n="6" break="no"/>ta subsistentia communis praeter tres relatiuas, 
+      se<lb ed="#A" n="7" break="no"/>quenti disputatione videbimus. Quod si aliqui 
+      <lb ed="#A" n="8"/>ex Patribus, vt superiori capite vidimus, 
+      dixe<lb ed="#A" n="9" break="no"/>runt, vnam esse in Deo hypostasin, mirum non 
+      <lb ed="#A" n="10"/>est; nondum enim satis comperta eis erat 
+      signi<lb ed="#A" n="11" break="no"/>ficatio huius nominis. Quocirca 
+      Epiphaniu<lb ed="#A" n="12" break="no"/>Diaconus in septima Synodo generali, actione 6. 
+      <lb ed="#A" n="13"/>tomo 3. circa medium inquit, ideo Eutychianos 
+      <lb ed="#A" n="14"/>errasse, quia distinguere noluerunt natutam ab 
+      <lb ed="#A" n="15"/>hypostasi. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1337">
+                     <lb ed="#A" n="16"/>Est tamen inter antiquos Patres dissensio circa 
+      <lb ed="#A" n="17"/>illam locum Pauli ad Hebraeos 1. Qui cum sit 
+      splen<lb ed="#A" n="18" break="no"/>dor gloriae, &amp; figura substantiae eius, nam pro 
+      substan<lb ed="#A" n="19" break="no"/>tia Graece est hypostasis, vtrum significet eo loco es 
+      <lb ed="#A" n="20"/>sentiam, an perse 3sm. Athanasius in Epistola ac 
+      <lb ed="#A" n="21"/>Epll opos Africae, &amp; Epiphanius haeresi 69. hypo 
+      <lb ed="#A" n="22"/>stasin pro essentia accipiunt: quem sensum vide 
+      <lb ed="#A" n="23"/>tur sequutus Theodoretus in illum locum; nec 
+      <lb ed="#A" n="24"/>longe abest Chrysostomus. At Gregorius Nysse 
+      <lb ed="#A" n="25"/>nus libello illo de differentia vsiae ab hypostasi eo 
+      <lb ed="#A" n="26"/>nomine intelligit personam, quem sequitur 
+      Theo<lb ed="#A" n="27" break="no"/>phylactus, vt sensus sit, filium esse imaginem, &amp; 
+      <lb ed="#A" n="28"/>characterem personae Patris. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1369">
+                     <lb ed="#A" n="29"/>Sed Franciscus Dauid nostri temporis 
+      haereti<lb ed="#A" n="30" break="no"/>cus contendit, eo loco nomen, Hypostasis, non 
+      sig<lb ed="#A" n="31" break="no"/>nificare personam: quia eodem nomine vsus est 
+      <lb ed="#A" n="32"/>Paulus ad Hebr. 3. cum ait; Participes Christi effecti, 
+      <lb ed="#A" n="33"/>si tamen initium substantiae eius vsque in finem retinueri 
+      <lb ed="#A" n="34"/>tis. Et ad Hebr. 11. Est autem fides sperandarum substan 
+      <lb ed="#A" n="35"/>tia rerum, quibus in locis manifestum est, non sig 
+      <lb ed="#A" n="36"/>nificare personam. Respondeo, in illis locis non 
+      <lb ed="#A" n="37"/>accipi pro essentia, sed pro subsistentia rei, seu 
+      fun<lb ed="#A" n="38" break="no"/>damento: quare in eo loco ad Hebr. 3. fidem 
+      vi<lb ed="#A" n="39" break="no"/>uam appellat principium substantiae, id est, 
+      subsi<lb ed="#A" n="40" break="no"/>stentiae, non Dei, sed nostrae: quia per eam 
+      susisti<lb ed="#A" n="41" break="no"/>mus, &amp; in vita spirituali fundati sumus. Sic 
+      expli<lb ed="#A" n="42" break="no"/>cant Graeci in eum locum. Similiter ad Hebr. 11. 
+      <lb ed="#A" n="43"/>fides dicitur substantia sperandarum rerum, Grae 
+      <lb ed="#A" n="44"/>ce, Hypostasis, id est, subsistentia, eo, quod nullam 
+      <lb ed="#A" n="45"/>aliam habeant tunc subsistentiam res futurae, quae 
+      <lb ed="#A" n="46"/>sperantur a nobis, nempe nos fore beatos, quam 
+      <lb ed="#A" n="47"/>dum cogitatione nostra per fidem 
+      apprehendun<lb ed="#A" n="48" break="no"/>tur, vt etiam omnes Graeci interpretantur, ergo 
+      <lb ed="#A" n="49"/>illo loco ad Hebr. 11. Hypostasis, significat ipsam 
+      Pa<lb ed="#A" n="50" break="no"/>tris subsistentiam, quae nihil aliud est, quam 
+      per<lb ed="#A" n="51" break="no"/>sona. Eodem modo pro subsistentia, seu 
+      funda<lb ed="#A" n="52" break="no"/>mento accipit Paul. 2. ad Corint. 9. &amp; 11. cum dicit. 
+      <lb ed="#A" n="53"/>Fundamentum gloriae, Graece ὑλ όστατις τὴς καυχή¬ 
+      <lb ed="#A" n="54"/>σεος, nam persona cum subsistet omnibus 
+      funda<lb ed="#A" n="55" break="no"/>mentum, &amp; subsistentia optime dicitur. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e1431">
+                  <head xml:id="tavaz1-d1e196-Hd1e1433">Caput 5</head>
+                  <p xml:id="tavaz1-d1e196-d1e1435">
+                     <lb ed="#A" n="56" type="fixed=95"/>CAPVT V. 
+      <lb ed="#A" n="57"/>Iuxta primariam significationem, Substantia, Latini 
+      <lb ed="#A" n="58"/>idem est, quod Graecis ὑπόστασις, Hypostasis, 
+      <lb ed="#A" n="59"/>ex vsu autem Eiclesiastico non item.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e1446">
+                     <lb ed="#A" n="60"/>SIvim, &amp; primariam nominum impositionem 
+      <lb ed="#A" n="61"/>attendamus, vocem Graecam, Hypostasis, non 
+      <lb ed="#A" n="62"/>minus interpretari possumus Latine, Substantiam, 
+      <lb ed="#A" n="63"/>quam Subsistentiam, quamobrem Hylarius in libs 
+      <lb ed="#A" n="64"/>de Synodis de Patribus Antiocheni Concilij, sic 
+      <lb ed="#A" n="65"/>ait. Idcirco tres substantias esse dixerunt subsistentium per 
+      <lb ed="#A" n="66"/>sonas, per substantias edocentes, non substantiam Patris, &amp; 
+      <lb ed="#A" n="67"/>Filij, &amp; Spiritus sancti diuersitate dissimilis essentiae sepa 
+      <!--00103.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>rantes, ex quibus constat, Hylarium vocem 
+      Grae<lb ed="#A" n="69" break="no"/>cam hypostasis, qua Patres Graeci illius Concilij vsi 
+      <lb ed="#A" n="70"/>sunt, nomine Latino, Substantia, vertisse, &amp; ita tres 
+      <lb ed="#A" n="71"/>in Deo substantias concessisse, sicut Graeci tres 
+      <lb ed="#A" n="72"/>hypostases fatentur. Docet etiam B. Thom. in ar 
+      <lb ed="#A" n="73"/>ticulo, ad secundum, nomen Latinum, Sulstantia 
+      <lb ed="#A" n="74"/>respondere Graeco vocabulo, Hypostasis. Eodem 
+      <lb ed="#A" n="75"/>modo docet August. 7. de Trinitate, c. 6. vbi 
+      scan<lb ed="#A" n="76" break="no"/>dalum non fuerit, nullum esse incommodum, tres 
+      <lb ed="#A" n="77"/>substantias in Deo Latine concedere: nam de 
+      Tri<lb ed="#A" n="78" break="no"/>nitate, cap. 9. &amp; lib. 6. cap. 3. 4. &amp; 5. &amp; lib. 7. cap. 4. 5. 
+      <lb ed="#A" n="79"/>&amp; 6. affirmat, apud Graecos tres concedi in Deo 
+      <lb ed="#A" n="80"/>substantias. Et loannes Papalib. de duabus 
+      natu<lb ed="#A" n="81" break="no"/>ris contra Eutychetem in hunc sensum capi posse 
+      <lb ed="#A" n="82"/>nomen Substantiam, fatetur his verbis. Vno lumine 
+      <lb ed="#A" n="83"/>illustramur, simul, &amp; tribus; tribus quidem 
+      secundum<lb ed="#A" n="84" break="no"/>vniuscuiusque proprietatem, siue sub stantiam sicut placet 
+      a<lb ed="#A" n="85" break="no"/>liquibus dicere, siue personam. Nihil enim pro 
+      vocabulo<lb ed="#A" n="86" break="no"/>tum diuersitate dissidendum est, cum ad eundem sensum 
+      <lb ed="#A" n="87"/>nominum diuersitas prouocet, &amp; intellectum. Demum 
+      <lb ed="#A" n="88"/>Boethius lib. de illo duabus naturis tria inquit esse, 
+      <lb ed="#A" n="89"/>nomina Graeca, Vsia, quod essentiam Latine ipse 
+      <lb ed="#A" n="90"/>interpretatur Vsiosis, quam subsistentiam Latine 
+      <lb ed="#A" n="91"/>reddit, &amp; ait vnam esse solum in Deo: melius 
+      ta<lb ed="#A" n="92" break="no"/>men existentiam interpretaretur, quasi actum 
+      ip<lb ed="#A" n="93" break="no"/>sius essentiae &amp; vsiae. Tertium denique Hypostasis, 
+      <lb ed="#A" n="94"/>quod Latine vertit substantiam, &amp; ita definit, 
+      per<lb ed="#A" n="95" break="no"/>sonam rationalis naturae indiuiduam 
+      substan<lb ed="#A" n="96" break="no"/>tiam, ac si pro substantia Latine vteretur Graeca 
+      <lb ed="#A" n="97"/>voce, Hypostasis, sed eam rursus definit hoc modo, 
+      <lb ed="#A" n="98"/>Rationalis naturae indiuidua subsistentia, quo nomine 
+      <lb ed="#A" n="99"/>subsistentia, frequentius vtitur pro hypostasi. Ex 
+      <lb ed="#A" n="100"/>quibus manifestum est, si vim vocis, &amp; primariam 
+      <lb ed="#A" n="101"/>significationem illius attendamus, idem esse 
+      La<lb ed="#A" n="102" break="no"/>tinis substantiam, quod Graecis est hypostasis, &amp; 
+      <lb ed="#A" n="103"/>ita tres posse in Deo concedi substantias, sicut 
+      hy<lb ed="#A" n="104" break="no"/>postases 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1550">
+                     <lb ed="#A" n="105"/>Verum vsu Ecclesiastico nomen Substantia, ita 
+      <lb ed="#A" n="106"/>est accommodatum, vt solam essentiam, seu 
+      for<lb ed="#A" n="107" break="no"/>mam denoter; atque adeo non possint in Deo con 
+      <lb ed="#A" n="108"/>cedi tres substantiae. Ita in Concilio Tolet. XI. in 
+      <lb ed="#A" n="109"/>confessione fidei definitur, vnam tantum in Dec 
+      <lb ed="#A" n="110"/>esse substantiam. Hanc vero consuetudinem in 
+      <lb ed="#A" n="111"/>Ecclesia inualuisse, vt nomen, Substantia significet 
+      <lb ed="#A" n="112"/>essentiam, testatur August. 5. de Trinitate, cap. 9. 
+      <lb ed="#A" n="113"/>&amp; 6. lib. cap. 4. ideoque dicit non esse tres 
+      substan<lb ed="#A" n="114" break="no"/>tias in Deo concedendas. Caeterum loan. 
+      Theo<lb ed="#A" n="115" break="no"/>logus Ecclesiae Latinae in Concilio Florent. sess. 19. 
+      <lb ed="#A" n="116"/>post medium docet, bifariam vsurpari substantiam. 
+      <lb ed="#A" n="117"/>aliquando pro natura, &amp; definitione rei, 
+      aliquan<lb ed="#A" n="118" break="no"/>do pro supposito, quod meo iudicio non est iam 
+      <lb ed="#A" n="119"/>in vsu, nisi cum significamus suppositum, addamus 
+      <lb ed="#A" n="120"/>aliquid, scilicet indiuidua, vel, incommunicabilis. Ex 
+      <lb ed="#A" n="121"/>omnibus, quae hactenus dicta sunt, licet colligere, 
+      <lb ed="#A" n="122"/>idem omnino esse hypostasin in natura rationali, 
+      <lb ed="#A" n="123"/>&amp; personam, vt optime docuit B. Thomas in 
+      con<lb ed="#A" n="124" break="no"/>clusione huius articuli. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e1598"><!-- vaz-p1q29a2-d125 -->
+               <head xml:id="tavaz1-d1e196-Hd1e1601">Disputatio 125</head>
+               <head xml:id="tavaz1-d1e196-Hd1e1603" type="question-title">
+    An praeter tres subsistentias, et 
+    Hypostases relatiuas concedi possit alia 
+    absoluta, et communis
+  </head>
+               <p xml:id="tavaz1-d1e196-d1e1606">
+                  <lb ed="#A" n="125" type="fixed=95"/>DISPVTATIO CXXV. 
+      <lb ed="#A" n="126"/>An praeter tres subsistentias, &amp; 
+      Hyposta<lb ed="#A" n="127" break="no"/>ses relatiuas concedi possit alia 
+      ab<lb ed="#A" n="128" break="no"/>soluta, &amp; communis.
+    </p>
+               <div xml:id="tavaz1-d1e196-Dd1e1617">
+                  <head xml:id="tavaz1-d1e196-Hd1e1619">Caput 1</head>
+                  <p xml:id="tavaz1-d1e196-d1e1621">
+      <!--00104.xml-->
+                     <pb ed="#A" n="96"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1" type="fixed=96"/>CAPVT I. 
+      <lb ed="#A" n="2"/>Scoti, Durandi, Capreoli, &amp; aliorum opinio. 
+      <lb ed="#A" n="3"/>Omen subsistentia alio modo vsurpatur a 
+      <lb ed="#A" n="4"/>Theologis Scholasticis, vt infra dicemus 
+      <lb ed="#A" n="5"/>quam a Concilijs, &amp; sanctis Patribus. Nam 
+      sub<lb ed="#A" n="6" break="no"/>sistentia apud Patres, &amp; Concilia accipitur pro 
+      <lb ed="#A" n="7"/>ipso supposito, quod subsistit: at Scholastici 
+      no<lb ed="#A" n="8" break="no"/>mine subsistentiae significarunt, non id, quod sub 
+      <lb ed="#A" n="9"/>sistit, sed rationem ipsam, &amp; actum subsistendi: &amp; 
+      <lb ed="#A" n="10"/>de hac subsistentia intellecta controuersia, sunt 
+      <lb ed="#A" n="11"/>variae Scholasticorum opiniones, quas recensere 
+      <lb ed="#A" n="12"/>necessarium erit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1656">
+                     <lb ed="#A" n="13"/>Prima igitur opinio est, esse solum in Deo 
+      quan<lb ed="#A" n="14" break="no"/>dam subsistentiam absolutam communem tribus 
+      <lb ed="#A" n="15"/>personis, &amp; praeter hanc non esse tres relatiuas, sed 
+      <lb ed="#A" n="16"/>relationes personales, in diuinis solum esse tria 
+      <lb ed="#A" n="17"/>complementa naturae, vel tres personalitates, vel 
+      <lb ed="#A" n="18"/>tres modos incommunicabilitatis, vt loquitur 
+      <lb ed="#A" n="19"/>Scotus, quibus constituitur, &amp; contrahitur 
+      natu<lb ed="#A" n="20" break="no"/>ra ad relationem personae. Hanc sententiam 
+      ex<lb ed="#A" n="21" break="no"/>presse docuit Scotus in 3 d. 1. q. 2. §. Ad quaestionem 
+      <lb ed="#A" n="22"/>igitur, refertur etiam in alijs locis, in quibus nihil 
+      <lb ed="#A" n="23"/>pro hac sententia inuenire potui: fauet autem id 
+      <lb ed="#A" n="24"/>quod ipse docuit in 1. dist. 4. quaes. 2. circa finem. 
+      <lb ed="#A" n="25"/>esse videlicet concretum Deitatis, vnum Deum 
+      <lb ed="#A" n="26"/>subsistentem absolute communem tribus 
+      perso<lb ed="#A" n="27" break="no"/>nis, de quo plura dicenda sunt infra disputatione 
+      <lb ed="#A" n="28"/>156. Clarius eandem sententiam sequitur 
+      Duran<lb ed="#A" n="29" break="no"/>dus in 1. dist. 26. quaest.1. num. 6. &amp; in 3. d. 1. quaest. 
+      <lb ed="#A" n="30"/>2. vbi hanc constituit differentiam inter supposi 
+      <lb ed="#A" n="31"/>tum diuinum &amp; creatum, quod diuino supposito 
+      <lb ed="#A" n="32"/>alia est ratio subsistendi, actus nimirum 
+      absolu<lb ed="#A" n="33" break="no"/>tus subsistendi, alia vero est ratio suppositi, 
+      pro<lb ed="#A" n="34" break="no"/>prietas nimirum relatiua, qua vltimo redditur 
+      in<lb ed="#A" n="35" break="no"/>communicabilis: supposito autem creato eadem 
+      <lb ed="#A" n="36"/>est ratio subsistendi, &amp; suppositi, scilicet 
+      subsi<lb ed="#A" n="37" break="no"/>stentia per se. Faciunt cum his Paludan. in 3. dist. 
+      <lb ed="#A" n="38"/>1. quaest. 2. in fine, Capreolus quaest. 1. articu. 3. ac 
+      <lb ed="#A" n="39"/>argumentum Durandi, contra quartam 
+      conclu<lb ed="#A" n="40" break="no"/>sionem, Aegidius in primum dist. 23. quaest. 2. 
+      ar<lb ed="#A" n="41" break="no"/>ticul. 2. ad quartum, Argentina dist. 26. quaest. 1. 
+      <lb ed="#A" n="42"/>Albertus 1. par. Summae, tract. 10. quaest. 43. 
+      Fun<lb ed="#A" n="43" break="no"/>damentum praecipuum huius sententiae est: quia 
+      <lb ed="#A" n="44"/>subsistere est perfectio simpliciter simplex, hoc 
+      <lb ed="#A" n="45"/>est, quae melior est ipsa, quam non ipsa: melius enim 
+      <lb ed="#A" n="46"/>est naturam diuinam subsistere, quam non 
+      sub<lb ed="#A" n="47" break="no"/>sistere: nulla autem relatio est perfectio 
+      simpli<lb ed="#A" n="48" break="no"/>citer simplex; alioqui aliqua perfectio simpliciter 
+      <lb ed="#A" n="49"/>simplex esset in vna persona, quae non est in alia 
+      <lb ed="#A" n="50"/>ergo subsistentia est quid absolutum, non relatio¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1741">
+                     <lb ed="#A" n="51"/>Fauet etiam Augustinus, qui libro 7. de 
+      Tri<lb ed="#A" n="52" break="no"/>nitate, cap. 4. in fine probat, Deum ad se subsiste 
+      <lb ed="#A" n="53"/>re, non ad aliud, actus igitur subsistendi in Deo est 
+      <lb ed="#A" n="54"/>absolutus, non relatus. Ratio vero Augustini est 
+      <lb ed="#A" n="55"/>huiusmodi. Nam si hoc est Deo esse, quod subsistere, ita 
+      <lb ed="#A" n="56"/>non erant dicendae tres substantiae, vt non dicuntur tres 
+      es<lb ed="#A" n="57" break="no"/>sentiae, quemadmodum, quia hoc est Deo esse, quod sapere 
+      <lb ed="#A" n="58"/>sicut non tres essentias, ita nec tres sapientias dicimus. sic 
+      <lb ed="#A" n="59"/>enim, quia hoc est illi Deum esse, quod est esse, tam tres es 
+      <lb ed="#A" n="60"/>sentias, quam tres Deos dicere, fas non est. Si autem aliua 
+      <lb ed="#A" n="61"/>est Deo esse, aliud subsistere, sicut aliud Deo esse. aliud 
+      Pa<lb ed="#A" n="62" break="no"/>trem, vel dominum esse, quod enim est, ad se dicitur, 
+      Pa<lb ed="#A" n="63" break="no"/>ter autem ad Filium, &amp; Dominus ad seruientem creatu¬ 
+      <!--00104.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="64"/>ram dicitur: relatiue ergo subsistit, sicut relatiue gignit, &amp; 
+      <lb ed="#A" n="65"/>relatiue dominatur, ita iam substantia non erit substantia, 
+      <lb ed="#A" n="66"/>quia relatiuum erit. Sicut enim ab eo, quod est esse, appella 
+      <lb ed="#A" n="67"/>tur essentia, ita ab eo, quod est subsistere substantiaa 
+      dici<lb ed="#A" n="68" break="no"/>mus: absurdum autem est, vt substantia relatiue dicatur. 
+      <lb ed="#A" n="69"/>omnis enim res ad se ipsam subsistit, quanto magis Deus 
+      <lb ed="#A" n="70"/>Hactenus Augustinus. Qui ita probat subsistere 
+      <lb ed="#A" n="71"/>in Deo esse absolutum, vt nullum sit relatiuum 
+      <lb ed="#A" n="72"/>quae est expressa sententia Scholasticorum, quos 
+      <lb ed="#A" n="73"/>allegauimus. Congerunt etiam aliqui innumera 
+      <lb ed="#A" n="74"/>loca S. Thomae pro hac sententia, quae consulto 
+      <lb ed="#A" n="75"/>praetermitto, quia ille vbique loquitur de actu 
+      ex<lb ed="#A" n="76" break="no"/>istendi, quem appellat existentiam, seu esse 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1804">
+                     <lb ed="#A" n="77"/>Haec sententia praeterquam, quod communm 
+      <lb ed="#A" n="78"/>modo loquendi Patrum, &amp; Conciliorum aduer 
+      <lb ed="#A" n="79"/>satur, quae subsistentiam appellant suppositum, 
+      <lb ed="#A" n="80"/>Graece hypostasin, ex eo etiam facile potest 
+      redar<lb ed="#A" n="81" break="no"/>gui, quod ex illa sequi videtur, vnionem humanae 
+      <lb ed="#A" n="82"/>naturae factam esse non solum cum persona 
+      ver<lb ed="#A" n="83" break="no"/>bi, sed cum omnibus personis. Nam si humanitas 
+      <lb ed="#A" n="84"/>dicitur subsistere, non propria subsistentia, sed 
+      di<lb ed="#A" n="85" break="no"/>uina, &amp; haec est, quid absolutum, sequitur vnitam 
+      <lb ed="#A" n="86"/>fuisse ratione communis termini, &amp; absoluti cum 
+      <lb ed="#A" n="87"/>omnibus personis. Sed de hac re latius est 
+      disse<lb ed="#A" n="88" break="no"/>rendum contra praedictos Doctores 3. p. quaest. 3. 
+      <lb ed="#A" n="89"/>artic. 1. varie enim Philosophantur, cum de 
+      vnio<lb ed="#A" n="90" break="no"/>ne humanitatis loquuntur, tametsi conueniant in 
+      <lb ed="#A" n="91"/>ea opinione, quam retulimus de communi 
+      subsi<lb ed="#A" n="92" break="no"/>stentia absoluta. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e1842">
+                  <head xml:id="tavaz1-d1e196-Hd1e1844">Caput 2</head>
+                  <p xml:id="tavaz1-d1e196-d1e1846">
+                     <lb ed="#A" n="93" type="fixed=96"/>CAPVT II. 
+      <lb ed="#A" n="94"/>Quid senserint Caietanus, &amp; alj.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e1853">
+                     <lb ed="#A" n="95"/>CAietanus vero in hanc quaestionem art. 4. &amp; 
+      <lb ed="#A" n="96"/>supra quaest. 2. artic. 2. &amp; infra quaest. 39. art. 4. 
+      <lb ed="#A" n="97"/>&amp; in 3. part. quaest. 2. art. 2. circa solutionem 3. &amp; 
+      <lb ed="#A" n="98"/>quaest. 3. artic. 2. &amp; 3. non audet negare tres subsi 
+      <lb ed="#A" n="99"/>stentias relatiuas, sed praeter eas, quartam aliam 
+      <lb ed="#A" n="100"/>subsistentiam absolutam, &amp; communem tribus 
+      <lb ed="#A" n="101"/>esse existimat: eamque vocat essentialem, tres ve 
+      <lb ed="#A" n="102"/>ro relatiuas appellat personales: namque illa 
+      com<lb ed="#A" n="103" break="no"/>munis, est propria essentiae, aliae autem tres 
+      con<lb ed="#A" n="104" break="no"/>stituunt personas, hanc sententiam sequuntur 
+      Bar<lb ed="#A" n="105" break="no"/>tholomaeus Miranda in Summa Conciliorum, in 
+      <lb ed="#A" n="106"/>annotatione ad sextam Synodum, actione 11. &amp; 
+      <lb ed="#A" n="107"/>recentiores nonnulli, qui pro ea incaute 
+      referen<lb ed="#A" n="108" break="no"/>tes authores capite praecedenti ciratos absque 
+      vl<lb ed="#A" n="109" break="no"/>lo fundamento affirmant hanc esse communem 
+      <lb ed="#A" n="110"/>sententiam: cum tamen reuera eam nullus 
+      prae<lb ed="#A" n="111" break="no"/>ter Caietanum, &amp; Mirandam sequatur: authores 
+      <lb ed="#A" n="112"/>enim cap. praecedenti allegati aliam longe 
+      diuer<lb ed="#A" n="113" break="no"/>sam docuerunt, vt retulimus. Allegant etiam pro 
+      <lb ed="#A" n="114"/>ea Ricardum in 3. distinct. 1, quaest. 4. Occam in 3 
+      <lb ed="#A" n="115"/>quaest. 1. artic. 3. Gabr. in 3. distinct. 1.quaest. I. art. 3. 
+      <lb ed="#A" n="116"/>dub 4. Almainum distinct.i.quaest.1.art. 3. dub. vli 
+      <lb ed="#A" n="117"/>timo, sed reuera hi Doctores non concedunt 
+      con<lb ed="#A" n="118" break="no"/>munem aliquem actum tribus diuinis personis 
+      <lb ed="#A" n="119"/>cui nomen subsistentiae dicant conuenire, sed con 
+      <lb ed="#A" n="120"/>munem existentiam, ratione cuius natura creata 
+      <lb ed="#A" n="121"/>a Deo assumi possit, &amp; primo terminari, non 
+      ter<lb ed="#A" n="122" break="no"/>minante aliqua personalitate, de quo modo non 
+      <lb ed="#A" n="123"/>disputamus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e1918">
+                     <lb ed="#A" n="124"/>Haec sententia Caietani praeter testimonium 
+      <lb ed="#A" n="125"/>August. cap. praecedenti citatum, quia vnam 
+      so<lb ed="#A" n="126" break="no"/>lum absolutam subsistentiam concedere videtur 
+      <lb ed="#A" n="127"/>probari potest primo authoritate Agath. in 
+      Epi<lb ed="#A" n="128" break="no"/>stola, quae habetur in 6. Synodo act. 4. vbi parum 
+      <lb ed="#A" n="129"/>a principio, sic ait. Confitemur Deum Patrem, Deun 
+      <lb ed="#A" n="130"/>Filium, Deum Spiritum sanctum: non tres Deos, sed vnumm 
+      <!--00105.xml-->
+      <pb ed="#A" n="97"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Deum, non trium nominum subsistentiam, sed trium 
+      sub<lb ed="#A" n="2" break="no"/>sistentiarum, seu personarum vnam subsistentiam. Sic e 
+      <lb ed="#A" n="3"/>nim habet editio antiquior Conciliorum, non 
+      <lb ed="#A" n="4"/>substantiam; ergo iam concedit vnam subsistentiam 
+      <lb ed="#A" n="5"/>trium subsistentiarum communem: quae verba, 
+      <lb ed="#A" n="6"/>cum Latine scripta sint, maioris momenti pro 
+      <lb ed="#A" n="7"/>hac sententia esse debent: neque enim vsquam 
+      a<lb ed="#A" n="8" break="no"/>pud Latinos nomen subsistentia, essentiam 
+      signifi<lb ed="#A" n="9" break="no"/>cat, sicut Hypostasis aliquando apud Graecos pro 
+      <lb ed="#A" n="10"/>Vsia, &amp; essentia vsurpatur. Secundo probatur ex 
+      <lb ed="#A" n="11"/>Hylario 7. de Trinitate, in fine, vbi de Patre, &amp; 
+      <lb ed="#A" n="12"/>Filio, quorum vnus dicitur esse in alio, ita scribit 
+      <lb ed="#A" n="13"/>Non est corporalium naturarum ista conditio, vt insint 
+      si<lb ed="#A" n="14" break="no"/>bi inuicem, vt subsistentiae naturae habeant perfectam 
+      vni<lb ed="#A" n="15" break="no"/>tatem. Et paucis interiectis: Inesse autem non aliud in 
+      <lb ed="#A" n="16"/>alio, vt corpus in corpore, sed ita esse ac subsistere, vt in sub 
+      <lb ed="#A" n="17"/>sistente insit, ita vero inesse, vt &amp; ipsa subsistat. Ergo con 
+      <lb ed="#A" n="18"/>cedit Hylarius subsistentiam naturae prioribus 
+      <lb ed="#A" n="19"/>verbis, cum ait, vt subsistentia natura, &amp; 
+      posteriori<lb ed="#A" n="20" break="no"/>bus cum inquit, &amp; ipsa subsistit, scilicet natura di 
+      <lb ed="#A" n="21"/>uina. Tertio Hierony. in illa Epistola 57. dicit. Vna 
+      <lb ed="#A" n="22"/>est Dei &amp; sola natura, qua vere est, id enim quod subsistit 
+      <lb ed="#A" n="23"/>non habet aliunde, sed suum est. Pro eadem sententia 
+      <lb ed="#A" n="24"/>refertur ex Graecis Dionysius Areopagita capite 
+      <lb ed="#A" n="25"/>primo de diuinis nominibus, paulo ante finem, 
+      <lb ed="#A" n="26"/>cum ait bonitatis subsistentiam per suum esse, 
+      <lb ed="#A" n="27"/>causam esse omnium subsistentium. Denique 
+      <lb ed="#A" n="28"/>Nyssenus libro de vita Moysis, colum. 13. inquit. 
+      <lb ed="#A" n="29"/>nihil earum rerum, quae aut sensu 
+      comprehendum<lb ed="#A" n="30" break="no"/>tur, aut mente perspiciuntur, praeter supremam 
+      <lb ed="#A" n="31"/>essentiam, quae omnium causa est, &amp; a qua omnia 
+      <lb ed="#A" n="32"/>pendent, vere subsistere, ac si dicat, ipsa vere sub 
+      <lb ed="#A" n="33"/>sistit, &amp; nihil aliud. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2014">
+                     <lb ed="#A" n="34"/>Probat autem Caietanus eandem sententian 
+      <lb ed="#A" n="35"/>ratione, quia necesse est, fateri vnum Deum in 
+      <lb ed="#A" n="36"/>concreto praeintellectum tribus personis, qui di 
+      <lb ed="#A" n="37"/>citur creans, concretum autem semper 
+      signifi<lb ed="#A" n="38" break="no"/>cat, aut connotat subsistentiam, ergo necesse est, 
+      <lb ed="#A" n="39"/>concedere vnam subsistentiam praeintellectam per 
+      <lb ed="#A" n="40"/>sonis, hoc indiuiduum appellat Caietanus 
+      semi<lb ed="#A" n="41" break="no"/>personam infra q. 39. ar. 4. Porro quia nullus ne 
+      <lb ed="#A" n="42"/>gare potest, esse in Deo existentiam quandam 
+      com<lb ed="#A" n="43" break="no"/>munem tribus personis, &amp; substantialem. Recen 
+      <lb ed="#A" n="44"/>tiores, qui Caietani sententiam defendunt, expli 
+      <lb ed="#A" n="45"/>cant qua ratione haec communis existentia sub 
+      <lb ed="#A" n="46"/>stantialis subsistentia dicatur, cum tamen existentia 
+      <lb ed="#A" n="47"/>creata humanitatis, quam putant a Verbo assum 
+      <lb ed="#A" n="48"/>ptam fuisse cum humanitate, quia ab ea non di 
+      <lb ed="#A" n="49"/>stinguitur, subsistentia vocari nequeat 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2052">
+                     <lb ed="#A" n="50"/>Dicunt igitur esse manifestum discrimen 
+      in<lb ed="#A" n="51" break="no"/>ter naturam creatam &amp; diuinam, quod licet vtra 
+      <lb ed="#A" n="52"/>que habeat actum existentiae, tamen natura crea 
+      <lb ed="#A" n="53"/>ta ita habet existentiam, a qua non distinguitur, 
+      <lb ed="#A" n="54"/>vt ex se imperfecta sit, &amp; sine aliquo modo di 
+      <lb ed="#A" n="55"/>stincto, quem appellant modum perseitatis, sub 
+      <lb ed="#A" n="56"/>sistere, &amp; per se esse non possit; sicque in Christo 
+      <lb ed="#A" n="57"/>quidem propria sua existentia existit humanitas. 
+      <lb ed="#A" n="58"/>vt probapilior opinio fert, sed quia illi deest 
+      mo<lb ed="#A" n="59" break="no"/>dus, quo deber compleri, non est per se, sed ab 
+      <lb ed="#A" n="60"/>alio sustentatur, atque adeo illius existentia non 
+      <lb ed="#A" n="61"/>est subsistentia sine illo modo. Diuina autem na 
+      <lb ed="#A" n="62"/>tura ex se perfecte infinita est, postulatque non 
+      <lb ed="#A" n="63"/>solum existere, sed etiam perfecte existere, &amp; per 
+      <lb ed="#A" n="64"/>se, hoc est, non indiget alio a se distincto, vt sub 
+      <lb ed="#A" n="65"/>sistat, &amp; completa atque perfecta sit, quare 
+      tam<lb ed="#A" n="66" break="no"/>etsi sola ratione a suis personalitatibus differat, 
+      <lb ed="#A" n="67"/>tamen quatenus ab eis distinguitur nostro modo 
+      <lb ed="#A" n="68"/>intelligendi, ita perfecta concipitur, vt sine alio 
+      <!--00105.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>intelligitur apta per se subsistere, &amp; completa, qua 
+      <lb ed="#A" n="70"/>ratione in concreto etiam sine personis 
+      significa<lb ed="#A" n="71" break="no"/>ri potest. Hanc igitur perfectam existentiam ap 
+      <lb ed="#A" n="72"/>pellant hi recentiores Theologi cum Caietano 
+      <lb ed="#A" n="73"/>communem subsistentiam (vt aiunt) in abstracto, 
+      <lb ed="#A" n="74"/>&amp; essentiam diuinam cum illa vocant 
+      subsisten<lb ed="#A" n="75" break="no"/>tiam in concreto, hoc est, subsistentem: negant 
+      <lb ed="#A" n="76"/>autem esse personam, &amp; subsistentiam illa com 
+      <lb ed="#A" n="77"/>munem, esse, personalitatem, quia etiamsi 
+      suff<lb ed="#A" n="78" break="no"/>ciens sit per se subsistere, &amp; ad hoc completa &amp; 
+      <lb ed="#A" n="79"/>perfecta sit, adhuc communicari potest tribus 
+      sup<lb ed="#A" n="80" break="no"/>positis: de ratione autem personae, &amp; 
+      personalita<lb ed="#A" n="81" break="no"/>tis hon est quaecumque subsistentia per se sola, sed 
+      <lb ed="#A" n="82"/>talis, quae communicari non possit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2130">
+                     <lb ed="#A" n="83"/>Praedictam opinionem sic explicatam putant 
+      <lb ed="#A" n="84"/>recentiores solum differre a communi sententia 
+      <lb ed="#A" n="85"/>voce, non re: quia omnes concedere debent exi 
+      <lb ed="#A" n="86"/>stentiam perfectam eo modo, quo explicauimus 
+      <lb ed="#A" n="87"/>propriam naturae diuinae, quae nulli alteri natura 
+      <lb ed="#A" n="88"/>conueniat; eam vero posse vocari subsistentiam, 
+      <lb ed="#A" n="89"/>nullum reputant incommodum. Alij demum alio 
+      <lb ed="#A" n="90"/>modo explicant, quare existentia illa communis 
+      <lb ed="#A" n="91"/>diuinae naturae rationem habeat subsistentiae, de 
+      <lb ed="#A" n="92"/>quo cap. sequenti dicemus. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e2156">
+                  <head xml:id="tavaz1-d1e196-Hd1e2158">Caput 3</head>
+                  <p xml:id="tavaz1-d1e196-d1e2160">
+                     <lb ed="#A" n="93" type="fixed=97"/>CAPVT III. 
+      <lb ed="#A" n="94"/>Nihil in Deo esse commune tribus personae, quod rationem 
+      <lb ed="#A" n="95"/>habeat subsistentiae, verior opinio est,
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e2169">
+                     <lb ed="#A" n="96"/>ANtiquorum Scholasticorum iudicio com 
+      <lb ed="#A" n="97"/>probata sententia est nihil in Deo esse 
+      com<lb ed="#A" n="98" break="no"/>mune tribus suppositis, cui ratio, aut nomen 
+      con<lb ed="#A" n="99" break="no"/>ueniat subsistentiae: sed subsistentias in Deo esse 
+      <lb ed="#A" n="100"/>relatiuas, nullam autem absolutam. Hanc 
+      opinio<lb ed="#A" n="101" break="no"/>nem tradiderunt Alexand. part. quaest. 1. memb. a. 
+      <lb ed="#A" n="102"/>&amp; quaest. 7. memb. I. art. 3. Bonauent. in 3. distinct 
+      <lb ed="#A" n="103"/>1. artic. I. quaest. 3. Ricard. in 1. distinct. 26. artic 1 
+      <lb ed="#A" n="104"/>quaest. 1. Marsilius in 3. quaest. 2. artic. 3. dubitat. 2. 
+      <lb ed="#A" n="105"/>circa finem, Henricus quodlibeto 5. quaest. 8. sub 
+      <lb ed="#A" n="106"/>finem, Genebrard. libro 2. de Trinitate, pag. 8. 
+      <lb ed="#A" n="107"/>Haec sententia bifariam nobis confirmanda est 
+      <lb ed="#A" n="108"/>primum ostendere debemus in hoc capite essen 
+      <lb ed="#A" n="109"/>tiam Dei existentia illa communi nondum 
+      com<lb ed="#A" n="110" break="no"/>pleri nostro modo intelligendi; vt per se sit ter 
+      <lb ed="#A" n="111"/>minata (sicut neque humanitas sua existentia 
+      <lb ed="#A" n="112"/>completur) donec addatur ei modus ille 
+      relatio<lb ed="#A" n="113" break="no"/>nis, quo suppositum constituitur. Deinde 
+      osten<lb ed="#A" n="114" break="no"/>demus in sequenti capite, huic communi 
+      exi<lb ed="#A" n="115" break="no"/>stentiae nomen, Subsistentia, nullo modo 
+      conue<lb ed="#A" n="116" break="no"/>nire: sed Scholasticos, qui sic eam appellare non 
+      <lb ed="#A" n="117"/>dubitarunt, contra Phrasim Conciliorum, &amp; 
+      <lb ed="#A" n="118"/>Patrum eo nomine perperam abusos fuisse, qua 
+      <lb ed="#A" n="119"/>quidem de causa, anno 1578. publice docens in 
+      <lb ed="#A" n="120"/>eam sententiam adductus fui, vt existimarem, 
+      <lb ed="#A" n="121"/>nihil esse in Deo commune, quod nomine, Sub 
+      <lb ed="#A" n="122"/>sistentiae, posset significari: quod viderem 
+      com<lb ed="#A" n="123" break="no"/>muni modo loquendi Conciliorum, &amp; Patrum 
+      <lb ed="#A" n="124"/>praedictos Scholasticos aduersari, qui quandam 
+      <lb ed="#A" n="125"/>communem, &amp; absolutam subsistentiam in Dec 
+      <lb ed="#A" n="126"/>concedunt. In ea vero opinione multo magis 
+      con<lb ed="#A" n="127" break="no"/>quieui, postquam anno 1583. iterum rem hanc 
+      <lb ed="#A" n="128"/>publice docens, diligenter examinaui Graecorum 
+      <lb ed="#A" n="129"/>&amp; Latinorum Patrum sententia, &amp; modum lo 
+      <lb ed="#A" n="130"/>quendi, de quibus praecedenti disputatione 
+      su<lb ed="#A" n="131" break="no"/>perque tractaui 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2250">
+                     <lb ed="#A" n="132"/>Quod igitur ad prius spectat, in quo 
+      contro<lb ed="#A" n="133" break="no"/>uersia aliqua de re ipsa videtur esse, facili ratione 
+      <lb ed="#A" n="134"/>suadere possumus nostram sententiam. Primum 
+      <lb ed="#A" n="135"/>nam licet concedere debeamus in Deo commu¬ 
+      <!--00106.xml-->
+      <pb ed="#A" n="98"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>nem existentiam, quae ita cum essentia Dei 
+      indi<lb ed="#A" n="2" break="no"/>uidua est, vt sineilla essentia diuina sub esse 
+      pos<lb ed="#A" n="3" break="no"/>sibili, (sicut aliae essentiae) considerari nequeat. 
+      <lb ed="#A" n="4"/>tamen per eam existentiam solum, non 
+      comple<lb ed="#A" n="5" break="no"/>tur essentia diuina nostro modo intelligendi, vt 
+      <lb ed="#A" n="6"/>per se esse possit sine aliquo alio. Dixi nostro 
+      mo<lb ed="#A" n="7" break="no"/>do intelligendi, nam secundum rem, cum non 
+      <lb ed="#A" n="8"/>distinguatur a relatione, qua vltimo terminatur, 
+      <lb ed="#A" n="9"/>&amp; contrahitur ad rationem suppositi, &amp; personae 
+      <lb ed="#A" n="10"/>non indiget aliquo alio a se distincto vllo modo 
+      <lb ed="#A" n="11"/>ex natura rei, vt compleatur, &amp; per se subsistat: 
+      <lb ed="#A" n="12"/>sicut postulat humanitas, quae praeter existentiam 
+      <lb ed="#A" n="13"/>quam habet, indiget modo illo per se, quo vltimo 
+      <lb ed="#A" n="14"/>constituitur in ratione suppositi, &amp; ab eius 
+      exi<lb ed="#A" n="15" break="no"/>stentia distinguitur, cum ab ea separari possit, vt 
+      <lb ed="#A" n="16"/>in Christo videmus, in quo fuit vera humanitas 
+      <lb ed="#A" n="17"/>cum sua existentia, vt tertia parte, quaest. 17. artio 
+      <lb ed="#A" n="18"/>2. dicemus, sine illo modo, quo vltimo termina 
+      <lb ed="#A" n="19"/>tur, &amp; completur. Essentia igitur diuina ita indi 
+      <lb ed="#A" n="20"/>uiduam secum habet existentiam, vt non solum 
+      <lb ed="#A" n="21"/>cum illa communicetur tribus suppositis, sed et 
+      <lb ed="#A" n="22"/>iam nostro modo intelligendi in illis esse dicatur 
+      <lb ed="#A" n="23"/>non autem per se. Sola ergo illa existentia sine re 
+      <lb ed="#A" n="24"/>latione considerata non facit adhuc naturam diui 
+      <lb ed="#A" n="25"/>nam esse per se nostro modo intelligendi, sed 
+      ad<lb ed="#A" n="26" break="no"/>huc relinquit aptam, vt alio modo terminetur, &amp; 
+      <lb ed="#A" n="27"/>vt per se esse dicatur, nimirum relatione. Nec 
+      <lb ed="#A" n="28"/>quidquam refert, quod relatio non distinguatur 
+      <lb ed="#A" n="29"/>ab existentia illa communi, vt nihilominus 
+      ips<lb ed="#A" n="30" break="no"/>existentia dicatur per se; quia licet reuera ipsamet 
+      <lb ed="#A" n="31"/>sit, quae facit naturam diuinam per se esse, 
+      siqui<lb ed="#A" n="32" break="no"/>dem idem est cum relatione: tamen in nostro con 
+      <lb ed="#A" n="33"/>ceptu nondum concipitur vt per se existentia, 
+      <lb ed="#A" n="34"/>quousque ratione compleatur. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2341">
+                     <lb ed="#A" n="35"/>Sed obseruandum est, cum dicimus, illam 
+      exi<lb ed="#A" n="36" break="no"/>stentiam sine telatione nondum habere modum 
+      <lb ed="#A" n="37"/>completum per se, intelligendum esse, quatenus 
+      <lb ed="#A" n="38"/>illud, per se, opponitur existentiae in alio, non vt in 
+      <lb ed="#A" n="39"/>subiecto, sed vt in supposito. Nam si de ea loqua 
+      <lb ed="#A" n="40"/>mur, quatenus opponitur existentiae in alio vt in 
+      <lb ed="#A" n="41"/>subiecto, etiam existentia propria humanitatis in 
+      <lb ed="#A" n="42"/>verbo dicitur existentia per se, quae nondum me 
+      <lb ed="#A" n="43"/>retur nomen subsistentiae; alioqui humana natu 
+      <lb ed="#A" n="44"/>ra in verbo retinens propriam existentiam, habe 
+      <lb ed="#A" n="45"/>ret etiam proptiam subsistentiam, quod dici non 
+      <lb ed="#A" n="46"/>potest 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2371">
+                     <lb ed="#A" n="47"/>Deinde eadem sententia confirmatur, quia si 
+      <lb ed="#A" n="48"/>illa existentia communis sine relatione conside 
+      <lb ed="#A" n="49"/>rata formaliter faceret diuinam naturam per se 
+      <lb ed="#A" n="50"/>subsistere, non posset non considerari natura di 
+      <lb ed="#A" n="51"/>uina in concreto, quoties cum illa existentia 
+      con<lb ed="#A" n="52" break="no"/>sideraretur absque vllo alio connotato, quare vt 
+      <lb ed="#A" n="53"/>conciperetur abstracte, deberet cogitari sine illa 
+      <lb ed="#A" n="54"/>existentia: sed naturam diuinam quantumuis 
+      <lb ed="#A" n="55"/>abstractam semper consideramus cum existentia 
+      <lb ed="#A" n="56"/>ergo talis existentia non facit esse per se, nec 
+      con<lb ed="#A" n="57" break="no"/>stituit concretum Deitatis, ratione cuius ab 
+      au<lb ed="#A" n="58" break="no"/>thoribus contrariae sententiae illa communis sub 
+      <lb ed="#A" n="59"/>sistentia asseritur, quod ipsis videatur, alio modo 
+      <lb ed="#A" n="60"/>non posse concretum commune, &amp; per intelle 
+      <lb ed="#A" n="61"/>ctum tribus personis apprehendi. Alio igitur mo 
+      <lb ed="#A" n="62"/>do concretum Deitatis est assignandum. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2408">
+                     <lb ed="#A" n="63"/>Sed dicunt aliqui ex ijs, qui oppositam senten 
+      <lb ed="#A" n="64"/>tiam defendunt, existentiam diuinam 
+      commu<lb ed="#A" n="65" break="no"/>nem tribus personis ideo habere rationem 
+      subsi<lb ed="#A" n="66" break="no"/>stentiae, quia ex se ita perfecta est, vt licet sub 
+      ra<lb ed="#A" n="67" break="no"/>tione existentiae, quae communis est, possit 
+      com<lb ed="#A" n="68" break="no"/>municari proprio supposito, &amp; compleri, nostfo 
+      <!--00106.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>modo intelligendi, relatione: tamen quia ex se 
+      in<lb ed="#A" n="70" break="no"/>finita est, &amp; ita perfecta, vt vniri aut 
+      communi<lb ed="#A" n="71" break="no"/>cari non possit extraneo supposito, &amp; ab eo 
+      pen<lb ed="#A" n="72" break="no"/>dere: ideo rationem habeat subsistentiae non 
+      in<lb ed="#A" n="73" break="no"/>communicabilis proprio supposito, sed alieno 
+      <lb ed="#A" n="74"/>quod non habet creata existentia. Fateor quidem 
+      <lb ed="#A" n="75"/>hanc esse perfectionem existentiae diuinae; tamen 
+      <lb ed="#A" n="76"/>id non sufficit, vt dicamus in Deo esse subsisten 
+      <lb ed="#A" n="77"/>tiam absolutam communem, quod enim natura 
+      <lb ed="#A" n="78"/>diuina non possit alieno supposito communicari, 
+      <lb ed="#A" n="79"/>vel ab eo pendere, non habet ex eo quia subsistat 
+      <lb ed="#A" n="80"/>&amp; in concreto significetur: nam quantumuis 
+      ab<lb ed="#A" n="81" break="no"/>stracta consideretur in suo conceptu, hoc ipso, 
+      <lb ed="#A" n="82"/>quod infinita est, habet, non posse communicari 
+      <lb ed="#A" n="83"/>alieno supposito, &amp; ab eo terminari, quare 
+      exi<lb ed="#A" n="84" break="no"/>stentia ipsa diuinitatis, quatenus existentia est, 
+      di<lb ed="#A" n="85" break="no"/>cenda esset subsistentia, si hac ratione subsistentia 
+      <lb ed="#A" n="86"/>absoluta in Deo concedenda esset, in omnium 
+      au<lb ed="#A" n="87" break="no"/>tem sententia existentia diuina, quatenus solum 
+      <lb ed="#A" n="88"/>consideratur vt existentia, nondum est 
+      subsisten<lb ed="#A" n="89" break="no"/>tia, etiam absoluta, quia existentia etiam est de 
+      con<lb ed="#A" n="90" break="no"/>ceptu naturae abstracte consideratae, cumque 
+      nul<lb ed="#A" n="91" break="no"/>la alia ratio distinctionis assignari possit inter 
+      exi<lb ed="#A" n="92" break="no"/>stentiam &amp; subsistentiam absolutam in Deo, fru 
+      <lb ed="#A" n="93"/>stra ponitur talis subsistentia praeter relatiuas. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2482">
+                     <lb ed="#A" n="94"/>CARVT IV. 
+      <lb ed="#A" n="95"/>Nihil esse in Deo commune personis, cui nomer 
+      <lb ed="#A" n="96"/>Latinum Subsistentia conueniat. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e2491">
+                     <lb ed="#A" n="97"/>IAm vero, quod attinet ad modum loquendi, 
+      <lb ed="#A" n="98"/>Tnostram sententiam demonstremus, cumque 
+      <lb ed="#A" n="99"/>in nostrae fidei mysterijs is modus loquendi om 
+      <lb ed="#A" n="100"/>nino tenendus sit, quo Patres, &amp; Concilia 
+      vtun<lb ed="#A" n="101" break="no"/>tur, contra vero reijciendus ab omnibus sit 
+      mo<lb ed="#A" n="102" break="no"/>dus, qui Patrum, &amp; Conciliorum phrasi 
+      aduersa<lb ed="#A" n="103" break="no"/>tur, inde debemus in hac re sententiam ferre. Et 
+      <lb ed="#A" n="104"/>quamuis existentia illa communis ita compleret 
+      <lb ed="#A" n="105"/>naturam diuinam, vt absque vllo alio faceret ipsam 
+      <lb ed="#A" n="106"/>per se existere, sicut prior opinio contendebat: 
+      <lb ed="#A" n="107"/>hoc tamen satis non esset, vt ea appellaretur 
+      sub<lb ed="#A" n="108" break="no"/>sistentia communis, &amp; absoluta, si hic modus 
+      lo<lb ed="#A" n="109" break="no"/>quendi Conciliorum, &amp; Patrum phrasi 
+      aduersa<lb ed="#A" n="110" break="no"/>retur. Vt enim vidimus praecedenti disputatione 
+      <lb ed="#A" n="111"/>plerique Patres diu, multumque timuerunt, in 
+      <lb ed="#A" n="112"/>Deo tres hypostases concedere, tametsi de sensu 
+      <lb ed="#A" n="113"/>Catholico illis constaret, quia, vt dicebat 
+      Hiero<lb ed="#A" n="114" break="no"/>nymus, nomen Hypostasis, non bonae suspicionis 
+      <lb ed="#A" n="115"/>ipsis videbatur 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2535">
+                     <lb ed="#A" n="116"/>Nunc autem ostendo modum loquendi 
+      prio<lb ed="#A" n="117" break="no"/>ris sententiae Conciliorum &amp; Patrum phrasi esse 
+      <lb ed="#A" n="118"/>contrarium. Certum enim est, Patres &amp; Conci 
+      <lb ed="#A" n="119"/>lia in Ecclesia Graeca celebrata, postquam 
+      con<lb ed="#A" n="120" break="no"/>trouersia illa iam dicta de voce hypostasis, defini 
+      <lb ed="#A" n="121"/>ta fuit, &amp; vera significatio huius nominis 
+      expli<lb ed="#A" n="122" break="no"/>cata, quoties vsurparunt eam vocem; tres hypo 
+      <lb ed="#A" n="123"/>stases in Deo plane concessisse, &amp; vnionem 
+      hu<lb ed="#A" n="124" break="no"/>manitatis cum verbo, non in natura, sed in 
+      hy<lb ed="#A" n="125" break="no"/>postasi factam fuisse, pronunciasse, vt praecedenti 
+      <lb ed="#A" n="126"/>disputatione vidimus, quia idem omnino esse 
+      <lb ed="#A" n="127"/>putabant, hypostasin Graece, in natura rationali, 
+      <lb ed="#A" n="128"/>quod est Latine persona, seu suppositum, ergo 
+      <lb ed="#A" n="129"/>quicunque nunc concederet vnam in Deo 
+      hypo<lb ed="#A" n="130" break="no"/>stasin absolutam, quamuis simul tres relatiuas 
+      <lb ed="#A" n="131"/>concederet, non minus notari posset ex verbis, 
+      <lb ed="#A" n="132"/>quantumuis in bonum sensum ea 
+      interpretare<lb ed="#A" n="133" break="no"/>tur, quam qui Latine diceret, in Deo praeter tres 
+      <lb ed="#A" n="134"/>personas relatiuas; aut supposita, esse quandam 
+      <!--00107.xml-->
+      <pb ed="#A" n="99"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>personam, vel quoddam suppositum absolutum, 
+      <lb ed="#A" n="2"/>etiamsi adderet, hoc absolutum suppositum non 
+      <lb ed="#A" n="3"/>distingui realiter a tribus relatiuis. Caietanus 
+      ve<lb ed="#A" n="4" break="no"/>ro locis citatis dum concedit semisuppositum, vel 
+      <lb ed="#A" n="5"/>semipersonam absolutam, nec audet sine vllo ad 
+      <lb ed="#A" n="6"/>ditamento personam, aut suppositum absolutum 
+      <lb ed="#A" n="7"/>asserere, non ita aduersatur phrasi Conciliorum, 
+      <lb ed="#A" n="8"/>&amp; Patrum; reprehensione tamen dignus est, quia 
+      <lb ed="#A" n="9"/>nouum, &amp; satis absonum modum loquendi 
+      pri<lb ed="#A" n="10" break="no"/>mus in Scholas induxit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2607">
+                     <lb ed="#A" n="11"/>Cum igitur Subsistentia, Latine idem sit quod 
+      <lb ed="#A" n="12"/>Hypostasis Graece; vt dixi, nescio quidem qua ra 
+      <lb ed="#A" n="13"/>tione contra modum loquendi Conciliorum 
+      ab<lb ed="#A" n="14" break="no"/>solutam subsistentiam in Deoasserere liceat: 
+      etian<lb ed="#A" n="15" break="no"/>si praeter illam tres relatiuas, &amp; ab ea absoluta 
+      rea<lb ed="#A" n="16" break="no"/>liter non distinctas quis fateatur. Idem autem 
+      si<lb ed="#A" n="17" break="no"/>gnificare nomen, Subsistentia Latine, quod 
+      Grae<lb ed="#A" n="18" break="no"/>ce Hypostasis, dubium non est. Nam primum ex 
+      <lb ed="#A" n="19"/>Graecis loan. Maxentius in sua confess. fidei, quae 
+      <lb ed="#A" n="20"/>habetur 5. to. Biblioth. sacrae fatetur, idem 
+      omni<lb ed="#A" n="21" break="no"/>no esse personam, &amp; subsistentiam, intelligit in 
+      <lb ed="#A" n="22"/>natura rationali: sentit igitur, idem esse 
+      subsisten<lb ed="#A" n="23" break="no"/>tiam &amp; Hypostasim: siquidem Patres pro eodem 
+      <lb ed="#A" n="24"/>vsurpant Hypostasim, &amp; personam, nempe in 
+      na<lb ed="#A" n="25" break="no"/>tura rationali &amp; Maxentius ait, idem esse perso 
+      <lb ed="#A" n="26"/>nam, &amp; subsistentiam. Namque Agatho Papa &amp; 
+      ip<lb ed="#A" n="27" break="no"/>se Latinus in Epistola quae habetur in 6. Synodo 
+      <lb ed="#A" n="28"/>actio. 4. indiscriminatim vtitur nomine Hyposta 
+      <lb ed="#A" n="29"/>sis, &amp; personae. Tum etiam Martinus V. in 
+      Con<lb ed="#A" n="30" break="no"/>cilio Lateran. consultatione 5. can. I. definit, Deum 
+      <lb ed="#A" n="31"/>esse vnitatem in Trinitate: explicat autem vnum 
+      <lb ed="#A" n="32"/>Deum in tribus subsistentijs, ac si Graece 
+      dicere<lb ed="#A" n="33" break="no"/>tur Hypostasibus. Ad haec aliud nomen Latinum, 
+      <lb ed="#A" n="34"/>quam Subsistentia, excogitari non potest, quod 
+      <lb ed="#A" n="35"/>nomini Graeco Hypostasis melius subrogari possit 
+      <lb ed="#A" n="36"/>vel etiam ea de causa, quod iam vsu Ecclesiastico 
+      <lb ed="#A" n="37"/>ad id significandum a Patribus, &amp; Concilijs sit 
+      ac<lb ed="#A" n="38" break="no"/>commodatum. Sed ex Graecis id ipsum 
+      docue<lb ed="#A" n="39" break="no"/>runt Patres a nobis allegati praecedenti disput. c. 
+      <lb ed="#A" n="40"/>4. cum Hypostasim, semper pro persona ponunt. 
+      <lb ed="#A" n="41"/>quam Latine interpretamur subsistentiam. Nec 
+      <lb ed="#A" n="42"/>vsquam inuenias apud Patres Graecos nomen 
+      Hy<lb ed="#A" n="43" break="no"/>postasis, nec apud Latinos nomen subsistentia, pro 
+      <lb ed="#A" n="44"/>essentia vel pro aliquo communi essentiali, post 
+      <lb ed="#A" n="45"/>quam antiqua illa controuersia in Ecclesia Dei 
+      ex<lb ed="#A" n="46" break="no"/>plicata, &amp; definita fuit. Recte igitur Imperator 
+      <lb ed="#A" n="47"/>Iustinianus &amp; ipse Latine scribens ad Pontificem 
+      <lb ed="#A" n="48"/>Ioan. II. in edicto, seu confessione ad eum missa. 
+      <lb ed="#A" n="49"/>quae habetur in tomis Conciliorum post Conci 
+      <lb ed="#A" n="50"/>lium Toletanum secundum columna 9. 
+      intelli<lb ed="#A" n="51" break="no"/>gens hunc communem sensum Patrum, ita scribit 
+      <lb ed="#A" n="52"/>Quoniam non est idem natura &amp; subsistentia. Omnes 
+      e<lb ed="#A" n="53" break="no"/>nim sancti Patres consonanter nos docent, aliud esse 
+      natu<lb ed="#A" n="54" break="no"/>ram siue substantiam, &amp; formam: aliud subsistentiam 
+      si<lb ed="#A" n="55" break="no"/>ue personam: &amp; naturam quidem, vel substantiam, e 
+      <lb ed="#A" n="56"/>formam, hoc quod est commune significare: subsistentiam 
+      <lb ed="#A" n="57"/>autem siue personam, hoc quod est speciale. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2712">
+                     <lb ed="#A" n="58"/>Nec vllus est ex sanctis Patribus, tam Latinis 
+      <lb ed="#A" n="59"/>quam Graecis, qui post compositam litem, quam 
+      <lb ed="#A" n="60"/>diximus, concedat in Deo absolutam aliquam sub 
+      <lb ed="#A" n="61"/>sistentiam, aut Hypostasin. Nam, vt infra dicemus, 
+      <lb ed="#A" n="62"/>Hieronymus, &amp; Augustinus, qui eam 
+      concesse<lb ed="#A" n="63" break="no"/>runt, non satis intellexerunt significationem 
+      no<lb ed="#A" n="64" break="no"/>minis, Hypostasis, quae postea communi sensu et 
+      <lb ed="#A" n="65"/>iam in Ecclesia Latina recepta fuit, &amp; antea in 
+      <lb ed="#A" n="66"/>Graeca: iam satis frequens apud Patres erat. Quare 
+      <lb ed="#A" n="67"/>dubium non est, Scholasticos, qui hoc nostro ten 
+      <lb ed="#A" n="68"/>pore ob testimonia Hieronymi, &amp; Augustini con¬ 
+      <!--00107.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>cedunt in Deo subsistentiam communem, &amp; 
+      ab<lb ed="#A" n="70" break="no"/>solutam ignoratione vocis lapsos fuisse. 
+      Miran<lb ed="#A" n="71" break="no"/>dum tamen est, eos id ignorasse, quod tam ab 
+      <lb ed="#A" n="72"/>Ecclesia Graeca, quam Latina, &amp; iamdiu sine 
+      con<lb ed="#A" n="73" break="no"/>trouersia receptum erat; nempe subsistentiam idem 
+      <lb ed="#A" n="74"/>esse, quod suppositum &amp; personam. Quod enim 
+      <lb ed="#A" n="75"/>Hieronymus, &amp; Augustinus hoc ignorauerint, 
+      <lb ed="#A" n="76"/>mirum non est, quia nondum vis nominis 
+      Grae<lb ed="#A" n="77" break="no"/>ci apud Graecos ipsos satis nota erat, vt inferius 
+      <lb ed="#A" n="78"/>dicemus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2764">
+                     <lb ed="#A" n="79"/>Verum respondent aliqui, concilia, &amp; 
+      Ponti<lb ed="#A" n="80" break="no"/>fices vsurpasse subsistentiam semper concrete, vt 
+      <lb ed="#A" n="81"/>dici solet, pro persona, seu supposito, &amp; ideo non 
+      <lb ed="#A" n="82"/>licere secundum Phrasim Conciliorum, &amp; Patrum 
+      <lb ed="#A" n="83"/>concedere in Deo subsistentiam absolutam, at 
+      <lb ed="#A" n="84"/>vero Scholasticos, qui docent, esse in Deo 
+      quan<lb ed="#A" n="85" break="no"/>dam substantiam, non pro supposito in concreto, 
+      <lb ed="#A" n="86"/>sed pro quadam ratione abstracta perfecte, &amp; per 
+      <lb ed="#A" n="87"/>se existendi. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2786">
+                     <lb ed="#A" n="88"/>Hoc tamen effugium facile potest praecludi. 
+      <lb ed="#A" n="89"/>Nam cum vsus Ecclesiasticus obtinuerit, vt nomen 
+      <lb ed="#A" n="90"/>Subsistentia, idem sit Latinis, quod Graecis 
+      Hypo<lb ed="#A" n="91" break="no"/>stasis, nempe vt significet suppositum, seu 
+      perso<lb ed="#A" n="92" break="no"/>nam, licebit solum disputationis gratia 
+      Schola<lb ed="#A" n="93" break="no"/>sticis, prout inferius dicemus, vti nomine 
+      subsi<lb ed="#A" n="94" break="no"/>stentia abstracte, ad significandam formam, &amp; 
+      ra<lb ed="#A" n="95" break="no"/>tionem, qua vltimo constituitur persona, seu 
+      sup<lb ed="#A" n="96" break="no"/>positum, at vero ad significandum aliam rationem 
+      <lb ed="#A" n="97"/>omnino diuersam, &amp; contrariam supposito, 
+      qua<lb ed="#A" n="98" break="no"/>lem praedicti Theologi defendere moliuntur, 
+      ta<lb ed="#A" n="99" break="no"/>lem vocem vsurpare, siue abstracte, siue concreto 
+      <lb ed="#A" n="100"/>&amp; ita eadem voce concedere in Deo id, quod 
+      Pa<lb ed="#A" n="101" break="no"/>tres, &amp; concilia negarunt, nempe absolutam 
+      sub<lb ed="#A" n="102" break="no"/>sistentiam, qua obsecro ratione licebit? alioquin 
+      <lb ed="#A" n="103"/>liceat etiam nunc Theologis Graecis vti nomine 
+      <lb ed="#A" n="104"/>Hypostasis in eodem prorsus sensu, quo Scholastici 
+      <lb ed="#A" n="105"/>Latini supra memorati nomine subsistentia vtun 
+      <lb ed="#A" n="106"/>tur, &amp; dicant, in Deo esse vnam Hypostasin 
+      abso<lb ed="#A" n="107" break="no"/>lutam: hoc autem quis concedat? Scio sane 
+      Grae<lb ed="#A" n="108" break="no"/>cos peritiores esse suae linguae, ne hunc modum 
+      <lb ed="#A" n="109"/>loquendi contrarium Patribus probent, &amp; 
+      Scho<lb ed="#A" n="110" break="no"/>lasticos aliquos Latinos ignoratione vocis lapso 
+      <lb ed="#A" n="111"/>fuisse, quod viderent Hieronymum &amp; 
+      Augusti<lb ed="#A" n="112" break="no"/>num, vnam subsistentiam, absolutam in Deo 
+      con<lb ed="#A" n="113" break="no"/>cessisse. Sed considerare debuissent, tempori 
+      <lb ed="#A" n="114"/>Augustini &amp; Hieronymi significationem 
+      Eccle<lb ed="#A" n="115" break="no"/>siasticam huius vocis non satis explanatam fuisse 
+      <lb ed="#A" n="116"/>ita, vt hi Patres non auderent tres subsistentias 
+      <lb ed="#A" n="117"/>in Deo concedere, sed vnam tantum, vt 
+      sequen<lb ed="#A" n="118" break="no"/>ti capite videbimus. Praedicti vero Scholastici, &amp; 
+      <lb ed="#A" n="119"/>cum his Patribus vnam absolutam concedere 
+      vo<lb ed="#A" n="120" break="no"/>lunt, &amp; cum eisdem non audent tres negare, sed 
+      <lb ed="#A" n="121"/>cum Graecis concedunt tres, cum Hieronymo 
+      <lb ed="#A" n="122"/>vero, &amp; Augustino addunt vnam absolutam, &amp; 
+      <lb ed="#A" n="123"/>ita ex duabus opinionibus contrarijs omnino, 
+      v<lb ed="#A" n="124" break="no"/>nam ipsi conflant sententiam, quae quidem secum 
+      <lb ed="#A" n="125"/>constare nequit, vtpote ex contrarijs omnino con 
+      <lb ed="#A" n="126"/>pacta, vt inferius patebit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2873">
+                     <lb ed="#A" n="127"/>Quare non minus modus loquendi Durandi, 
+      <lb ed="#A" n="128"/>&amp; aliorum reijci debet, qui dicunt in Deo vnam 
+      <lb ed="#A" n="129"/>tantum esse subsistentiam absolutam, quod vnam 
+      <lb ed="#A" n="130"/>tantum in Deo esse personam, ex illo sequatur 
+      <lb ed="#A" n="131"/>quam aliorum, qui praeter res relatiuas vnam et 
+      <lb ed="#A" n="132"/>iam absolutam concedunt, sic enim 
+      quaternita<lb ed="#A" n="133" break="no"/>tem inducere videtur. Quod vero quidam addunt 
+      <lb ed="#A" n="134"/>illam absolutam subsistentiam non distingui a 
+      <lb ed="#A" n="135"/>tribus relatiuis, parum eos excusat. Si enim 
+      abso<lb ed="#A" n="136" break="no"/>lutam subsistentiam, vel hypostasin concedunt. 
+      <!--00108.xml-->
+      <pb ed="#A" n="100"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>dicere debent esse vnam absolutam. &amp; tres 
+      tela<lb ed="#A" n="2" break="no"/>tiuas: quem modum loquendi nullus Patrum non 
+      <lb ed="#A" n="3"/>damnaret. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2910">
+                     <lb ed="#A" n="4"/>Verum enim vero Scholastici nostri, qui etiam 
+      <lb ed="#A" n="5"/>tres solum subsistentias in Deo esse dicunt, 
+      com<lb ed="#A" n="6" break="no"/>muniter vtuntur nomine Substantia, in alia 
+      signi<lb ed="#A" n="7" break="no"/>ficatione, quam Patres, &amp; Concilia Graeca: 
+      nem<lb ed="#A" n="8" break="no"/>pe pro complemento personae, quod personali 
+      <lb ed="#A" n="9"/>tatem vocant. Cum enim docendi gratia vtantur 
+      <lb ed="#A" n="10"/>concretis &amp; abstractis, quibus ostendunt &amp; id 
+      <lb ed="#A" n="11"/>quod constitutum est, &amp; formalem rationem, qua 
+      <lb ed="#A" n="12"/>constituitur: atque nomen subsistentia ipsis 
+      vi<lb ed="#A" n="13" break="no"/>deatur abstractum, ideo eo vtuntur ad 
+      significan<lb ed="#A" n="14" break="no"/>das relationes ipsas, quas in Deo personalitates 
+      <lb ed="#A" n="15"/>vocamus, &amp; abstracte a nobis melius significantur 
+      <lb ed="#A" n="16"/>Excipio Durandum, &amp; alios, qui ipsum 
+      sequun<lb ed="#A" n="17" break="no"/>tur, qui cum non concedant in Deo nisi vnam 
+      sub<lb ed="#A" n="18" break="no"/>sistentiam, eam pro ipso actu existendi vsurpant 
+      <lb ed="#A" n="19"/>Sed qui subsistentiam esse putant personalitatem 
+      <lb ed="#A" n="20"/>ipsam, licet non vtantur nomine in ea significa 
+      <lb ed="#A" n="21"/>tione, qua Patres, &amp; Concilia vtuntur: tamen ab 
+      <lb ed="#A" n="22"/>Ecclesiastico modo loquendi non abhorrent; 
+      pa<lb ed="#A" n="23" break="no"/>rum enim videtur distare concretum ab abstracto 
+      <lb ed="#A" n="24"/>sicut parum distat persona a personalitate: quare 
+      <lb ed="#A" n="25"/>in nostris disputationibus Scholasticis 
+      commu<lb ed="#A" n="26" break="no"/>nem Scholasticorum loquendi modum amplecti 
+      <lb ed="#A" n="27"/>nota aliqua dignum non est. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e2965">
+                     <lb ed="#A" n="28"/>Putant vero aliqui nomen subsistentia aliquando 
+      <lb ed="#A" n="29"/>etiam in Concilijs abstracte significare 
+      personali<lb ed="#A" n="30" break="no"/>tatem, seu rationem suppositi, &amp; complementum 
+      <lb ed="#A" n="31"/>illius: vt in Epistola Sophronij, quae habetur in 6 
+      <lb ed="#A" n="32"/>Synodo actione 11. in qua longe a principio 
+      dici<lb ed="#A" n="33" break="no"/>tur. Seu igitur sancta Trinitas numerabilis personalibu 
+      <lb ed="#A" n="34"/>facta est subsistentijs, &amp;c. cum enim dicatur subsisten 
+      <lb ed="#A" n="35"/>tia personalis, non videtur concrerum significari, 
+      <lb ed="#A" n="36"/>sed abstractum: nam concretum est ipsa persona 
+      <lb ed="#A" n="37"/>haec autem non dicitur personalis. Verum haec 
+      ra<lb ed="#A" n="38" break="no"/>tio futilis est. Nam cum Sophronius in ea Episto 
+      <lb ed="#A" n="39"/>la frequenter vtatur nomine Graeco Hypostasis, quod 
+      <lb ed="#A" n="40"/>latine vertimus subsistentiam, &amp; semper in alijs 
+      lo<lb ed="#A" n="41" break="no"/>cis significet ipsam personam in concreto, non 
+      <lb ed="#A" n="42"/>est credendum, eo loco vsum fuisse eo nomine 
+      <lb ed="#A" n="43"/>pro abstracto, cum voce Graeca, Hypostasis, 
+      nun<lb ed="#A" n="44" break="no"/>quam nec Graece, nec Latine vtamur pro 
+      abstra<lb ed="#A" n="45" break="no"/>cto. Cum vero dicit Sophr. subsistentiam perso 
+      <lb ed="#A" n="46"/>nalem, idem non est, ac si diceret, personam 
+      per<lb ed="#A" n="47" break="no"/>sonalem, sed suppositum personale, quod optime 
+      <lb ed="#A" n="48"/>dici potest etiam in concreto. Cum enim 
+      suppo<lb ed="#A" n="49" break="no"/>situm in concreto inueniri possit in natura 
+      ratio<lb ed="#A" n="50" break="no"/>nali, &amp; irrationali, &amp; quando est in rationali 
+      si<lb ed="#A" n="51" break="no"/>persona, optime additur, personale, ad denotandum 
+      <lb ed="#A" n="52"/>quale sit illud suppositum. Quodsi subsistentia ibi 
+      <lb ed="#A" n="53"/>idem esset, quod personalitas abstracte, esset etiam 
+      <lb ed="#A" n="54"/>inutilis repetitio, cum diceretur personalitas per 
+      <lb ed="#A" n="55"/>sonalis. Ex hac etiam doctrina inferemus 3. 
+      par<lb ed="#A" n="56" break="no"/>q. 4. &amp; 6. quam male recentiores nonnulli 
+      abu<lb ed="#A" n="57" break="no"/>tentes etiam nomine subsistentia introducunt in 
+      <lb ed="#A" n="58"/>quauis hypostasi, &amp; supposito mille subsistentias 
+      <lb ed="#A" n="59"/>partiales: imo dicunt quot sunt partes, tot esse 
+      <lb ed="#A" n="60"/>subsistentias partiales: cum tamen non minus 
+      in<lb ed="#A" n="61" break="no"/>epte dicatur subsistentia partialis, quam persona 
+      <lb ed="#A" n="62"/>aut hypostasis partialis, vt ibidem dicemus. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e3044">
+                  <head xml:id="tavaz1-d1e196-Hd1e3046">Caput 5</head>
+                  <p xml:id="tavaz1-d1e196-d1e3048">
+                     <lb ed="#A" n="63" type="fixed=100"/>CAPVT V. 
+      <lb ed="#A" n="64"/>Respondetur testimonijs primae, &amp; 
+      secun<lb ed="#A" n="65" break="no"/>dae sententia. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3057">
+                     <lb ed="#A" n="66"/>FVndamenta vero primae, &amp; secundae 
+      opinio<lb ed="#A" n="67" break="no"/>nis nullo negotio euertere possumus. Sed an¬ 
+      <!--00108.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>te omnia satisfaciamus testimonijs, quae pro 
+      v<lb ed="#A" n="69" break="no"/>traque allata sunt, &amp; quam sint infirma 
+      ostenda<lb ed="#A" n="70" break="no"/>mus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3075">
+                     <lb ed="#A" n="71"/>Ad primum testimonium August. 7. de 
+      Tri<lb ed="#A" n="72" break="no"/>nitate cap. 4. vbi solum subsistentiam absolutam 
+      <lb ed="#A" n="73"/>concedit, cum probat Deum ad se, non ad aliuo 
+      <lb ed="#A" n="74"/>subsistere, quo aduersarij de nobis se triumphare 
+      <lb ed="#A" n="75"/>putant, Respondeo nullius esse momenti, pro 
+      <lb ed="#A" n="76"/>prima aut secunda sententia. Adde quod si 
+      ali<lb ed="#A" n="77" break="no"/>cuius roboris esset, nihil secundae sententiae 
+      faue<lb ed="#A" n="78" break="no"/>ret: haec enim non audet vnam solum 
+      subsisten<lb ed="#A" n="79" break="no"/>tiam absolutam in Deo concedere, sicut prima, 
+      <lb ed="#A" n="80"/>sed tres etiam relatiuas esse affirmatr at August 
+      <lb ed="#A" n="81"/>omnem certe relatiuam subsistentiam negat, &amp; 
+      <lb ed="#A" n="82"/>vnam solum absolutam asserit, cum dicat Deum 
+      <lb ed="#A" n="83"/>non relatiue, sed ad se subsistere. Sed neque 
+      pri<lb ed="#A" n="84" break="no"/>mae sententiae hoc testimonium adstipulari iam 
+      <lb ed="#A" n="85"/>demonstro. Suppono autem primum nusquam 
+      <lb ed="#A" n="86"/>August. vsum fuisse nomine Latino subsistentia 
+      <lb ed="#A" n="87"/>sed vbicunque agit de voce Graeca ὑπόστασις 
+      Hypo<lb ed="#A" n="88" break="no"/>stasis, semper Latine interpretatum fuisse 
+      substan<lb ed="#A" n="89" break="no"/>tiam, vt in illo 7. lib. de Trinit. cap. 4. &amp; 5. lib. 
+      <lb ed="#A" n="90"/>de Trinit. c. 8. &amp; 9. quare cum probat Deum ad 
+      <lb ed="#A" n="91"/>se subsistere, non relate, solum loquitur de actu sub 
+      <lb ed="#A" n="92"/>sistentiae, quem possumus existentiam substantia 
+      <lb ed="#A" n="93"/>lem appellare, non de subsistentia, nec concrete 
+      <lb ed="#A" n="94"/>nec abracte, de qua est nobis nunc controuersia. 
+      <lb ed="#A" n="95"/>Deinde suppono, August. 6. lib. de Trinit. capit. 
+      <lb ed="#A" n="96"/>8. &amp; 9. habuisse suspectum, nomen Graecum 
+      Hy<lb ed="#A" n="97" break="no"/>postasis, si Latine interpretato vti velimus, sicut, 
+      <lb ed="#A" n="98"/>Graeci vtuntur. Ipse enim nunquam vertit 
+      subsi<lb ed="#A" n="99" break="no"/>stentiam, vt constat ex locis citatis, &amp; alijs, quos 
+      al<lb ed="#A" n="100" break="no"/>legauimus disputatione praecedenti cap. 5. sed 
+      sub<lb ed="#A" n="101" break="no"/>sistentiam, sicut Hieronymus epist. 57. &amp; 
+      antiqui<lb ed="#A" n="102" break="no"/>ores Latini Patres. Et quia Substantia, apud 
+      Lati<lb ed="#A" n="103" break="no"/>nos communiter significat essentiam, quam Graeci 
+      <lb ed="#A" n="104"/>ὀυσίαν vsiam vocant, &amp; tres essentias in Deo 
+      con<lb ed="#A" n="105" break="no"/>cedere non licet, ideo etiam August tres 
+      Hyposta<lb ed="#A" n="106" break="no"/>ses, Latine fateri non audet, ne cogatur dicere 
+      La<lb ed="#A" n="107" break="no"/>tine tres in Deo substantias, tametsi 7. de Trinit. 
+      <lb ed="#A" n="108"/>cap. 6. dicat, vbi scandalum non esset, posse in 
+      <lb ed="#A" n="109"/>Deo concedi tres substantias, sicut Graeci tres 
+      <lb ed="#A" n="110"/>Hypostases dixerunt. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3164">
+                     <lb ed="#A" n="111"/>Cum igitur August. adhuc timeret, cap. illo 4. 
+      <lb ed="#A" n="112"/>citato tres Hypostases, aut substantias Latine 
+      com<lb ed="#A" n="113" break="no"/>cedere, iure optimo dixit Deum ad se, non ad 
+      a<lb ed="#A" n="114" break="no"/>liud, subsistere, sicut ad se, non ad aliud substantia 
+      <lb ed="#A" n="115"/>&amp; essentia est. Quod si tres ipse subsistentia 
+      <lb ed="#A" n="116"/>fateretur, sicut fateri, necessarium esse disputa 
+      <lb ed="#A" n="117"/>tione praecedenti, &amp; in hac etiam probauimus 
+      <lb ed="#A" n="118"/>non negaret, Deum ad aliud subsistere, 
+      nam<lb ed="#A" n="119" break="no"/>que intelligeret, idem esse subsistere, quod 
+      in<lb ed="#A" n="120" break="no"/>communicabiliter existere, &amp; quia ratio 
+      incom<lb ed="#A" n="121" break="no"/>municabilis prouenit ex relatione, inde quoque 
+      <lb ed="#A" n="122"/>diceret, Deum relatiue subsistere, sicut etiam 
+      <lb ed="#A" n="123"/>nunc dicitur in Deo relatiua subsistentia, quare 
+      <lb ed="#A" n="124"/>non assereret, in Deo esse vnam absolutam 
+      subsi<lb ed="#A" n="125" break="no"/>stentiam, sed tres solum relatiuas fateretur. No 
+      <lb ed="#A" n="126"/>vero, qui iam ex vsu Ecclesiastico nomine Latino 
+      <lb ed="#A" n="127"/>Subsistentia, pro Graeco Hypostasis vtimur, &amp; ita 
+      Grae<lb ed="#A" n="128" break="no"/>ce dicimus, in Deo tres Hypostases relatiuas, vt 
+      <lb ed="#A" n="129"/>non audeamus concedere aliquam absolutam 
+      <lb ed="#A" n="130"/>eodem modo pronunciamus nihil in Deo esse 
+      <lb ed="#A" n="131"/>absolutum, &amp; commune, cui nomen Latinum 
+      <lb ed="#A" n="132"/>subsistentia quadrare possit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3215">
+                     <lb ed="#A" n="133"/>Ad Hieronymum eodem prorsus modo 
+      re<lb ed="#A" n="134" break="no"/>spondeo: quia &amp; ipse seuerius reijciebat tres 
+      Hy<lb ed="#A" n="135" break="no"/>postases, vt nulla ratione hunc modum loquendi 
+      <!--00109.xml-->
+      <pb ed="#A" n="101"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>postases, vt nulla ratione hunc modum loquendi 
+      <lb ed="#A" n="2"/>admittendum esse diceret: interpretabatur autem 
+      <lb ed="#A" n="3"/>nomen Graecum Hypostasis, sicut Augustinus non 
+      <lb ed="#A" n="4"/>subsistentiam, sed substantiam, quare non mirum, 
+      <lb ed="#A" n="5"/>si diceret naturam diuinam ex se subsistere, &amp; non 
+      <lb ed="#A" n="6"/>aliunde concedens absolute &amp; ad se subsistere, si 
+      <lb ed="#A" n="7"/>cut Augustinus, quamuis &amp; hic modus loquendi 
+      <lb ed="#A" n="8"/>non satis indicet, ipsum loqui de aliquo 
+      subsiste<lb ed="#A" n="9" break="no"/>re absoluto, vt infra respondentes Nysseno dice 
+      <lb ed="#A" n="10"/>mus, nisi aliunde de mente Hieronymi nobis 
+      <lb ed="#A" n="11"/>constaret. Quare non possum non mirari viros a 
+      <lb ed="#A" n="12"/>lias doctos, &amp; eruditos, his testimonijs Hierony 
+      <lb ed="#A" n="13"/>mi, &amp; Augustini adductos, vt crederent, conce 
+      <lb ed="#A" n="14"/>dendam esse in Deo subsistentiam vnam absolu 
+      <lb ed="#A" n="15"/>tam, cum modus loquendi horum Patrum post 
+      <lb ed="#A" n="16"/>compositam litem de nomine subsistentiae, &amp; Hy 
+      <lb ed="#A" n="17"/>postasis, probandus vlla ratione non sit. Decepti 
+      <lb ed="#A" n="18"/>sane mihi videntur praedicti Theologi, quod 
+      <lb ed="#A" n="19"/>verba solum horum Patrum non tamen ipsorum 
+      <lb ed="#A" n="20"/>mentem perspectam habuerint, aut si praedicti 
+      <lb ed="#A" n="21"/>Scholastici Augustinum &amp; Hieronymum sequi 
+      <lb ed="#A" n="22"/>volunt, dicant cum eis, esse in Deo vnam 
+      subsi<lb ed="#A" n="23" break="no"/>stentiam absolutam, &amp; negent cum eisdem tres 
+      <lb ed="#A" n="24"/>relatiuas, quod nulla ratione iam ipsis licebit. As 
+      <lb ed="#A" n="25"/>serere autem in Deo vnam absolutam 
+      subsi<lb ed="#A" n="26" break="no"/>stentiam, &amp; tres relatiuas idem est, quod ex 
+      <lb ed="#A" n="27"/>duabus sententijs omnino contrarijs vnam 
+      <lb ed="#A" n="28"/>constare, quae secum constare nequeat, vt su 
+      <lb ed="#A" n="29"/>pra notauimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3293">
+                     <lb ed="#A" n="30"/>Alia vero Patrum testimonia capite secundo 
+      <lb ed="#A" n="31"/>allegata, alia via etiam facile dissolui possunt. Ad 
+      <lb ed="#A" n="32"/>illud Agathonis respondemus, literam esse 
+      men<lb ed="#A" n="33" break="no"/>dosam, cum legitur. Trium subsistentiarum, seu per 
+      <lb ed="#A" n="34"/>sonarum vnam subsistentiam, sed legendum est. Vnam 
+      <lb ed="#A" n="35"/>substantiam, sicut in pluribus Latinis 
+      exemplari<lb ed="#A" n="36" break="no"/>bus reperitur, nec credibile est in tam paucis ver 
+      <lb ed="#A" n="37"/>bis eadem voce vsum fuisse Agathonem in sensu 
+      <lb ed="#A" n="38"/>tam diuerso. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3315">
+                     <lb ed="#A" n="39"/>Ad Hilarium dico, verba illius male etiam ci 
+      <lb ed="#A" n="40"/>tari: nec enim in prioribus verbis allegatis dicit 
+      <lb ed="#A" n="41"/>Hylarius. Vt subsistentiae natur ae habeant perfectam 
+      vni<lb ed="#A" n="42" break="no"/>tatem, sed vt subsistentis naturae habeant perfectam vni 
+      <lb ed="#A" n="43"/>tatem, sensus autem est in corporalibus rebus non 
+      <lb ed="#A" n="44"/>esse ita vnam in alia, vt habeant eandem naturam 
+      <lb ed="#A" n="45"/>subsistentem, non dicit eandem communem 
+      sub<lb ed="#A" n="46" break="no"/>sistentiam, sed eandem naturam, cui conuenit sa 
+      <lb ed="#A" n="47"/>ne subsistere ratione suppositi, &amp; ideo dicitur 
+      <lb ed="#A" n="48"/>subsistens natura. Deinde in posterioribus, non 
+      <lb ed="#A" n="49"/>ait. Ita vero inesse, vt &amp; ipsa (scilicet natura diuina 
+      <lb ed="#A" n="50"/>subsistat, sed ita vt &amp; ipse (scilicet Deus,) subsistat 
+      <lb ed="#A" n="51"/>sensus autem est, ita in diuinis vnus subsistens es 
+      <lb ed="#A" n="52"/>in alio subsistente, vt &amp; ipse subsistat. Sed age 
+      <lb ed="#A" n="53"/>demus verba illa referri ad naturam, vt dicatur 
+      <lb ed="#A" n="54"/>Et ipsa (scilicet natura diuina) subsistat, nihil 
+      ta<lb ed="#A" n="55" break="no"/>men inde colligi poterit, nec enim negamus nos 
+      <lb ed="#A" n="56"/>aut negare aliquis potest, naturam diuinam subsi 
+      <lb ed="#A" n="57"/>stere, absit: sed dicimus cum Damasceno 3. de 
+      fi<lb ed="#A" n="58" break="no"/>de cap. 3. essentiam diuinam subsistere quidem, 
+      <lb ed="#A" n="59"/>in tribus tamen personis. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3363">
+                     <lb ed="#A" n="60"/>Ad testimonium Dionysij respondeo Diony 
+      <lb ed="#A" n="61"/>sium non dixisse bonitatis subsistentiam Graeco 
+      <lb ed="#A" n="62"/>ὑπόσταστιν Hypostasin, sed essentiam Graece δυσίαν 
+      <lb ed="#A" n="63"/>Vsian, &amp; ita transfert Perionius essentiam. Quods 
+      <lb ed="#A" n="64"/>veretur nomine Graeco ὑπός 2σις Hypostasis illud v 
+      <lb ed="#A" n="65"/>surparet pro essentia nobis autem iam non licet 
+      <lb ed="#A" n="66"/>vt praecedenti disputatione notaui, vnam 
+      com<lb ed="#A" n="67" break="no"/>munem &amp; absolutam in Deo concedere 
+      Hypo<lb ed="#A" n="68" break="no"/>stasin. Frustra vero aduersarij authoritate Graeco 
+      <!--00109.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>rum Patrum in hac re vtuntur, cum illi non alio 
+      <lb ed="#A" n="70"/>nomine Graeco quam Hypostasis, pro Latino 
+      Subsi<lb ed="#A" n="71" break="no"/>stentia, vtantur: nullusque iam audeat, aliquam in 
+      <lb ed="#A" n="72"/>Deo Hypostasin absolutam concedere 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3398">
+                     <lb ed="#A" n="73"/>Demum ad Nyssenum dicimus, negari non 
+      <lb ed="#A" n="74"/>posse suptemam essentiam vere subsistere a se, &amp;e 
+      <lb ed="#A" n="75"/>non ab alio, sicut creaturae, quae ab alio pendent, 
+      <lb ed="#A" n="76"/>vt a causa: ob id tamen non conceditur 
+      commu<lb ed="#A" n="77" break="no"/>nis aliqua subsistentia. Nam, vt supra dicebamus 
+      <lb ed="#A" n="78"/>natura diuina vere in personis a se, &amp; non ab alio, 
+      <lb ed="#A" n="79"/>vt a causa habet, quod subsistat. Denique cum 
+      <lb ed="#A" n="80"/>Nyssenus, vt vidimus, praecedenti disputatione 
+      <lb ed="#A" n="81"/>c. 4. aperte sentiat Hypostasin idem esse cum 
+      per<lb ed="#A" n="82" break="no"/>sona in rationali natura, &amp; alio nomine Graeco 
+      <lb ed="#A" n="83"/>vti non posset, ad significandum subsistentiam 
+      <lb ed="#A" n="84"/>communem, quam nomine ὑπόστασις Hypostasis: 
+      <lb ed="#A" n="85"/>nec ex illo, nec ex alio Graeco authore probari 
+      <lb ed="#A" n="86"/>potest communis subsistentia, cum nullus 
+      com<lb ed="#A" n="87" break="no"/>munem Hypostasin concedat, nisi vsurpata 
+      Hy<lb ed="#A" n="88" break="no"/>postasi pro essentia, vt antiquiores aliqui 
+      accipie<lb ed="#A" n="89" break="no"/>bant. Eodem modo explicari debent Patres, qui 
+      <lb ed="#A" n="90"/>dixerint naturam diuinam subsistere: vnde ex his 
+      <lb ed="#A" n="91"/>verbis nihil probari potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3442">
+                     <lb ed="#A" n="92"/>CAPVT VI. 
+      <lb ed="#A" n="93"/>Diluuntur rationes primae, &amp; secunda sententia.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3450">
+                     <lb ed="#A" n="94"/>SVperest, vt diluamus rationes, quas pro pri- Dissoluitur 
+      <lb ed="#A" n="95"/>ma &amp; secunda sententia cap. 1. &amp; 2. attulimus. ratio Dura 
+      <lb ed="#A" n="96"/>Ad rationem Durandi, quam habes in 1. capite 
+      <lb ed="#A" n="97"/>respondetur, esse quidem perfectionem 
+      simplici<lb ed="#A" n="98" break="no"/>ter simplicem subsistere, siue sumatur pro 
+      existe<lb ed="#A" n="99" break="no"/>re substantiali, &amp; haec conuenit essentiae absolute 
+      <lb ed="#A" n="100"/>&amp; communis est tribus personis, &amp; melior est 
+      ip<lb ed="#A" n="101" break="no"/>sa, quam non ipsa, siue pro actu existendi 
+      incom<lb ed="#A" n="102" break="no"/>municabiliter qui est proprius personae, seu 
+      Hy<lb ed="#A" n="103" break="no"/>postasis. Primum quidem, si sumatur in genere; 
+      <lb ed="#A" n="104"/>quia melius est subsistere incommunicabiliter. 
+      <lb ed="#A" n="105"/>quam non subsistere: haec tamen perfectio non 
+      <lb ed="#A" n="106"/>conuenit ratione naturae, sed ratione personae, &amp; 
+      <lb ed="#A" n="107"/>est communis, non secundum rem, quia non el 
+      <lb ed="#A" n="108"/>vna subsistentia re ipsa communis, sed vniuersa 
+      <lb ed="#A" n="109"/>litate praedicationis. Deinde etiam est perfectio 
+      <lb ed="#A" n="110"/>simpliciter simplex subsistere particulariter, hoc 
+      <lb ed="#A" n="111"/>est paternitate, &amp; filiatione subsistere, quod ef 
+      <lb ed="#A" n="112"/>relatiuum, &amp; ad aliud, hoc autem etiam non 
+      con<lb ed="#A" n="113" break="no"/>uenit ratione essentiae, sed ratione personae. Quodsi 
+      <lb ed="#A" n="114"/>dicas naturae diuinae ratione sui, hoc est conside 
+      <lb ed="#A" n="115"/>ratae, vt essentia est, conuenire omnem 
+      perfectio<lb ed="#A" n="116" break="no"/>nem, quia infinita est, respondeo. infinitatem 
+      es<lb ed="#A" n="117" break="no"/>sentiae in eo esse, vt non sit ab aliqua causa, vt supra 
+      <lb ed="#A" n="118"/>disp. 25. c. 1. &amp; 5. explicatum est, non in eo, vt 
+      infi<lb ed="#A" n="119" break="no"/>nitae perfectiones distinctae, aut omnis perfectio, 
+      <lb ed="#A" n="120"/>tam personalis, quam essentialis formaliter ei 
+      con<lb ed="#A" n="121" break="no"/>ueniat, ratione ipsius, nam ratione ipsius solum 
+      <lb ed="#A" n="122"/>conuenit ei perfectio ουσίο δις hoc est, essentialis 
+      <lb ed="#A" n="123"/>non autem hypostatica, quae est subsistentiae, haec 
+      <lb ed="#A" n="124"/>enim est perfectio personae, quam secum habet 
+      <lb ed="#A" n="125"/>coniunctam. Et cum dicitur nullam perfectionem 
+      <lb ed="#A" n="126"/>simpliciter simplicem esse relationem propriam 
+      <lb ed="#A" n="127"/>vni personae, &amp; non alteri, respondeo, id esse 
+      fal<lb ed="#A" n="128" break="no"/>sum, Nam &amp; relationes esse perfectiones 
+      simpli<lb ed="#A" n="129" break="no"/>citer simplices, ostendimus disput. 122. c. 4. hoc est 
+      <lb ed="#A" n="130"/>vt explicat Ansel. quae meliores sunt ipsae, quam 
+      <lb ed="#A" n="131"/>non ipse; sed diximus, eas non esse comparanda 
+      <lb ed="#A" n="132"/>cum persona, quasi personae melius sit esse patrem. 
+      <lb ed="#A" n="133"/>quam non esse patrem, sed cum natura diuina 
+      <lb ed="#A" n="134"/>quam relationes modificantur, &amp; contrahunt, v 
+      <!--00110.xml-->
+      <pb ed="#A" n="102"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>sit persona. Huic enim melius est esse pattem, 
+      <lb ed="#A" n="2"/>quam non esse Patrem, non dico quam esse 
+      Fi<lb ed="#A" n="3" break="no"/>lium, sed quam non esse Patrem, quod nulli 
+      du<lb ed="#A" n="4" break="no"/>bium est. Quomodo autem ex hoc non sequatur, 
+      <lb ed="#A" n="5"/>vnam perfectionem realem simpliciter simpli 
+      <lb ed="#A" n="6"/>cem esse in vna persona, quae non sit in alia, colli 
+      <lb ed="#A" n="7"/>gitur ex dictis in ea disput. cap. 6. &amp; 7 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3563">
+                     <lb ed="#A" n="8"/>Ad secundam rationem, quae priori loco pro 
+      <lb ed="#A" n="9"/>secunda sententia c. 2. allata est respondetur; opti 
+      <lb ed="#A" n="10"/>me posse assignari concretum naturae intellectum 
+      <lb ed="#A" n="11"/>ante personas, &amp; illis commune, quod est, Hic 
+      <lb ed="#A" n="12"/>Deus, sine vlla communi subsistentia, quo modo 
+      <lb ed="#A" n="13"/>autem id possit intelligit, explicabitur infra dispu 
+      <lb ed="#A" n="14"/>tat. 156. cap. 2. Quare necessaria non est 
+      commu<lb ed="#A" n="15" break="no"/>nis aliqua subsistentia, vt concretum deitatis con 
+      <lb ed="#A" n="16"/>stituatur; quin potius, vt cap. 3. notauimus, quiuis 
+      <lb ed="#A" n="17"/>actus substantialis, quem aduersarij subsistentiam 
+      <lb ed="#A" n="18"/>velint appellare, includitur in conceptu ipsius dei 
+      <lb ed="#A" n="19"/>tatis quantumuis abstracte; ac proinde ratione il 
+      <lb ed="#A" n="20"/>lius non constitueretur Deus in concreto, vt ipsi 
+      <lb ed="#A" n="21"/>contendunt.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3596">
+                     <lb ed="#A" n="22"/>Ad tertiam eiusdem sententiae, quae est in eo 
+      <lb ed="#A" n="23"/>dem 2 cap. dicimus, inter naturam creatam; &amp; in 
+      <lb ed="#A" n="24"/>creatam hoc solum versari discriminis, quod na 
+      <lb ed="#A" n="25"/>tura creata, vt subsistat per se, indiget modo quo 
+      <lb ed="#A" n="26"/>dam, quem appellamus, per se, distinctio realiter 
+      <lb ed="#A" n="27"/>ab existentia sua, at increata natura postulat supra 
+      <lb ed="#A" n="28"/>suam existentiam modum personalem, scilicet re 
+      <lb ed="#A" n="29"/>lationem, distinctum solum per nostrum 
+      intelle<lb ed="#A" n="30" break="no"/>ctum ab ipsa, &amp; ab eius existentia reali; 
+      nihilomi<lb ed="#A" n="31" break="no"/>nus hostro modo intelligendi sine illo modo per 
+      <lb ed="#A" n="32"/>sonali nondum intelligitur per se subsistere, nisi 
+      <lb ed="#A" n="33"/>concipiamus ipsam increatam naturam ad 
+      mo<lb ed="#A" n="34" break="no"/>dum absoluti, &amp; vnius tantum suppositi, sicuti an 
+      <lb ed="#A" n="35"/>tiqui intelligebant, antequam mysterium 
+      Trini<lb ed="#A" n="36" break="no"/>tatis reuelaretur. Hunc ergo quoniam scimus 
+      <lb ed="#A" n="37"/>deitatem in tribus suppositis subsistere, &amp; tribus 
+      <lb ed="#A" n="38"/>relationibus vltimo terminari, nunquam ipsam 
+      <lb ed="#A" n="39"/>per se vero, &amp; Theologico conceptu cogitare 
+      de<lb ed="#A" n="40" break="no"/>bemus, quatenus a tribus personis abstracta 
+      ap<lb ed="#A" n="41" break="no"/>prehenditur. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3642">
+                     <lb ed="#A" n="42"/>At obijciet aliquis in hunc modum. Essentia 
+      <lb ed="#A" n="43"/>diuina prout intelligitur ante personas, est in se 
+      <lb ed="#A" n="44"/>perfecti omni perfectione, quia infinita est, ergo 
+      <lb ed="#A" n="45"/>eadem ratione concipi debet subsistens, subsi 
+      <lb ed="#A" n="46"/>stentia enim perfectio quaedam est. Et hanc 
+      pu<lb ed="#A" n="47" break="no"/>tant aduersarij esse differentiam inter naturam 
+      <lb ed="#A" n="48"/>creatam; &amp; increatam, quod natura creata non 
+      <lb ed="#A" n="49"/>necessario postulat in suo conceptu omnem per 
+      <lb ed="#A" n="50"/>fectionem, sicut natura increata, atque adeo non 
+      <lb ed="#A" n="51"/>exigit subsistere, nisi tatione suppositi, quod ab ea 
+      <lb ed="#A" n="52"/>distinguitur. Verum haec obiectio facile 
+      dissolui<lb ed="#A" n="53" break="no"/>tur, quoniam licet essentia diuina differat a crea 
+      <lb ed="#A" n="54"/>ta, quia diuina non subsistit aliquo sibi addito, 
+      <lb ed="#A" n="55"/>quod distinguatur ab ea realiter, sed sola 
+      relatio<lb ed="#A" n="56" break="no"/>ne, quae idem cum ea est ex natura rei, &amp; creata na 
+      <lb ed="#A" n="57"/>tura semper subsistat adiuncta sibi personalitate 
+      <lb ed="#A" n="58"/>realiter distincta, nihilominus essentia diuina, 
+      <lb ed="#A" n="59"/>quatenus communis concipitur, &amp; distincta a 
+      <lb ed="#A" n="60"/>personalitatibus, non habet in hoc suo conceptu 
+      <lb ed="#A" n="61"/>perfectionem illam, qua vltimo completur, vt 
+      <lb ed="#A" n="62"/>subsistat, sicut non complectitur illam 
+      perfectio<lb ed="#A" n="63" break="no"/>nem, &amp; complementum personale, quod eam 
+      <lb ed="#A" n="64"/>modificatur, &amp; contrahit, vt sit persona, sicut 
+      <lb ed="#A" n="65"/>humanitas etiam re ipsa eam perfectionem 
+      sup<lb ed="#A" n="66" break="no"/>positi no habet. Solum differunt, quod 
+      com<lb ed="#A" n="67" break="no"/>plementum illud naturae diuinae sola ratione ab 
+      <lb ed="#A" n="68"/>ea distinguitur, complementum vero natura 
+      <!--00110.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>creatae distinguitur secundum rem. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3710">
+                     <lb ed="#A" n="70"/>Neque vero de ratione essentiae, quatenus 
+      <lb ed="#A" n="71"/>communis personis intelligitur, est continere 
+      a<lb ed="#A" n="72" break="no"/>ctu, &amp; formaliter omnem perfectionem, etian 
+      <lb ed="#A" n="73"/>subsistentiae, sicut non est includere omnem 
+      per<lb ed="#A" n="74" break="no"/>fectionem, &amp; complementum personale, quod 
+      <lb ed="#A" n="75"/>nullus negat; sed eas tantum perfectiones, quae re 
+      <lb ed="#A" n="76"/>ipsa communes sunt, &amp; ipsam essentiam proprie 
+      <lb ed="#A" n="77"/>consequuntur, quod sane nihil derogat infinitati 
+      <lb ed="#A" n="78"/>diuinae essentiae, quae constituitur peculiare illius 
+      <lb ed="#A" n="79"/>attributum. Haec enim non consistit in eo, vt es 
+      <lb ed="#A" n="80"/>sentia Dei infinitas in se contineat perfectiones. 
+      <lb ed="#A" n="81"/>sed in eo, vt a nullo sit, vt a causa: &amp; a se ipsa 
+      ha<lb ed="#A" n="82" break="no"/>beat quidquid est, vt copiosius probaui disput. 25. 
+      <lb ed="#A" n="83"/>cap. 1. &amp; 5. Nihil ergo sequitur incommodi, si 
+      ali<lb ed="#A" n="84" break="no"/>qua perfectio, nimirum personalis, quam 
+      Schola<lb ed="#A" n="85" break="no"/>stici vocant subsistentiam, adueniat diuinae 
+      natu<lb ed="#A" n="86" break="no"/>rae a persona, quae ratione distinguitur ab essentia, 
+      <lb ed="#A" n="87"/>&amp; eam in se formaliter non includat, quatenus 
+      <lb ed="#A" n="88"/>essentia est, &amp; communis tribus personis: nam de 
+      <lb ed="#A" n="89"/>perfectionibus personalibus hoc nullus negare 
+      <lb ed="#A" n="90"/>potest. Quod vero recentiores aliqui in eo 
+      con<lb ed="#A" n="91" break="no"/>stituunt perfectionem naturae diuinae, (ratione 
+      <lb ed="#A" n="92"/>cuius dicunt eam subsistere ante personas) vt non 
+      <lb ed="#A" n="93"/>possit ab alieno supposito terminari, futile &amp; 
+      ina<lb ed="#A" n="94" break="no"/>ne est, vt supra cap. 2. monstraui. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e3770"><!-- vaz-p1q29a2-d126 -->
+               <head xml:id="tavaz1-d1e196-Hd1e3773">Disputatio 126</head>
+               <head xml:id="tavaz1-d1e196-Hd1e3775" type="question-title">
+    An in Deo sint tres existentiae
+  </head>
+               <p xml:id="tavaz1-d1e196-d1e3778">
+                  <lb ed="#A" n="95" type="fixed=102"/>DISPVTATIO CXXVI. 
+      <lb ed="#A" n="96"/>An in Deo sint tres existentiae. 
+      </p>
+               <div xml:id="tavaz1-d1e196-Dd1e3785">
+                  <head xml:id="tavaz1-d1e196-Hd1e3787">Caput 1</head>
+                  <p xml:id="tavaz1-d1e196-d1e3789">
+                     <lb ed="#A" n="97" type="fixed=102"/>CAPVT I. 
+      <lb ed="#A" n="98"/>Tres esse in Deo existentias, &amp; aeternitates relatiuas, 
+      <lb ed="#A" n="99"/>recentiores aeliqui affirmant.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3798">
+                     <lb ed="#A" n="100"/>CVm in Deo non modo concedamus tres 
+      per<lb ed="#A" n="101" break="no"/>sonas, aut subsistentias, verum etiam tres res, 
+      <lb ed="#A" n="102"/>vt disput. 122. cap. 3. notauimus, nonnulli 
+      recen<lb ed="#A" n="103" break="no"/>tiores eodem modo affirmare audent, in Deo 
+      es<lb ed="#A" n="104" break="no"/>se tres existentias, aut tria esse, accipiunt enim 
+      <lb ed="#A" n="105"/>Scholastici existentiam pro ipso actu existendi, 
+      <lb ed="#A" n="106"/>quem etiam appellant esse, seu existere. In hanc 
+      <lb ed="#A" n="107"/>sententiam consensisse videtur Scotus in primum 
+      <lb ed="#A" n="108"/>distinct. 11. quaest. 2. §. Ad rationes, qui primae rationi 
+      <lb ed="#A" n="109"/>respondens asserit, relatione etiam disparata, &amp; 
+      <lb ed="#A" n="110"/>non opposita distingui vnam personam ab alia, 
+      <lb ed="#A" n="111"/>non solum secundum quidditatem relationis, sed 
+      <lb ed="#A" n="112"/>etiam secundum esse, intelligit plane esse existen 
+      <lb ed="#A" n="113"/>tiae; nam esse existentiae, idem omnino est cum 
+      <lb ed="#A" n="114"/>quidditate. Idem docuit quodlib. 4. artic. 3. §. ad 
+      ar<lb ed="#A" n="115" break="no"/>gumentum principale. In eandem sententiam 
+      refer<lb ed="#A" n="116" break="no"/>tur Ricardus de sancto Victore, lib. 4. de Trinita 
+      <lb ed="#A" n="117"/>te, cap. 16. vbi docet, in diuinis esse vnam existen 
+      <lb ed="#A" n="118"/>tiam communem, &amp; tres existentias 
+      incommu<lb ed="#A" n="119" break="no"/>nicabiles. Alij citant pro eadem sententia Caieta 
+      <lb ed="#A" n="120"/>num locis a nobis allegatis praecedenti 
+      disputa<lb ed="#A" n="121" break="no"/>tione: ibi tamen solum concedi tres subsistentias 
+      <lb ed="#A" n="122"/>relatiuas, quod longe diuersum est, Citant etiam 
+      <lb ed="#A" n="123"/>Ricardum in 3. distinct. 1. art. 1. quaest. 2. ad I. quod. 
+      <lb ed="#A" n="124"/>dicat, aliud esse existere essentiae, aliud personae, 
+      <lb ed="#A" n="125"/>Verum ille solum asserit existere absolutum vnum 
+      <lb ed="#A" n="126"/>esse tribus in personis: sed existere personam Patris, 
+      <lb ed="#A" n="127"/>non esse existere personam Filij, vel Spiritus san¬ 
+      <!--00111.xml-->
+      <pb ed="#A" n="103"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>cti, non dixit, Existere personae, sed, existere personam, 
+      <lb ed="#A" n="2"/>quae duo diuersa sunt. Ratione vero sic proba 
+      <lb ed="#A" n="3"/>tur. Vnaquaeque relatio habet suam actualem en 
+      <lb ed="#A" n="4"/>titatem distinctam realiter ab apposita relatione 
+      <lb ed="#A" n="5"/>ergo sicut dicimus habere tres actuales entitates. 
+      <lb ed="#A" n="6"/>nihil autem aliud est existentia, quam actualis 
+      en<lb ed="#A" n="7" break="no"/>titas rei: erunt igitur tres existentiae, quare sicu 
+      <lb ed="#A" n="8"/>relationes dicuntur tres res, ita etiam dicentur 
+      <lb ed="#A" n="9"/>tres actuales entitates, &amp; existentiae, eo, quod inter 
+      <lb ed="#A" n="10"/>se distinguuntur, etiamsi idem sint cum essentia. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3889">
+                     <lb ed="#A" n="11"/>Addunt secundo, non esse concedendas, tres 
+      <lb ed="#A" n="12"/>existentias in Deo absolute, sed cum hoc addita 
+      <lb ed="#A" n="13"/>mento, relatiuas, quia existentia absolute significa 
+      <lb ed="#A" n="14"/>esse rei, quod sequitur essentiam potius, quam 
+      re<lb ed="#A" n="15" break="no"/>lationes, &amp; in hunc sensum dicunt esse intelligen 
+      <lb ed="#A" n="16"/>dos Patres, qui vnum esse Deo tribuunt, &amp; affir 
+      <lb ed="#A" n="17"/>mant, omnia, quae in Deo sunt, habere vnum esse, 
+      <lb ed="#A" n="18"/>hoc autem explicant hoc modo, Quia cum in 
+      eo<lb ed="#A" n="19" break="no"/>rum sententia essentia diuina veluti ratio 
+      trans<lb ed="#A" n="20" break="no"/>cendens includatur in relationibus, existentia 
+      <lb ed="#A" n="21"/>etiam includi debet, ita, vt vna sit existentia om 
+      <lb ed="#A" n="22"/>nium relationum, solum multiplicata per deter 
+      <lb ed="#A" n="23"/>minatum modum incommunicabilitatis, qui est 
+      <lb ed="#A" n="24"/>relationis; quocirca, vt dicatur multiplicari exi 
+      <lb ed="#A" n="25"/>stentia, debet significari nomine peculiari 
+      telati<lb ed="#A" n="26" break="no"/>uo. Nam si absolute dicatur, significatur solum 
+      <lb ed="#A" n="27"/>communis illa existentia in tribus relationibus 
+      <lb ed="#A" n="28"/>veluti forma transcendens inclusa, ergo solum 
+      <lb ed="#A" n="29"/>possunt concedi tres existentiae relatiuae, sed non 
+      <lb ed="#A" n="30"/>tres existentiae absque additamento. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e3935">
+                     <lb ed="#A" n="31"/>Tertio docent, in Deo esse non modo tres re 
+      <lb ed="#A" n="32"/>latiuas existentias; verumetiam tres durationes 
+      <lb ed="#A" n="33"/>eo, quod duratio est veluri passio existentiae, quae 
+      <lb ed="#A" n="34"/>nullo pacto ab ea separari potest, cum sola ratione 
+      <lb ed="#A" n="35"/>ab ea diffetat, &amp; nostro modo intelligendi 
+      sem<lb ed="#A" n="36" break="no"/>per illam consequatur. Sed admonent non 
+      pos<lb ed="#A" n="37" break="no"/>se dici tres durationes simpliciter, &amp; sine 
+      addita<lb ed="#A" n="38" break="no"/>mento, sicut neque dicuntur tres existentiae ob 
+      <lb ed="#A" n="39"/>eadem rationem. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e3958">
+                  <head xml:id="tavaz1-d1e196-Hd1e3960">Caput 2</head>
+                  <p xml:id="tavaz1-d1e196-d1e3962">
+                     <lb ed="#A" n="40" type="fixed=103"/>CAPVT II. 
+      <lb ed="#A" n="41"/>In Deo esse vnam tantum existentiam, &amp; rnam tantun 
+      <lb ed="#A" n="42"/>durationem, authoritate probatur. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e3971">
+                     <lb ed="#A" n="43"/>MIhi multo probabilior videtur opinio, quae 
+      <lb ed="#A" n="44"/>docet in Deo esse tantum vnam existentiam 
+      <lb ed="#A" n="45"/>hoc est, vnum esse; licet sint tres modi, &amp; relatio 
+      <lb ed="#A" n="46"/>nes huius existentiae, &amp; esse. Hanc sententiam 
+      <lb ed="#A" n="47"/>tradidit aperte S. Thom. 3. part. quaest. 17. artic. 2. 
+      <lb ed="#A" n="48"/>ad 3. vbi ait, tres personas habere vnum esse, &amp; 
+      <lb ed="#A" n="49"/>vbicumque de esse Dei loquitur, illud vocat 
+      ab<lb ed="#A" n="50" break="no"/>solutum, vt quaest. 2. de potentia, art. 6. &amp; quaest. 8. 
+      <lb ed="#A" n="51"/>art. 2. ad I1. vbi plane docet, Deo non conuenire 
+      <lb ed="#A" n="52"/>nisi esse absolutum, quo etiam relationes existunt, 
+      <lb ed="#A" n="53"/>nec illis conuenire aliquod esse relatiuum. Hanc 
+      <lb ed="#A" n="54"/>etiam opinionem aperte tradunt Capreolus in 3 
+      <lb ed="#A" n="55"/>distinct. 1. quaest. 1. art. 3. ad 2. contra 2. conclus. &amp; 
+      <lb ed="#A" n="56"/>Caietanus supra quaest. 28. art. 2. §. Corollarium est. &amp; 
+      <lb ed="#A" n="57"/>possunt etiam pro hac sententia recenseri 
+      Hiero<lb ed="#A" n="58" break="no"/>nymus Epist. illa 57. &amp; August. lib. 7. de Trinitate, 
+      <lb ed="#A" n="59"/>cap. 4. vt vidimus superiori disputat. cap. 5. vbi 
+      pro<lb ed="#A" n="60" break="no"/>bant subsistere Dei esse absolutum, &amp; vnum 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4013">
+                     <lb ed="#A" n="61"/>Nusquam autem apud Sanctos inuenies, in 
+      <lb ed="#A" n="62"/>Deo esse plures existentias, aut plura esse; 
+      existen<lb ed="#A" n="63" break="no"/>tias dico pro actu ipso existendi: nam, quod 
+      ad<lb ed="#A" n="64" break="no"/>uersarij ex Ricardo de Sancto Victore referunt, 
+      <lb ed="#A" n="65"/>nihil eorum sententiae fauet: imo ex illius verbis 
+      <lb ed="#A" n="66"/>potius nostra confirmari, &amp; eorum opinio 
+      refu<lb ed="#A" n="67" break="no"/>tari manifeste potest. Licet enim lib. 4. de Trini 
+      <!--00111.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>tate, cap. illo 16. concedat communem existentiam, 
+      <lb ed="#A" n="69"/>&amp; cap. 17. existentias incommunicabiles, tamen 
+      no<lb ed="#A" n="70" break="no"/>mine, Existentia, in his duobus capitibus, &amp; 
+      seqq<lb ed="#A" n="71" break="no"/>non intelligit idem quod Scholastici: actum 
+      nem<lb ed="#A" n="72" break="no"/>pe existendi, seu esse, sed totam substantiam, seu 
+      <lb ed="#A" n="73"/>personam, quae dicitur habere esse. Id vero, quod 
+      <lb ed="#A" n="74"/>Scholastici nunc existentiam appellamus, ille 
+      vo<lb ed="#A" n="75" break="no"/>cat esse, &amp; in illis locis semper vnum esse trium 
+      <lb ed="#A" n="76"/>personarum assignat, &amp; nusquam tria, nec cum 
+      <lb ed="#A" n="77"/>additamento illo, relatiua, concedit. Eodem modo 
+      <lb ed="#A" n="78"/>lib. 5. de Trinitate, cap. i.vnum esse concedit trium 
+      <lb ed="#A" n="79"/>personarum, sed discretum existere. Nam apud 
+      <lb ed="#A" n="80"/>ipsum, vt optime explicat Alexand. 1. part. quaest. 
+      <lb ed="#A" n="81"/>44. in corpore, &amp; ad 5. existere non est tantum 
+      es<lb ed="#A" n="82" break="no"/>se, sed ex alio esse in quo iam includitur 
+      proprie<lb ed="#A" n="83" break="no"/>tas personalis. Porro autem existentiam apud 
+      Ri<lb ed="#A" n="84" break="no"/>cardum idem non esse, quod apud Scholasticos, 
+      <lb ed="#A" n="85"/>ita manifesse erit legenti ipsum a cap. 12. vsque ad 
+      <lb ed="#A" n="86"/>20. vt superfluum videatur, nunc aliqua ipsius 
+      ver<lb ed="#A" n="87" break="no"/>ba referre, sed ne lectorem decipere videamur, 
+      <lb ed="#A" n="88"/>subijciemus aliqua ipsius testimonia. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4081">
+                     <lb ed="#A" n="89"/>Capite igitur 1. de nominis Ethymologia sic 
+      <lb ed="#A" n="90"/>loquitur. Nomen existentiae trahitur a verbo, quod est 
+      <lb ed="#A" n="91"/>existere, in verbo sistere notari potest, quod pertinet ad 
+      con<lb ed="#A" n="92" break="no"/>sidetationem vnam, similiter per adiunctam ex 
+      praeposi<lb ed="#A" n="93" break="no"/>tionem notari potest, quod pertinet ad aliam, per id, quod 
+      <lb ed="#A" n="94"/>dicitur aliquid fistere, primum remouentur ea, quae non 
+      <lb ed="#A" n="95"/>tam habent in se esse, quam alicui inesse, non tam sistere 
+      <lb ed="#A" n="96"/>(vt sic dicamus) quam insistere, hoc est, alicui subiecto 
+      in<lb ed="#A" n="97" break="no"/>haerere, &amp; paucis interiectis. Quid est enim existere 
+      <lb ed="#A" n="98"/>nisi ex aliquo sistere? In quibus verbis nota 
+      existen<lb ed="#A" n="99" break="no"/>tiam esse id, quod ex aliquo existit. Deinde cap. 15. 
+      <lb ed="#A" n="100"/>Inuenimus namque, quod plures illae in diuinitate personae, 
+      <lb ed="#A" n="101"/>quamuis habeant vnum, &amp; idem per omnia indifferens 
+      es<lb ed="#A" n="102" break="no"/>se, quod pertinet ad identitatem substantiae, possunt tamen 
+      <lb ed="#A" n="103"/>secundum originalem causam mutuam differentiam ha 
+      <lb ed="#A" n="104"/>bere. Vbi concedit tres personas habete idem esse, 
+      <lb ed="#A" n="105"/>intelligit existentiam, vt Scholastici loquuntur. Et 
+      <lb ed="#A" n="106"/>cap. 16. Existentiam demonstratum est superius, 
+      substan<lb ed="#A" n="107" break="no"/>tiam significare, non tamen simpliciter, sed cum 
+      proprieta<lb ed="#A" n="108" break="no"/>te alicuius denotatione, vbi existentiam appellar, non 
+      <lb ed="#A" n="109"/>actum existendi, nimirum esse, sed ipsam 
+      substan<lb ed="#A" n="110" break="no"/>tiam, quae dicitur esse. Et infra. Communem auten 
+      <lb ed="#A" n="111"/>existentiam dicimus, vbi intelligitur esse habens ex 
+      proprie<lb ed="#A" n="112" break="no"/>tate communi incommunicabilem vero, vbi intelligitur 
+      es<lb ed="#A" n="113" break="no"/>se habens, ex proprietate incommunicabili, ergo apuo 
+      <lb ed="#A" n="114"/>Ricard. existentia est, idem, quod habens esse, non 
+      <lb ed="#A" n="115"/>autem ipsum esse, &amp; actus existendi. Et cap. 17. S. 
+      <lb ed="#A" n="116"/>igitur proprietatibus incommunicabilibus differunt 
+      perso<lb ed="#A" n="117" break="no"/>nae vtique, &amp; incommunicabilibus differunt existentiae, 
+      <lb ed="#A" n="118"/>oportet autem, vt sit incommunicabilis existentia, cui 
+      <lb ed="#A" n="119"/>est incommunicabilis differentia. Quid quaeso clarius 
+      <lb ed="#A" n="120"/>dicere potuit? cum enim asserat ipsas existentias 
+      <lb ed="#A" n="121"/>differre proprietatibus, quae insunt ipsis existen 
+      <lb ed="#A" n="122"/>tijs, &amp; hae sint relationes: consequenter docet, 
+      <lb ed="#A" n="123"/>existentiam esse ipsam hypostasin, quae proprieta 
+      <lb ed="#A" n="124"/>te redditur incommunicabilis, &amp; cui inest 
+      rela<lb ed="#A" n="125" break="no"/>tio. Quod si putaret, existentiam incommunica 
+      <lb ed="#A" n="126"/>bilem esse actum existendi ipsius relationis, non 
+      <lb ed="#A" n="127"/>diceret eam reddi incommunicabilem relatione, 
+      <lb ed="#A" n="128"/>seu proprietate; nec proprietarem, seu 
+      relatio<lb ed="#A" n="129" break="no"/>nem inesse ipsi existentiae. Et cap. 19. in Deo 
+      con<lb ed="#A" n="130" break="no"/>cedit vnum tantum esse, idque ex professo 
+      pro<lb ed="#A" n="131" break="no"/>bat: nusquam vero plura esse Deo tribuit, &amp; asse 
+      <lb ed="#A" n="132"/>rit ibi tantum esse plures habentes vnum esse ex 
+      <lb ed="#A" n="133"/>differenti proprietate, atque addit haec verba. Vni 
+      <lb ed="#A" n="134"/>tas itaque est ibi iuxta modum essendi, pluralitas iuxt 
+      <lb ed="#A" n="135"/>modum existendi, vnitas essentiae, quia vnum, &amp; indiffe¬ 
+      <!--00112.xml-->
+      <pb ed="#A" n="104"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>rens esse, plures personae, quia plures existentiae. Appellat 
+      <lb ed="#A" n="2"/>plures existentias, non actus essendi, sed ipsam 
+      <lb ed="#A" n="3"/>substantiam existentem, seu hypostasin: modum 
+      <lb ed="#A" n="4"/>autem existendi appellat proprietatem, &amp; ex hac 
+      <lb ed="#A" n="5"/>parte concedit in Deo pluralitatem. Et cap. 20. Di 
+      <lb ed="#A" n="6"/>cimus quidem proprietates personis inesse, sed illarum inesse 
+      <lb ed="#A" n="7"/>(si bene perpendimus) non dat subsistere, sec existere, &amp; 
+      id<lb ed="#A" n="8" break="no"/>circo persona rectius dicuntur existentiae, quam subsisten 
+      <lb ed="#A" n="9"/>tiae, vel substantiae. Ideo autem ait proprietates non 
+      <lb ed="#A" n="10"/>dare subsistere, quia paulo ante eodem cap. quae 
+      <lb ed="#A" n="11"/>rens, quomodo dicatur in Deo subsistentia, ve 
+      <lb ed="#A" n="12"/>substantia, inquit: Propter eiusmodi proprietates, quae 
+      <lb ed="#A" n="13"/>personis diuinis inesse videntur, quibus ab inuicem distin 
+      <lb ed="#A" n="14"/>guuntur, iuxta nonnullam eorum similitudinem, quae ve 
+      <lb ed="#A" n="15"/>raciter sibi inhaerentibus subsunt, (quamuis minus proprie 
+      <lb ed="#A" n="16"/>substantiae, vel subsistentiae dici possint. Vbi recusat con 
+      <lb ed="#A" n="17"/>cedere in Deo, substantiam, vel subsistentiam: hae 
+      <lb ed="#A" n="18"/>namque dicuntur ex eo, quod alijs substant, se 
+      <lb ed="#A" n="19"/>quutus nempe doctrinam August. qui 7. de 
+      Tri<lb ed="#A" n="20" break="no"/>nitate, cap. 4. ob eandem causam docet, in Deo 
+      es<lb ed="#A" n="21" break="no"/>se substantiam abusiue, &amp; potius dicendum esse 
+      <lb ed="#A" n="22"/>essentiam. Dixit itaque Ricardus, proprietates 
+      <lb ed="#A" n="23"/>non tribuere personis subsistere, sed existere, quia 
+      <lb ed="#A" n="24"/>faciunt, vt personae existant incommunicabiliter, 
+      <lb ed="#A" n="25"/>siue, vt ex aliquo sint. Cum vero subiungit, 
+      perso<lb ed="#A" n="26" break="no"/>nas rectius dici existentias, quam subsistentias, vel 
+      <lb ed="#A" n="27"/>substantias, plane indicat, ipsam existentiam esse 
+      <lb ed="#A" n="28"/>personam, non autem esse actum existendi, quem 
+      <lb ed="#A" n="29"/>aduersarij tribuunt relationi; sicut substantia, ve 
+      <lb ed="#A" n="30"/>subsistentia non capitur pro actu ipso, sed pro re 
+      <lb ed="#A" n="31"/>subsistente: haec enim abstracta non actum, seu 
+      <lb ed="#A" n="32"/>formam, sed rem ipsam primaria significatione 
+      <lb ed="#A" n="33"/>denotant, vt diximus praecedenti disputatione. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4264">
+                     <lb ed="#A" n="34"/>Differt autem existentia a persona in sententia 
+      <lb ed="#A" n="35"/>Ricardi, etiamsi addas, incommunicabilis, tanquam 
+      <lb ed="#A" n="36"/>genus ab specie; quia non omnis existentia 
+      in<lb ed="#A" n="37" break="no"/>communicabilis est persona, sed solum in natura 
+      <lb ed="#A" n="38"/>rationali. Quare sic definit personam diuinam 
+      <lb ed="#A" n="39"/>idem Ricardus cap. 22. Naturae diuinae incommunica 
+      <lb ed="#A" n="40"/>bilis existentia. Et deinde postquam cap. 22. dixerat 
+      <lb ed="#A" n="41"/>posse etiam definiri per vocem, indiuidua, vt 
+      defi<lb ed="#A" n="42" break="no"/>niuit Boethius, si indiuidua intelligatur, quae per 
+      <lb ed="#A" n="43"/>plures distribui non potest, quod dicimus 
+      incom<lb ed="#A" n="44" break="no"/>municabile; tandem cap. 23. sic incipit. Forrassis erit 
+      <lb ed="#A" n="45"/>planius, &amp; ad intelligendum expeditius, si dicamus, quod 
+      <lb ed="#A" n="46"/>persona sit existens per se solum iuxta singularem quendam 
+      <lb ed="#A" n="47"/>rationalis existentiae modum, quomodo autem, quod 
+      dici<lb ed="#A" n="48" break="no"/>tur existens, accipiendum sit, satis ex superioribus innotuit 
+      <lb ed="#A" n="49"/>dicit, planius, quam si dicatur persona indiuidua 
+      <lb ed="#A" n="50"/>substantia, vt definiuit Boethius. Cum vero 
+      defi<lb ed="#A" n="51" break="no"/>niuit per Existens, pro eodem accepit Existens, &amp; 
+      <lb ed="#A" n="52"/>existentiam, atque ideo dixit, quomodo sit acci 
+      <lb ed="#A" n="53"/>piendum, ex superioribus constare; antea vero 
+      <lb ed="#A" n="54"/>nihil de existente, sed de existentia loquutus fue 
+      <lb ed="#A" n="55"/>fat. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4314">
+                     <lb ed="#A" n="56"/>Mentem Ricardi assecutus fuit Ioannes 
+      Theo<lb ed="#A" n="57" break="no"/>logus Ecclesiae Latinae in Concil. Florent. sess. 19. 
+      <lb ed="#A" n="58"/>post medium multo melius, quam Theologi 
+      ali<lb ed="#A" n="59" break="no"/>qui nostrae aetatis, cum asserit, substantiam 
+      duo<lb ed="#A" n="60" break="no"/>bus modis a Doctoribus intelligi, vno modo pro 
+      <lb ed="#A" n="61"/>rei ratione, &amp; definitione; alio modo pro suppo 
+      <lb ed="#A" n="62"/>sito, subiungit enim statim. Quod alio quoque nomine 
+      <lb ed="#A" n="63"/>hypostasis, vel existentiae; vel res naturae solet appellari, in 
+      <lb ed="#A" n="64"/>genere autem humano eandem substantiam persona signi 
+      <lb ed="#A" n="65"/>cat, quandoquidem persona dicitur esse natura rationis ca 
+      <lb ed="#A" n="66"/>pax, incommunicabilis existentia, ita, vt in rationali spe 
+      <lb ed="#A" n="67"/>cie substantia pro supposito accepta, existentiam atque per 
+      <lb ed="#A" n="68"/>sonam apud omnes illos doctotes significet, qui in Arrium 
+      <!--00112.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>&amp; Macedonium conscripserunt. Ex quibus apparet 
+      <lb ed="#A" n="70"/>loannem pro eodem vsurpare haec tria existentiam, 
+      <lb ed="#A" n="71"/>hypostasin, &amp; substantiam, ipsum videlicet 
+      sup<lb ed="#A" n="72" break="no"/>positum inrationali natura, quod est persona, 
+      er<lb ed="#A" n="73" break="no"/>go non accipit pro actu existendi, quem appellant 
+      <lb ed="#A" n="74"/>Scholastici existere, vel esse; cumque affert 
+      defi<lb ed="#A" n="75" break="no"/>nitionem personae traditam a Ricardo, hanc esse 
+      <lb ed="#A" n="76"/>mentem illius optime nouerat. Haec placuit ita ad 
+      <lb ed="#A" n="77"/>longum referre, parcat obsecro lector, id enim 
+      <lb ed="#A" n="78"/>fecimus, vt ostenderemus, non multum fidendum 
+      <lb ed="#A" n="79"/>esse allegationibus, quae tumultuario, &amp; sine 
+      ma<lb ed="#A" n="80" break="no"/>turo examine afferri solent quibus incertum, vt 
+      <lb ed="#A" n="81"/>satis fiat, non sine temporis detrimento prolixior 
+      <lb ed="#A" n="82"/>fieri solet dispuratio. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4379">
+                     <lb ed="#A" n="83"/>Probatur deinde nostra sententia authoritat. 
+      <lb ed="#A" n="84"/>Damasc. lib. I. de fide cap. 11. vbi assignans differen 
+      <lb ed="#A" n="85"/>tiam inter personas diuinas penes causam &amp; cau 
+      <lb ed="#A" n="86"/>sarum, &amp; proprietates originum, scribit in haec 
+      <lb ed="#A" n="87"/>verba, Ac penes personalem perfectionem, hoc est, existendi 
+      <lb ed="#A" n="88"/>modum, non dixit, penes personales existentias, sed, penes 
+      <lb ed="#A" n="89"/>existendi modum, modum enim existentiae, quis 
+      vn<lb ed="#A" n="90" break="no"/>quam existentiam, hoc est, actum existendi appel 
+      <lb ed="#A" n="91"/>lauit; eodem modo ipsas proprietates 
+      nuncupa<lb ed="#A" n="92" break="no"/>uit 3. de fide, cap. 5. in principio. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e4405">
+                  <head xml:id="tavaz1-d1e196-Hd1e4407">Caput 3</head>
+                  <p xml:id="tavaz1-d1e196-d1e4409">
+                     <lb ed="#A" n="93" type="fixed=104"/>CAPVT III. 
+      <lb ed="#A" n="94"/>Eadem sententia confirmatur ratione.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e4416">
+                     <lb ed="#A" n="95"/>EX praedicto testimonio Damasceni deducitur 
+      <lb ed="#A" n="96"/>prima ratio pro nostra sententia. Nam si hu 
+      <lb ed="#A" n="97"/>manitas, &amp; quaeuis natura creata dicitur haber 
+      <lb ed="#A" n="98"/>vnam tantum existentiam, siue sit in alio, siue per 
+      <lb ed="#A" n="99"/>subsistat, &amp; ex eo solum, quod per se existat, non 
+      <lb ed="#A" n="100"/>dicitur habere nouum actum existendi, hec 
+      no<lb ed="#A" n="101" break="no"/>uam existentiam, etiam personalem, sed houum 
+      <lb ed="#A" n="102"/>modum existendi, cum tamen modus exisientiae 
+      <lb ed="#A" n="103"/>per se ab existentia substantia realiter differar. 
+      <lb ed="#A" n="104"/>quando ab ea separari potest, multo magis 
+      conse<lb ed="#A" n="105" break="no"/>quitur, vnam personam diuinam ex eo, quod 
+      exi<lb ed="#A" n="106" break="no"/>stat existentia substantiali essentiae, &amp; praeter eam 
+      <lb ed="#A" n="107"/>habet proprietatem personalem, quae est modus 
+      <lb ed="#A" n="108"/>existendi, &amp; ab ea solum ratione distinctus non 
+      <lb ed="#A" n="109"/>habere duplicem existentiam, etiam secundum 
+      <lb ed="#A" n="110"/>nostrum modum intelligendi, sed eandem, quam 
+      <lb ed="#A" n="111"/>habet alia persona, alio tamen modo. Modum 
+      au<lb ed="#A" n="112" break="no"/>tem per se existendi non addere rei nouam 
+      exi<lb ed="#A" n="113" break="no"/>stentiam, sed nouum existendi modum, constat 
+      <lb ed="#A" n="114"/>in natura humana per se, &amp; in alio existenti, vt in 
+      <lb ed="#A" n="115"/>Christo, &amp; accidentibus in subiecto, &amp; deinde 
+      <lb ed="#A" n="116"/>per se, cum in Sacramento altaris sine subiecto re 
+      <lb ed="#A" n="117"/>linquuntur. Neque enim vna existentia modifi 
+      <lb ed="#A" n="118"/>catur aliam, nec vna additur alteri, tanquam 
+      mo<lb ed="#A" n="119" break="no"/>dus illius. Itaque quilibet modus existendi in 
+      vni<lb ed="#A" n="120" break="no"/>uersum non est noua existentia, etiamsi ab 
+      exi<lb ed="#A" n="121" break="no"/>stentia realiter differat, quamuis de alijs modis a 
+      <lb ed="#A" n="122"/>liter sentiendum sit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4479">
+                     <lb ed="#A" n="123"/>Secunda ratio contra priorem sententiam, &amp; 
+      <lb ed="#A" n="124"/>in confirmationem nostrae esse potest 
+      huiusmo<lb ed="#A" n="125" break="no"/>di: Si in Deo essent tres existentiae relatiuae, hoc 
+      <lb ed="#A" n="126"/>est tres actus existendi, essent etiam tres 
+      duratio<lb ed="#A" n="127" break="no"/>nes relatiuae, vt aduersarij intrepide concedunt; 
+      <lb ed="#A" n="128"/>ergo absolute sine illo additamento, relatiuae, tres 
+      <lb ed="#A" n="129"/>durationes concedi deberent: nam, sicut 
+      conce<lb ed="#A" n="130" break="no"/>dimus tres res, absque vlla limitatione, eo, quod 
+      <lb ed="#A" n="131"/>res transcendens, vt probauimus disput. 122. cap. 3. 
+      <lb ed="#A" n="132"/>&amp; 7. eodem modo concedi deberent tres 
+      existen<lb ed="#A" n="133" break="no"/>tiae, &amp; durationes absque vllo additamento: cum 
+      <lb ed="#A" n="134"/>enim existentia ex sententia aduersariorum nihi 
+      <lb ed="#A" n="135"/>aliud sit, quam entitas aliqua actualis; &amp; entita 
+      <!--00113.xml-->
+      <pb ed="#A" n="105"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>idem sit, quod res actu, sequitur tres esse 
+      duratio<lb ed="#A" n="2" break="no"/>nes, etiam res, e entitates concedunt. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4521">
+                     <lb ed="#A" n="3"/>Respondent aliqui, ideo non esse tres 
+      existen<lb ed="#A" n="4" break="no"/>tias, &amp; durationes sine additamento 
+      conceden<lb ed="#A" n="5" break="no"/>das, quia haec sunt duo praedicata transcendenta 
+      <lb ed="#A" n="6"/>lia, quae conueniunt relationibus ratione essen 
+      <lb ed="#A" n="7"/>tiae; putant enim essentiam formaliter, &amp; 
+      secun<lb ed="#A" n="8" break="no"/>dum nostram rationem includi in relationibus, 
+      <lb ed="#A" n="9"/>vt retulimus disput. 111. cap. 1. quare, cum sit vna 
+      <lb ed="#A" n="10"/>existentia inclusa in tribus personis, &amp; solum 
+      dis<lb ed="#A" n="11" break="no"/>ferat per diuersum modum denominationis, non 
+      <lb ed="#A" n="12"/>debent dici plures existentiae sine additamento, 
+      <lb ed="#A" n="13"/>nec plures durationes. Verum, si aduersarij con 
+      <lb ed="#A" n="14"/>cedunt, illam vnam existentiam, quae transcendit 
+      <lb ed="#A" n="15"/>tres proprietates, multiplicari, quatenus illis 
+      con<lb ed="#A" n="16" break="no"/>iungitur, ita, vt sint plures durationes, &amp; existen 
+      <lb ed="#A" n="17"/>tiae relatiuae, cur non erunt concedenda sine vllo 
+      <lb ed="#A" n="18"/>additamento plures existentiae, &amp; durationes, 
+      si<lb ed="#A" n="19" break="no"/>quidem ita est transcendens existentia, &amp; duratio 
+      <lb ed="#A" n="20"/>sicut res? Quocirca, ne sine additamento 
+      coga<lb ed="#A" n="21" break="no"/>mur asserere tres in Deo existentias, &amp; tres dura 
+      <lb ed="#A" n="22"/>tiones, sicut concedimus tres res; melius erit 
+      di<lb ed="#A" n="23" break="no"/>cere, existentiam, &amp; durationem non esse trans 
+      <lb ed="#A" n="24"/>cendentia, sicut est res, &amp; ens: haec enim nomina 
+      <lb ed="#A" n="25"/>etiam de modis rei dicuntur; at existentia cum va 
+      <lb ed="#A" n="26"/>rios recipiat modos, &amp; vna existentia non modi 
+      <lb ed="#A" n="27"/>ficetur aliam: modus existendi non dicitur exi 
+      <lb ed="#A" n="28"/>stentia, sed dicitur aduenire existentiae rei, &amp; per 
+      <lb ed="#A" n="29"/>eandem existentiam rei existere dicitur; quia ita 
+      <lb ed="#A" n="30"/>est modus, vt non nisi alterius esse dicatur. Ex 
+      <lb ed="#A" n="31"/>quibus soluitur ratio, quam primo capite pro hac 
+      <lb ed="#A" n="32"/>sententia adduximus; dicimus itaque, 
+      existen<lb ed="#A" n="33" break="no"/>tiam esse actualem entitatem, vel rem, non quan 
+      <lb ed="#A" n="34"/>cumque, sed talem, qua consequitur aliquam exi 
+      <lb ed="#A" n="35"/>stentiam, vel entitatem actualem, vt modus illius 
+      <lb ed="#A" n="36"/>nam entitas quae consequitur existentiam, &amp; 
+      ip<lb ed="#A" n="37" break="no"/>sam modificatur, non dicitur existentia, se dmodus 
+      <lb ed="#A" n="38"/>existentiae: existentiae enim non aduenit 
+      existen<lb ed="#A" n="39" break="no"/>tia, nec vna existentia existit per aliam, licet 
+      exi<lb ed="#A" n="40" break="no"/>stentia faciat, rem existere tali, vel tali modo, 
+      pro<lb ed="#A" n="41" break="no"/>ut ipsi aduenit talis, aut talis modus 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4609">
+                     <lb ed="#A" n="42"/>At obijcias nobis hoc modo. In Deo est pro 
+      <lb ed="#A" n="43"/>ductio personae: omnis autem productio, sicut 
+      <lb ed="#A" n="44"/>ad aliquid productum terminatur, ita etiam ali 
+      <lb ed="#A" n="45"/>quam existentiam producit: cum igitur distincta 
+      <lb ed="#A" n="46"/>persona producatur, sequitur distinctam etian 
+      <lb ed="#A" n="47"/>existentiam produci. Verum, si hoc argumentum 
+      <lb ed="#A" n="48"/>alicuius momenti esset, eodem modo probaret. 
+      <lb ed="#A" n="49"/>in persona procedente nouam naturam, &amp; essen 
+      <lb ed="#A" n="50"/>tiam produci. Nam si productio ad existentiam 
+      <lb ed="#A" n="51"/>productam terminatur; ad essentiam quoque 
+      pro<lb ed="#A" n="52" break="no"/>ductam terminari debet. Caeterum sicut in diui 
+      <lb ed="#A" n="53"/>nis dicimus, esse aliud genus productionis, quo 
+      <lb ed="#A" n="54"/>scilicet non natura, &amp; essentia producitur, sed 
+      ea<lb ed="#A" n="55" break="no"/>dem essentia personae producentis, personae 
+      pro<lb ed="#A" n="56" break="no"/>ductae communicatur, idem etiam de existentia, 
+      <lb ed="#A" n="57"/>&amp; esse, quod idem prorsus sunt, dici debet; 
+      nem<lb ed="#A" n="58" break="no"/>pe productionem diuinae personae esse quidem 
+      <lb ed="#A" n="59"/>productionem personae distinctae a producente 
+      <lb ed="#A" n="60"/>sed per eam communicari personae productae idem 
+      <lb ed="#A" n="61"/>esse, &amp; existentiam, &amp; eandem naturam. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4655">
+                     <lb ed="#A" n="62"/>Neque vero dicendum est, solum 
+      personalita<lb ed="#A" n="63" break="no"/>tem esse id, quod producitur, sed personam, qua 
+      <lb ed="#A" n="64"/>ex essentia, &amp; personalitate nostro modo intelli 
+      <lb ed="#A" n="65"/>gendi constat: ita, vt eadem essentia personae 
+      pro<lb ed="#A" n="66" break="no"/>ducentis communicetur personae productae, &amp; 
+      <lb ed="#A" n="67"/>constituatur alia persona penes hoc, quod illa 
+      di<lb ed="#A" n="68" break="no"/>uersa relatione subsistat, quae eandem essentiam, &amp; 
+      <!--00113.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>existentiam ad esse nouae personae modificetur, &amp; 
+      <lb ed="#A" n="70"/>determinet: non tamen, quia generatio solum 
+      <lb ed="#A" n="71"/>producat modum huius existentiae, nempe 
+      rela<lb ed="#A" n="72" break="no"/>tione. In generatione autem personae creatae ali 
+      <lb ed="#A" n="73"/>ter contingit: quia natura geniti cum modo per 
+      <lb ed="#A" n="74"/>se existendi producitur: &amp; modus ille non diuer 
+      <lb ed="#A" n="75"/>sa productione fit, quia neque diuersam existen 
+      <lb ed="#A" n="76"/>tiam habet, ab existentia naturae: sed illam 
+      modi<lb ed="#A" n="77" break="no"/>ficatur, &amp; determinat. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4697">
+                     <lb ed="#A" n="78"/>Tertia ratio esse potest: quia ex opposita 
+      opi<lb ed="#A" n="79" break="no"/>nione sequeretur, esse in Deo concedendas tres 
+      <lb ed="#A" n="80"/>aeternitates, quod est contra Symbolum Athana 
+      <lb ed="#A" n="81"/>sij, Non tres aeterni, sed vnus aternus, vbi plane somi 
+      <lb ed="#A" n="82"/>tur nomen, ateruus, non adiectiue, sed substantiue 
+      <lb ed="#A" n="83"/>nempe pro aeternitate, nam si sunt tres duratio 
+      <lb ed="#A" n="84"/>nes sine principio, &amp; fine, &amp; sine successione; 
+      se<lb ed="#A" n="85" break="no"/>quitur esse tres aeternitates: haec enim est 
+      defini<lb ed="#A" n="86" break="no"/>tio aeternitatis. Quod si dicat, tres aeternitates 
+      re<lb ed="#A" n="87" break="no"/>latiuas posse concedi, non tamen sine 
+      additamen<lb ed="#A" n="88" break="no"/>to: contra hoc est, quod supra diximus, de 
+      existen<lb ed="#A" n="89" break="no"/>tia &amp; duratione. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4726">
+                     <lb ed="#A" n="90"/>Sed respondent aliqui, non posse vllo modo, 
+      <lb ed="#A" n="91"/>nec cum illa limitatione, Relatiuas, concedi tres 
+      <lb ed="#A" n="92"/>aeternitates, sicut conceduntur tres durationes; 
+      <lb ed="#A" n="93"/>rationem vero discriminis assignant, quia de 
+      ra<lb ed="#A" n="94" break="no"/>tione aeternitatis, est non tantum duratio sine 
+      prin<lb ed="#A" n="95" break="no"/>cipio. &amp; fine, &amp; tota simul; sed etiam perfectissi 
+      <lb ed="#A" n="96"/>ma duratio, quam nulla relatio ex se habet, sed ex 
+      <lb ed="#A" n="97"/>natura, quam in se includit: connotatque, vt 
+      fun<lb ed="#A" n="98" break="no"/>damentum immutabilitatem naturae. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e4748">
+                     <lb ed="#A" n="99"/>Ego quidem verissimum existimo, 
+      aeternita<lb ed="#A" n="100" break="no"/>tem esse durationem perfectissimam: quae 
+      ratio<lb ed="#A" n="101" break="no"/>ne naturae conuenit Deo, distinctam ab 
+      immu<lb ed="#A" n="102" break="no"/>tabilitate, secundum rationem, vt notaui supra, 
+      <lb ed="#A" n="103"/>q. 9. quare si aeternitas in sua ratione non 
+      includi<lb ed="#A" n="104" break="no"/>immutabilitatem naturae, sed illam supponit, non 
+      <lb ed="#A" n="105"/>est cur relationibus, secundum rationem 
+      relatio<lb ed="#A" n="106" break="no"/>num non conueniat: si illis conuenit etiam 
+      pro<lb ed="#A" n="107" break="no"/>pria duratio. Ex eo vero, quod dicitur, durationem 
+      <lb ed="#A" n="108"/>relationum non esse perfectissimam, qualis est 
+      il<lb ed="#A" n="109" break="no"/>la naturae, sequitur majus absurdum; nempe in 
+      <lb ed="#A" n="110"/>Deo esse vnam durationem perfectissimam, &amp; 
+      <lb ed="#A" n="111"/>tres minus perfectas. Deinde si illae tres 
+      duratio<lb ed="#A" n="112" break="no"/>nes relatiuae non sunt aeternitates, cum sint 
+      dura<lb ed="#A" n="113" break="no"/>tiones sine principio, &amp; fine, vel erunt tempus 
+      <lb ed="#A" n="114"/>discretum, vel aeua, sicut Angelorum durationes. 
+      <lb ed="#A" n="115"/>vel aeternitates participatae, vel denique genus ali 
+      <lb ed="#A" n="116"/>quod nouum durationum: quae monstra 
+      sequun<lb ed="#A" n="117" break="no"/>tur ex eo, quod semel in Deo plures existentes 
+      <lb ed="#A" n="118"/>pluresque durationes concedamus. Valeat ergo 
+      <lb ed="#A" n="119"/>contraria opinio, &amp; cum Parribus asseramus, tres 
+      <lb ed="#A" n="120"/>personas habere vnum esse existentiae, vnam 
+      dura<lb ed="#A" n="121" break="no"/>tionem, vnam aeternitatem. Et haec satis circa 
+      do<lb ed="#A" n="122" break="no"/>cttinam huius articuli. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e4805"><!-- vaz-p1q29a3 -->
+               <head xml:id="tavaz1-d1e196-Hd1e4808">Articulus 3</head>
+               <p xml:id="tavaz1-d1e196-d1e4810">
+                  <lb ed="#A" n="15" type="fixed=107"/>Obseruationes circa doctrinam Articuli. 
+      <lb ed="#A" n="16"/>Onclusio articuli est affirmans, &amp; certissima 
+      <lb ed="#A" n="17"/>secundum fidem: dicitur enim in Symbolo 
+      <lb ed="#A" n="18"/>Athanasij, Alia estenim persona Patris, alia Filij, alia 
+      <lb ed="#A" n="19"/>Spiritus sancti. In Concilio etiam Tolet. XI. Late 
+      <lb ed="#A" n="20"/>ranensi sub Innocent. III. &amp; refertur in capite, 
+      Fir<lb ed="#A" n="21" break="no"/>miter, de summa Trinitate, &amp; fide Catholica, no 
+      <lb ed="#A" n="22"/>minae personae vtuntur Patres ad explicandum 
+      <lb ed="#A" n="23"/>mysterium Trinitatis: id quod familiare est 
+      om<lb ed="#A" n="24" break="no"/>nibus Patribus, &amp; Consilijs, quae nomine 
+      hypo<lb ed="#A" n="25" break="no"/>stasis hoc mysterium explicant: vt videre est in ijs 
+      <lb ed="#A" n="26"/>quae citauimus disput. 124. Persona autem Graeco 
+      <lb ed="#A" n="27"/>dicitur πρόσοπον, Prosopon, &amp; vt constat ex dictis 
+      <lb ed="#A" n="28"/>expositione literae articuli praecedentis, &amp; disput 
+      <lb ed="#A" n="29"/>126. latius patet hypostasis, seu subsistentia, quam 
+      <lb ed="#A" n="30"/>persona: haec enim solum est in natura rationali, 
+      <lb ed="#A" n="31"/>illa vero in quacumque substantia. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e4849">
+                  <lb ed="#A" n="32"/>Sed <name xml:id="tavaz1-d1e196-Nd1e4853">Laurentius Valla</name> 6. elegantiarum, eap. 34. 
+      <lb ed="#A" n="33"/>solita dicendi libertate ait in haec verba. Persona 
+      <lb ed="#A" n="34"/>non magis est in homine, quam in bruto. Et infra. Quod 
+      <lb ed="#A" n="35"/>si de Deo dicenda est, non magis significabit substantiam, 
+      <lb ed="#A" n="36"/>quam qualitatem, quia tam in Deo, quam in homine no 
+      <lb ed="#A" n="37"/>men persona significat qualitatem alicuius substantiae, qua 
+      <lb ed="#A" n="38"/>vna differt ab alia: qualitatem inquam tam animi, quam 
+      <lb ed="#A" n="39"/>corporis, ita externam, quam internam qualitatem ani 
+      <lb ed="#A" n="40"/>mi, vt quo studio se exerceat aliquis, an sit medicus, 
+      ve<lb ed="#A" n="41" break="no"/>Theologus, qualitatem corporis internam, vt sit iuuenis 
+      au<lb ed="#A" n="42" break="no"/>senex, externam vero, an sit maritus, an celebs. Eodem 
+      <lb ed="#A" n="43"/>modo putat in Deo tres dici personas, quia in eo 
+      <lb ed="#A" n="44"/>tres significantur qualitates paternitas nimirum, 
+      <lb ed="#A" n="45"/>filiatio, &amp; spiratio: nisi, quod istae qualitates non 
+      <lb ed="#A" n="46"/>possunt separari ab ipso Deo, sicut qualitates 
+      ho<lb ed="#A" n="47" break="no"/>minum ab eis. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e4888">
+                  <lb ed="#A" n="48"/>Verum hic author manifeste errat, dum 
+      con<lb ed="#A" n="49" break="no"/>tra communem vsum Conciliorum, &amp; Patrum 
+      <lb ed="#A" n="50"/>nomen, Persona, refert ad solam qualitatem, non 
+      <lb ed="#A" n="51"/>ad substantiam, &amp; non magis in bruto, quam in 
+      <lb ed="#A" n="52"/>Deo illam esse concedit, cum solum existentia ta 
+      <lb ed="#A" n="53"/>tionalis naturae persona dicatur, vt ex superiori 
+      <lb ed="#A" n="54"/>bus constat. Porro autem hoc nomen significare 
+      <lb ed="#A" n="55"/>qualitatem, probatur, quia non dicimus aliam 
+      es<lb ed="#A" n="56" break="no"/>se personam eiusdem hominis iuuenis, &amp; senis 
+      <lb ed="#A" n="57"/>medici, &amp; Theologi, quod si solam qualitatem 
+      <lb ed="#A" n="58"/>significaret, diuersa esset dicenda persona iuuenis 
+      <lb ed="#A" n="59"/>senis, &amp;c. 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e4917">
+                  <lb ed="#A" n="60"/>Neque obstat, quod intertoganti, quae persona 
+      <lb ed="#A" n="61"/>est Petrus, respondere solemus per qualitates; est 
+      <lb ed="#A" n="62"/>iuuenis, est Theologus, &amp;c. id enim facimus, quia 
+      <lb ed="#A" n="63"/>per qualitates substantiam illius explicamus, 
+      ve<lb ed="#A" n="64" break="no"/>certe, quia ea forma interrogandi inquiri solet de 
+      <lb ed="#A" n="65"/>qualitate ipsius personae. Cum autem 
+      dicimu<lb ed="#A" n="66" break="no"/>eundem hominem multiplicem esse personam 
+      <!--00115.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="67"/>&amp; quia priuata persona est, &amp; quia gerit personam 
+      <lb ed="#A" n="68"/>magistratus; id circo ita loquimur, quia ipse 
+      sub<lb ed="#A" n="69" break="no"/>stantialiter est vna persona, &amp; aliam repraesentat, 
+      <lb ed="#A" n="70"/>nempe personam Principis, vel fictam aliquam 
+      <lb ed="#A" n="71"/>personam totius reipublicae, vt obseruauit S. 
+      Tho<lb ed="#A" n="72" break="no"/>mas in solutione 2 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e4953">
+                  <lb ed="#A" n="73"/>Proponit autem Caietanus duas dubitationes 
+      <lb ed="#A" n="74"/>circa textum S. Thomae. Prior est circa id, quod 
+      <lb ed="#A" n="75"/>aassumit in sua ratione, nempe perfectissimum in 
+      <lb ed="#A" n="76"/>natura esse personam. Ratio vero dubitandi est 
+      <lb ed="#A" n="77"/>quia perfectior multo est natura, quam persona. 
+      <lb ed="#A" n="78"/>Respondet ipse, personam ideo dici 
+      perfectissi<lb ed="#A" n="79" break="no"/>mum in natura, non quia personalitas, hoc est, 
+      vl<lb ed="#A" n="80" break="no"/>timus terminus personae, sit perfectior, quam 
+      ip<lb ed="#A" n="81" break="no"/>sa natura, sed quia runc natura dicitur esse 
+      perfe<lb ed="#A" n="82" break="no"/>ctiori modo, quando per se est completa 
+      persona<lb ed="#A" n="83" break="no"/>litate: persona enim includit ipsam naturam, 
+      ad<lb ed="#A" n="84" break="no"/>dit etiam complementum, videlicet 
+      personalita<lb ed="#A" n="85" break="no"/>tem. Sed obijcit sibi: Indiuidua materialia sunt 
+      <lb ed="#A" n="86"/>minus perfecta, quam natura ipsa, quia indiuidua 
+      <lb ed="#A" n="87"/>dicuntur esse propter naturam, sicut propter 
+      per<lb ed="#A" n="88" break="no"/>fectissimum: ergo non est perfectissimo modo 
+      <lb ed="#A" n="89"/>natura, quando per se, &amp; constituta in ratione 
+      per<lb ed="#A" n="90" break="no"/>sonae. Respondet ipse naturam includi in indiui 
+      <lb ed="#A" n="91"/>duo, vt ita ostendat indiuiduum non esse minus 
+      <lb ed="#A" n="92"/>perfectum. Deinde respondet, hic sermonem 
+      es<lb ed="#A" n="93" break="no"/>se de persona, non materiali tantum, sed 
+      vniuer<lb ed="#A" n="94" break="no"/>sum, vt communis est materiali, &amp; spirituali. Ego 
+      <lb ed="#A" n="95"/>tamen absolute dicerem, indiuiduum etiam 
+      mate<lb ed="#A" n="96" break="no"/>riale per se subsistens esse perfectiori modo, quam 
+      <lb ed="#A" n="97"/>ipsam naturam sine illo modo, &amp; ita personam 
+      es<lb ed="#A" n="98" break="no"/>se, quid perfectissimum naturae, 
+      </p>
+               <p xml:id="tavaz1-d1e196-d1e5012">
+                  <lb ed="#A" n="99"/>Altera dubitatio est. Si verum est, quod ait 
+      San<lb ed="#A" n="100" break="no"/>ctus Thomas, personam esse, quid perfectissimi 
+      <lb ed="#A" n="101"/>naturae, &amp; dignitatem continere, quatenus per 
+      <lb ed="#A" n="102"/>sona est: efficitur, in Deo esse tres dignitates, quae 
+      <lb ed="#A" n="103"/>sunt tres personae. Respondet Caietan. personam 
+      <lb ed="#A" n="104"/>includere aliquid perfectionis in Deo, scilicet 
+      na<lb ed="#A" n="105" break="no"/>turam, &amp; aliquid abstractum a perfectione &amp; im 
+      <lb ed="#A" n="106"/>perfectione, nempe relationem. Verum contta 
+      <lb ed="#A" n="107"/>ipsum probauimus disput. 121. cap. 2. relationem 
+      <lb ed="#A" n="108"/>quoque ad Dei perfectionem pertinere: quo 
+      au<lb ed="#A" n="109" break="no"/>tem pacto inde non sequatur esse in Deo tres 
+      <lb ed="#A" n="110"/>perfectiones reales, &amp; aliquam in vna persona, 
+      <lb ed="#A" n="111"/>quae non sit in illa, explicauimus etiam ibidem. 
+      <lb ed="#A" n="112"/>caps. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e5046"><!-- vaz-p1q29a4 -->
+               <head xml:id="tavaz1-d1e196-Hd1e5049">Articulus 4</head>
+               <p xml:id="tavaz1-d1e196-d1e5051">
+                  <lb ed="#A" n="33" type="fixed=109"/>COnclusio articuli est. Persona diuina significa 
+      <lb ed="#A" n="34"/>relationem, vt subsistentem: vtrum autem relatio 
+      <lb ed="#A" n="35"/>significetur directe, &amp; in recto, an consequenter 
+      <lb ed="#A" n="36"/>&amp; in obliquo, non est tam manifestum apud 
+      Do<lb ed="#A" n="37" break="no"/>ctorem sanctum: eius tamen mentem, &amp; rei 
+      veri<lb ed="#A" n="38" break="no"/>tatem in disputatione elucidamus. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e196-Dd1e5068"><!-- vaz-p1q29a4-d127 -->
+               <head xml:id="tavaz1-d1e196-Hd1e5071">Disputatio 127</head>
+               <head xml:id="tavaz1-d1e196-Hd1e5073" type="question-title">
+    Utrum nomen, Persona, significet 
+    relationem, an substantiam
+  </head>
+               <p xml:id="tavaz1-d1e196-d1e5076">
+                  <lb ed="#A" n="39" type="fixed=109"/>DISPVTATIO CXXVII. 
+      <lb ed="#A" n="40"/>Vtrum nomen, Persona, significet 
+      relatio<lb ed="#A" n="41" break="no"/>nem, an substantiam. 
+      </p>
+               <div xml:id="tavaz1-d1e196-Dd1e5085">
+                  <head xml:id="tavaz1-d1e196-Hd1e5087">Caput 1</head>
+                  <p xml:id="tavaz1-d1e196-d1e5089">
+                     <lb ed="#A" n="42" type="fixed=109"/>CAPVT I. 
+      <lb ed="#A" n="43"/>Variae Scholasticorum opiniones. 
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e5096">
+                     <lb ed="#A" n="44"/>IN hac re prima opinio est Scori in primum 
+      di<lb ed="#A" n="45" break="no"/>Istinct25. quaest.1. qui probabilius existimat, 
+      no<lb ed="#A" n="46" break="no"/>men, persona, directe nec significare substantiam, 
+      <lb ed="#A" n="47"/>nec telationem, sed negationem solam. Prius sic 
+      <lb ed="#A" n="48"/>probat, quia substantia in diuinis singulariter 
+      di<lb ed="#A" n="49" break="no"/>citur: persona autem pluraliter: ergo persona 
+      <lb ed="#A" n="50"/>non significat substantiam. Posterius sic ostendit 
+      <lb ed="#A" n="51"/>Ad quocumque refertur relatum inferius, 
+      refer<lb ed="#A" n="52" break="no"/>tur etiam superius, &amp; illius esse dicitur; veluti si 
+      <lb ed="#A" n="53"/>hoc duplum dicitur huius dimidij; duplum, 
+      eo<lb ed="#A" n="54" break="no"/>dem modo duplum in vniuersum dicetur 
+      dimi<lb ed="#A" n="55" break="no"/>dij duplum. Praeterea, si hoc duplum dicitur 
+      re<lb ed="#A" n="56" break="no"/>latum huius dimidij, sic etiam duplum vniuerse 
+      <lb ed="#A" n="57"/>dicetur relatum dimidij: ergo si, persona, signifi¬ 
+      <!--00117.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="58"/>cat telationem, relate etiam dicetur ad illum 
+      ter<lb ed="#A" n="59" break="no"/>minum, ad quem refertur relatio ipsa, quam sig 
+      <lb ed="#A" n="60"/>nificat: quare sicut dicimus, filius est patris, 
+      fi<lb ed="#A" n="61" break="no"/>lius, &amp; est relatum patris: sic etiam dicere 
+      posse<lb ed="#A" n="62" break="no"/>mus, persona filij est persona patris, quod est 
+      ab<lb ed="#A" n="63" break="no"/>surdum: ergo persona non significat relationem. 
+      <lb ed="#A" n="64"/>Addit autem Scotus, nomen persona significare 
+      <lb ed="#A" n="65"/>negationem directe, sed connotare tria positiua: 
+      <lb ed="#A" n="66"/>quia vltimum complementum personae putat 
+      es<lb ed="#A" n="67" break="no"/>se negationem communicationis, &amp; tanquam 
+      <lb ed="#A" n="68"/>vniuersalis, &amp; tanquam partis, qua negatione res 
+      <lb ed="#A" n="69"/>dicitur esse non in alio: de quo plura in tertiam 
+      <lb ed="#A" n="70"/>partem S. Thomae, quaest. 4. artic. 2. dicemus. Tria 
+      <lb ed="#A" n="71"/>vero connotata personae diuinae, haec inquit esse 
+      <lb ed="#A" n="72"/>Primum est Pater, Filius, &amp; Spiritus sanctus, sic 
+      <lb ed="#A" n="73"/>ut quoddam inferius contentum sub illa 
+      negatio<lb ed="#A" n="74" break="no"/>ne. Secundum est relatio ipsa paternitatis, 
+      filiatio<lb ed="#A" n="75" break="no"/>nis, aut processionis, fatione cuius conuenit 
+      per<lb ed="#A" n="76" break="no"/>sonae illa negatio. Tertium connotatum est essen 
+      <lb ed="#A" n="77"/>tia diuina quam persona includit. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5177">
+                     <lb ed="#A" n="78"/>Verum haec sententia amplectenda non est: 
+      <lb ed="#A" n="79"/>quia sicut in tertiam partem latius ostendemus 
+      <lb ed="#A" n="80"/>persona directe non significat negationem, licet 
+      <lb ed="#A" n="81"/>aliquando negatione explicetur. Et quamuis in 
+      <lb ed="#A" n="82"/>humanis non sit ita facile assignare modum 
+      pe<lb ed="#A" n="83" break="no"/>culiatem, quo contrahitur natura, vt sit persona 
+      <lb ed="#A" n="84"/>in diuinis, tamen manifestus est modus: sunt 
+      <lb ed="#A" n="85"/>enim proprietates personales, seu relationes, in 
+      <lb ed="#A" n="86"/>quibus numerum personarum agnoscit, &amp; 
+      cele<lb ed="#A" n="87" break="no"/>brat Ecclesia, non in negationibus: male ergo 
+      <lb ed="#A" n="88"/>Scotus putat, ditecte, &amp; formaliter nomen, 
+      per<lb ed="#A" n="89" break="no"/>sona, significare hegationem: de quo iterum 
+      dis<lb ed="#A" n="90" break="no"/>putat. 130. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5208">
+                     <lb ed="#A" n="91"/>Es alijs vero, qui censent nomen hoc positi 
+      <lb ed="#A" n="92"/>uam rem significare, non omnes eodem modo 
+      <lb ed="#A" n="93"/>de illius significato directo loquuntur. Secunda 
+      <lb ed="#A" n="94"/>igitur opinio in ordine est eiusdem Scoti in 
+      pri<lb ed="#A" n="95" break="no"/>mum distinct. 27. quaest. 1. &amp; distinct. 15. 
+      quaestio<lb ed="#A" n="96" break="no"/>ne etiam prima, qui affirmat, homen hoc non 
+      <lb ed="#A" n="97"/>significare relationem, nec substantiam, sed quid 
+      <lb ed="#A" n="98"/>commune relationi, &amp; substantiae: si dicamus non 
+      <lb ed="#A" n="99"/>negationem, sed positiuum significare, quod ipse 
+      <lb ed="#A" n="100"/>Scotus probabile etiam esse censet. Hanc 
+      senten<lb ed="#A" n="101" break="no"/>tiam late impugnat Durandus in primum dist. 23. 
+      <lb ed="#A" n="102"/>quaest.t. num. 16. ostendens impossibile esse dat. 
+      <lb ed="#A" n="103"/>aliquid commune absoluto, &amp; relatiuo, nisi solo 
+      <lb ed="#A" n="104"/>homine: id quod, &amp; nos disputat. 130. cap. 3. obi 
+      <lb ed="#A" n="105"/>ter probabimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5244">
+                     <lb ed="#A" n="106"/>Tertia sententia est eiusdem Durandi ibi num 
+      <lb ed="#A" n="107"/>24. asserentis nomen, persona, in diuinis, nec rela 
+      <lb ed="#A" n="108"/>tionem, nec substantiam, nec negationem 
+      signi<lb ed="#A" n="109" break="no"/>ficare directe, sed denominationem quandam 
+      se<lb ed="#A" n="110" break="no"/>cundae (vt ipse vocat) intentionis: veluti nomen 
+      <lb ed="#A" n="111"/>etiam indiuiduum, quod secundam intentionem 
+      <lb ed="#A" n="112"/>significat. Quare autem nomen indiuiduum 
+      signifi<lb ed="#A" n="113" break="no"/>cet secundam intentionem, nec probat Durandus, 
+      <lb ed="#A" n="114"/>hec explicat, sed, vt notum supponit. Hanc 
+      sen<lb ed="#A" n="115" break="no"/>tentiam refutauimus infra disput. 130. cap. 2. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5268">
+                     <lb ed="#A" n="116"/>Quarta opinio est Caietani in hunc articulum 
+      <lb ed="#A" n="117"/>qui censet nomen, Persona, in Deo significare for 
+      <lb ed="#A" n="118"/>maliter, &amp; directe relationem; materialiter vero 
+      <lb ed="#A" n="119"/>&amp; quasi consequenter, vel non directe substan 
+      <lb ed="#A" n="120"/>tiam: cuius sententiae putat esse B. Thom. in hoc 
+      <lb ed="#A" n="121"/>eodem articulo; imo censet mutasse illam, quam 
+      <lb ed="#A" n="122"/>prius fuerat secutus quaest. 9. de potentia, artic. 4 
+      <lb ed="#A" n="123"/>vbi docuerat, nomen, Persona, significare directe 
+      <lb ed="#A" n="124"/>substantiam, non directe autem relationem. 
+      Sua<lb ed="#A" n="125" break="no"/>deri autem potest id, quod dicit Caietanus; quia 
+      <!--00118.xml-->
+      <pb ed="#A" n="110"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>nomen persona directe significat proprietatem 
+      <lb ed="#A" n="2"/>personalem, &amp; connotat, seu non directe signifi 
+      <lb ed="#A" n="3"/>cat naturam, quae contrahitur proprietate: pro 
+      <lb ed="#A" n="4"/>prietas autem personalis in diuinis est relatio; 
+      na<lb ed="#A" n="5" break="no"/>ra vero est substantia: ergo nomen persona di 
+      <lb ed="#A" n="6"/>recte significat relationem, &amp; connotat substan 
+      <lb ed="#A" n="7"/>tiam. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5314">
+                     <lb ed="#A" n="8"/>Quinto denique Alexand. 1. part. quaest. 56. 
+      <lb ed="#A" n="9"/>memb. 2. &amp; Bonauent. in 1. distinct. 25. art. 1. quaest. 1. 
+      <lb ed="#A" n="10"/>Gabriel. eadem distinctione quaest. 1. artic. 2. con 
+      <lb ed="#A" n="11"/>clus. 1. 2. &amp; 3. &amp; Capreol. quaest.1. artic. 2. conclus. 2. 
+      <lb ed="#A" n="12"/>Marsil. in 1. quaest. 26. artic. 2. &amp; Canariensis supra 
+      <lb ed="#A" n="13"/>hunc articulum contra Caietanum e diametro 
+      <lb ed="#A" n="14"/>pugnant: dicunt enim nomen, Persona, directo 
+      <lb ed="#A" n="15"/>significare substantiam; consequenter vero rela 
+      <lb ed="#A" n="16"/>tionem. Ratio huius opinionis est, quia persona 
+      <lb ed="#A" n="17"/>definitur. Indiuidua substantia rationalis natura, ergo 
+      <lb ed="#A" n="18"/>directum significatum huius nominis est 
+      indiui<lb ed="#A" n="19" break="no"/>dua substantia: quare cum reddatur substantia 
+      in<lb ed="#A" n="20" break="no"/>diuidua, hoc est, incommunicabilis, relatione, 
+      ef<lb ed="#A" n="21" break="no"/>ficitur, vt relatio etiam connotetur nomine per 
+      <lb ed="#A" n="22"/>sonae in obliquo, tanquam id, quo substantia 
+      indi<lb ed="#A" n="23" break="no"/>uidua est 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e196-Dd1e5352">
+                  <head xml:id="tavaz1-d1e196-Hd1e5354">Caput 2</head>
+                  <p xml:id="tavaz1-d1e196-d1e5356">
+                     <lb ed="#A" n="24" type="fixed=110"/>CAPVT II. 
+      <lb ed="#A" n="25"/>Nomen, Persona, significat formaliter, &amp; directe 
+      sub<lb ed="#A" n="26" break="no"/>stantiam, materialiter vero, sed directe relationem, 
+      <lb ed="#A" n="27"/>essentiam autem consequenter.
+    </p>
+                  <p xml:id="tavaz1-d1e196-d1e5367">
+                     <lb ed="#A" n="28"/>SAnctus Thomas in hoc articulo meminit dua 
+      <lb ed="#A" n="29"/>Orum posteriorum opinionum, quas 
+      praece<lb ed="#A" n="30" break="no"/>denti cap. retulimus, &amp; ait, vtramque aliquid ha 
+      <lb ed="#A" n="31"/>bere veritatis: quare ipse mediam amplectitur, 
+      <lb ed="#A" n="32"/>quae meo iudicio verissima est; neque eam, quam 
+      <lb ed="#A" n="33"/>docuerat quaest. 9. de potentia, vsquam tractauit, 
+      <lb ed="#A" n="34"/>asserit igitur nomen, Persona, significare directe, &amp; 
+      <lb ed="#A" n="35"/>formaliter substantiam; directe etiam, sed mate 
+      <lb ed="#A" n="36"/>rialiter significare relationem: essentiam autem 
+      <lb ed="#A" n="37"/>connotare consequenter, &amp; in obliquo. Vt vero 
+      <lb ed="#A" n="38"/>hanc opinionem confirmemus, notandum est 
+      <lb ed="#A" n="39"/>duplex esse significatum alicuius nominis: 
+      alte<lb ed="#A" n="40" break="no"/>rum est directum, quod in casu recto explicari so 
+      <lb ed="#A" n="41"/>let: alterum est non directum, quod connotari 
+      <lb ed="#A" n="42"/>dicitur, &amp; explicatur in casu obliquo: vtrumque 
+      <lb ed="#A" n="43"/>habemus in definitione personae: cum enim dici 
+      <lb ed="#A" n="44"/>mus; Est indiuidua substantia, exprimimus 
+      significa<lb ed="#A" n="45" break="no"/>tum directum: cum vero additur, Rationalis naturae, 
+      <lb ed="#A" n="46"/>non directum significatum denotamus, quod est 
+      <lb ed="#A" n="47"/>in obliquo. Rursus bifariam potest aliquid dire 
+      <lb ed="#A" n="48"/>cte significari; tum formaliter, cum explicatur ex 
+      <lb ed="#A" n="49"/>presse ipso nomine, tum etiam materialiter, cum 
+      <lb ed="#A" n="50"/>non exprimitur distincte, sed continetur, vt subie 
+      <lb ed="#A" n="51"/>ctum, &amp; materiale significati formalis¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5422">
+                     <lb ed="#A" n="52"/>Sic igitur in proposito, nomen, Persona, expri 
+      <lb ed="#A" n="53"/>mit directe, &amp; distincte substantiam, non dico es 
+      <lb ed="#A" n="54"/>sentiam, sed substantiam, hoc est, subsistentiam, 
+      <lb ed="#A" n="55"/>Graece Hypostasin, vel vt loquitur Ricardus de 
+      san<lb ed="#A" n="56" break="no"/>cto Victore quem praecedenti disputat. 
+      allegaui<lb ed="#A" n="57" break="no"/>mus, existentiam; ipsam vero essentiam significat 
+      <lb ed="#A" n="58"/>in obliquo seu connotat indirecte: dicitur enim 
+      <lb ed="#A" n="59"/>rationalis naturae, vt paulo ante notabamus: sed si 
+      <lb ed="#A" n="60"/>de directo significato huius nominis materiali ta 
+      <lb ed="#A" n="61"/>men loquamur, est relario ipsa: id enim, quod in 
+      <lb ed="#A" n="62"/>communicabiliter subsistit, est Pater, &amp; Filius, &amp; 
+      <lb ed="#A" n="63"/>Spiritus sanctus, qui relationem significant 
+      dire<lb ed="#A" n="64" break="no"/>cte; sed alio modo quam persona: hoc enim 
+      no<lb ed="#A" n="65" break="no"/>men non exprimit hypostasin sub nomine relati 
+      <lb ed="#A" n="66"/>uo, sed sub conceptu subsistentiae, siue haec sit 
+      re<lb ed="#A" n="67" break="no"/>latio, siue absolutum. Nam si diuinae personae con 
+      <!--00118.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>stituerentur proprietatibus absolutis, non 
+      signi<lb ed="#A" n="69" break="no"/>ficarentur nomine Patris, Filij, &amp; Spiritus 
+      san<lb ed="#A" n="70" break="no"/>cti: bene tamen nomine personae, &amp; hypostasis: 
+      <lb ed="#A" n="71"/>&amp; hoc recte probat ratio Scoti, quam praecedenti 
+      <lb ed="#A" n="72"/>capite retulimus. Si enim nomen persona relatio 
+      <lb ed="#A" n="73"/>nem expresse significaret, diceremus personam 
+      <lb ed="#A" n="74"/>esse alicuius personam; (Sicut pater alicuius 
+      pa<lb ed="#A" n="75" break="no"/>ter dicitur esse) eius nimirum, ad quem referre 
+      <lb ed="#A" n="76"/>tur, quod est absurdum, vt ibi notauimus: qua 
+      <lb ed="#A" n="77"/>quidem ratione probat August. lib. 5. de Trinitate 
+      <lb ed="#A" n="78"/>cap. 6. nomen, Persona, non vt significare in Dec 
+      <lb ed="#A" n="79"/>relationem, intelligit expresse &amp; formaliter, vt 
+      <lb ed="#A" n="80"/>explicatum est. Id autem, quod diximus signifi 
+      <lb ed="#A" n="81"/>care voluit S. Thom. in hoc artic. cum dixit perso 
+      <lb ed="#A" n="82"/>nam diuinam significare relationem, non vt 
+      rela<lb ed="#A" n="83" break="no"/>tionem, sed vt subsistentem: quia non significat 
+      <lb ed="#A" n="84"/>relationem sub expresso conceptu relationis, sed 
+      <lb ed="#A" n="85"/>sub conceptu substantiae, hoc est, subsistentiae, &amp; 
+      <lb ed="#A" n="86"/>hypostasis, quod est directum, &amp; formale 
+      signifi<lb ed="#A" n="87" break="no"/>catum: ipsam vero relationem significat 
+      materia<lb ed="#A" n="88" break="no"/>liter, sed directe, quia illa est, cui conuenit esse hy 
+      <lb ed="#A" n="89"/>postasin. Similiter cum in eodem articulo ait, hoc 
+      <lb ed="#A" n="90"/>nomen significare essentiam in recto quatenus 
+      <lb ed="#A" n="91"/>est idem, quod hypostasis; &amp; relationem in obli 
+      <lb ed="#A" n="92"/>quo, quod est quasi non directe, intelligi debe 
+      <lb ed="#A" n="93"/>hoc modo: nimirum essentiam sub ratione hypc 
+      <lb ed="#A" n="94"/>stasis esse directum significatum &amp; formale, vt ex 
+      <lb ed="#A" n="95"/>plicatum est; sed relationem abstracte esse 
+      conno<lb ed="#A" n="96" break="no"/>tatum in obliquo: quia essentia redditur 
+      hyposta<lb ed="#A" n="97" break="no"/>sis incommunicabilis relatione. Cum vero 
+      dixi<lb ed="#A" n="98" break="no"/>mus: alationem esse directum significatum no 
+      <lb ed="#A" n="99"/>minis, Persona, licet materiale, intelligimus in 
+      con<lb ed="#A" n="100" break="no"/>creto, vt est Pater, Filius, &amp; Spiritus sanctus. 
+      </p>
+                  <p xml:id="tavaz1-d1e196-d1e5535">
+                     <lb ed="#A" n="101"/>Ex dictis sequitur: Primo contra priorem Sco 
+      <lb ed="#A" n="102"/>ti opinionem nomen, Persona, non significare so 
+      <lb ed="#A" n="103"/>lam negationem formaliter, sed modum subsi 
+      <lb ed="#A" n="104"/>stendi per se. Secundo contra Durandum, no 
+      <lb ed="#A" n="105"/>men, Persona, non significare secundam intentio 
+      <lb ed="#A" n="106"/>nem: quae duo locis citatis latius ostendemus 
+      <lb ed="#A" n="107"/>Tertio sequitur deceptum fuisse Caietan. vt asse 
+      <lb ed="#A" n="108"/>reret, nomen hoc significare formaliter 
+      relatio<lb ed="#A" n="109" break="no"/>nem, &amp; materialiter substantiam: cum potius 
+      op<lb ed="#A" n="110" break="no"/>posito modo haec duo significet, vt probatum est. 
+      <lb ed="#A" n="111"/>Nec eius ratio aliud probat quam relationem 
+      si<lb ed="#A" n="112" break="no"/>gnificari in concreto directe nomine personae 
+      <lb ed="#A" n="113"/>non formaliter, sed materialiter; quod non 
+      ne<lb ed="#A" n="114" break="no"/>gamus. Quare opinio Alexandri, &amp; aliorum ex 
+      <lb ed="#A" n="115"/>parte vera est, vt dixit sanctus Doctor in hoc arti 
+      <lb ed="#A" n="116"/>culo, in eovidelicet, quod docet, dialectum 
+      signifi<lb ed="#A" n="117" break="no"/>catum esse substantiam, non relationem, si de 
+      for<lb ed="#A" n="118" break="no"/>mali tantum, non etiam de materiali significato 
+      <lb ed="#A" n="119"/>loquatur, vt explicauimus. Denique contra ea, 
+      <lb ed="#A" n="120"/>quae dicta sunt nihil roboris habet secunda alia 
+      <lb ed="#A" n="121"/>ratio Scoti, qua probare contendit, non significa 
+      <lb ed="#A" n="122"/>re nomen illud substantiam: quia substantia non 
+      <lb ed="#A" n="123"/>multiplicatur: persona autem multiplicatur in 
+      <lb ed="#A" n="124"/>Deo: non enim quaeuis substantia non multipli 
+      <lb ed="#A" n="125"/>catur in Deo, sed illa, quae sumitur pro essentia 
+      <lb ed="#A" n="126"/>quae vero dicitur hypostasis, vel subsistentia, 
+      mul<lb ed="#A" n="127" break="no"/>tiplicatur, sicut persona. Et haec satis de doctrina 
+      <lb ed="#A" n="128"/>huius quaest. 29. 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

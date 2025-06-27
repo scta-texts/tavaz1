@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 51</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 51</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="430"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e309"><!-- p1-q51 -->
+            <head xml:id="tavaz1-d1e309-Hd1e99">Quaestio 51</head>
+            <div xml:id="tavaz1-d1e309-Dd1e101"><!-- vaz-p1q51a1 -->
+               <head xml:id="tavaz1-d1e309-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e309-d1e106">
+                  <lb ed="#A" n="57" type="fixed=430"/>Notatio circa textum articuli.
+    </p>
+               <p xml:id="tavaz1-d1e309-d1e111">
+                  <lb ed="#A" n="58"/>CONCLVSIO est negans, quae multis visa est 
+      <lb ed="#A" n="59"/>eadem cum conclusione, &amp; doctrina art. 1. 
+      <!--00438.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="60"/>quaest. 50. in qua docuit S. Thomas Angelos esse 
+      <lb ed="#A" n="61"/>incorporeos, cum tamen longe diuersa sit. Nam 
+      <lb ed="#A" n="62"/>in eo art. 1. praeced. quaest. docuit S. Tho. Angelos 
+      <lb ed="#A" n="63"/>esse incorporeos, hoc est, essentialiter non esse 
+      <lb ed="#A" n="64"/>corpus, siue compositum, siue simplex, vt 
+      existima<lb ed="#A" n="65" break="no"/>uit Durand. esse coelos absque vlla compositione 
+      <lb ed="#A" n="66"/>materiae, &amp; formae, in quo sensu anima rationalis 
+      <lb ed="#A" n="67"/>non est corporea, quia substantia sua non est 
+      cor<lb ed="#A" n="68" break="no"/>pus, sed spiritus. In hoc vero art. quaerit, an Angeli 
+      <lb ed="#A" n="69"/>vniti sint corporibus, vel habeant vnita corpora 
+      <lb ed="#A" n="70"/>sibi, sicut habent animae rationales, quae 
+      incorpo<lb ed="#A" n="71" break="no"/>reae cum sint, corporibus nihilominus vniuntur. 
+      <lb ed="#A" n="72"/>Et respondet Angelum non esse naturaliter 
+      vni<lb ed="#A" n="73" break="no"/>tum alicui corpori; ac si diceret, non esse formam 
+      <lb ed="#A" n="74"/>alicuius corporis, aut materiae, aliter quidem, quam 
+      <lb ed="#A" n="75"/>animam rationalem, quae cum sit spiritualis 
+      secun<lb ed="#A" n="76" break="no"/>dum se, corpori tamen naturaliter vnitur. 
+      Argu<lb ed="#A" n="77" break="no"/>menta vero, quae posuit S. Doctor, eo etiam 
+      spe<lb ed="#A" n="78" break="no"/>ctabant, non vt probarent, Angelos esse 
+      secun<lb ed="#A" n="79" break="no"/>dum substantiam suam corporeos, sed naturaliter 
+      <lb ed="#A" n="80"/>esse corpori vnitos. Conclusionem autem 
+      atti<lb ed="#A" n="81" break="no"/>culi recte probat testimonium Dionys cap. 4. de diu. 
+      <lb ed="#A" n="82"/>nom. in principio, quod affert S. Thomas in 
+      argu<lb ed="#A" n="83" break="no"/>mento. Sed contra: &amp; ratio quam affert in corpore 
+      <lb ed="#A" n="84"/>articuli. Verum de hac re nullus Scholasticorum, 
+      <lb ed="#A" n="85"/>quod ego legerim, disputat. Solum enim aliqui 
+      <lb ed="#A" n="86"/>tractant, an secundum suam substantiam 
+      Angeli<lb ed="#A" n="87" break="no"/>corporei sint, &amp; cum S. Tho. pronuntiant, in 
+      cor<lb ed="#A" n="88" break="no"/>poreos esse natura sua, de quare disp. 179. abunde 
+      <lb ed="#A" n="89"/>dictum est. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e188"><!-- vaz-p1q51a1-d183 -->
+               <head xml:id="tavaz1-d1e309-Hd1e191">Disputatio 183</head>
+               <head xml:id="tavaz1-d1e309-Hd1e193" type="question-title">An materiae, seu corpori, Angeli 
+      naturaliter vniantur</head>
+               <p xml:id="tavaz1-d1e309-d1e196">
+                  <lb ed="#A" n="90" type="fixed=430"/>DIS PVT. CLXXXIII. 
+      <lb ed="#A" n="91"/>An materiae, seu corpori, Angeli 
+      natu<lb ed="#A" n="92" break="no"/>raliter vniantur. 
+    </p>
+               <div xml:id="tavaz1-d1e309-Dd1e205">
+                  <head xml:id="tavaz1-d1e309-Hd1e207">Caput 1</head>
+                  <p xml:id="tavaz1-d1e309-d1e209">
+                     <lb ed="#A" n="93" type="fixed=430"/>CAPVT I
+      <lb ed="#A" n="94"/>Error Philosophorum, &amp; Origens.
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e216">
+                     <lb ed="#A" n="95"/>ANtiquorum Philosophorum sententia fuit. 
+      <lb ed="#A" n="96"/>Angelos formas esse naturaliter vnitas 
+      cor<lb ed="#A" n="97" break="no"/>poribus. In qua opinione fuisse videntur 
+      quot<lb ed="#A" n="98" break="no"/>quot asserunt, astra, seu corpora celestia esse 
+      anima<lb ed="#A" n="99" break="no"/>ta. Sic de coelorum animatione sentit Plato in 
+      Epi<lb ed="#A" n="100" break="no"/>nomide, vbi iubet, astra vt Deos venerari id quod 
+      <lb ed="#A" n="101"/>non diceret, nisi animata esse putaret. Clarissime. 
+      <lb ed="#A" n="102"/>vero Aristot. lib. 2. de coelo text. 13. cum docet coelum 
+      <lb ed="#A" n="103"/>esse animatum, &amp; ob id sex habere differentias 
+      <lb ed="#A" n="104"/>positionis: quod enim quidam de anima 
+      assisten<lb ed="#A" n="105" break="no"/>te, &amp; gubernante ipsum interpretantur friuolum 
+      <lb ed="#A" n="106"/>videtur: cum vix hoc genere animationis hae 
+      dif<lb ed="#A" n="107" break="no"/>ferentiae possint explicari, ideo de anima 
+      infor<lb ed="#A" n="108" break="no"/>mante, non de gubernante, &amp; assissente tantum, 
+      <lb ed="#A" n="109"/>ipsum interpretatur S. Thom. in opusculo 15. cap. 2. c. 
+      <lb ed="#A" n="110"/>2 contra gentes cap. 70. &amp; in disputa. q. de anima, art. 
+      <lb ed="#A" n="111"/>8. ad 3. Accedit quod 12. Metaph text. 35. &amp; 36. cum 
+      <lb ed="#A" n="112"/>doceat, primum mouens mouere coelum per 
+      mo<lb ed="#A" n="113" break="no"/>dum appetibilis, asserere plane videtur, coelum 
+      <lb ed="#A" n="114"/>animarum esse: alioqui ab appetibili non 
+      mouere<lb ed="#A" n="115" break="no"/>tur. Consentiunt Philo, in libro de opificio mundi, &amp; in 
+      <lb ed="#A" n="116"/>libro de somnijs, &amp; in libro de gigantibus, &amp; Orig. 1. 
+      to<lb ed="#A" n="117" break="no"/>commentariorum in loan. in illa verba, In principio erat 
+      <lb ed="#A" n="118"/>verbum: &amp; 1.lib. Periarchon. cap. 7. qui eadem 
+      ra<lb ed="#A" n="119" break="no"/>tione astra virtutis, &amp; vitij capacia esse asseuerat. 
+      <lb ed="#A" n="120"/>Id quod deducit ex illo Iob. 25. vbi dicuntur 
+      <lb ed="#A" n="121"/>stellae immunda: addit vero, Christum pro pec¬ 
+      <!--00439.xml-->
+      <pb ed="#A" n="431"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>catis non modo hominum, sed astrorum etiam, &amp; 
+      <lb ed="#A" n="2"/>Angelorum mortuum fuisse, nisi, vt ipse inquit 
+      <lb ed="#A" n="3"/>tomo illo in loannem, &amp; hoc de astris 
+      hyperboli<lb ed="#A" n="4" break="no"/>ce dictum sit. Idem de coelorum animatione 
+      do<lb ed="#A" n="5" break="no"/>cuit Hierony. 6. tomo, in comment. Epistolae ad Ephesios in 
+      <lb ed="#A" n="6"/>illud cap. 2. Qui fecit vtraque vnum, tametsi 
+      multa<lb ed="#A" n="7" break="no"/>quae in eo commentario docet, non ex sua, sed 
+      <lb ed="#A" n="8"/>ex aliorum sententia dicat, vt ipse testatur 2. tomo 
+      <lb ed="#A" n="9"/>in Apologia contra Ruffinum: ab hac tamen 
+      o<lb ed="#A" n="10" break="no"/>pinione ipse non se excusat. Idem docuit in 
+      com<lb ed="#A" n="11" break="no"/>mentarijs in Ecclesiast. in illa verba, Girans girando 
+      <lb ed="#A" n="12"/>vadit spiritus. Augustinus 2. de Genesi ad literam cap. 18 
+      <lb ed="#A" n="13"/>proponit quaestionem, &amp; eam non definit, &amp; in 
+      <lb ed="#A" n="14"/>Enchiridio cap. 58. inquit non satis sibi exploratum 
+      <lb ed="#A" n="15"/>esse, an sidera mentem, &amp; sensum habeant, &amp; ad 
+      <lb ed="#A" n="16"/>beatorum societatem pertineant, &amp; in lib. contra 
+      <lb ed="#A" n="17"/>Origenistas ad Orosium cap. II. Nec ista (inquit) ad 
+      no<lb ed="#A" n="18" break="no"/>pertinere. Cum autem 1. retractationum capite 5. &amp; 
+      <lb ed="#A" n="19"/>in retractat id, quod dixerat lib. de in mortalitate 
+      ani<lb ed="#A" n="20" break="no"/>mae cap. 15. &amp; in lib. 6. de musica. cap. 14. scilicet 
+      mun<lb ed="#A" n="21" break="no"/>dum animatum, &amp; magnum quoddam animal 
+      <lb ed="#A" n="22"/>esse, non retractat, vt aperte fallum, sed tanquam 
+      <lb ed="#A" n="23"/>incertum, quia nihil de hac re constare possit, 
+      <lb ed="#A" n="24"/>Hanc sententiam secutus postea fuit Caieta. in 
+      il<lb ed="#A" n="25" break="no"/>lud Psalmi 135. qui fecit coelos in intellectu, hoc est (v. 
+      <lb ed="#A" n="26"/>ipse ait) intelligentes. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e340">
+                     <lb ed="#A" n="27"/>Nonnulli quoque hanc opinionem S. Thom. 
+      <lb ed="#A" n="28"/>adscribunt locis citatis, cum tamen ibi solum de 
+      <lb ed="#A" n="29"/>mente Aristotelis disputet: affirmat tamen capit. 
+      <lb ed="#A" n="30"/>illo 70. non esse contra fidem, id asserere, tamet 
+      <lb ed="#A" n="31"/>si, vt ipse ait quaestione citata, magis communis 
+      <lb ed="#A" n="32"/>sententia Scholasticorum sit, coelos non esse 
+      ani<lb ed="#A" n="33" break="no"/>matos. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e358">
+                     <lb ed="#A" n="34"/>Itaque iuxta horum omnium sententiam, qui 
+      <lb ed="#A" n="35"/>docent, coelos animatos esse, consequitur, Ange 
+      <lb ed="#A" n="36"/>los seu intelligentias, coelorum animas esse. Sic 
+      <lb ed="#A" n="37"/>S. Thom. in quaest. de spiritualibus creaturis art. 6. 
+      <lb ed="#A" n="38"/>in opinione asserentium coelos animatos, 
+      dicen<lb ed="#A" n="39" break="no"/>dum putat, eorum animas &amp; rectores 
+      intelligen<lb ed="#A" n="40" break="no"/>tias esse, &amp; mentem Arist. ita interpretatur, tamen 
+      <lb ed="#A" n="41"/>si de anima assistente, non de informante ipsum 
+      <lb ed="#A" n="42"/>intelligat. De his etiam intelligentijs, seu Angelis 
+      <lb ed="#A" n="43"/>quaestionem mouit Aug.lib. 2. de Gene. ad literam. cap. 
+      <lb ed="#A" n="44"/>18. an essent animae coelorum, &amp; ab eis non solum 
+      <lb ed="#A" n="45"/>regerentur, sed etiam vitaliter inspiratentur: &amp; 
+      <lb ed="#A" n="46"/>dubius manet. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e309-Dd1e390">
+                  <head xml:id="tavaz1-d1e309-Hd1e392">Caput 2</head>
+                  <p xml:id="tavaz1-d1e309-d1e394">
+                     <lb ed="#A" n="47" type="fixed=431"/>CAPVT II. 
+      <lb ed="#A" n="48"/>Vera sententia
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e401">
+                     <lb ed="#A" n="49"/>VEra sententia est; quam tradidit S. Thomas 
+      <lb ed="#A" n="50"/>in hoc articulo Angelos nempe non solum 
+      <lb ed="#A" n="51"/>esse spirituales secundum suam substantiam, 
+      ve<lb ed="#A" n="52" break="no"/>fumetiam nulli corpori esse substantialiter 
+      vni<lb ed="#A" n="53" break="no"/>tos, hoc est, nullum corpus ab eis animari: a qua 
+      <lb ed="#A" n="54"/>sententia nullum video Scholasticorum 
+      dissenti<lb ed="#A" n="55" break="no"/>re, cum omnes doceant, coelos non esse 
+      anima<lb ed="#A" n="56" break="no"/>tos. Primum vero probari potest hac ratione: Si 
+      <lb ed="#A" n="57"/>Angeli essent animae aliquorum corporum, 
+      ma<lb ed="#A" n="58" break="no"/>xime essent coelorum, qui sunt nobilissima 
+      cor<lb ed="#A" n="59" break="no"/>pora, sed coeli non sunt animari, ergo nullum 
+      <lb ed="#A" n="60"/>corpus ab Angelis animatur. Caelos autem anima 
+      <lb ed="#A" n="61"/>tos, non esse, certissimum esse arbitror. Est in 
+      pri<lb ed="#A" n="62" break="no"/>mis Scholasticorum sententia communis, vt 
+      fa<lb ed="#A" n="63" break="no"/>tetur Sanctus Thomas locis citatis, &amp; expresse 
+      <lb ed="#A" n="64"/>docuit Bonauentura in 2. d. 14. art. 3. quaest. 2. Ricard. 
+      <lb ed="#A" n="65"/>art. 3 quaest. 4. Scotus q. 1. in fine &amp; reliqui eodem loco: 
+      <lb ed="#A" n="66"/>addit Bonauentura oppositum esse manifestum 
+      <!--00439.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>errorem. Scotus vero ait, creditum esse, tametsi 
+      <lb ed="#A" n="68"/>ratione physica non facile probari possit. Ex 
+      pa<lb ed="#A" n="69" break="no"/>tribus vero Graecis ita docuerunt Basil. Homil. 3. in 
+      <lb ed="#A" n="70"/>Genes. &amp; in Psalm. 48. Cyrillus lib. 2. contra Iulianum 
+      <lb ed="#A" n="71"/>imo affirmat sententiam Platonis non modo 
+      <lb ed="#A" n="72"/>Christianae doctrinae sed etiam philosophicae 
+      ra<lb ed="#A" n="73" break="no"/>tioni aduersari. Consentit Damasc. lib. 2. de fide cap. 6. 
+      <lb ed="#A" n="74"/>vbi dogma fidei esse arbitratur. Ex Latinis vero t. 
+      <lb ed="#A" n="75"/>Lactantius 2. de diuinis institutionibus capite 5. Ambro 
+      fie<lb ed="#A" n="76" break="no"/>sius Homilia 3 in Genesim, Hieronymus. in Epist. 69. quae 
+      Ori<lb ed="#A" n="77" break="no"/>est ad Auitum, vbi oppositam sententiam inter 
+      er<lb ed="#A" n="78" break="no"/>rores Origenis commemorat. Idem docet in 
+      il<lb ed="#A" n="79" break="no"/>lud Esai. cap. 45. Manus meae tetenderunt coelos: quod 
+      <lb ed="#A" n="80"/>vero ipse dixit in Epistolam ad Eppes non ex 
+      pro<lb ed="#A" n="81" break="no"/>pria sententia dixisse videur, sed, vt multa alia, ex 
+      <lb ed="#A" n="82"/>Graecorum libris (vt ipse ait in Apologia contra 
+      <lb ed="#A" n="83"/>Ruffinum) transtulisse: ab hoc tamen errore 
+      spe<lb ed="#A" n="84" break="no"/>ciatim non se excusat, quia non obijciebatur ei a 
+      <lb ed="#A" n="85"/>Ruffino, sicut alij. Quod etiam docuit in 
+      Eccle<lb ed="#A" n="86" break="no"/>siastem, nihil fauet priori sententiae. Non enim 
+      <lb ed="#A" n="87"/>putauit, solem spiritu animari, sed illi loco 
+      dupli<lb ed="#A" n="88" break="no"/>cem adhibet expositionem, aut quod sol reuera 
+      <lb ed="#A" n="89"/>spiritu viuificetur, aut quod suo lumine vitam 
+      a<lb ed="#A" n="90" break="no"/>lijs rebus praestet. Accedit. Nicephorus, qui libro 17 
+      <lb ed="#A" n="91"/>historiae cap. 27. inter canones 5. Concilij generalis, 
+      <lb ed="#A" n="92"/>quibus errores Origenis damnantur refert 
+      sex<lb ed="#A" n="93" break="no"/>tum, in quo sic dicitur, Si quis dicit coelum Solem, &amp; 
+      <lb ed="#A" n="94"/>Lunam, &amp; stellas, &amp; aquas, quae super coelos sunt, animatas 
+      <lb ed="#A" n="95"/>quasdam esse, &amp; materiales virtutes, anathema sit. Ei 
+      ra<lb ed="#A" n="96" break="no"/>tione probatur, Si astra animata essent, non 
+      tan<lb ed="#A" n="97" break="no"/>tum esent animata anima sentiente, &amp; 
+      bruto<lb ed="#A" n="98" break="no"/>rum, sed &amp; intelligente, cum sint adeo perfecta 
+      <lb ed="#A" n="99"/>corpora: quod si hoc genere animarum essent 
+      a<lb ed="#A" n="100" break="no"/>nimata, absque dubio beata essent, neque enim de 
+      <lb ed="#A" n="101"/>numero essent daemonum, qui peccarunt: quare 
+      <lb ed="#A" n="102"/>ea venerati possemus, quod in se dignitatem &amp; 
+      <lb ed="#A" n="103"/>sanctitatem haberent: quod esset absurdum; nam 
+      <lb ed="#A" n="104"/>quamuis ea colere possimus, quatenus nobis 
+      <lb ed="#A" n="105"/>repraesentant auctorem suum, sicut caetera 
+      ina<lb ed="#A" n="106" break="no"/>nima, quae Deum, vel sanctos repraesentant, vt 
+      <lb ed="#A" n="107"/>lib. 3. de cultu adorationis, disputatione 1. cap. 2. 
+      <lb ed="#A" n="108"/>explicauimus: tamen non licet ea adorare 
+      prop<lb ed="#A" n="109" break="no"/>ter dignitatem vel sanctitatem aliquam, quam in 
+      <lb ed="#A" n="110"/>se habeant: videtur enim contra illud Deute. 4. 
+      <lb ed="#A" n="111"/>cap. Ne forte alienatis oculis ad coelum videas Solem, &amp; 
+      <lb ed="#A" n="112"/>Lunam, &amp; omnia astra coeli, &amp; errore deceptus adores 
+      <lb ed="#A" n="113"/>ea, &amp; tolas, quae creauit Dominus Deus tuus in ministerium 
+      <lb ed="#A" n="114"/>omnibus gentibus. Nam licet in veteri 
+      Testamen<lb ed="#A" n="115" break="no"/>to omnis adoratio sculptilium fuerit prohibita, 
+      <lb ed="#A" n="116"/>vt libro 2. de cultu adorationis disputatione 
+      <lb ed="#A" n="117"/>4. cap. 2. ostendimus: tamen adorare homines in 
+      <lb ed="#A" n="118"/>dignitate constitutos, &amp; Angelos ob ipsorum 
+      <lb ed="#A" n="119"/>dignitatem, non vt Deos, sed vt superiores, non 
+      <lb ed="#A" n="120"/>solum prohibitum non fuit, sed maxime 
+      vsita<lb ed="#A" n="121" break="no"/>tum, quare non vetaret dominus, coelos adorari, si 
+      <lb ed="#A" n="122"/>anima praediti essent rationali. Tum etiam cum 
+      <lb ed="#A" n="123"/>ibi dicat Scriptura, eos fuisse in ministerium 
+      <lb ed="#A" n="124"/>gentium a Deo creatos, manifeste indicat, 
+      inferio<lb ed="#A" n="125" break="no"/>ris naturae, quam homines, &amp; veluti eorum 
+      man<lb ed="#A" n="126" break="no"/>cipia esse, cum igitur constet, coelos non esse 
+      ani<lb ed="#A" n="127" break="no"/>matos, manifestum est etiam, Angelos non esse 
+      <lb ed="#A" n="128"/>formales aliquorum corporum. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e581">
+                     <lb ed="#A" n="129"/>Praetermissa vero ratione S. Thomae &amp; 
+      mul<lb ed="#A" n="130" break="no"/>tis, quae Caietanus in ejus defensionem adducit, 
+      <lb ed="#A" n="131"/>hoc etiam modo probari posset: Si Angelus 
+      v<lb ed="#A" n="132" break="no"/>niretur corpori, cum tribueret illi vitam, vel 
+      tri<lb ed="#A" n="133" break="no"/>bueret quoque sensum, vel non, si tribueret 
+      sen<lb ed="#A" n="134" break="no"/>sum, vix assignacemus discrimen inter ipsum, &amp; 
+      <!--00440.xml-->
+      <pb ed="#A" n="432"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>hominem; ac proinde Angelus esset anima 
+      homi<lb ed="#A" n="2" break="no"/>pis: si autem non tribueret sensum, sed solum 
+      An<lb ed="#A" n="3" break="no"/>gelus secundum se intelligeret, ac si a materia 
+      om<lb ed="#A" n="4" break="no"/>nino esset abstractus, frustra vniretur corpori sine 
+      <lb ed="#A" n="5"/>sensu, solum vt daret vitam: restat igitur, Angelos 
+      <lb ed="#A" n="6"/>in se substantialiter non esse corporeos, neque vt 
+      <lb ed="#A" n="7"/>formas substantialiter vniri posse corporibus: id 
+      <lb ed="#A" n="8"/>quod adeo verum existimo, vt neque Deus 
+      po<lb ed="#A" n="9" break="no"/>tentia sua absoluta eos vnire possit. Genus enim 
+      <lb ed="#A" n="10"/>causae formalis, quod ab intrinseco praestat 
+      effe<lb ed="#A" n="11" break="no"/>ctum, Deus non potest cuiuis naturae 
+      communi<lb ed="#A" n="12" break="no"/>care: sed ei solum formae conuenire potest, qua 
+      <lb ed="#A" n="13"/>natiua sua virtute id habet: cum igitur Angelus 
+      <lb ed="#A" n="14"/>natura sua non sit forma corporis, id non potest 
+      <lb ed="#A" n="15"/>vllo modo a Deo habere. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e638"><!-- vaz-p1q51a2 -->
+               <head xml:id="tavaz1-d1e309-Hd1e641">Articulus 2</head>
+               <p xml:id="tavaz1-d1e309-d1e643">
+                  <lb ed="#A" n="107" type="fixed=432"/>CONCLVSIO est, Angeli, tametsi corpora non 
+      <lb ed="#A" n="108"/>sint, nec naturaliter corporibus coniuncti, interdum 
+      <lb ed="#A" n="109"/>tamen voluntate sua corpora assumere possunt. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e653"><!-- vaz-p1q51a2-d184 -->
+               <head xml:id="tavaz1-d1e309-Hd1e656">Disputatio 184</head>
+               <head xml:id="tavaz1-d1e309-Hd1e658" type="question-title">
+      Utrum in corporibus assumptis vere, an 
+      solum secundum imaginationem 
+      Angeli appareant
+    </head>
+               <p xml:id="tavaz1-d1e309-d1e661">
+                  <lb ed="#A" n="110" type="fixed=432"/>DIS PVT. CLXXXIV. 
+      <lb ed="#A" n="111"/>Vtrum in corporibus assumptis vere, an 
+      <lb ed="#A" n="112"/>solum secundum imaginationem 
+      <lb ed="#A" n="113"/>Angeli appareant. 
+    </p>
+               <div xml:id="tavaz1-d1e309-Dd1e672">
+                  <head xml:id="tavaz1-d1e309-Hd1e674">Caput 1</head>
+                  <p xml:id="tavaz1-d1e309-d1e676">
+      <!--00441.xml-->
+                     <pb ed="#A" n="433"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1" type="fixed=433"/>CAPVT I. 
+      <lb ed="#A" n="2"/>Non solum imaginatione, sed etiam re ipsa Angeli in 
+      <lb ed="#A" n="3"/>corporibus apparent.
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e692">
+                     <lb ed="#A" n="4"/>SEntentia fuit <ref xml:id="tavaz1-d1e309-Rd1e696">Vdalrici in summa libr. 4.</ref> vt refert 
+      <lb ed="#A" n="5"/>
+                     <ref xml:id="tavaz1-d1e309-Rd1e700">
+                        <name xml:id="tavaz1-d1e309-Nd1e702">name&gt;Dionys. Carthus.</name> in 2. dist. 8. q. 1.</ref> Angelos non re 
+      <lb ed="#A" n="6"/>ipsa in corporibus assumptis, sed sola 
+      imaginatio<lb ed="#A" n="7" break="no"/>ne sensus nobis apparere: &amp; videri potest alicui 
+      <lb ed="#A" n="8"/>eam sequutus <ref xml:id="tavaz1-d1e309-Rd1e712">Wilhelm. Parisiens lib. 2. de vniuerso 
+      <lb ed="#A" n="9"/>part. 1. cap. 69.</ref> dum probat, angelos non assumere 
+      <lb ed="#A" n="10"/>vera corpora. Ceterum si attente legatur, solum 
+      <lb ed="#A" n="11"/>contendit monstrare, corpora ab angelis 
+      assum<lb ed="#A" n="12" break="no"/>pta non esse humana, licet humana esse videantur. 
+      <lb ed="#A" n="13"/>Colligi tamen videtur ex Damasc. lib. 2. de fide cap. 4. 
+      <lb ed="#A" n="14"/>vbi secundum translationem Fabri sic ait, 
+      Permis<lb ed="#A" n="15" break="no"/>sione autem Dei facta &amp; fortitudinem habent, &amp; trans 
+      <lb ed="#A" n="16"/>feruntur, &amp; transformantur in quam volunt figuram 
+      se<lb ed="#A" n="17" break="no"/>cundum imaginationem: illud autem, secundum 
+      ima<lb ed="#A" n="18" break="no"/>ginationem, in Graeco est, κατὰ φαντασίαν, hoc 
+      <lb ed="#A" n="19"/>est, secundum phantasiam. Secundo probari sic 
+      <lb ed="#A" n="20"/>potest: angeli praestigiis, quasi ob oculos ponere 
+      <lb ed="#A" n="21"/>possunt varias figuras, vt eas sibi homo videre 
+      vi<lb ed="#A" n="22" break="no"/>deatur: cur ergo non dicemus, ita semper 
+      appare<lb ed="#A" n="23" break="no"/>re? Tertio lamiae, quae referunt, se multa vidisse 
+      <lb ed="#A" n="24"/>&amp; peragrasse varias partes terrae, solum secundum 
+      <lb ed="#A" n="25"/>imaginationem, &amp; phantasiam illa omnia vident, 
+      <lb ed="#A" n="26"/>vt definitur in Concilio Ancyrano, vel 
+      Antiqui<lb ed="#A" n="27" break="no"/>rensi, &amp; refertur in canone Episcopi 26. quaest. 5 
+      <lb ed="#A" n="28"/>cur igitur non dicemus idem de angelorum 
+      ap<lb ed="#A" n="29" break="no"/>paritionibus, cum ea, quae lamiis apparere 
+      viden<lb ed="#A" n="30" break="no"/>tur, daemonum opera fiant. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e763">
+                     <lb ed="#A" n="31"/>Vera tamen, &amp; Ecclesiae doctrinae conformis 
+      <lb ed="#A" n="32"/>sententia est, angelos in corporibus vere 
+      assum<lb ed="#A" n="33" break="no"/>ptis re ipsa visui &amp; sensui exterius apparuisse. Est 
+      <lb ed="#A" n="34"/>autem communis Scholasticorum in 2. dist. 8. 
+      Bo<lb ed="#A" n="35" break="no"/>nau. 1. p. dist. atic. 2. qu. 1. &amp; 3. Ricard. art.1 qu. 2. &amp; 3. 
+      <lb ed="#A" n="36"/>Scoti quaest. 1. Durandi q. 1. Gabr. q. 1. art. 2. Dionysij loco 
+      <lb ed="#A" n="37"/>citato Marsilij in secundum quaest. 6. art. 1. in solutione 2. 
+      <lb ed="#A" n="38"/>&amp; 3. obiectiones contra primam conclusionem 
+      Alexand<lb ed="#A" n="39" break="no"/>part. q. 34. m. 2. &amp; 3. Alberti 2. p. tractatu 9 q 33. membr. 
+      <lb ed="#A" n="40"/>2. 1. parte illius in corpore, &amp; ad primum, &amp; de quatuor 
+      <lb ed="#A" n="41"/>coaeuis 1. parte q. 9 artic. 10. &amp; 11. Quare vt optime 
+      <lb ed="#A" n="42"/>notauit Dionys. falli videtur Vdalricus cum 
+      asse<lb ed="#A" n="43" break="no"/>rit, se in suam sententiam Albertum pertraxisse 
+      <lb ed="#A" n="44"/>colligitur autem haec sententia ex Scriptura, in 
+      <lb ed="#A" n="45"/>qua eo modo factae narrantur apparitiones, vt non 
+      <lb ed="#A" n="46"/>solum imaginatione, sed re ipsa ita contigerint, 
+      <lb ed="#A" n="47"/>Siquidem homines, &amp; angelos diu secum 
+      collo<lb ed="#A" n="48" break="no"/>quutos fuisse refertur, qualis fuit illa apparitio 
+      <lb ed="#A" n="49"/>Raphaelis facta Tobiae, vt in lib. eius scribitur: 
+      <lb ed="#A" n="50"/>cum enim non solum cum Tobia, sed cum alijs 
+      <lb ed="#A" n="51"/>etiam angelus loqueretur, &amp; responderet, 
+      indi<lb ed="#A" n="52" break="no"/>cium est, non sola imaginatione, sed re ipsa illud 
+      <lb ed="#A" n="53"/>contigisse: nam, vt bene obseruauit S. Th. quae 
+      se<lb ed="#A" n="54" break="no"/>cundum imaginationem contingunt, non 
+      omni<lb ed="#A" n="55" break="no"/>bus communiter apparent. 
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e820">
+                     <lb ed="#A" n="56"/>Ex Patribus vero ita expresse docuit 
+      Augustin<lb ed="#A" n="57" break="no"/>15. de ciuit. cap. 23. qui cum dubitet, vtrum angel 
+      <lb ed="#A" n="58"/>corporei, an incorporei sint natura sua, vt 
+      retuli<lb ed="#A" n="59" break="no"/>mus disp. 179. affirmat nihilominus indubitatum 
+      <lb ed="#A" n="60"/>esse, in corporea figura, ita vt videri, &amp; tangi 
+      pos<lb ed="#A" n="61" break="no"/>sent, apparuisse: idque negare impudentiae ess. Id 
+      <lb ed="#A" n="62"/>ipsum docuerunt Bernard serm. 5. in cant. &amp; Isid. li 1. 
+      <lb ed="#A" n="63"/>de summo bono c. 12. n. 19. consentit etiam Gregor. 
+      ho<lb ed="#A" n="64" break="no"/>mil. 34. in Euang. cum asserit, angelos ad nos 
+      aliquan<lb ed="#A" n="65" break="no"/>do visibiliter, aliquando inuisibiliter mitti. Et 
+      A<lb ed="#A" n="66" break="no"/>thanasius sermone 4 contra Atrianos longe a 
+      me<lb ed="#A" n="67" break="no"/>dio, explicans illud Marci 13. Dedit autem illa, in¬ 
+      <!--00441.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>quis enim, daemones figuras bonorum 
+      Angelo<lb ed="#A" n="69" break="no"/>tum nonnunquam assumere: imo vero Damas 
+      <lb ed="#A" n="70"/>pro opposita sententia allegatus hanc nostram 
+      ex<lb ed="#A" n="71" break="no"/>presse tradit lib. 2. de fide cap. illo 3. vbi de bonis 
+      <lb ed="#A" n="72"/>Angelis ita loquitur, Termini autem expertes eos 
+      ob<lb ed="#A" n="73" break="no"/>hanc causam dico, quia probis, ac virtute praestantibus 
+      ho<lb ed="#A" n="74" break="no"/>minibus, quibuscumque eos conspiciendi sui copiam 
+      fa<lb ed="#A" n="75" break="no"/>cere Deus voluerit, non quales sunt apparent, sed aliam 
+      <lb ed="#A" n="76"/>atque aliam formam, prout videri ab hominibus possunt, 
+      <lb ed="#A" n="77"/>assumunt. Quod vero de malis angelis dixisse 
+      su<lb ed="#A" n="78" break="no"/>pra retulimus, si recte ex Graeco transferatur, vt 
+      <lb ed="#A" n="79"/>vertit Billius, nihil priori sententiae adstipulatur 
+      <lb ed="#A" n="80"/>quin potius nostram confirmat. Sic enim ille 
+      red<lb ed="#A" n="81" break="no"/>dit, potestate autem a Deo concessa, &amp; viribus pollent, 
+      <lb ed="#A" n="82"/>&amp; immutantur, &amp; in quamlibet formam, vt quidem 
+      ap<lb ed="#A" n="83" break="no"/>paret migrant: quod enim faber conuertit, secundum 
+      <lb ed="#A" n="84"/>imaginationem, Billius transfert, vt apparet: &amp; 
+      <lb ed="#A" n="85"/>Graece dicitur, κατὰ φαντασίαν, Latine ad 
+      lite<lb ed="#A" n="86" break="no"/>tam, Secundum phantasiam. Nam quamuis αντα¬ 
+      <lb ed="#A" n="87"/>σία, Phantasia, Latine significet visum 
+      imagina<lb ed="#A" n="88" break="no"/>tionis interiorem, denotat tamen etiam 
+      exterio<lb ed="#A" n="89" break="no"/>tem: deriuatur enim a verbo φαίνω, Phoeno, quod 
+      <lb ed="#A" n="90"/>Latine est appareo? ideo recte Billius reddidit. 
+      <lb ed="#A" n="91"/>Vt apparet. Vnde quia in sensu interiori fiunt vel 
+      <lb ed="#A" n="92"/>uti visa quaedam, &amp; apparitiones, recto dictum 
+      <lb ed="#A" n="93"/>est φαντασία, Phantasia, &amp; simulacra, seu species 
+      <lb ed="#A" n="94"/>illius, φαντάσματα. Phantasmata, cum tamen 
+      phan<lb ed="#A" n="95" break="no"/>tasma etiam significet id, quod exterius apparet 
+      <lb ed="#A" n="96"/>oculis, sed reuera tale non est, quale apparet, 
+      sic<lb ed="#A" n="97" break="no"/>ut Matth. 14. cum Iesus venisset ambulans super 
+      <lb ed="#A" n="98"/>mare quarta vigilia dixerunt discipuli, Qui 
+      phan<lb ed="#A" n="99" break="no"/>tasma est. &amp; Marci 6 Putauerunt phantasma esse, non 
+      <lb ed="#A" n="100"/>quia soli imaginationi appareret, sed quia exterius 
+      <lb ed="#A" n="101"/>videbant aliquid tale apparere, quale reuera 
+      pu<lb ed="#A" n="102" break="no"/>tabant non esse. Sic ergo dixit Damas. 
+      permis<lb ed="#A" n="103" break="no"/>sione Det transformari secundum phantasiam in 
+      <lb ed="#A" n="104"/>varias rerum figuras, porcorum nimirum, 
+      serpen<lb ed="#A" n="105" break="no"/>tum, &amp; hominum; cum reuera tales ipsi non sint, 
+      <lb ed="#A" n="106"/>sed solum appareant. Atque eodem sensu 
+      Ma<lb ed="#A" n="107" break="no"/>nichaei asserentes, Verbum Dei non verum 
+      cor<lb ed="#A" n="108" break="no"/>pus, sed solum phantasma assumpsisse, non ideo 
+      <lb ed="#A" n="109"/>hoc dicebant, quia sola imaginatione verbum 
+      ap<lb ed="#A" n="110" break="no"/>paruerit in carne, sed quia cum oculis, &amp; sensibus 
+      <lb ed="#A" n="111"/>externis obiiceretur omnium, vt homo, reuera 
+      <lb ed="#A" n="112"/>talis non erat. 
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e951">
+                     <lb ed="#A" n="113"/>Ceterum pro huius rei maiori explicatione 
+      no<lb ed="#A" n="114" break="no"/>tandum est primum, apparitiones tribus modis 
+      <lb ed="#A" n="115"/>posse fieri. Primo secundum imaginationem: 
+      de<lb ed="#A" n="116" break="no"/>inde secundum visum externum, sed hoc modo 
+      <lb ed="#A" n="117"/>dupliciter, aut secundum immutationem 
+      quan<lb ed="#A" n="118" break="no"/>dam in ipso oculo, nullo existente exterius, vt 
+      <lb ed="#A" n="119"/>praestigiis fieri solet, &amp; phreneticis, accidit, &amp; hic 
+      <lb ed="#A" n="120"/>sit secundus modus: aut tertio re ipsa existente 
+      ex<lb ed="#A" n="121" break="no"/>teriori aliqua figura, quae talis qualitatis, &amp; 
+      natu<lb ed="#A" n="122" break="no"/>tae appareat, qualis reuera non est, sicut apparent 
+      <lb ed="#A" n="123"/>colores in iride, qui reuera non sunt, eo quod 
+      lu<lb ed="#A" n="124" break="no"/>in eo corpore ita disposita sua natura talis apparet 
+      <lb ed="#A" n="125"/>Dicimus ergo, non tantum primo modo 
+      Ange<lb ed="#A" n="126" break="no"/>los videri, cum tamen interdum etiam sic 
+      videan<lb ed="#A" n="127" break="no"/>tur; nec solum secundo modo, cum ille modus 
+      <lb ed="#A" n="128"/>non accidat in bona sensuum dispositione, sed 
+      so<lb ed="#A" n="129" break="no"/>tum cum praestigiis sensus perturbantur; 
+      Angeli<lb ed="#A" n="130" break="no"/>autem etiam videantur sine vlla sensuum 
+      pertur<lb ed="#A" n="131" break="no"/>batione, vt notatum est: sed etiam videri reipsa 
+      <lb ed="#A" n="132"/>per immutationem talis obiecti, quod in ea 
+      distan<lb ed="#A" n="133" break="no"/>tia &amp; dispositione tale apparere natum est, vt de 
+      <lb ed="#A" n="134"/>colore iridis dicebamus, &amp; sequenti capite magis 
+      <lb ed="#A" n="135"/>explicabitur. Et hinc pater solutio prioris rationis 
+      <!--00442.xml-->
+      <pb ed="#A" n="434"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>contrariae sententiae: concedimus enim, 
+      daemonen<lb ed="#A" n="2" break="no"/>immutare posse oculum praestigiis, ita vt exterius 
+      <lb ed="#A" n="3"/>videre sibi videatur aliquid, cum reuera non fit: &amp; 
+      <lb ed="#A" n="4"/>hoc modo posse angelos hominibus apparere, si 
+      <lb ed="#A" n="5"/>cut etiam in imaginatione, &amp; somnijs. Fatendum 
+      <lb ed="#A" n="6"/>nihilominus est, alio etiam modo exterius vider 
+      <lb ed="#A" n="7"/>in bona sensuum dispositione, seu tali corpore 
+      as<lb ed="#A" n="8" break="no"/>sumpto, vt natum sit in ea positione, &amp; distantia 
+      <lb ed="#A" n="9"/>talis figurae, &amp; coloris apparere. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1029">
+                     <lb ed="#A" n="10"/>Deinde nota, hanc corporum assumptionem 
+      <lb ed="#A" n="11"/>non fieri per informationem, vt superiori art. pro 
+      <lb ed="#A" n="12"/>batum est: nec per vnionem hypostaticam: vt enim 
+      <lb ed="#A" n="13"/>ostendemus 3. p. q. 3. art. 1. nulla creatura assume 
+      <lb ed="#A" n="14"/>re potest hypostatice secum alienam naturam, aut 
+      <lb ed="#A" n="15"/>eam terminare, etiam secundum potentiam 
+      abso<lb ed="#A" n="16" break="no"/>lutam Dei. Quocirca lapsus fuit Orig. to. 2. in 
+      Io<lb ed="#A" n="17" break="no"/>an. in illa verba: Ecce ego mitto Angelum meum, &amp;c. 
+      <lb ed="#A" n="18"/>&amp; alibi etiam cum ait, Malachiam fuisse angelum 
+      <lb ed="#A" n="19"/>incarnatum: idem de loanne Baptista, &amp; de Aggaeo 
+      <lb ed="#A" n="20"/>Propheta existimauit. Cum Orig. sensisse videtur 
+      <lb ed="#A" n="21"/>Tertull. in libro de carne Christi cap. 3. &amp; 6. vbi probat, 
+      <lb ed="#A" n="22"/>non, fuisse verbo Dei impossibile, carne assume 
+      <lb ed="#A" n="23"/>re, quod angelis possibile fuit: quod nisi de vnio 
+      <lb ed="#A" n="24"/>ne hypostatica intelligeretur, eius ratio nullius 
+      o<lb ed="#A" n="25" break="no"/>minino momenti esset. Deceptus autem fuit 
+      Or<lb ed="#A" n="26" break="no"/>genes quia Malach.i. cap. suae prophetiae, angelus 
+      <lb ed="#A" n="27"/>vocatur, iuxta translationem 70. qui sic vertunt 
+      <lb ed="#A" n="28"/>Factum est verbum Domini in manu Angeli, vbi vulgata 
+      <lb ed="#A" n="29"/>legit, in manu Malachiae: quam sententiam 
+      im<lb ed="#A" n="30" break="no"/>pugnat Hieronymus in prooemio Malachiae, &amp; in primum 
+      <lb ed="#A" n="31"/>cap. Aggei: dictus autem est Malachias angelus 
+      <lb ed="#A" n="32"/>etiamsi homo esset, munere tantum, &amp; officio 
+      <lb ed="#A" n="33"/>sicut Matt. 11. Ioannes Baptista, vt disput. 179. c. 1 
+      <lb ed="#A" n="34"/>notauimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1086">
+                     <lb ed="#A" n="35"/>Tertio notandum, vnionem angeli cum 
+      cor<lb ed="#A" n="36" break="no"/>pore assumpto, solum esse accidentariam, 
+      sicu<lb ed="#A" n="37" break="no"/>mobili vnitur motor: angelus enim est motor 
+      cor<lb ed="#A" n="38" break="no"/>poris, quod assumit: habet etiam corpus assum 
+      <lb ed="#A" n="39"/>ptum hoc peculiare, quod sit similitudo angeli 
+      as<lb ed="#A" n="40" break="no"/>sumentis, aliquo modo ipsum repraesentans, &amp; quas 
+      <lb ed="#A" n="41"/>ipsius persona apparens, vt docuit S. Tho. in hoc 
+      <lb ed="#A" n="42"/>art. ad 2. idcirco non dicuntur daemones assume 
+      <lb ed="#A" n="43"/>re corpora hominum, quae obsident, etiam si illis 
+      <lb ed="#A" n="44"/>vniantur vt motores, quia per illa corpora non 
+      se<lb ed="#A" n="45" break="no"/>manifestant, nec vt propria faciunt apparere, 
+      quan<lb ed="#A" n="46" break="no"/>tumuis eo torqueant. Aliam conditionem 
+      addi<lb ed="#A" n="47" break="no"/>Durandus, vt dicantur corpora assumpta, nempe 
+      <lb ed="#A" n="48"/>esse formata virtute angeli assumentis, quae tam 
+      <lb ed="#A" n="49"/>etsi semper adsit, vt cap. seque videbimus, non 
+      vide<lb ed="#A" n="50" break="no"/>tur necessaria, sed duae praecedentes sufficerent 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e309-Dd1e1124">
+                  <head xml:id="tavaz1-d1e309-Hd1e1126">Caput 2</head>
+                  <p xml:id="tavaz1-d1e309-d1e1128">
+                     <lb ed="#A" n="51" type="fixed=434"/>CAPVT II. 
+      <lb ed="#A" n="52"/>De figura, &amp; qualitatibus corporum, qua 
+      <lb ed="#A" n="53"/>assumuntur. 
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e1137">
+                     <lb ed="#A" n="54"/>DVobus externis sensibus angeli solent 
+      appa<lb ed="#A" n="55" break="no"/>rere in corporibus assumptis, visui, &amp; tactui, 
+      <lb ed="#A" n="56"/>nam licet voces edant, quae ab auditu 
+      percipiun<lb ed="#A" n="57" break="no"/>tur; hae non sunt qualitates ipsorum corporum, 
+      <lb ed="#A" n="58"/>sed quae in obiecto aere formantur, de quibus 
+      nul<lb ed="#A" n="59" break="no"/>la est difficultas. Visui autem apparent figura, &amp; 
+      <lb ed="#A" n="60"/>colores: mitto etiam motum, &amp; quietem, &amp; alia 
+      <lb ed="#A" n="61"/>communia sensibilia, quae in eis eodem modo 
+      vi<lb ed="#A" n="62" break="no"/>dentur, sicut in aliis. De figura igitur, &amp; colore 
+      <lb ed="#A" n="63"/>dicendum nunc est. Figura quidem duobus 
+      mo<lb ed="#A" n="64" break="no"/>dis apparere potest, vno modo, quia reuera in se 
+      <lb ed="#A" n="65"/>terminatum sic corpus tali figura per 
+      condensa<lb ed="#A" n="66" break="no"/>tionem aeris, aut substantiae, quam assumunt. 
+      Al<lb ed="#A" n="67" break="no"/>gero modo, etiamsi in se non sit talis figurae, qualis 
+      <!--00442.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>apparet, in ea tamen positione natum est, ita 
+      appa<lb ed="#A" n="69" break="no"/>rere: sicut in nubibus multae nobis longe 
+      obijciun<lb ed="#A" n="70" break="no"/>tur figurae, quae reuera tales non sunt, &amp; si propius 
+      <lb ed="#A" n="71"/>viderentur, non ita apparerent, in ea tamen 
+      posi<lb ed="#A" n="72" break="no"/>tione eo modo semper apparent. De coloribus 
+      <lb ed="#A" n="73"/>autem vniuersum dicendum est, nullum colorem 
+      <lb ed="#A" n="74"/>esse in corpore assumpto, sed solam lucis 
+      mixtio<lb ed="#A" n="75" break="no"/>nem, vt in iride, eo quod materia illorum 
+      corpo<lb ed="#A" n="76" break="no"/>rum, vt seque cap. dicemus, adeo subtilis, &amp; simplex 
+      <lb ed="#A" n="77"/>est, vt coloris, &amp; secundarum qualitatum 
+      capa<lb ed="#A" n="78" break="no"/>non sit. Quare in corpore solum apparentes 
+      co<lb ed="#A" n="79" break="no"/>lores esse queunt, qui secundum phantasiam, in 
+      <lb ed="#A" n="80"/>sensu Damasceni, dici possunt. Sed quamuis nec 
+      <lb ed="#A" n="81"/>figura sit vera, nec veri colores: oculus tamen in 
+      <lb ed="#A" n="82"/>ea positione ita ab illis immutatur, vt quantumuis 
+      <lb ed="#A" n="83"/>homo attendat, discernere non possit, vtrum 
+      si<lb ed="#A" n="84" break="no"/>vere humanum corpus, an tantum apparens. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1211">
+                     <lb ed="#A" n="85"/>Verum de qualitatibus, quas in corporibus 
+      i<lb ed="#A" n="86" break="no"/>lis angelorum homines sensu tactus percipere 
+      si<lb ed="#A" n="87" break="no"/>bi videntur, maior est difficultas Aug. in Ench. ca. 
+      <lb ed="#A" n="88"/>59. non audet definire, vtrum angelorum 
+      corpo<lb ed="#A" n="89" break="no"/>ra, quibus apparent, tractabilia sint, an non. Ex quo 
+      <lb ed="#A" n="90"/>difficile ipsi redditur, quod legitur Gen. 18. 
+      Abra<lb ed="#A" n="91" break="no"/>hamum lauisse pedes angelorum: id quod etiam 
+      <lb ed="#A" n="92"/>fecisse Loth scribitur Gen. 19. Difficile quoque ad 
+      <lb ed="#A" n="93"/>explicandum ipsi est id, quod de lucta Iacob cum 
+      <lb ed="#A" n="94"/>angelo tam solida contrectatione narratur Gen. 32. 
+      <lb ed="#A" n="95"/>Respondet autem his verbis. Cum ista quaeruntur &amp; 
+      <lb ed="#A" n="96"/>ea, sicut potest, quisque coniectat, non inutiliter exercentur in 
+      <lb ed="#A" n="97"/>genia, si adhibeatur disceptatio moderata, &amp; absit error 
+      o<lb ed="#A" n="98" break="no"/>pinantium se scire, quod nesciunt, quid enim opus est, vt haec, 
+      <lb ed="#A" n="99"/>atque huiusmodi affirmentur, vel negentur, vel definiantu 
+      <lb ed="#A" n="100"/>cum discrimine, quando sine crimine nesciuntur: &amp; quam 
+      <lb ed="#A" n="101"/>uis haec dicat Aug. de corporibus, quibus angelos 
+      <lb ed="#A" n="102"/>naturaliter constare putauit, idem fortiori ratione 
+      <lb ed="#A" n="103"/>iudicium esse debet de iis, quae voluntate sola 
+      an<lb ed="#A" n="104" break="no"/>geli assumuntur. Iudicium sane Aug. prudentissimum 
+      <lb ed="#A" n="105"/>est, idque nobis in multis aliis rebus magis 
+      occul<lb ed="#A" n="106" break="no"/>tis, in hac praesertim materia de angelis 
+      diligentis<lb ed="#A" n="107" break="no"/>sime obseruandum, ne dum promptiores in 
+      re<lb ed="#A" n="108" break="no"/>bus definiendis esse cupimus, facile in absurda 
+      pro<lb ed="#A" n="109" break="no"/>labamur: atque in rebus tanti momenti non debet 
+      <lb ed="#A" n="110"/>inter minima absurda censeri, aliquid sine 
+      funda<lb ed="#A" n="111" break="no"/>mento &amp; ratione ex proprio cerebro pronuntiare. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1272">
+                     <lb ed="#A" n="112"/>Ceterum coniectura aliqua probabili ex 
+      prin<lb ed="#A" n="113" break="no"/>cipiis Philosophiae ducta in praesenti quaestione 
+      <lb ed="#A" n="114"/>aliquid, quasi quibusdam vestigiis indicare, 
+      teme<lb ed="#A" n="115" break="no"/>ritati tribuendum non est. Primum igitur de 
+      duri<lb ed="#A" n="116" break="no"/>cie, quae est qualitas quaedam corporum, &amp; 
+      inter<lb ed="#A" n="117" break="no"/>obiecta tactus numeratur, dicendum est, non 
+      in<lb ed="#A" n="118" break="no"/>ueniri in corporibus assumptis ab angelis, 
+      etiam<lb ed="#A" n="119" break="no"/>si tractabilia se praebeant hominibus, eo quod 
+      cor<lb ed="#A" n="120" break="no"/>pora illa subtilioris substantiae sint, quam vt 
+      duri<lb ed="#A" n="121" break="no"/>ciem intrinsece habere possint, sicut habent lapis, 
+      <lb ed="#A" n="122"/>os, &amp; alia id genus: nec enim angelus ita ea 
+      densa<lb ed="#A" n="123" break="no"/>re potest, &amp; primas eorum qualitates immutare, 
+      <lb ed="#A" n="124"/>vt inde qualitas illa secunda, quae solum in mixtis 
+      <lb ed="#A" n="125"/>reperitur oriri possit. Nihilominus efficere potest 
+      <lb ed="#A" n="126"/>angelus, vt homo contrectans ea, videatur sibi 
+      <lb ed="#A" n="127"/>durum aliquod corpus tangere; &amp; hoc est, corpus 
+      <lb ed="#A" n="128"/>angeli exhibere se tractabile homini: hoc tamen 
+      <lb ed="#A" n="129"/>non accididit tactui respectu corporis ab angelo 
+      <lb ed="#A" n="130"/>assumpti, sicut accidit oculo respectu colorum 
+      e<lb ed="#A" n="131" break="no"/>iusdem corporis: nam quamuis corpus illud nec 
+      <lb ed="#A" n="132"/>duriciem, nec colorem habeat; habet tamen 
+      lu<lb ed="#A" n="133" break="no"/>cem, quae tali modo visui obiecta, nata est sub 
+      spe<lb ed="#A" n="134" break="no"/>cie talis coloris apparere absque vllis oculorum 
+      prae<lb ed="#A" n="135" break="no"/>stigiis. At vero nullam qualitatem in se habet, qua 
+      <!--00443.xml-->
+      <pb ed="#A" n="435"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>peculiari aliqua ratione obiecta, nata sit apparere 
+      <lb ed="#A" n="2"/>vt duricies, sed virtute angeli talis sit resistentia 
+      ta<lb ed="#A" n="3" break="no"/>ctui, ne corpus comprimat, quod appareat, vt 
+      vi<lb ed="#A" n="4" break="no"/>deatur sibi tangere aliquid durum, &amp; resistens. 
+      Eo<lb ed="#A" n="5" break="no"/>dem pacto potest &amp; figura percipi tactu, dum 
+      resi<lb ed="#A" n="6" break="no"/>stentia fit tactui eo modo, &amp; tali positione, vt vi 
+      <lb ed="#A" n="7"/>deatur sibi aut rotundum, aut quadratum contre 
+      <lb ed="#A" n="8"/>ctare. Idem dicendum est de mollitudine carnis 
+      <lb ed="#A" n="9"/>vt solum principiatur a tactu, quatenus minor fit 
+      <lb ed="#A" n="10"/>resistentia: ex quo facile iudicat homo carnem 
+      es<lb ed="#A" n="11" break="no"/>se, quae etiam oculo, vt caro apparet; cum tamen 
+      <lb ed="#A" n="12"/>talis qualitas in eo corpore non sit, qualis est in 
+      <lb ed="#A" n="13"/>vera carne, quam mollitudinem seu molliciem 
+      <lb ed="#A" n="14"/>appellamus. In his ergo duabus qualitatibus 
+      fa<lb ed="#A" n="15" break="no"/>cile illuditur sensus tactus, vel iudicium intellectus 
+      <lb ed="#A" n="16"/>ratione tactus, dum videtur sibi homo 
+      contrecta<lb ed="#A" n="17" break="no"/>re ossa, &amp; carnes, quae reuera non sunt. 
+      <lb ed="#A" n="18"/>Ex hac doctrina tria infero. Primum est, si 
+      ho<lb ed="#A" n="19" break="no"/>mo attente consideret id, quod tangit in corpori 
+      <lb ed="#A" n="20"/>bus assumptis ab angelis, facile iudicare posse, 
+      il<lb ed="#A" n="21" break="no"/>lam non esse veram duriciem, nec veram molliciem, 
+      <lb ed="#A" n="22"/>qualis in ossibus, &amp; carnibus reperitur: quia si 
+      at<lb ed="#A" n="23" break="no"/>tenderet, facile perciperet, non ita immutari 
+      ta<lb ed="#A" n="24" break="no"/>ctum ab illis corporibus, sicut ab aliis, quae viuunt 
+      <lb ed="#A" n="25"/>&amp; veras carnes, &amp; ossa habent. Contra vero si 
+      ho<lb ed="#A" n="26" break="no"/>mo sibi persuasum habeat, illum esse verum 
+      ho<lb ed="#A" n="27" break="no"/>minem, quem videt, quia oculus ita iudicat; &amp; 
+      sim<lb ed="#A" n="28" break="no"/>plici animo contrectet corpus illius, videbitur sibi 
+      <lb ed="#A" n="29"/>carnes, &amp; ossa tangere, nec discernet, vtrum sit 
+      ve<lb ed="#A" n="30" break="no"/>rum corpus, an apparens tantum: ita existimo 
+      ac<lb ed="#A" n="31" break="no"/>cidisse Abrahamo, &amp; Loth dum Genes. 18. &amp; 19. 
+      <lb ed="#A" n="32"/>lauerunt pedes angelorum: neque enim tunc 
+      co<lb ed="#A" n="33" break="no"/>gnouerunt, angelos esse, &amp; in corporibus 
+      assum<lb ed="#A" n="34" break="no"/>ptis apparuisse, contra vero, vt narrat Caiet. 1. 2. 4. 
+      <lb ed="#A" n="35"/>95. ar. 3. cum homo quidam cum daemone 
+      succu<lb ed="#A" n="36" break="no"/>bo consuetudinem haberet, nec ex carnibus illius 
+      <lb ed="#A" n="37"/>eam delectationem sentiret quam cupiebat, 
+      dixi<lb ed="#A" n="38" break="no"/>daemoni, se non sentire eam delectationem, quam 
+      <lb ed="#A" n="39"/>cum muliere sentire consueuit: daemon autem 
+      mi<lb ed="#A" n="40" break="no"/>set respondit, so non posse facere carnes 
+      melio<lb ed="#A" n="41" break="no"/>res: cum enim ille homo sciret se cum daemone 
+      <lb ed="#A" n="42"/>cubare: vellet etiam experiri delectationem, quam 
+      <lb ed="#A" n="43"/>cum mulieribus expertus fuerat, facile potuit 
+      ta<lb ed="#A" n="44" break="no"/>ctu ipso discernere, se non sentire qualitates illas 
+      <lb ed="#A" n="45"/>carnis, quas in mulieribus aliquando senserat. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1432">
+                     <lb ed="#A" n="46"/>Secundo sequitur maximum omnium 
+      argu<lb ed="#A" n="47" break="no"/>mentum resurrectionis Christi sensui fuisse, cum 
+      <lb ed="#A" n="48"/>se discipulis obtulit contrectandum Lucae vit. &amp; 
+      <lb ed="#A" n="49"/>Ioan. 20. Nam quod coram illis comederit, non 
+      <lb ed="#A" n="50"/>fuit ita efficax argumentum visui: siquidem in 
+      <lb ed="#A" n="51"/>corpore assumpto ita potest angelus comedere 
+      <lb ed="#A" n="52"/>sicut contigit Tobiae 12. ca. quando comedit cum 
+      <lb ed="#A" n="53"/>angelo Raphaele: &amp; forsan hac ratione S. Thom. 
+      <lb ed="#A" n="54"/>3. p. qu. 55. art. 6. docet, singula illa argumenta 
+      re<lb ed="#A" n="55" break="no"/>surrectionis per se non fuisse sufficientia, bene 
+      ta<lb ed="#A" n="56" break="no"/>men coniuncta cum testimoniis prophetarum. Cui 
+      <lb ed="#A" n="57"/>consentiunt Scotus, Gabr. infra allegandi 
+      disput<lb ed="#A" n="58" break="no"/>186. ca. 2. ego tamen cum Caiet. loco superius 
+      ci<lb ed="#A" n="59" break="no"/>tato puto, argumentum illud tactus efficacissimum 
+      <lb ed="#A" n="60"/>fuisse ad comprobandam veritatem corporis 
+      hu<lb ed="#A" n="61" break="no"/>mani in Christo: ideo ipse apostolis suis, quod 
+      ta<lb ed="#A" n="62" break="no"/>ctum possent discernere carnes, &amp; ossa, dixit Palpa 
+      <lb ed="#A" n="63"/>te, &amp; videre: quia spiritus carnem, &amp; ossa non habet, 
+      sicu<lb ed="#A" n="64" break="no"/>me videtis habere: per spiritum intellexit corpus aë¬ 
+      <lb ed="#A" n="65"/>reum assumptum, quod apparere solet, &amp; 
+      phanta<lb ed="#A" n="66" break="no"/>sma dicitur. Si autem tactu non potuissent discer 
+      <lb ed="#A" n="67"/>nere veras carnes, &amp; ossa mollitiem &amp; duriciem 
+      <lb ed="#A" n="68"/>illorum, non dixisset, palpate &amp; videte, ac si diceret, 
+      <!--00443.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>tangite, &amp; percipite veras carnes, &amp; vera ossa: cum 
+      <lb ed="#A" n="70"/>autem viderent eum manducare, non dixit, Videte 
+      <lb ed="#A" n="71"/>quomodo manduco, quia spiritus non manducat, sciebat 
+      <lb ed="#A" n="72"/>enim, etiam angelos in corporibus assumptis 
+      ita<lb ed="#A" n="73" break="no"/>vere apparere manducantes, vt oculo discerni non 
+      <lb ed="#A" n="74"/>possit, an reipsa vere manducent. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1502">
+                     <lb ed="#A" n="75"/>Tertio colligitur, duriciem, &amp; mollitiem esse 
+      <lb ed="#A" n="76"/>qualitates sensibiles connumeratas inter obiecta 
+      <lb ed="#A" n="77"/>tactus; ac proinde falsam esse quorundam 
+      philo<lb ed="#A" n="78" break="no"/>sophorum sententiam, qui censent, has qualitates 
+      <lb ed="#A" n="79"/>a tactu non sentiri, sed maiorem, aut minorem 
+      re<lb ed="#A" n="80" break="no"/>sistentiam tantum sentiri, sicut si aliquis 
+      tangere<lb ed="#A" n="81" break="no"/>coelum, in quo nulla sensibilis qualitas est, quia 
+      ta<lb ed="#A" n="82" break="no"/>men penetrari non potest, quasi tactui 
+      resiste<lb ed="#A" n="83" break="no"/>quodam modo sentiretur. Horum ergo 
+      senten<lb ed="#A" n="84" break="no"/>tia mihi non probatur, primum quia Arist. 2. de 
+      ani<lb ed="#A" n="85" break="no"/>ma cap. de tactu eas cum obiectis tactus propriis 
+      <lb ed="#A" n="86"/>annumerauit: secundo quia sensibile commune, 
+      <lb ed="#A" n="87"/>vt figura nequit sentiri sine proprio: sentiretur 
+      <lb ed="#A" n="88"/>autem in corpore sine quacumque alia qualitare 
+      <lb ed="#A" n="89"/>solum cum duricie, aut mollicie: ergo hae sunt 
+      pro<lb ed="#A" n="90" break="no"/>priae qualitates sensibiles. Tertio frustra diceret 
+      <lb ed="#A" n="91"/>Christus, palpate &amp; videte, nisi possent percipi 
+      os<lb ed="#A" n="92" break="no"/>sa, &amp; carnes secundum proprias ipsorum 
+      qualita<lb ed="#A" n="93" break="no"/>tes duriciei &amp; molliciei, sed per maiorem aut 
+      mi<lb ed="#A" n="94" break="no"/>norem resistentiam: sic enim eodem modo in 
+      spi<lb ed="#A" n="95" break="no"/>ritu apparere possent, hoc est, in corpore aereo, per 
+      <lb ed="#A" n="96"/>aequalem omnino resistentiam: constat autem ossa 
+      <lb ed="#A" n="97"/>solum sentiri posse ratione duricei, praesertim cum 
+      <lb ed="#A" n="98"/>sunt coniuncta carni. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e309-Dd1e1559">
+                  <head xml:id="tavaz1-d1e309-Hd1e1561">Caput 3</head>
+                  <p xml:id="tavaz1-d1e309-d1e1563">
+                     <lb ed="#A" n="99" type="fixed=435"/>CAPVT III. 
+      <lb ed="#A" n="100"/>Diluuntur argumenta prioris sententiae.
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e1570">
+                     <lb ed="#A" n="101"/>EX ijs, quae pro priori sententia allata sunt, 
+      su<lb ed="#A" n="102" break="no"/>perest solum tertium argumentum de lamiis 
+      <lb ed="#A" n="103"/>Nam ad primum ex testimonio Damas. in 1.c. 
+      sa<lb ed="#A" n="104" break="no"/>tis diximus. Secundum vero de praestigiis c. 2. 
+      dis<lb ed="#A" n="105" break="no"/>solutum est. Ad tertium igitur de lamiis respondeo, 
+      <lb ed="#A" n="106"/>Concilium Ancyranum aperte docere ea, quae 
+      la<lb ed="#A" n="107" break="no"/>miae incantationibus suis, &amp; magis sibi accidisse 
+      <lb ed="#A" n="108"/>narrant, in somniis solum ipsis contigisse, vt quod 
+      <lb ed="#A" n="109"/>deferantur super bestias in quosdam agros, &amp; 
+      re<lb ed="#A" n="110" break="no"/>liqua huiusmodi. Consentit Augustinus 18. de ciuit. 
+      <lb ed="#A" n="111"/>Dei cap. 18. loquens de transformatione hominis 
+      <lb ed="#A" n="112"/>in figuram alicuius bruti animantis: affirmat enim 
+      <lb ed="#A" n="113"/>hanc transformationem aliter fieri non posse, 
+      <lb ed="#A" n="114"/>quam in somniis: nam licet fieri etiam possit per 
+      <lb ed="#A" n="115"/>assumptionem alicuius corporis sub figura 
+      alicu<lb ed="#A" n="116" break="no"/>ius bruti, quod posset Daemon homini ita 
+      con<lb ed="#A" n="117" break="no"/>iungere, vt bestia appareret: tamen si homo 
+      libe<lb ed="#A" n="118" break="no"/>ros haberet sensus, nec graui somno oppressos 
+      fa<lb ed="#A" n="119" break="no"/>cile iudicaret, se non fuisse re vera in brutum 
+      con<lb ed="#A" n="120" break="no"/>uersum, nec vere onera grauia portasse, &amp; 
+      fatiga<lb ed="#A" n="121" break="no"/>tionem sensisse: quare cum homo credit, se in 
+      be<lb ed="#A" n="122" break="no"/>stiam fuisse conuersum, &amp; sub oneribus multum 
+      <lb ed="#A" n="123"/>laborasse, existimare debemus, id totum in 
+      som<lb ed="#A" n="124" break="no"/>niis illi accidisse: &amp; in hoc casu loquitur August. 
+      <lb ed="#A" n="125"/>de hominibus quoque, qui videre sibi videntur 
+      a<lb ed="#A" n="126" break="no"/>lios homines in bruta conuersos affirmat, etiam 
+      <lb ed="#A" n="127"/>extra somnum id fieri vi sola imaginationis, quae 
+      <lb ed="#A" n="128"/>ita facit rem exterius apparere, ac si reuera esset: 
+      <lb ed="#A" n="129"/>potest etiam id accidere corpore aliquo homini 
+      <lb ed="#A" n="130"/>coniuncto opera daemonis, in quod talis 
+      forma<lb ed="#A" n="131" break="no"/>tio facta videatur. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1640">
+                     <lb ed="#A" n="132"/>Verum quamuis frequentissime ea accidant 
+      la<lb ed="#A" n="133" break="no"/>miis in somniis, vt affirmat Concilium 
+      Ancyra<lb ed="#A" n="134" break="no"/>num, negandum tamen non est, aliquando etiam 
+      <lb ed="#A" n="135"/>solutis sensibus in vigilia lamias deferri non super 
+      <!--00444.xml-->
+      <pb ed="#A" n="436"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>veras bestias. sed a daemonibus in corporibus sub 
+      <lb ed="#A" n="2"/>figura bestiarum assumptis, &amp; alia huiusmodi ex 
+      <lb ed="#A" n="3"/>terius eis opera daemonum vere apparere, vt 
+      do<lb ed="#A" n="4" break="no"/>cet Victoria in relect. de arte magica num. 4. &amp; 5. Caiet 
+      <lb ed="#A" n="5"/>22. q. 95. art. 3. &amp; Alphonsus de Castro libr. 1. de 
+      iusta<lb ed="#A" n="6" break="no"/>haereticorum punitione c. 16. id quod ipse Alphonsus 
+      <lb ed="#A" n="7"/>multis confirmat exemplis. Respondet autem ad 
+      <lb ed="#A" n="8"/>illud cap. Concilij Ancyrani, primum mulierum 
+      <lb ed="#A" n="9"/>illarum sectam, cuius ibi fit mentio, non esse 
+      la<lb ed="#A" n="10" break="no"/>miarum, &amp; de illis tantum dixisse, ea omnia, quae 
+      <lb ed="#A" n="11"/>de ipsis narrantur, in somniis solum, non autem re 
+      <lb ed="#A" n="12"/>ipsa contingere: hoc tamen non video, quo 
+      fun<lb ed="#A" n="13" break="no"/>damento nitatur. Respondet deinde, in canone 
+      <lb ed="#A" n="14"/>solum definiri, mulieres illas decipi, putantes 
+      ea<lb ed="#A" n="15" break="no"/>quae frequenter in somniis accidunt, reuera fieri 
+      <lb ed="#A" n="16"/>ob id tamen non definiri, nunquam re ipsa, sed 
+      sem<lb ed="#A" n="17" break="no"/>per in spiritu ea contingere. August. etiam tantum 
+      <lb ed="#A" n="18"/>dixit, hominibus, qui putant, se in bestias 
+      conuer<lb ed="#A" n="19" break="no"/>sos sub graui onere multum laborasse, id nunquam 
+      <lb ed="#A" n="20"/>nisi in somno graui accidisse, ob rationem 
+      supe<lb ed="#A" n="21" break="no"/>tius dictam: sed non propterea negat, aliquando 
+      <lb ed="#A" n="22"/>alijs spectantibus aliquam apparere posse in 
+      be<lb ed="#A" n="23" break="no"/>stiam conuersum, ratione corporis assumpti a 
+      dae<lb ed="#A" n="24" break="no"/>mone sub tali figura, sicut plane docent Alexand. 2 
+      <lb ed="#A" n="25"/>part. quaest. 43. membr. 3. artic. 1. &amp; Gabriel articulo 
+      <lb ed="#A" n="26"/>tertio citato: id etiam fieri potest praestigiis, vt 
+      <lb ed="#A" n="27"/>manifestum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1716">
+                     <lb ed="#A" n="28"/>CAPVT IV. 
+      <lb ed="#A" n="29"/>De qua materia, &amp; qua virtute corpora ab 
+      <lb ed="#A" n="30"/>Angelis assumantur.
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e1726">
+                     <lb ed="#A" n="31"/>REstat, vt postremo loco dicamus, ex qua 
+      ma<lb ed="#A" n="32" break="no"/>teria praedicta corpora ab Angelis 
+      assuman<lb ed="#A" n="33" break="no"/>tur, &amp; qua virtute formentur, &amp; aptentur, vt talis 
+      <lb ed="#A" n="34"/>figurae, &amp; coloris appareant. Circa prius, 
+      omiss<lb ed="#A" n="35" break="no"/>opinione, quam refert Bonauentura asserentium 
+      <lb ed="#A" n="36"/>corpillud esse coelestis materiae, eo quod nullam 
+      <lb ed="#A" n="37"/>habet speciem probabilitatis: inter caeteros 
+      Scho<lb ed="#A" n="38" break="no"/>lasticos aliqui putant, alia corpora assumi ex 
+      ma<lb ed="#A" n="39" break="no"/>teria aëris crassi, &amp; densati, qui formari potest, &amp; 
+      <lb ed="#A" n="40"/>sub colore apparere, sicut nubes. Ita docuit 
+      Du<lb ed="#A" n="41" break="no"/>rand. in 2. dist. 8. quaest. 1. num. 7. &amp; videtur idem 
+      as<lb ed="#A" n="42" break="no"/>serere S. Thom. in hoc art. ad tertium. Ex ipso vero 
+      <lb ed="#A" n="43"/>corpore aeris, vt nunc est in sua naturali 
+      disposi<lb ed="#A" n="44" break="no"/>tione ea corpora assumi posse docuerunt Alex. 1 
+      <lb ed="#A" n="45"/>part. q. 34. membr. 4. &amp; Albert. 2. p loco supra citato. &amp; in 
+      <lb ed="#A" n="46"/>lib. de quatuor coeuis 1. part. qu. 9. art. 11. in solut. argum 
+      <lb ed="#A" n="47"/>ita vt boni de superno aere, qui dicitur aether; 
+      ma<lb ed="#A" n="48" break="no"/>li vero de inferiori sibi corpora assumant: quae 
+      vi<lb ed="#A" n="49" break="no"/>detur fuisse doctrina Isidori lib. 1. de summo bono c. 12 
+      <lb ed="#A" n="50"/>num. 19. &amp; Bedae in 8 tomo lib. quiq. q. 9. probant vero, 
+      <lb ed="#A" n="51"/>tum, quia aer praesto est, huiusmodi apparitiones 
+      <lb ed="#A" n="52"/>subito fiant. Tum etiam quia cum relinquitur 
+      cor<lb ed="#A" n="53" break="no"/>pus ab Angelo non resoluitur in crassiorem 
+      ma<lb ed="#A" n="54" break="no"/>teriam, sed euanescit, ita vt statim non appareat: 
+      <lb ed="#A" n="55"/>signum ergo est, ex ipsa materia aeris corpus illud 
+      <lb ed="#A" n="56"/>fuisse desumptum. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1785">
+                     <lb ed="#A" n="57"/>Contra vero <ref xml:id="tavaz1-d1e309-Rd1e1789">Bonauentura in secundum dist. 8 
+      <lb ed="#A" n="58"/>2. parte distinctionis art. 2 quaest. 2.</ref>
+                     <ref xml:id="tavaz1-d1e309-Rd1e1794">Ricard. artic. 1
+      <lb ed="#A" n="59"/>q. 3 ad 3.</ref>
+                     <ref xml:id="tavaz1-d1e309-Rd1e1799">Scotus q. §. In ista quaestione, vers. nam tunc 
+      <lb ed="#A" n="60"/>assumit</ref>, &amp; <ref xml:id="tavaz1-d1e309-Rd1e1804">Gabr. q. 1.art. 2. notat. 1.</ref> censent, non ex 
+      <lb ed="#A" n="61"/>puro aeris elemento sine vlla mixtione corpora 
+      <lb ed="#A" n="62"/>ab Angelis assumi, eo quod subtilioris substantia 
+      <lb ed="#A" n="63"/>sit, quam vt condensari possit, &amp; figurari: nec ex 
+      <lb ed="#A" n="64"/>corpore perfecte mixto, sed ex corpore quodam 
+      <lb ed="#A" n="65"/>aereo cum aliqua mixtione crassioris substantiae 
+      <lb ed="#A" n="66"/>quae facile quoque euanescere posset: id quod 
+      ve<lb ed="#A" n="67" break="no"/>ro similius mihi videtur, nec vllo modo Sanctus 
+      <!--00444.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>Tomas &amp; Durand. negarent, cum vtatur exemplo 
+      <lb ed="#A" n="69"/>nubis, in qua non est sola substantia aeris, sed 
+      ali<lb ed="#A" n="70" break="no"/>qua etiam permixta, qua crassior efficitur: imo 
+      ve<lb ed="#A" n="71" break="no"/>ro de Isidoro, Beda, &amp; aliis non satis constat, de puro 
+      <lb ed="#A" n="72"/>aere loqui. Hoc tamen intelligendum est, vt Scot. 
+      <lb ed="#A" n="73"/>notauit, de corporibus illis, quae statim vt 
+      relin<lb ed="#A" n="74" break="no"/>quuntur, euanescunt. Nam contingit interdum 
+      <lb ed="#A" n="75"/>spiritus assumere alia corpora naturalia, vt corpus 
+      <lb ed="#A" n="76"/>serpentis in paradiso, vel alterius animalis. Ideo 
+      <lb ed="#A" n="77"/>autem Tertull. lib. de carne Christic. 3. dixit, Angelos, 
+      <lb ed="#A" n="78"/>assumere corpora de nihilo, &amp; ea in nihilum 
+      con<lb ed="#A" n="79" break="no"/>uerti, quia de subtili quadam substantia assumunt: 
+      <lb ed="#A" n="80"/>idem dicendum de corpore columbae, in quo 
+      Spi<lb ed="#A" n="81" break="no"/>titus sanctus visus est. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1857">
+                     <lb ed="#A" n="82"/>De formatione vero corporis docent Bonauent. 
+      <lb ed="#A" n="83"/>Ricard. Scotus, Durand. &amp; Gabr. sola condensatione 
+      <lb ed="#A" n="84"/>fieri, quae sola compressione, &amp; motu locali 
+      par<lb ed="#A" n="85" break="no"/>tium intra seipsas fieri potest. Mihi tamen 
+      occul<lb ed="#A" n="86" break="no"/>tum adhuc est, quomodo haec corpora figurentur: 
+      <lb ed="#A" n="87"/>nam cum compressio; &amp; condensatio aeris sit causa 
+      <lb ed="#A" n="88"/>frigoris in aere, vt videmus in aere labiis, vel alia 
+      <lb ed="#A" n="89"/>ratione compresso, statim frigus naturaliter 
+      senti<lb ed="#A" n="90" break="no"/>tetur: nihilominus tactui apparet, ac si esset 
+      alicu<lb ed="#A" n="91" break="no"/>ius viuentis, &amp; sentientis temperamentum: 
+      sig<lb ed="#A" n="92" break="no"/>num ergo est, alia ratione nobis quidem 
+      occul<lb ed="#A" n="93" break="no"/>ta, fieri, in qua indaganda nimium immorari, 
+      su<lb ed="#A" n="94" break="no"/>peruacaneum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e1888">
+                     <lb ed="#A" n="95"/>De virtute vero, qua haec corpora assumuntur, 
+      <lb ed="#A" n="96"/>&amp; praeparantur, varie quoque Doctores sentiunt 
+      <lb ed="#A" n="97"/>S. Thom. in solut. 3. &amp; Petrus Bergomus in concordanti 
+      <lb ed="#A" n="98"/>locorum dub. 117. censent, virtute Dei fieri. Alex. vero I. 
+      <lb ed="#A" n="99"/>part. q. 34. membr. 5. asserit, corpus assumendum, ab 
+      <lb ed="#A" n="100"/>Angelo praeparari, sed a Deo vltimo formari. 
+      Ce<lb ed="#A" n="101" break="no"/>terum qualis sit haec praeparatio, &amp; quomodo 
+      fi<lb ed="#A" n="102" break="no"/>at, non explicat. Probabilius videtur, vt docent 
+      Al<lb ed="#A" n="103" break="no"/>bertus locis citatis, &amp; Bonau. qui allegata, ad vlt. fieri, ab 
+      <lb ed="#A" n="104"/>Angelo propria virtute. Sic etiam supponere 
+      vi<lb ed="#A" n="105" break="no"/>dentur Scotus, &amp; Gabriel, cum asserant, sola 
+      con<lb ed="#A" n="106" break="no"/>densatione figurari: cum enim condensatio solo 
+      <lb ed="#A" n="107"/>motu compressionis fiat, quem potest Angelus 
+      <lb ed="#A" n="108"/>propria virtute efficere; consequitur, propria 
+      vir<lb ed="#A" n="109" break="no"/>ture posse ab Angelo corpus assumi. Et quamuis 
+      <lb ed="#A" n="110"/>non sola condensatione id semper fiat: potest 
+      ta<lb ed="#A" n="111" break="no"/>men aliquando Angelus applicatione aliarum 
+      cau<lb ed="#A" n="112" break="no"/>sarum naturalium talia corpora perficere, vt 
+      assu<lb ed="#A" n="113" break="no"/>mantur. Id autem existimo probabilius: nam cum 
+      <lb ed="#A" n="114"/>mali etiam angeli ad pessimos fines corpora 
+      assu<lb ed="#A" n="115" break="no"/>mant, non est vero simile, Deum propria 
+      virtute<lb ed="#A" n="116" break="no"/>illa formare, &amp; solum ipso daemone vt 
+      instru<lb ed="#A" n="117" break="no"/>mento vti¬ 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e1943"><!-- vaz-p1q51a2-d185 -->
+               <head xml:id="tavaz1-d1e309-Hd1e1946">Disputatio 185</head>
+               <head xml:id="tavaz1-d1e309-Hd1e1948" type="question-title">
+    An omnes apparitiones Dei, quae factae 
+    narrantur, angelorum ministerio 
+    factae fuerint
+  </head>
+               <p xml:id="tavaz1-d1e309-d1e1951">
+                  <lb ed="#A" n="118" type="fixed=436"/>DISPVT. CLXXXV. 
+      <lb ed="#A" n="119"/>An omnes apparitiones Dei, quae factae 
+      <lb ed="#A" n="120"/>narrantur, angelorum ministerio 
+      <lb ed="#A" n="121"/>factae fuerint. 
+    </p>
+               <p xml:id="tavaz1-d1e309-d1e1962">
+                  <lb ed="#A" n="122"/>Non omnes apparitiones ministerio Angelorum factas fuisse, 
+      <lb ed="#A" n="123"/>nonnulli patres existimarunt, cap. I. 
+      <lb ed="#A" n="124"/>Deum semper in vtroque testamento ministerio Angelo 
+      <lb ed="#A" n="125"/>rum apparuisse, verior opinio fert, c. 2. 
+      </p>
+               <div xml:id="tavaz1-d1e309-Dd1e1973">
+                  <head xml:id="tavaz1-d1e309-Hd1e1975">Caput 1</head>
+                  <p xml:id="tavaz1-d1e309-d1e1977">
+                     <lb ed="#A" n="126" type="fixed=436"/>CAPVT I. 
+      <lb ed="#A" n="127"/>Non omnes apparitiones ministerio Angelorum 
+      facta<lb ed="#A" n="128" break="no"/>fuisse, nonnulli patres existimarunt,
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e1986">
+                     <lb ed="#A" n="129"/>CVm in veteri &amp; nouo testamento 
+      <lb ed="#A" n="130"/>saepius hominibus apparuerit, non satis 
+      in<lb ed="#A" n="131" break="no"/>ter Ecclesiae Patres in dubitatum est. 
+      <lb ed="#A" n="132"/>trum Deus ipse proxime, an loco illius, 
+      An<lb ed="#A" n="133" break="no"/>gelus in eo corpore apparuerit. Nonnulli 
+      <!--00445.xml-->
+      <pb ed="#A" n="437"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>existimant, non omnes huiusmodi apparitiones, 
+      <lb ed="#A" n="2"/>etiam in veteri testamento, ministerio 
+      Angelo<lb ed="#A" n="3" break="no"/>rum factas fuisse: ita affirmant Euseb. 1. de demonstrat. 
+      <lb ed="#A" n="4"/>Euangel. c. 5. &amp; lib. 5. ca. 100. &amp; 1. Chrysost. homil. 16. in 
+      <lb ed="#A" n="5"/>acta Apost. in illa verba c. 7. Expletis annis 
+      quadragin<lb ed="#A" n="6" break="no"/>ta, &amp; Theophylact. in eundem locum, cum asserunt 
+      <lb ed="#A" n="7"/>Deum per seipsum sine vllo Angelorum ministe 
+      <lb ed="#A" n="8"/>rio apparuisse Moysi, &amp; cum eo locutum fuisse. 
+      <lb ed="#A" n="9"/>Consentire videntur Tertull. in lib. contra Iudaeos c. 9. 
+      <lb ed="#A" n="10"/>post medium: &amp; Ambros. in illud ad Colos.i. Qui est 
+      ima<lb ed="#A" n="11" break="no"/>go pei inuisibilis, qui docent, non Patrem, sed filium 
+      <lb ed="#A" n="12"/>Dei Moysi apparuisse, &amp; locutum cum eo fuisse: 
+      <lb ed="#A" n="13"/>idemque de filio dixerunt Euseb. Chrysost. &amp; Theo 
+      <lb ed="#A" n="14"/>phyl. refertur quoque pro hac sententia Leo I. Epist. 
+      <lb ed="#A" n="15"/>13. quae est ad Pulcheriam Augustam, vbi ait, filium 
+      <lb ed="#A" n="16"/>Dei apparuisse Patriarchis, &amp; hospitalitatis officia 
+      <lb ed="#A" n="17"/>ab eis recepisse. Idem dicit Clemens Rom. lib. 5. con 
+      <lb ed="#A" n="18"/>stit. c. vlt. Caeterum praeter Euseb. Chrysost. &amp; Theophyl 
+      <lb ed="#A" n="19"/>nullius alius expresse negat, ibi Angelum fuisse, 
+      <lb ed="#A" n="20"/>&amp; ministerio illius eas apparitiones factas fuisse 
+      <lb ed="#A" n="21"/>Probari autem potest Eusebij, Chrysost. &amp; 
+      Theophyl<lb ed="#A" n="22" break="no"/>sententia, quia ille, qui Moysi apparuit, aperte 
+      di<lb ed="#A" n="23" break="no"/>xit, se esse Deum, &amp; alia de seipso pronunciauit, 
+      <lb ed="#A" n="24"/>quae soli Deo conuenire possunt: cur ergo dicere 
+      <lb ed="#A" n="25"/>debemus, illum fuisse angelum: praesertim cum 
+      <lb ed="#A" n="26"/>Scriptura, vbi reuera angelus apparebat, aperte 
+      <lb ed="#A" n="27"/>dicat, non dominum, sed angelum apparuisse? Ex 
+      <lb ed="#A" n="28"/>recentioribus Theologis solum legi Clicthquaum. 
+      <lb ed="#A" n="29"/>in cap. 17. lib. 4. Damasc. de fide, qui affirmet, in nouo 
+      <lb ed="#A" n="30"/>saltem testamento Deum aliquando sine vllo 
+      <lb ed="#A" n="31"/>angelorum ministerio per seipsum apparuisse. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e309-Dd1e2075">
+                  <head xml:id="tavaz1-d1e309-Hd1e2077">Caput 2</head>
+                  <p xml:id="tavaz1-d1e309-d1e2079">
+                     <lb ed="#A" n="32" type="fixed=437"/>CAPVT II. 
+      <lb ed="#A" n="33"/>Deum semper in vtroque testamento ministerio 
+      <lb ed="#A" n="34"/>Angelorum apparuisse, verior 
+      <lb ed="#A" n="35"/>opinio fert. 
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e2090">
+                     <lb ed="#A" n="36"/>MAgis communis, &amp; verior sententia est, quae 
+      <lb ed="#A" n="37"/>asserit, Deum semper in vtroque testamen 
+      <lb ed="#A" n="38"/>to ministerio angelorum apparuisse. De 
+      appari<lb ed="#A" n="39" break="no"/>tionibus in veteri testamento factis, sic sentit 
+      Au<lb ed="#A" n="40" break="no"/>gustinus 3. de Trinitate cap. 11. vbi ex professo hanc 
+      <lb ed="#A" n="41"/>quaestionem disputat. Neque oppositum docuit in 
+      <lb ed="#A" n="42"/>Epistola 111. cum inquit ex sententia Hieronym. 
+      <lb ed="#A" n="43"/>Nazian. &amp; Ambr. Deum aliquando in forma visi 
+      <lb ed="#A" n="44"/>bili Patribus apparuisse: ibi enim non negat, id 
+      fa<lb ed="#A" n="45" break="no"/>ctum fuisse ministerio angelorum. Referuntur 
+      <lb ed="#A" n="46"/>pro hac sententia Dionys. Hieron. &amp; Greg. verum 
+      <lb ed="#A" n="47"/>hi Patres non dicunt, Deum semper in veteri te 
+      <lb ed="#A" n="48"/>stamento ministerio angelorum omnibus 
+      appa<lb ed="#A" n="49" break="no"/>ruisse: sed de aliquibus id docent, quibus dicitur 
+      <lb ed="#A" n="50"/>Deus apparuisse: inde tamen recte nostra 
+      senten<lb ed="#A" n="51" break="no"/>tia confirmatur. Si enim vbi Scriptura dicit, peum 
+      <lb ed="#A" n="52"/>apparuisse, &amp; locutum fuisse, hi Patres affirmant 
+      <lb ed="#A" n="53"/>ministerio angelorum factum fuisse, consequitur, 
+      <lb ed="#A" n="54"/>vbique etiam eodem modo apparuisse, refertur 
+      <lb ed="#A" n="55"/>etiam Dionys. 4. c. de diu. nomin. parum post 
+      princi<lb ed="#A" n="56" break="no"/>pium: sed ibi tantum inquit, angelos esse quasi 
+      <lb ed="#A" n="57"/>diuini silentij interpretes. Clarius loquitur pro 
+      <lb ed="#A" n="58"/>hac sentent. c. 4. de coelesti Hierarch. non longe ab 
+      <lb ed="#A" n="59"/>initio, vbi de substantiis spiritualibus ita scribit. 
+      <lb ed="#A" n="60"/>Angelorum praecipue nomine appellantur, propterea, quod 
+      <lb ed="#A" n="61"/>primum in eis insit diuina illustratio, ac per eos ad 
+      no<lb ed="#A" n="62" break="no"/>perueniant eae, quae naturam nostram superant, 
+      patefa<lb ed="#A" n="63" break="no"/>ctiones. Subdit deinde, antiquos patres ab angelis 
+      <lb ed="#A" n="64"/>eruditos, ante legem ad veritatis notitiam 
+      perue<lb ed="#A" n="65" break="no"/>nisse, legem ipsam per angelos accepisse, &amp; Deum 
+      <lb ed="#A" n="66"/>a nemine Sanctorum vnquam visum fuisse, sicut 
+      <lb ed="#A" n="67"/>ipse est, sed per quasdam visiones eorum sensibus 
+      <lb ed="#A" n="68"/>accommodatas: de quibus subiicit haec verba. Ha 
+      <!--00445.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>autem diuinas visiones clarissimi illi Patres nostri a 
+      <lb ed="#A" n="70"/>stium virtutum opera didicerunt. Docet etiam, legem 
+      <lb ed="#A" n="71"/>fuisse Moysi per angelos promulgatam. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2175">
+                     <lb ed="#A" n="72"/>Deinde Hieronym. in illud ad Galat. 3. Ordinata pe 
+      <lb ed="#A" n="73"/>Angelos, fatetur legem per angelos etiam 
+      Moys<lb ed="#A" n="74" break="no"/>traditam fuisse. Consentit Cyrill. lib. 8. Thesauri ca. 2 
+      <lb ed="#A" n="75"/>post medium. Demum Greg. 28. moral. c. 2. docet. Deum 
+      <lb ed="#A" n="76"/>aliquando in terrenis substantiis per angelos 
+      et<lb ed="#A" n="77" break="no"/>iam loqui, sicut Balaam corripuit per os asinae: 
+      <lb ed="#A" n="78"/>aliquando in coelestibus substantiis per angelos 
+      <lb ed="#A" n="79"/>etiam loqui, vt cum in nube dixit Matth. 3. &amp; 18. 
+      <lb ed="#A" n="80"/>Hic est filius meus, &amp;c. aliquando in terrenis, &amp; 
+      coele<lb ed="#A" n="81" break="no"/>stibus substantiis simul per angelos loqui, veluti 
+      <lb ed="#A" n="82"/>cum Moysi in igne &amp; rubo per angelum locutus 
+      <lb ed="#A" n="83"/>est: vbi de apparitionibus sub vtroque testamento 
+      <lb ed="#A" n="84"/>Greg. docet, ministerio angelorum factas fuisse. 
+      <lb ed="#A" n="85"/>His etiam addere possumus Rabbinum Moysem May 
+      <lb ed="#A" n="86"/>monium in lib. More Nebuchin hoc est, Doctor per 
+      <lb ed="#A" n="87"/>plexorum par. 2. vbi, quod spectat ad apparitiones 
+      <lb ed="#A" n="88"/>facta in vet. testam. cum praedictis patribus 
+      con<lb ed="#A" n="89" break="no"/>uenit. Haec sententia vnica ratione inductione 
+      col<lb ed="#A" n="90" break="no"/>lecta facile probatur hoc modo, si quando Deus 
+      <lb ed="#A" n="91"/>per se absque vllo angelorum ministerio 
+      apparuis<lb ed="#A" n="92" break="no"/>set, maxime cum Scriptura narrat, neum locutum 
+      <lb ed="#A" n="93"/>fuisse, &amp; cum inducit verba non quasi angeli, sed 
+      <lb ed="#A" n="94"/>quasi ipsius pei per seipsum loquentis; sed tunc 
+      <lb ed="#A" n="95"/>etiam ministerio angelorum neus apparuit, &amp; 
+      lo<lb ed="#A" n="96" break="no"/>cutus est: ergo iudicare debemus, semper eodem 
+      <lb ed="#A" n="97"/>modo factum fuisse. Primum quidem lex dictata 
+      <lb ed="#A" n="98"/>fuit Moysi ministerio angelorum, quamuis cum 
+      <lb ed="#A" n="99"/>Moyse neus, quasi per seipsum tunc loqueretur, 
+      <lb ed="#A" n="100"/>&amp; Moyses cum eo, qui apparebat, tanquam cum 
+      <lb ed="#A" n="101"/>peo sermonem haberet: imo ipsum etiam vt neum 
+      <lb ed="#A" n="102"/>non solum Moyses, sed totus populus Exod. 19. 
+      <lb ed="#A" n="103"/>adoraret, sicut praeternion. Hieron. Aug. &amp; Cyrill. 
+      <lb ed="#A" n="104"/>superius commemoratos, qui id aperte testantur, 
+      <lb ed="#A" n="105"/>ex ipso textu Pauli non obscure colligi videtur. pi 
+      <lb ed="#A" n="106"/>cit enim ad Galat. 3. Ordinata (scil. lex per Angelos in 
+      <lb ed="#A" n="107"/>manu mediatoris, hoc est, Moysis qui fuit mediator 
+      <lb ed="#A" n="108"/>inter neum, &amp; populum: ex quo loco Aug. suam 
+      <lb ed="#A" n="109"/>sententiam comprobat. Et ad Hebr. 2. Si enim qui 
+      <lb ed="#A" n="110"/>per Angelos dictus est sermo factus est firmus, &amp; omnis 
+      pra<lb ed="#A" n="111" break="no"/>uaricatio, &amp; inobedientia accepit iustam mercedis 
+      retri<lb ed="#A" n="112" break="no"/>butionem, &amp;c. Verum quamuis Chrysost. hom. 3. in 
+      E<lb ed="#A" n="113" break="no"/>pist. ad Hebr. &amp; Theophyl. in illud ad Galat. 3. praedicta 
+      <lb ed="#A" n="114"/>testimonia de lege intelligant, asserunt tamen 
+      id<lb ed="#A" n="115" break="no"/>eo dici ordinatam per angelos, quia ipsi legis 
+      pro<lb ed="#A" n="116" break="no"/>mulgationi interfuerunt, tanquam testes tubas 
+      <lb ed="#A" n="117"/>personantes, dum tonitrua, &amp; alia signa eorum 
+      mi<lb ed="#A" n="118" break="no"/>nisterio fiebant. Deinde idem Chrysost in illum 
+      lo<lb ed="#A" n="119" break="no"/>cum ad Galat. 3. &amp; Oecumen. dicunt, per angelos 
+      i<lb ed="#A" n="120" break="no"/>bi sacerdotes intelligi, qui legem populo 
+      promul<lb ed="#A" n="121" break="no"/>garunt. Theodor. autem in vtrumque locum, 
+      fa<lb ed="#A" n="122" break="no"/>tetur ministrantibus angelis legem fuisse latam 
+      <lb ed="#A" n="123"/>at vero quodnam fuerit eorum ministerium, non 
+      <lb ed="#A" n="124"/>explicat. Ratio etiam illis videtur suffragari, quia 
+      <lb ed="#A" n="125"/>non apparet, quomodo plures ad dictandam seu 
+      scri<lb ed="#A" n="126" break="no"/>bendam, &amp; promulgandam legem concurrere 
+      po<lb ed="#A" n="127" break="no"/>tuerint. pemum Chrysost. Theophyl. illud ad Heb. 
+      in<lb ed="#A" n="128" break="no"/>telligunt etiam de aliis annuntiationibus per 
+      an<lb ed="#A" n="129" break="no"/>gelos factis in veteri test. quarum transgressores 
+      <lb ed="#A" n="130"/>debitas poenas luerunt: sicut contigit cum 
+      angeli<lb ed="#A" n="131" break="no"/>annuntiarunt Loth &amp; vxori illius subuersionem 
+      So<lb ed="#A" n="132" break="no"/>domorum, &amp; praeceperunt ne retro aspicerent: qui 
+      <lb ed="#A" n="133"/>sermo adeo firmus fuit, vt vxor Loth, cum 
+      trans<lb ed="#A" n="134" break="no"/>gressa in statuam salis conuersa fuerit. Hinc autem 
+      <lb ed="#A" n="135"/>recte arguit Paul. maiori poena eos dignos esse 
+      <lb ed="#A" n="136"/>qui abundantem Euangelii salutem neglexerint. 
+      <!--00446.xml-->
+      <pb ed="#A" n="438"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Nihilominus planior videtur sensus locorum 
+      <lb ed="#A" n="2"/>Pauli, Si dicamus, legem ipsam dictatam fuisse 
+      mi<lb ed="#A" n="3" break="no"/>nisterio angelorum: quo testimonio Patres 
+      supe<lb ed="#A" n="4" break="no"/>rius memorati in hanc sententiam adducti 
+      fue<lb ed="#A" n="5" break="no"/>runt. Et quamuis vnus Angelus sufficeret, vt 
+      lo<lb ed="#A" n="6" break="no"/>queretur, aut scriberet legem: dicuntur tamen 
+      <lb ed="#A" n="7"/>multi ministrasse, eo quod eorum opera multa 
+      a<lb ed="#A" n="8" break="no"/>lia in promulgatione legis facta fuerunt. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2342">
+                     <lb ed="#A" n="9"/>Secundo probat August. Dominum apparuisse 
+      <lb ed="#A" n="10"/>Abrahamo ministerio angelorum Gen. 17. 
+      quan<lb ed="#A" n="11" break="no"/>do cum eo pepigit foedus circumcisionis, &amp; ipse 
+      <lb ed="#A" n="12"/>promissionem accepit benedictionis plurimarum 
+      <lb ed="#A" n="13"/>gentium in seipso. Tunc enim dominum illi 
+      appa<lb ed="#A" n="14" break="no"/>ruisse, testatur Stephan. Actor. 7. quia c. 18. dicitur 
+      <lb ed="#A" n="15"/>dominus apparuisse Abrahamo ad illicem 
+      Mam<lb ed="#A" n="16" break="no"/>bre, &amp; cum eleuasset oculos, vidisse tres viros 
+      in<lb ed="#A" n="17" break="no"/>ipso aestu diei, &amp; dixisse, Domine Deus: manifestum 
+      <lb ed="#A" n="18"/>autem ex cap. sequenti est, eos tres angelos fuisse 
+      <lb ed="#A" n="19"/>dicitur enim, relicto Abrahamo angelos intrasse 
+      <lb ed="#A" n="20"/>Sodomam. Ceterum ex hoc loco non multum 
+      pos<lb ed="#A" n="21" break="no"/>sumus vrgere aduersarios; cum enim scribitu 
+      <lb ed="#A" n="22"/>Gen. 18. tres viros apparuisse, non refert Scriptu 
+      <lb ed="#A" n="23"/>ra, omnes tres loquutos fuisse in nomine, &amp; 
+      per<lb ed="#A" n="24" break="no"/>sona Dei, sed vnum tantum ex illis, quem 
+      possen<lb ed="#A" n="25" break="no"/>aduersarij contendere fuisse ipsum Deum, &amp; 
+      velu<lb ed="#A" n="26" break="no"/>ri dominum aliorum apparuisse, cum quo etiam 
+      <lb ed="#A" n="27"/>Abrahamus tanquam cum principe &amp; domini 
+      <lb ed="#A" n="28"/>videtur tantum loquutus, cum dixit, Domine si in 
+      <lb ed="#A" n="29"/>ueni gratiam, &amp;c. Vnde &amp; cap. sequenti non 
+      legi<lb ed="#A" n="30" break="no"/>mus, venisse tres angelos Sodomam, sed duos 
+      tan<lb ed="#A" n="31" break="no"/>tum. Venerunt itaque (dicit Scriptura) duo Angel 
+      <lb ed="#A" n="32"/>Sodomam. Posset ergo quis dicere, duos illos 
+      An<lb ed="#A" n="33" break="no"/>gelos missos fuisse a Domino, qui inter eos, vt 
+      <lb ed="#A" n="34"/>princeps apparuit. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2402">
+                     <lb ed="#A" n="35"/>Tertio probat August. ex illo Gen. 21. vbi 
+      Scri<lb ed="#A" n="36" break="no"/>ptura dicit, Agar existenti in solitudine apparuisse 
+      <lb ed="#A" n="37"/>Angelum domini, qui plane in persona Dei 
+      lo<lb ed="#A" n="38" break="no"/>quebatur his verbis, Tolle puerum; &amp; tene manum 
+      <lb ed="#A" n="39"/>illius, quia in gentem magnam faciam eum. Haec enim 
+      <lb ed="#A" n="40"/>conuenire Angelo non possunt, nisi quatenus 
+      <lb ed="#A" n="41"/>personam Dei gerit. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2420">
+                     <lb ed="#A" n="42"/>Quarto ex illo Genes. 22. vbi dicitur Dominus 
+      <lb ed="#A" n="43"/>apparuisse Abrahamo, &amp; praecepisse 
+      immolatio<lb ed="#A" n="44" break="no"/>nem filij sui, Domini enim verba sunt illa, 
+      Nun<lb ed="#A" n="45" break="no"/>cognoui quod timeas dominum, &amp; non pepercisti vnigenito 
+      <lb ed="#A" n="46"/>filio tuo propter me: &amp; tamen ille fuit Angelus; 
+      dici<lb ed="#A" n="47" break="no"/>tur enim, Cum vellet Abraham immolare, apparuit ei 
+      <lb ed="#A" n="48"/>Angelus de coelo, &amp; clamauit, &amp;c. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2438">
+                     <lb ed="#A" n="49"/>Quinto clarius probatur ex illo Erod. 3. vbi 
+      di<lb ed="#A" n="50" break="no"/>citur dominus apparuisse Moysi in rubo, &amp; in 
+      ip<lb ed="#A" n="51" break="no"/>ne, &amp; Exo. 19. locutum fuisse dominum cum 
+      Moys<lb ed="#A" n="52" break="no"/>in monte Syna. Actor. vero 7. Stephanus narrans 
+      <lb ed="#A" n="53"/>historiam hanc inquit, Expletis annis quadraginta 
+      ap<lb ed="#A" n="54" break="no"/>paruit illi in deserto montis Syna Angelus in igne flamma 
+      <lb ed="#A" n="55"/>rubi, &amp; facta est ad tum vox domini. Ego sum Deus Patrum 
+      <lb ed="#A" n="56"/>tuorum, quae verba idem dixit, qui apparuit in rubo 
+      <lb ed="#A" n="57"/>Et infra idem Stephanus inquit, locutum fuisse 
+      <lb ed="#A" n="58"/>Moysem cum Angelo in monte Sina; cum tamen 
+      <lb ed="#A" n="59"/>Scriptura nunquam locutionem Moyses cum 
+      An<lb ed="#A" n="60" break="no"/>gelo, sed cum domino referat; signum ergo est, 
+      <lb ed="#A" n="61"/>Angelum in persona Dei apparuisse. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2469">
+                     <lb ed="#A" n="62"/>Postremo Gen. 31. Iacob. narrauit vxorib. sui 
+      <lb ed="#A" n="63"/>somnium his verbis, dixitque Angelus Dei ad me in 
+      <lb ed="#A" n="64"/>somniis, Iacob. &amp; ego respondi, adsum, &amp; postquam ad 
+      <lb ed="#A" n="65"/>eum loqui coepit, dixit, Ego sum Deus Bethel, &amp;c. vbi 
+      <lb ed="#A" n="66"/>ille qui dictus est Angelus, vt dominus 
+      loqueba<lb ed="#A" n="67" break="no"/>tur, si ergo in ijs locis, vbi dicit Scriptura, 
+      domi<lb ed="#A" n="68" break="no"/>num apparuisse, constat Angelum fuisse in per¬ 
+      <!--00446.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>sona Dei loquutum: signum est, omnes domini 
+      <lb ed="#A" n="70"/>apparitiones ministerio Angelorum factas fuisse 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2495">
+                     <lb ed="#A" n="71"/>Respondent nonnulli ideo illum, qui apparuit 
+      <lb ed="#A" n="72"/>lacob. &amp; Moysi, dictum fuisse Angelum, cum 
+      re<lb ed="#A" n="73" break="no"/>uera Deus esset: quia erat Dei verbum: dictus fuit 
+      <lb ed="#A" n="74"/>autem Angelus, quia verbum Patris Angelus eius 
+      <lb ed="#A" n="75"/>est, iuxta Esai. cap. 9. secundum translationem 70 
+      <lb ed="#A" n="76"/>qui filium Dei magni consilij Angelum 
+      appella<lb ed="#A" n="77" break="no"/>uit. Ita respondet Euseb. libr. 5. demonstrat, Euangel. c. 
+      <lb ed="#A" n="78"/>10. &amp; lib. 1. cap. 5. cuius interpretationem 
+      sequun<lb ed="#A" n="79" break="no"/>tur Chrysost. homil. 16. in acta Apostol. &amp; Theophyl. ibi 
+      <lb ed="#A" n="80"/>dem Theodoretus q. 5. in Exod. Isidor. lib. 1. de summo 
+      bon<lb ed="#A" n="81" break="no"/>cap. 12. num. 23. &amp; Beda tomo 8. in libro qq. q. 9. 
+      pos<lb ed="#A" n="82" break="no"/>medium: imo addit Isidor. quoties in Scriptura 
+      <lb ed="#A" n="83"/>Angelus introducitur, loquens, vt Deus, semper 
+      <lb ed="#A" n="84"/>intelligi filium Dei. Eodem modo explicat Cyprianu 
+      <lb ed="#A" n="85"/>lib. 2. aduersus Iudaeos testimonium illud Genes. 31. 
+      <lb ed="#A" n="86"/>&amp; illud Gen. 22. quando Angelus apparuisse 
+      di<lb ed="#A" n="87" break="no"/>citur Abrahamo, &amp; in persona Dei deinde locu 
+      <lb ed="#A" n="88"/>tus, &amp; Hilar. 4. de Trinit. post med &amp; libr. 12. duobus 
+      <lb ed="#A" n="89"/>foliis ante finem sic intellexit apparitionem factam 
+      <lb ed="#A" n="90"/>Agar. atque hac ratione in Concil. Sirmiensi, 
+      cu<lb ed="#A" n="91" break="no"/>ius canones refert. Hilar. in lib. de synodis cap. 15. 
+      dici<lb ed="#A" n="92" break="no"/>tur, Si quis cum lacob non filium, quasi hominum 
+      collu<lb ed="#A" n="93" break="no"/>ctatum, sed Deum innascibilem vel patrem eius dicat, 
+      ana<lb ed="#A" n="94" break="no"/>thema sit, consonat etiam Theodor. q. 91. in Genes. 
+      ex<lb ed="#A" n="95" break="no"/>plicans apparitionem, qua Iacob in ea lucta 
+      dici<lb ed="#A" n="96" break="no"/>tur vidisse filium Dei. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2554">
+                     <lb ed="#A" n="97"/>Haec tamen interpretatio mihi non probatur. 
+      <lb ed="#A" n="98"/>cum enim omnis effectus extra Deum sit 
+      com<lb ed="#A" n="99" break="no"/>munis toti Trinitati, tunc solum vna persona sine 
+      <lb ed="#A" n="100"/>alia dicitur apparere, cum vna significatur sine 
+      a<lb ed="#A" n="101" break="no"/>lia, vt sub specie columbae, &amp; in linguis igneis 
+      per<lb ed="#A" n="102" break="no"/>sona Spiritus sancti, sed in his apparitionibus non 
+      <lb ed="#A" n="103"/>magis vna persona, quam alia significabatur: 
+      er<lb ed="#A" n="104" break="no"/>go non magis vna quam alia apparebat. Tum 
+      <lb ed="#A" n="105"/>etiam nullibi in Scriptura legimus, Filium Dei 
+      se<lb ed="#A" n="106" break="no"/>cundum diuinam naturam vocari angelum: nam 
+      <lb ed="#A" n="107"/>illo loco Isaiae de ipso secundum humanitatem 
+      <lb ed="#A" n="108"/>Scriptura loquitur, &amp; dicitur Angelus, quia fuit 
+      <lb ed="#A" n="109"/>Patris nuntius. Illud autem Concilium 
+      Sirmien<lb ed="#A" n="110" break="no"/>se nullius esse momenti disputat. 109. cap. 5. 
+      no<lb ed="#A" n="111" break="no"/>tatum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2590">
+                     <lb ed="#A" n="112"/>De apparitionibus vero in nouo testamento 
+      <lb ed="#A" n="113"/>factis non video peculiarem esse rationem. Cum 
+      <lb ed="#A" n="114"/>enim omnes in veteri ita factae fuerint, propter 
+      <lb ed="#A" n="115"/>Dei maiestatem, eadem ratione in nouo fieri 
+      de<lb ed="#A" n="116" break="no"/>bent. Solum euangelica lex hoc praestat antiquae, 
+      <lb ed="#A" n="117"/>quod in ea verbum apparere dignatum est in 
+      pro<lb ed="#A" n="118" break="no"/>pria carne. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e2610"><!-- vaz-p1q51a3 -->
+               <head xml:id="tavaz1-d1e309-Hd1e2613">Articulus 3</head>
+               <p xml:id="tavaz1-d1e309-d1e2615">
+                  <lb ed="#A" n="53" type="fixed=440"/>Explicatio Articuli.
+    </p>
+               <p xml:id="tavaz1-d1e309-d1e2620">
+                  <lb ed="#A" n="54"/>CONCLVSIO est, Quod attinet ad id, quod 
+      <lb ed="#A" n="55"/>proprium est viuentium, Angeli non possunt 
+      exer<lb ed="#A" n="56" break="no"/>cere opera vitae: secundum id vero quod commune esto 
+      <lb ed="#A" n="57"/>peribus viuentium, &amp; non viuentium, ea exercere 
+      pos<lb ed="#A" n="58" break="no"/>sunt. Docere vult sanctus Doctor, posse 
+      produci<lb ed="#A" n="59" break="no"/>ab angelo in corpore viuente actionem aliquam, 
+      <lb ed="#A" n="60"/>quae exterius similis sit actioni vitae, cum tamen 
+      <lb ed="#A" n="61"/>reuera non sit; qualis est locutio, &amp; deambulatio, 
+      <!--00448.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="62"/>Actionum enim vitalium duplex genus est. Alte 
+      <lb ed="#A" n="63"/>rum earum, quae secundum substantiam suam ne 
+      <lb ed="#A" n="64"/>queunt esse, nisi a vita, quales sunt operationes 
+      <lb ed="#A" n="65"/>sensuum; &amp; hae actiones in corpore assumpto 
+      fie<lb ed="#A" n="66" break="no"/>ri non possunt ab angelis: &amp; in hoc plane 
+      conue<lb ed="#A" n="67" break="no"/>niunt Doctores in 2. d. 8. generationem vero, de 
+      <lb ed="#A" n="68"/>qua posset esse aliqua difficultas propter 
+      daemo<lb ed="#A" n="69" break="no"/>nes incubos, qui ad mulieres accedentes generare 
+      <lb ed="#A" n="70"/>possunt, docent fieri non posse in corpore assum 
+      <lb ed="#A" n="71"/>pto, nisi deferendo aliunde semen viri, sicut 
+      com<lb ed="#A" n="72" break="no"/>burere possunt applicando ignem materiae, quod 
+      <lb ed="#A" n="73"/>reuera non esset generare: nam generare, est ex 
+      <lb ed="#A" n="74"/>substantia propria semen decidere, cuius virtute 
+      <lb ed="#A" n="75"/>in matrice mulieris proles fiat: hoc autem satis 
+      <lb ed="#A" n="76"/>confirmatum manet, supra disp. 178. c. 5. 
+      </p>
+               <p xml:id="tavaz1-d1e309-d1e2677">
+                  <lb ed="#A" n="77"/>Alterum genus operationum vitalium, est 
+      ea<lb ed="#A" n="78" break="no"/>rum, quae secundum substantiam fieri possunt a 
+      <lb ed="#A" n="79"/>principio non viuente, licet non quod modum: 
+      <lb ed="#A" n="80"/>sicut locutio, deambulatio. Vocamus autem 
+      mo<lb ed="#A" n="81" break="no"/>dum harum actionum, respectum illum 
+      peculia<lb ed="#A" n="82" break="no"/>rem, quem habent ad tale principium; substantiam 
+      <lb ed="#A" n="83"/>vero actionum, motum ipsum. De his ergo inquit 
+      <lb ed="#A" n="84"/>S. Thom. esse posse, quoad substantiam ab 
+      ange<lb ed="#A" n="85" break="no"/>lo in corpore assumpto, quia secundum illam &amp; 
+      <lb ed="#A" n="86"/>assimilantur actionibus non viuentium, &amp; cum 
+      il<lb ed="#A" n="87" break="no"/>lis conueniunt, non autem secundum modum 
+      <lb ed="#A" n="88"/>peculiarem, quo fiunt a viuentibus. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e309-Dd1e2707"><!-- vaz-p1q51a3-d186 -->
+               <head xml:id="tavaz1-d1e309-Hd1e2710">Disputatio 186</head>
+               <head xml:id="tavaz1-d1e309-Hd1e2712" type="question-title">
+    An operationes vitae posterioris generis 
+    fieri possint ab Angelis in 
+    corporibus assumptis
+  </head>
+               <p xml:id="tavaz1-d1e309-d1e2715">
+                  <lb ed="#A" n="89" type="fixed=440"/>DISPVTATIO CLXXXVI. 
+      <lb ed="#A" n="90"/>An operationes vitae posterioris generis 
+      <lb ed="#A" n="91"/>fieri possint ab Angelis in 
+      corpori<lb ed="#A" n="92" break="no"/>bus assumptis. 
+    </p>
+               <p xml:id="tavaz1-d1e309-d1e2726">
+                  <lb ed="#A" n="93"/>varia scholasticorum placita, cap. 1. 
+      <lb ed="#A" n="94"/>Vera sententia, cap. 2. 
+      </p>
+               <div xml:id="tavaz1-d1e309-Dd1e2733">
+                  <head xml:id="tavaz1-d1e309-Hd1e2735">Caput 1</head>
+                  <p xml:id="tavaz1-d1e309-d1e2737">
+                     <lb ed="#A" n="95" type="fixed=440"/>CAPVT I. 
+      <lb ed="#A" n="96"/>Varia scholasticorum placita. 
+      <lb ed="#A" n="97"/>E operationibus prioris generis nullus 
+      ha<lb ed="#A" n="98" break="no"/>ctenus dubitauit, sed omnes ingenue 
+      faten<lb ed="#A" n="99" break="no"/>tur, fieri non posse ab angelo in corpore 
+      assum<lb ed="#A" n="100" break="no"/>to, neque secundum modum, neque secundum 
+      <lb ed="#A" n="101"/>substantiam: nam quamuis nutritio secundum 
+      <lb ed="#A" n="102"/>substantiam, quae est conuersio cibi in substantiam 
+      <lb ed="#A" n="103"/>viuentis a Deo fieri queat; tamen ab angelo fieri 
+      <lb ed="#A" n="104"/>non posse, nulli dubium est. Difficultas solum est 
+      <lb ed="#A" n="105"/>de operationibus posterius generis, vtrum 
+      se<lb ed="#A" n="106" break="no"/>cundum substantiam, &amp; modum; an secundum 
+      <lb ed="#A" n="107"/>substantiam tantum ab angelo in corpore 
+      assum<lb ed="#A" n="108" break="no"/>pto procedere possint. In qua difficultate prima 
+      <lb ed="#A" n="109"/>opinio est Durandi in 1. dist. 8. quaest. 2 num. 5. vb. 
+      <lb ed="#A" n="110"/>docet, nec deambulationem, quam motum 
+      pro<lb ed="#A" n="111" break="no"/>gressiuum philosophi vocant; nec locutionem 
+      pro<lb ed="#A" n="112" break="no"/>prie conuenire posse angelo in corpore 
+      assum<lb ed="#A" n="113" break="no"/>pto, sed aliquid, quod simile est voci, &amp; 
+      deambu<lb ed="#A" n="114" break="no"/>lationi. Videtur itaque, nec secundum modum, 
+      <lb ed="#A" n="115"/>nec secundum substantiam has operationes 
+      an<lb ed="#A" n="116" break="no"/>gelis tribuere, Fundamentum huius opinionis 
+      <lb ed="#A" n="117"/>tradidit in ea quaest. num. 4. quia actio viuentis bi 
+      <lb ed="#A" n="118"/>fariam dicitur, vno modo, quia est solum a 
+      viuen<lb ed="#A" n="119" break="no"/>te, vt a principio, &amp; hoc non sufficit, vt dicatur sim 
+      <lb ed="#A" n="120"/>pliciter &amp; proprie actio viuentis. Alioqui &amp; 
+      pro<lb ed="#A" n="121" break="no"/>iectio lapidis, quae fit a viuente, proprie dici 
+      pos<lb ed="#A" n="122" break="no"/>set actio viuentis, hoc autem modo omnia, quae 
+      <lb ed="#A" n="123"/>fiunt ab angelo in corpore, dici possunt 
+      opera<lb ed="#A" n="124" break="no"/>tiones viuentis, improprie quidem, &amp; latiori 
+      si<lb ed="#A" n="125" break="no"/>gnificatione. Altero modo presse proprie dicitur 
+      <!--00449.xml-->
+      <pb ed="#A" n="441"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>operatio viuentis, quia non tantum est a viuente 
+      <lb ed="#A" n="2"/>sed in eo etiam recipitur, quare cum operationes 
+      <lb ed="#A" n="3"/>Angeli in corpore assumpto, non recipiantur in 
+      <lb ed="#A" n="4"/>viuente, consequitur, proprie non esse 
+      operatio<lb ed="#A" n="5" break="no"/>nes vitae. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2824">
+                     <lb ed="#A" n="6"/>Verum antequam nostram proferamus 
+      sen<lb ed="#A" n="7" break="no"/>tentiam, interim contra Duran. notandum est ex 
+      <lb ed="#A" n="8"/>illa sua ratione sequis locutionem non esse proprie 
+      <lb ed="#A" n="9"/>operationem viuentis, ac proinde secundum totam 
+      <lb ed="#A" n="10"/>suam rationem, &amp; modum ab angelo procedere 
+      <lb ed="#A" n="11"/>posse: nam licet locutio sit a viuente &amp; 
+      cognoscen<lb ed="#A" n="12" break="no"/>te: non tamen recipitur in viuente: est enim sonus 
+      <lb ed="#A" n="13"/>quiddam; huius autem subiectum proprium est aër, 
+      <lb ed="#A" n="14"/>cuius verberatione fit, teste Arist. 2. de anima cap. 8. 
+      <lb ed="#A" n="15"/>quare, vt optime obseruauit Alex. 2. p. q. 35. memb. 
+      <lb ed="#A" n="16"/>4. in corp. &amp; ad argum. locutio non ideo dicitur 
+      o<lb ed="#A" n="17" break="no"/>peratio viuentis, quia in viuente sit: sed quia a vi 
+      <lb ed="#A" n="18"/>uente peculiari quadam ratione fiat, vt infra 
+      expli<lb ed="#A" n="19" break="no"/>cabitur. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2857">
+                     <lb ed="#A" n="20"/>Secunda sententia est Bonau. in 2. dist. 8. 1. 
+      par<lb ed="#A" n="21" break="no"/>te distinct. artic. 3. quaest. 2. qui docet, tres esse 
+      mo<lb ed="#A" n="22" break="no"/>dos operationum animae; nam quaedam sunt ab 
+      <lb ed="#A" n="23"/>anima solum, vt a motrice &amp; huiusmodi est 
+      deam<lb ed="#A" n="24" break="no"/>bulatio, &amp; hae possunt esse ab Angelo in corpore 
+      <lb ed="#A" n="25"/>assumpto, potest enim habere rationem 
+      motri<lb ed="#A" n="26" break="no"/>cis. Aliae vero sunt ab anima, non vt a motrice 
+      so<lb ed="#A" n="27" break="no"/>lum, &amp; etiam vt a perficiente corpus, qualis est 
+      <lb ed="#A" n="28"/>per sensus operatio. Nonnullae denique sunt 
+      par<lb ed="#A" n="29" break="no"/>tim ab anima, vt mottice partim ab ea, vt est 
+      cor<lb ed="#A" n="30" break="no"/>poris perfectio, vt ridere, in qua actione est motus 
+      <lb ed="#A" n="31"/>localis dilatationis genarum, &amp; exhilaratio 
+      inte<lb ed="#A" n="32" break="no"/>rior: &amp; hae quoque fieri possunt ab angelo in 
+      cor<lb ed="#A" n="33" break="no"/>pore assumpto, ea parte, qua sunt ab anima, vt 
+      mo<lb ed="#A" n="34" break="no"/>trice, non autem alia parte, qua sunt ab anima vt 
+      <lb ed="#A" n="35"/>perficiente. Concedit itaque Bonauent. motum, 
+      <lb ed="#A" n="36"/>quem vocant progressiuum, in Angelo, eodem 
+      <lb ed="#A" n="37"/>prorsus modo, quo est in animali¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e2899">
+                     <lb ed="#A" n="38"/>Tertia sententia est Scoti in 2. dist. 8. quaest. vnica. 
+      <lb ed="#A" n="39"/>§. In ista quaestione in medio illius, vbi ex vna parte 
+      <lb ed="#A" n="40"/>docet, angelum in corpore assumpto non posse 
+      <lb ed="#A" n="41"/>efficere vere motum illum progressiuum, locutio 
+      <lb ed="#A" n="42"/>nem, respirationem, &amp; spirationem, &amp; motum 
+      <lb ed="#A" n="43"/>palpebrarum, sed tantum secundum similitudinem 
+      <lb ed="#A" n="44"/>quandam externam. Ex alia vero parte affirmat, 
+      <lb ed="#A" n="45"/>posse Angelos in corporibus assumptis vere 
+      co<lb ed="#A" n="46" break="no"/>medere. Putat enim actionem comedendi in hoc 
+      <lb ed="#A" n="47"/>solum sitam esse, vt aliquis motu locali diuidat 
+      ci<lb ed="#A" n="48" break="no"/>bum in vna parte &amp; in aliam traiiciat: in quo cum 
+      <lb ed="#A" n="49"/>Scoto conuenit Alex. 2. part. q. 25. memb. 2. idque 
+      <lb ed="#A" n="50"/>probabile putat Gab. d. illa 8. q. 1. art. 3. dubitat. 2. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e309-Dd1e2932">
+                  <head xml:id="tavaz1-d1e309-Hd1e2934">Caput 2</head>
+                  <p xml:id="tavaz1-d1e309-d1e2936">
+                     <lb ed="#A" n="51" type="fixed=441"/>CAPVT II. 
+      <lb ed="#A" n="52"/>Vera sententia,
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e2943">
+                     <lb ed="#A" n="53"/>MIhi vero sententia S. Thomae in hoc art. in 
+      <lb ed="#A" n="54"/>corpore; &amp; in solutionibus argumentorum 
+      <lb ed="#A" n="55"/>amplectenda videtur, videlicet actiones 
+      posterio<lb ed="#A" n="56" break="no"/>ris generis ex iis, quas Scotus paulo ante 
+      enume<lb ed="#A" n="57" break="no"/>rauit, procedere quidem posse ab Angelo 
+      secun<lb ed="#A" n="58" break="no"/>dum substantiam tantum, non secundum modum, 
+      <lb ed="#A" n="59"/>cumque denominationem sortiantur non a sub 
+      <lb ed="#A" n="60"/>stantia tantum, sed etiam a modo illo; sit, vt in 
+      an<lb ed="#A" n="61" break="no"/>gelo tales operationes non possint illo nomine 
+      ve<lb ed="#A" n="62" break="no"/>re nuncupari, sed secundum similitudinem tales 
+      <lb ed="#A" n="63"/>dicantur: huiusmodi sunt deambulatio, 
+      respira<lb ed="#A" n="64" break="no"/>tio, tussis, risus, motus palpebrarum, actio 
+      mandu<lb ed="#A" n="65" break="no"/>candi &amp; locutio. Quare in his actionibus 
+      viuen<lb ed="#A" n="66" break="no"/>tium distinguenda est substantia motus a modo 
+      <lb ed="#A" n="67"/>quo ab agente procedit. Substantia namque motus 
+      <!--00449.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>vel pedum, vel palpebrarum, vel aëris, vel alterius 
+      <lb ed="#A" n="69"/>partis, aut totius subiecti, quod mouetur, eadem 
+      <lb ed="#A" n="70"/>fieri potest ab Angelo in corpore assumpto: haec 
+      <lb ed="#A" n="71"/>enim non pendet a corpore viuente: at modus 
+      il<lb ed="#A" n="72" break="no"/>le quo procedit, ex quo &amp; denominationem 
+      acci<lb ed="#A" n="73" break="no"/>pit, ita postulat esse a viuente, sicut a principio, vt 
+      <lb ed="#A" n="74"/>ab angelo in corpore assumpto non suppleatur, 
+      <lb ed="#A" n="75"/>&amp; ita veram appellationem ab eo non habeat, sed 
+      <lb ed="#A" n="76"/>tantum secundum similitudinem. Ostendamus 
+      <lb ed="#A" n="77"/>igitur in singulis moribus peculiarem illam 
+      ratio<lb ed="#A" n="78" break="no"/>nem principij, quam connotant. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e3006">
+                     <lb ed="#A" n="79"/>Primo quidem motus, quem dicunt 
+      progres<lb ed="#A" n="80" break="no"/>siuum, fit media virtute, quae residet in 
+      tedoni<lb ed="#A" n="81" break="no"/>bus; media etiam imaginatione, &amp; appetitu, ratione 
+      <lb ed="#A" n="82"/>cuius motiuum secundum locum dicitur ab 
+      Ari<lb ed="#A" n="83" break="no"/>stot. 2. de anima c. 3. differentia, &amp; gradus quidam 
+      <lb ed="#A" n="84"/>peculiaris animae: cum ergo vis illa non sit in 
+      cor<lb ed="#A" n="85" break="no"/>pore assumpto, nec imaginatio, nec appetitus, non 
+      <lb ed="#A" n="86"/>magis dicetur illa deambulatio, quam si aliquis 
+      <lb ed="#A" n="87"/>homo moueret cadauer, ita vt ambulare videre, 
+      <lb ed="#A" n="88"/>tur: idem dicendum de motu palpebrarum. 
+      Secun<lb ed="#A" n="89" break="no"/>do spiratio, &amp; respiratio, &amp; tussis licet non fiant 
+      <lb ed="#A" n="90"/>media imaginatione necessario, fiunt tamen v. 
+      <lb ed="#A" n="91"/>naturae animalis residentis in pulmone, &amp; hic 
+      mo<lb ed="#A" n="92" break="no"/>dus ipsis nominibus connotatur. Tertiorisus fit 
+      <lb ed="#A" n="93"/>media imaginatione &amp; delectatione appetitus a re 
+      <lb ed="#A" n="94"/>ludicra, &amp; noua, ex qua prouenit motus septi 
+      trans<lb ed="#A" n="95" break="no"/>uersi, &amp; inde genae dilatantur, &amp; mouentur, &amp; 
+      to<lb ed="#A" n="96" break="no"/>tum hoc ipso nomine risus significatur. Quare, si 
+      <lb ed="#A" n="97"/>statua aliqua ita esset composita, vt haberet, talem 
+      <lb ed="#A" n="98"/>motum genarum, non diceretur vere ridere, quia 
+      <lb ed="#A" n="99"/>deesset illi modus tali nomine significatus: atque 
+      <lb ed="#A" n="100"/>idem sentiendum est de fletu. Quarto de 
+      locu<lb ed="#A" n="101" break="no"/>tione, &amp; voce dicendum est; substantiam illius, p. 1. 
+      <lb ed="#A" n="102"/>&amp; soni non differre essentialiter locutio tamen 
+      <lb ed="#A" n="103"/>seu vor dicitur sonus a tali causa: nam sicut Arist. 
+      <lb ed="#A" n="104"/>2. de anima cap. 8. definit vocem esse sonum 
+      edi<lb ed="#A" n="105" break="no"/>tum cum imaginatione ab animali; sic etiam 
+      lo<lb ed="#A" n="106" break="no"/>cutio dicitur sonus, qui reuera in aere editus 
+      es<lb ed="#A" n="107" break="no"/>ab homine cum imaginatione, ad significandum 
+      <lb ed="#A" n="108"/>Ideo bruta animantia dicuntur quidem edere 
+      vo<lb ed="#A" n="109" break="no"/>ces, sed non loqui: eadem ergo ratione Angelus 
+      <lb ed="#A" n="110"/>nec loqui, nec voces edere potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e3078">
+                     <lb ed="#A" n="111"/>Postremo de actu comedendi dicendum est eo 
+      <lb ed="#A" n="112"/>dem modo, posse esse motum illum secundum 
+      sub<lb ed="#A" n="113" break="no"/>stantiam, sed non secundum modum peculiarem, quo 
+      <lb ed="#A" n="114"/>fit a causa, ratione cuius aliquis proprie dicitur 
+      co<lb ed="#A" n="115" break="no"/>medere: est enim de ratione illis operationis, 
+      mo<lb ed="#A" n="116" break="no"/>tus conterens cibum, &amp; in stomachum traijciens, 
+      <lb ed="#A" n="117"/>factus ab animali: quare angeli, qui in corporibus 
+      <lb ed="#A" n="118"/>assumptis solum conterunt cibum, non dicuntur 
+      pro<lb ed="#A" n="119" break="no"/>prie comedere, vt aperte docuerunt S. Th. in hoc 
+      ar<lb ed="#A" n="120" break="no"/>ad 5. Bonau. in 2. dist. 8. 1. p. art. 3. q. 1. Ricard. art. 1. 
+      <lb ed="#A" n="121"/>q. 5. in corp. &amp; ad 1. &amp; 2. &amp; manifeste ex Scriptura 
+      <lb ed="#A" n="122"/>colligitur. Nam Tobiae 12. Raphael dixit, Cum 
+      es<lb ed="#A" n="123" break="no"/>sem vobiscum, videbar quidem manducare &amp; bibere: sed 
+      <lb ed="#A" n="124"/>ego potu inuisibili, &amp; cibo vtor; quid est, videbat? nisi, 
+      <lb ed="#A" n="125"/>ita apparebam exterius, ac si comederem, cum 
+      ta<lb ed="#A" n="126" break="no"/>men reuera non comederem, quia alia cibo ego 
+      <lb ed="#A" n="127"/>sustentor. De Christo autem post resurrectionem, 
+      <lb ed="#A" n="128"/>docet S. Doctor in ea solutione quinti, vere 
+      com<lb ed="#A" n="129" break="no"/>edisse, quia motus ille vere fuit a corpore viuente 
+      <lb ed="#A" n="130"/>conterente cibum, &amp; trajiciente in stomachum, 
+      <lb ed="#A" n="131"/>cum ordine ad nutritionem; tametsi, quia 
+      glorio<lb ed="#A" n="132" break="no"/>sum erat, nutritio secuta non fuerit, sed cibus ille 
+      <lb ed="#A" n="133"/>euanuerit, id enim verius existimo, quam quod 
+      <lb ed="#A" n="134"/>asserunt Scotus, &amp; Gabr. nutritionem nimirum 
+      <lb ed="#A" n="135"/>forsan fuisse sequutam.
+    </p>
+                  <p xml:id="tavaz1-d1e309-d1e3136">
+      <!--00450.xml-->
+                     <pb ed="#A" n="442"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Quidam vero ita contra Scotum 
+      argumentan<lb ed="#A" n="2" break="no"/>tur. Si actio comedendi in angelo ita est vera, 
+      sic<lb ed="#A" n="3" break="no"/>ut in homine; efficitur, fuisse tam veram, quam 
+      a<lb ed="#A" n="4" break="no"/>ctionem comedendi in Christo post 
+      resurrectio<lb ed="#A" n="5" break="no"/>nem; quare illa non potuit esse efficax 
+      argumen<lb ed="#A" n="6" break="no"/>rum ad comprobandam resurrectionem, cum 
+      eo<lb ed="#A" n="7" break="no"/>dem modo vere fieri posset ab angelo in corpore 
+      <lb ed="#A" n="8"/>assumpto. Respondent Scot. &amp; Gab. non omnia 
+      <lb ed="#A" n="9"/>argumenta illa resurrectionis secundum sensum 
+      <lb ed="#A" n="10"/>fuisse sigillatim sufficientia, bene tamen omnia 
+      si<lb ed="#A" n="11" break="no"/>mul: id quod expresse sensit S. Thom. 3. p. q. 55. ar. 6. 
+      <lb ed="#A" n="12"/>ad I. praesertim accedente testimonio 
+      Scriptura<lb ed="#A" n="13" break="no"/>rum, &amp; angelorum, qui dixerunt, Christum 
+      sur<lb ed="#A" n="14" break="no"/>rexisse. Et quidem si de probatione ad sensum 
+      <lb ed="#A" n="15"/>loquamur, existimo, illud argumentum 
+      comeden<lb ed="#A" n="16" break="no"/>di, per se solum efficax non fuisse, sicut reuera fuit 
+      <lb ed="#A" n="17"/>se praebere tangendum discipulis, vt notaui 
+      dispi<lb ed="#A" n="18" break="no"/>184. cap. 2. nam licet actio comedendi in Christo 
+      <lb ed="#A" n="19"/>fuerit vera actio viuentis, cum reliquis necessariis 
+      <lb ed="#A" n="20"/>ad veram rationem talis actionis; id tamen quod 
+      <lb ed="#A" n="21"/>exterius apparebat, solum erat substantia illius 
+      mo<lb ed="#A" n="22" break="no"/>tus, qui eodem prorsus modo in corpore 
+      assum<lb ed="#A" n="23" break="no"/>pto posset apparere, modus enim ille peculiaris, 
+      <lb ed="#A" n="24"/>quem diximus esse de ratione illius actionis, non 
+      <lb ed="#A" n="25"/>potest videri, &amp; sensu diiudicari: quare argumen 
+      <lb ed="#A" n="26"/>tum praedictum contra Scotum non multum 
+      pro<lb ed="#A" n="27" break="no"/>bat. Respondet deinde, aliquid habuisse in 
+      Chri<lb ed="#A" n="28" break="no"/>sto actionem illam comedendi, quod in angelo non 
+      <lb ed="#A" n="29"/>habet, scilicet ordinem ad nutritionem, quem 
+      <lb ed="#A" n="30"/>forsan ipse putat denotari eo nomine, &amp; ita 
+      sal<lb ed="#A" n="31" break="no"/>tem intellectu &amp; fide resurrectio Christi 
+      compro<lb ed="#A" n="32" break="no"/>bari potuit: nam cum visu non posset hic ordo 
+      <lb ed="#A" n="33"/>dignosci, non potuit esse argumentum sensui 
+      pa<lb ed="#A" n="34" break="no"/>tens: quocumque ergo modo fiat argumentum 
+      <lb ed="#A" n="35"/>hoc contra Scoti sententiam nullius momenti est 
+      </p>
+                  <p xml:id="tavaz1-d1e309-d1e3221">
+                     <lb ed="#A" n="36"/>Hinc fit, vt cum Abraham tres angelos inuita 
+      <lb ed="#A" n="37"/>uit Gen. 18. &amp; illis cibos obtulit, nondum 
+      cogno<lb ed="#A" n="38" break="no"/>uerit, angelos esse ita docet: Alexand. 2. p. qu. 34 
+      <lb ed="#A" n="39"/>membr. 6. &amp; S. Thom. in hoc artic. ad 5. Gabr. in 2. d. 8. 
+      <lb ed="#A" n="40"/>g. 1. art. 3. dub. 3. quod vero Augustinus ait Epist. 49. q. 
+      <lb ed="#A" n="41"/>i. Angelos escas sumpsisse, &amp; eodem etiam 
+      mo<lb ed="#A" n="42" break="no"/>do Christum, non ficto &amp; inani phantasmate, sed 
+      <lb ed="#A" n="43"/>manifestissima veritate, non necessitate, sed pote 
+      <lb ed="#A" n="44"/>state comedisse; sic est intelligendum, non quia 
+      <lb ed="#A" n="45"/>angeli ita vere, sicut Christus, manducauerint; sed 
+      <lb ed="#A" n="46"/>quia aspectibus hominum tam Christus 
+      mandu<lb ed="#A" n="47" break="no"/>care, quam angeli videbantur, non praestigiis, &amp; 
+      <lb ed="#A" n="48"/>illusione aliqua sensus, sed vera apparitione: 
+      nis<lb ed="#A" n="49" break="no"/>forsan August. secundum opinionem eorum, qui 
+      <lb ed="#A" n="50"/>putant, angelos esse corporeos, a qua ipse non 
+      <lb ed="#A" n="51"/>multum abhorret, senserit angelos in corpore 
+      na<lb ed="#A" n="52" break="no"/>turali vere manducare, sicut in alia animalia, 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 31</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 31</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="123"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e206"><!-- p1-q31 -->
+            <head xml:id="tavaz1-d1e206-Hd1e99">Quaestio 31</head>
+            <div xml:id="tavaz1-d1e206-Dd1e101"><!-- vaz-p1q31a1 -->
+               <head xml:id="tavaz1-d1e206-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e206-d1e106">
+                  <lb ed="#A" n="112" type="fixed=123"/>Notatio circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e206-d1e111">
+                  <lb ed="#A" n="113"/>COnclusio est affirmans, circa quam 
+      obseruan<lb ed="#A" n="114" break="no"/>dum est, hic non definiri a S. Thoma numerum 
+      <lb ed="#A" n="115"/>personarum. esse videlicet tres, nec plures, nec 
+      <lb ed="#A" n="116"/>pauciores, id enim sequitur ex dictis in q. 27. &amp; ex 
+      <lb ed="#A" n="117"/>ijs, quae dicenda sunt infra q. 41. artic.i. Sed docet 
+      <lb ed="#A" n="118"/>Doctor Angelicus, nomen, Trinitas, ita Deo 
+      con<lb ed="#A" n="119" break="no"/>uenire, sicut nomen, Pluralitas, quia vnum sub alio 
+      <!--00132.xml-->
+      <pb ed="#A" n="124"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>continetur, sicut pluralitas, &amp; nomina numeralia 
+      <lb ed="#A" n="2"/>non significant in Deo negationem, vt 
+      praece<lb ed="#A" n="3" break="no"/>denti quaestione articulo 1. Sanctus Thomas pro 
+      <lb ed="#A" n="4"/>bauit, eodem modo docet de hoc nomine Trini 
+      <lb ed="#A" n="5"/>tatis, quod etiam est nomen numeri. Quocirca 
+      <lb ed="#A" n="6"/>eadem proportione, qua de terminis numerali 
+      <lb ed="#A" n="7"/>bus docuimus disputat. 129. de hoc etiam philo 
+      <lb ed="#A" n="8"/>sophari debemus. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e206-Dd1e154"><!-- vaz-p1q31a2 -->
+               <head xml:id="tavaz1-d1e206-Hd1e157">Articulus 2</head>
+               <p xml:id="tavaz1-d1e206-d1e159">
+                  <lb ed="#A" n="31" type="fixed=125"/>COnclusio est, Filius dici potest alius a Patre mas 
+      <lb ed="#A" n="32"/>culine, sed non aliud in neutro genere. Circa hanc 
+      <lb ed="#A" n="33"/>conclusionem, &amp; doctrinam huius, &amp; 
+      sequen<lb ed="#A" n="34" break="no"/>tis arriculi disputatione sequenti ex professo 
+      dis<lb ed="#A" n="35" break="no"/>serendum est. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e206-Dd1e173"><!-- vaz-p1q31a3 -->
+               <head xml:id="tavaz1-d1e206-Hd1e176">Articulus 3</head>
+               <p xml:id="tavaz1-d1e206-d1e178">
+                  <lb ed="#A" n="41" type="fixed=126"/>COnclusio est, Nomen solum si ponatur categore 
+      <lb ed="#A" n="42"/>matice, vt Logici loquuntur, non potest de termin. 
+      <lb ed="#A" n="43"/>essentiali praedicari, vt si dicamus, Deus est solus: syncate 
+      <lb ed="#A" n="44"/>gorematice vero addi potest, vt si dicamus, solus Deus es 
+      <lb ed="#A" n="45"/>infinitus. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e206-Dd1e192"><!-- vaz-p1q31a4 -->
+               <head xml:id="tavaz1-d1e206-Hd1e195">Articulus 4</head>
+               <p xml:id="tavaz1-d1e206-d1e197">
+                  <lb ed="#A" n="22" type="fixed=127"/>Notatio circa Articulum. 
+    </p>
+               <p xml:id="tavaz1-d1e206-d1e202">
+                  <lb ed="#A" n="23"/>COnclusio est. Quando praedicatum est commune. 
+      <lb ed="#A" n="24"/>vt Deus, Sapiens, &amp;c. Nomen, solus non potest add. 
+      <lb ed="#A" n="25"/>termino personali, quare dicere non possumus, Solus pate 
+      <lb ed="#A" n="26"/>est Deus, nisi propositio reddat hunc sensum; Ille, qui solus 
+      <lb ed="#A" n="27"/>est pater, est Deus, qui sensus non est in vsu. Circa hanc 
+      <lb ed="#A" n="28"/>conclusionem aduertendum est, ideo nos addi 
+      <lb ed="#A" n="29"/>disse in conclusione verba illa, Quando praedicatum 
+      <lb ed="#A" n="30"/>est commune, vt Deus, etiamsi expresse non 
+      habean<lb ed="#A" n="31" break="no"/>tur in corpore, quia in titulo articuli ita habetur, 
+      <lb ed="#A" n="32"/>&amp; in eo casu controuerfia est: titulum autem arti 
+      <lb ed="#A" n="33"/>culi intelligo, non qui praefixus est articulo, ille 
+      <lb ed="#A" n="34"/>enim non fuit a S. Thoma positus; sed, qui in 
+      ip<lb ed="#A" n="35" break="no"/>so articulo ante initium primi argumenti 
+      inser<lb ed="#A" n="36" break="no"/>tus est. Quocirca in corpore solum disputat 
+      san<lb ed="#A" n="37" break="no"/>ctus Doctor de particula, solus, in ea propositione, 
+      <lb ed="#A" n="38"/>solus pater est Deus, in qua praedicatum commune 
+      <lb ed="#A" n="39"/>est: nam si praedicatum esset personale, optime 
+      <lb ed="#A" n="40"/>posset addi nomen, solus, vt in hac propositione 
+      <lb ed="#A" n="41"/>Solus pater generat. Verum circa vsum horum no 
+      <lb ed="#A" n="42"/>minum, &amp; aliorum, de quibus S. Thomas in art. 2. 
+      <lb ed="#A" n="43"/>disputat, copiosius nobis statim disserendum est 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e206-Dd1e252"><!-- vaz-p1q31a4-d131 -->
+               <head xml:id="tavaz1-d1e206-Hd1e255">Disputatio 131</head>
+               <head xml:id="tavaz1-d1e206-Hd1e257" type="question-title">
+    De vario nominum usu in mysterio 
+    Trinitatis
+  </head>
+               <p xml:id="tavaz1-d1e206-d1e260">
+                  <lb ed="#A" n="44" type="fixed=127"/>DISPVTATIO CXXXI. 
+      <lb ed="#A" n="45"/>De vario nominum vsu in mysterio 
+      <lb ed="#A" n="46"/>Trinitatis. 
+    </p>
+               <div xml:id="tavaz1-d1e206-Dd1e269">
+                  <head xml:id="tavaz1-d1e206-Hd1e271">Caput 1</head>
+                  <p xml:id="tavaz1-d1e206-d1e273">
+                     <lb ed="#A" n="47" type="fixed=127"/>CAPVT I. 
+      <lb ed="#A" n="48"/>Denominibus, idem, alius, &amp; aliud, vnus 
+      <lb ed="#A" n="49"/>&amp; vnum 
+    </p>
+                  <p xml:id="tavaz1-d1e206-d1e282">
+                     <lb ed="#A" n="50"/>QVo pacto his nominibus vtendum sit, quan 
+      <lb ed="#A" n="51"/>do non praedicantur per se, sed veluti 
+      adie<lb ed="#A" n="52" break="no"/>ctiua alijs adiunguntur, nemo qui nouit 
+      myste<lb ed="#A" n="53" break="no"/>rium Trinitatis, vnius scilicet essentiae in tribus 
+      <lb ed="#A" n="54"/>personis, ignorare potest. Manifestum enim est 
+      <lb ed="#A" n="55"/>non posse dici, Patrem esse alium Deum a 
+      Filio<lb ed="#A" n="56" break="no"/>nec alium creatorem, &amp;c. Sic enim significaretur 
+      <!--00135.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="57"/>distinctio in essentia. Atque idcirco hunc modum 
+      <lb ed="#A" n="58"/>loquendi improbant Sixtus Papa in Epistolai. &amp; 
+      <lb ed="#A" n="59"/>6. Synodus actio. 11. in Epistola Sopheonij: se 
+      <lb ed="#A" n="60"/>contra debemus dicere, Patrem, &amp; Filium, &amp; 
+      Spi<lb ed="#A" n="61" break="no"/>ritum sanctum esse eundem Deum. An vero, cum 
+      <lb ed="#A" n="62"/>adduntur nomina notionalia, debeat dicit idem, 
+      <lb ed="#A" n="63"/>vel alius Deus, dicemus infra disputat. 137. vtrum 
+      <lb ed="#A" n="64"/>videlicet debeamus dicere, Deus genuit alium 
+      <lb ed="#A" n="65"/>Deum, an eundem Deum. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e324">
+                     <lb ed="#A" n="66"/>Proponit autem author commentarij in librum 
+      <lb ed="#A" n="67"/>Boethij de Trinitate apud Bedam tom. 8. 
+      colum<lb ed="#A" n="68" break="no"/>na 1113. dubitationem, an prolata hac propositio 
+      <lb ed="#A" n="69"/>ne, Pater est Deus, sit vera etiam haec, idem est Deus 
+      Fi<lb ed="#A" n="70" break="no"/>lius? tespondet autem, distinctione opus esse, Si 
+      <lb ed="#A" n="71"/>enim, (inquit) hoc tatum supponatur, idem Deus, non 
+      <lb ed="#A" n="72"/>est concedendum ne incidamus in Sabellianam haeresim, iden 
+      <lb ed="#A" n="73"/>enim ad Patrem refertur, ac si dicat, quia praecessit illa 
+      <lb ed="#A" n="74"/>propositio, Pater est Deus, cum addimus, idem 
+      Deu<lb ed="#A" n="75" break="no"/>est Filius, vox, idem, ad Deum, vt de illo praecessit 
+      lo<lb ed="#A" n="76" break="no"/>cutio, referri videtur; hoc est, ad patrem, qui est 
+      <lb ed="#A" n="77"/>Deus; &amp; ita sensus est, Deus Pater est Deus Filius: 
+      <lb ed="#A" n="78"/>quod est personas confundere. Aliter autem (
+      in<lb ed="#A" n="79" break="no"/>quit) est, si vox, idem, non praeponatur voci, Deus, 
+      <lb ed="#A" n="80"/>sed postponatur, quod author ille dixit, Si non op 
+      <lb ed="#A" n="81"/>ponatur, sed praedicetur; tunc enim vera erit 
+      pro<lb ed="#A" n="82" break="no"/>positio, vt si quis praemissa hac enuntiatione, 
+      Pa<lb ed="#A" n="83" break="no"/>ter est Deus, subiungat hanc, Et Deus est idem Filius. 
+      ve<lb ed="#A" n="84" break="no"/>ra erit, quia reddit hunc sensum, Deus Filius est idem 
+      <lb ed="#A" n="85"/>Deus cum Patre, alio autem modo praedicto sensus 
+      <lb ed="#A" n="86"/>erat, Deus Pater est idem Deus, qui Filius, quae duo 
+      di<lb ed="#A" n="87" break="no"/>uersa esse existimat author ille eodem loco; cum 
+      <lb ed="#A" n="88"/>vix vlla appareat differentia inter has, Deus Filius 
+      <lb ed="#A" n="89"/>est idem Deus cum Patre, Deus Filius est idem Deus, qui 
+      <lb ed="#A" n="90"/>Pater. Ego sane arbitror, cauendum esse, ne 
+      no<lb ed="#A" n="91" break="no"/>men idem, cum praecessit enuntiatio de aliqua 
+      per<lb ed="#A" n="92" break="no"/>sona, referre videatur illam; sic enim non est 
+      di<lb ed="#A" n="93" break="no"/>cendum, Et idem Deus est Filius, si tamen non 
+      refe<lb ed="#A" n="94" break="no"/>rat nisi nomen concretum Dei, concedi deber 
+      <lb ed="#A" n="95"/>Hoc autem discerni debet secundum regulas, quas 
+      <lb ed="#A" n="96"/>trademus infra disputat. 157. cap. 6. cum enim 
+      no<lb ed="#A" n="97" break="no"/>men, Deus, ponitur ex parte praedicati, etiamsi de 
+      <lb ed="#A" n="98"/>aliqua persona praedicetur, non supponitur pro 
+      <lb ed="#A" n="99"/>persona, sed pro natura, vt in hac, Pater est Deus 
+      <lb ed="#A" n="100"/>quare cum postea additur, idem Deus est Filius, 
+      vox<lb ed="#A" n="101" break="no"/>idem, non videtur referte personam patris, sed 
+      na<lb ed="#A" n="102" break="no"/>turam deitatis in concreto. Quando vero ponitur 
+      <lb ed="#A" n="103"/>nomen, Deus, adiuncta aliqua voce notionali, qua 
+      <lb ed="#A" n="104"/>facit ipsum supponi pro persona, iuxta ea quae 
+      ibi<lb ed="#A" n="105" break="no"/>dem dicemus, tunc non erit verum dicere, idem 
+      <lb ed="#A" n="106"/>Deus est talis, vel talis persona, assignando aliam 
+      <lb ed="#A" n="107"/>vt si aliquis dicat, Pater est Deus generans, vel Deus 
+      ge<lb ed="#A" n="108" break="no"/>nerans est Pater, non licet subiungere, &amp; idem Deu 
+      <lb ed="#A" n="109"/>est Filius, quia tunc nomen, idem, refert Deum 
+      ge<lb ed="#A" n="110" break="no"/>nitorem, qui supponitur pro persona Patris 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e424">
+                     <lb ed="#A" n="111"/>Verumenimvero si nomina, alius, &amp; aliud, 
+      po<lb ed="#A" n="112" break="no"/>natur per se, quod logici vocant categorematice, 
+      <lb ed="#A" n="113"/>vt in hac propositione, Pater, vel est alius a Filio, ve 
+      <lb ed="#A" n="114"/>est aliud a Filio, liquet etiam ex doctrina Patrum, &amp; 
+      <lb ed="#A" n="115"/>Conciliorum, quo modo loquendum sit; alius 
+      <lb ed="#A" n="116"/>enim masculine distinctionem suppositi, aliud, 
+      <lb ed="#A" n="117"/>vero neutraliter distinctionem naturae denotat; 
+      <lb ed="#A" n="118"/>ideoque licet asserere, Pater est alius a Filio, &amp; in 
+      di<lb ed="#A" n="119" break="no"/>uinis est alius, &amp; alius, non tamen est verum, Pater es 
+      <lb ed="#A" n="120"/>aliud a Filio, vel, in diuinis est, &amp; aliud, &amp; aliud. 
+      Colli<lb ed="#A" n="121" break="no"/>gitur in primis haec doctrina ex Nouatiano 
+      pres<lb ed="#A" n="122" break="no"/>bytero Romano apud Terrullianum lib. de 
+      Tri<lb ed="#A" n="123" break="no"/>nitate cap. 22. vbi docet, vnum, naturaliter referr 
+      <lb ed="#A" n="124"/>ad naturam, vnus, autem masculine ad personam 
+      <!--00136.xml-->
+      <pb ed="#A" n="128"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>idem ergo dicendum est de his nominibus, alius, 
+      <lb ed="#A" n="2"/>&amp; aliud. Atque ideo in Trinitate concedunt alium. 
+      <lb ed="#A" n="3"/>&amp; alium, non autem aliud, &amp; aliud Concil 
+      Ephe<lb ed="#A" n="4" break="no"/>sinum tomo 2. cap. 7. &amp; Toletanum XI. in 
+      confes<lb ed="#A" n="5" break="no"/>sione fidei, &amp; Lateranense sub Innocentio III. in 
+      <lb ed="#A" n="6"/>cap. Damnamus, de summa Trinitate, &amp; fide 
+      Ca<lb ed="#A" n="7" break="no"/>tholica, Basilius in oratione contra eos, qui nos 
+      <lb ed="#A" n="8"/>calumniatur, quod tres Deos colamus, post 
+      me<lb ed="#A" n="9" break="no"/>dium, Augustinus aut potius Fulgentius, qui 
+      cre<lb ed="#A" n="10" break="no"/>ditur verus author illius operis libro de fide ad 
+      <lb ed="#A" n="11"/>Petrum cap. 1. &amp; idem Augustinus II. de Ciuitate 
+      <lb ed="#A" n="12"/>cap. 10. Leo I. serm. 1. de Pentecoste: ob eandem 
+      <lb ed="#A" n="13"/>rationem Hylarius 7. de Trinitate longe a medio 
+      <lb ed="#A" n="14"/>&amp; Anselmus in monologio cap. 14. &amp; 42. dicunt. 
+      <lb ed="#A" n="15"/>Patrem, Filium esse duos, ipsosque vtrumque 
+      vo<lb ed="#A" n="16" break="no"/>cant. Addit Hylarius de Patre, &amp; Filio, vnum sunt, 
+      <lb ed="#A" n="17"/>non vnus, &amp; Bernard. in Epistola 190 asserit to 
+      <lb ed="#A" n="18"/>tum quod est Pater, esse Filium: quia totum 
+      natu<lb ed="#A" n="19" break="no"/>raliter refertur ad essentiam; vt etiam notarunt 
+      <lb ed="#A" n="20"/>Damasc. 3. de fide cap. 7. &amp; Nicetas lib. 3. Thesau 
+      <lb ed="#A" n="21"/>ri cap. 35. qui idem omnino de his nominibus, 
+      <lb ed="#A" n="22"/>alius, &amp; aliud docuerunt. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e512">
+                     <lb ed="#A" n="23"/>Ex Scholasticis idipsum tradiderunt cum 
+      san<lb ed="#A" n="24" break="no"/>cto Thoma in art. 2. huius quaestionis recentiores 
+      <lb ed="#A" n="25"/>Theologi ibidem, &amp; Alexand. 1. parte quaest. 65. 
+      <lb ed="#A" n="26"/>membro 2. artic. 1. Bonauent. in primum distinct. 21 
+      <lb ed="#A" n="27"/>artic.i.quaest.1. Henricus 2. parte summae artic. 5; 
+      <lb ed="#A" n="28"/>quaest. 1. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e528">
+                     <lb ed="#A" n="29"/>Huc etiam spectat, quod alij Patres eodem 
+      ni<lb ed="#A" n="30" break="no"/>xi fundamento affirmant, in Christo non esse 
+      a<lb ed="#A" n="31" break="no"/>lium, &amp; alium; sed aliud, &amp; aliud. Sic Concilium 
+      <lb ed="#A" n="32"/>Constantinopol. 5. collat. 8. cano. 3. &amp; 6. Leo I. in 
+      <lb ed="#A" n="33"/>Epist. 10. cap. 4. &amp; Epist. 95. cap. 1. &amp; quamuis 
+      Epi<lb ed="#A" n="34" break="no"/>stola illa 10. Leonis cum recitata fuisset in Con 
+      <lb ed="#A" n="35"/>cilij Chalcedonensi primo aspectu patribus Con 
+      <lb ed="#A" n="36"/>cilij displicuerit, vt habetur actione 2. postea 
+      ta<lb ed="#A" n="37" break="no"/>men approbante Theodoreto ex sententia 
+      Cyril<lb ed="#A" n="38" break="no"/>li, Patres omnes consenserunt. Eadem Leonis 
+      <lb ed="#A" n="39"/>verba scribit Agatho in Epistola sua: quae est in 6. 
+      <lb ed="#A" n="40"/>Synodo actione 4. &amp; similia habet eadem 
+      Syno<lb ed="#A" n="41" break="no"/>dus sessione 17. in confessione fidei circa finem il 
+      <lb ed="#A" n="42"/>lius, &amp; Eutychianus Papa in Epist. I. Eodem modo 
+      <lb ed="#A" n="43"/>loquuti sunt Hylarius 9. de Trinitate parum post 
+      <lb ed="#A" n="44"/>medium, Nazianz. oratione 51. Cyrillus in 
+      Scho<lb ed="#A" n="45" break="no"/>lijs de Incarnatione cap. 26. Fulgent. lib. de Incar 
+      <lb ed="#A" n="46"/>natione verbi cap. 5. Author Commentarij in 
+      li<lb ed="#A" n="47" break="no"/>brum Boethij de Trinitate apud Bedam col. 1117. 
+      <lb ed="#A" n="48"/>ex quibus Nazianz. Damascenus, &amp; Nicetas, &amp; 
+      <lb ed="#A" n="49"/>author ille expresse affirmant, nomen, alius, ac 
+      <lb ed="#A" n="50"/>suppositum referri: nomen autem, aliud, ad 
+      natu<lb ed="#A" n="51" break="no"/>ram, &amp; essentiam. Et quidem de nomine, alius, id 
+      <lb ed="#A" n="52"/>colligitur ex illo Ioan. 14. Ego rogabo patrem, &amp; 
+      a<lb ed="#A" n="53" break="no"/>lium paraclitum dabit vobis. Nec solum dicere 
+      possu<lb ed="#A" n="54" break="no"/>mus in Trinitate esse alium, &amp; alium; verum et 
+      <lb ed="#A" n="55"/>tiam alterum, &amp; alterum: eiusdem enim signifi 
+      <lb ed="#A" n="56"/>cationis nomen est. Sic loquitur Hylar. 2. de 
+      Tri<lb ed="#A" n="57" break="no"/>nitate, loannes Maxentius lib. 2. Dialog. cap. 20 
+      <lb ed="#A" n="58"/>Athanasius oratione de aeterna substantia Filij 
+      <lb ed="#A" n="59"/>Fulgentius lib. 3. ad Trasimundum cap. 6. cuius 
+      <lb ed="#A" n="60"/>verba sequenti cap. referemus, &amp; ad septimam 
+      <lb ed="#A" n="61"/>obiectionem Arrianorum in libr. contra 
+      Arria<lb ed="#A" n="62" break="no"/>nos, &amp; in sermone de duplici Christi natiuitate 
+      <lb ed="#A" n="63"/>Bernardus Epist. 190. vbi eodem modo loquitur 
+      <lb ed="#A" n="64"/>de his nominibus, alter, &amp; alterum, sicut nos supra 
+      <lb ed="#A" n="65"/>de his, alius, &amp; aliud. Eodem modo vtendum 
+      <lb ed="#A" n="66"/>est, idem, aut masculine, aut neutraliter, vt 
+      <lb ed="#A" n="67"/>notat Guitmundus Archiepiscopus Auersanus 
+      <lb ed="#A" n="68"/>in confessione de Trinitate, quae est in 4. tomo 
+      <!--00136.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>Bibliot. sacrae, Iustinus etiam in expositione verae 
+      <lb ed="#A" n="70"/>confessionis Trinitatis, cum inquiunt, Filius non 
+      <lb ed="#A" n="71"/>est idem cum Patre: vtuntur autem nomine 
+      ma<lb ed="#A" n="72" break="no"/>sculino. Et, vt ait Ambrosius libro primo de fide, 
+      <lb ed="#A" n="73"/>cap. 2. eadem de causa dicendum est, quod est 
+      Pa<lb ed="#A" n="74" break="no"/>ter, est Filius: non tamen, qui est Pater, est Filius, 
+      <lb ed="#A" n="75"/>eodem modo de nomine, inus, &amp; vnum, 
+      Philoso<lb ed="#A" n="76" break="no"/>phandum est. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e206-Dd1e640">
+                  <head xml:id="tavaz1-d1e206-Hd1e642">Caput 2</head>
+                  <p xml:id="tavaz1-d1e206-d1e644">
+                     <lb ed="#A" n="77" type="fixed=128"/>CAPVT II. 
+      <lb ed="#A" n="78"/>De nominibus diuersitatis, separationis, 
+      <lb ed="#A" n="79"/>&amp; vnionu. 
+    </p>
+                  <p xml:id="tavaz1-d1e206-d1e653">
+                     <lb ed="#A" n="80"/>INter voces, quae diuersitatem significant, sunt 
+      <lb ed="#A" n="81"/>Idiffero, &amp; disserentia. Graece διάρορ ε, &amp; διαφορὰ 
+      <lb ed="#A" n="82"/>quibus in diuinis aliqui patres vsi sunt: lustinus 
+      <lb ed="#A" n="83"/>in vera expositione confessionis Trinitatis pa 
+      <lb ed="#A" n="84"/>rum a principio, Nazianz. oratione 3. de Theo 
+      <lb ed="#A" n="85"/>logia, quae est ordine 35. parum etiam ab initio 
+      <lb ed="#A" n="86"/>Damasc. lib. primo de fide cap. 10. &amp; 11. &amp; 3. lib. 
+      <lb ed="#A" n="87"/>cap. 5. Euthymius in cap. 16. loan. &amp; ex Latinis Ri 
+      <lb ed="#A" n="88"/>cardus de Sancto Victore 4. lib. de Trinitate cap 
+      <lb ed="#A" n="89"/>20 &amp; lib. 5. cap. primo, Magister in primo 
+      distin<lb ed="#A" n="90" break="no"/>ctione 24.c. cum autem, &amp; capitae ita, &amp; Alexand... 
+      <lb ed="#A" n="91"/>part. q 44. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e682">
+                     <lb ed="#A" n="92"/>Cautius tamen S. Thomas in art. 2. huius 
+      quae<lb ed="#A" n="93" break="no"/>stionis docet personas Trinitatis non esse 
+      dicen<lb ed="#A" n="94" break="no"/>das differentes, neque differre, sequutus senten 
+      <lb ed="#A" n="95"/>tiam Hylarij 4. de Trinitate ante medium, vbi ex 
+      <lb ed="#A" n="96"/>illo Genest. Faciamus hominem, &amp;c. colligit hoc 
+      <lb ed="#A" n="97"/>modo. Vt non solitarium tantum, ita neque differentem 
+      <lb ed="#A" n="98"/>esse significat. nobis quoque nec solitarius tantum, nec 
+      di<lb ed="#A" n="99" break="no"/>uersus est confitendus. Author autem Commentarij 
+      <lb ed="#A" n="100"/>in librum Boeth. de Trinitate qui habetur 8. 
+      to<lb ed="#A" n="101" break="no"/>mo Bedae colum. 1113 quaerenti, an diuinae 
+      perso<lb ed="#A" n="102" break="no"/>nae differant, ait, respondendum esse sub 
+      distin<lb ed="#A" n="103" break="no"/>ctione, non absolute. Aut enim dicuntur differre, 
+      <lb ed="#A" n="104"/>hoc est distingui, vel distare; &amp; sic concedi debet 
+      <lb ed="#A" n="105"/>aut dicuntur differre, hoc est, contrarijs 
+      qualitati<lb ed="#A" n="106" break="no"/>bus participare, &amp; ita falsum est. Ex citatis vero 
+      <lb ed="#A" n="107"/>authoribus Damasc. Ricardus, Euthymius, 
+      Ma<lb ed="#A" n="108" break="no"/>gister, &amp; Alexand. non dicunt absolute tres 
+      per<lb ed="#A" n="109" break="no"/>sonas differre, sed aut differre proprietatibus, aut 
+      <lb ed="#A" n="110"/>ipsas proprietates differre: qui sane modus 
+      lo<lb ed="#A" n="111" break="no"/>quendi omnem aufert suspicionem vocabuli. Id. 
+      <lb ed="#A" n="112"/>eo namque S. Thom. refugit concedere 
+      differen<lb ed="#A" n="113" break="no"/>tiam inter personas, quia ea videtur ad essentiam 
+      <lb ed="#A" n="114"/>referri: quare cum additur, Secundum proprietates, 
+      <lb ed="#A" n="115"/>omnis tollitur erroris occasio. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e737">
+                     <lb ed="#A" n="116"/>Idem censeo dicendum de nomine, diuersus, vt 
+      <lb ed="#A" n="117"/>licet absolute de personis possit praedicari; quia 
+      <lb ed="#A" n="118"/>tamen potest aliquam errandi ansam praebere, 
+      me<lb ed="#A" n="119" break="no"/>lius negetur: eo, quod refertur ad essentiam. Ita 
+      <lb ed="#A" n="120"/>S. Thomas in artic. 2. &amp; Canariensis ibidem. Qua 
+      <lb ed="#A" n="121"/>de causa Fulgentius lib. 3. Trasimundum cap. 6. 
+      <lb ed="#A" n="122"/>ait, Sempiternus atque incommutabilis pater alterum ge 
+      <lb ed="#A" n="123"/>nuit, non diuersum. Et Lactantius lib. 4. diuinarium 
+      <lb ed="#A" n="124"/>Institut. cap. 29. Cum dicimus Deum Patrem, &amp; Deum. 
+      <lb ed="#A" n="125"/>Filium, non diuersum dicimus, nec vtrumque secernimus 
+      <lb ed="#A" n="126"/>quamuis &amp; Lactantius hoc loco, cum dicir, non 
+      di<lb ed="#A" n="127" break="no"/>uersum dicimus, intelligere videatur, Deum. Referri 
+      <lb ed="#A" n="128"/>posset Augustinus lib. 7. de Trinitate cap. vltimo, 
+      <lb ed="#A" n="129"/>vbi ait, Atque ita dicat vnam essentiam (Patrem 
+      sci<lb ed="#A" n="130" break="no"/>licet, &amp; Filium) vt non existimet aliud alio, vel maius, 
+      <lb ed="#A" n="131"/>vel melius, vel aliqua ex parte diuersum. Sed cum 
+      di<lb ed="#A" n="132" break="no"/>cat, aliud, neutrius generis, videtur de essentia, 
+      <lb ed="#A" n="133"/>non de persona loqui, iuxta notata capite 
+      praece<lb ed="#A" n="134" break="no"/>denti. Verum Hylarius 4. de Trinitate capite su¬ 
+      <!--00137.xml-->
+      <pb ed="#A" n="129"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>periori allegatus, plane de Filio ipso dicit, non 
+      es<lb ed="#A" n="2" break="no"/>se diuersum. Quod si apud Patres aliquando 
+      di<lb ed="#A" n="3" break="no"/>catur diuersus, vel erit cum additamento illo 
+      <lb ed="#A" n="4"/>quod superius notauimus, scilicet, secundum 
+      pro<lb ed="#A" n="5" break="no"/>prietatem, aut, secundum personam, vel in bonum 
+      sen<lb ed="#A" n="6" break="no"/>sum debet explicari. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e801">
+                     <lb ed="#A" n="7"/>Nomina tamen, discretus, &amp; discretio, facilis 
+      Tri<lb ed="#A" n="8" break="no"/>nitari tribuuntur, &amp; eodem modo, atque 
+      nomi<lb ed="#A" n="9" break="no"/>na, distinctus, vel, distinctio, videntur significare 
+      dis<lb ed="#A" n="10" break="no"/>crimen. His vocibus vtuntur Concilium Toleta 
+      <lb ed="#A" n="11"/>num, primum, &amp; secundum, &amp; Lateranense sub 
+      <lb ed="#A" n="12"/>Innoc. III. in capite, Damnamus, de summa 
+      Trini<lb ed="#A" n="13" break="no"/>tate, &amp; fide Catholica, antiqua etiam translatio 
+      <lb ed="#A" n="14"/>Dionysij 2. capite de diuinis nominibus ait, quae 
+      <lb ed="#A" n="15"/>dam dici de Deo vnite, quaedam discrete, Graece 
+      <lb ed="#A" n="16"/>δι ἀκριμένως, quod distincte, &amp; discrete denotat. 
+      <lb ed="#A" n="17"/>a verbo, διακρίνω, quod distinguere, &amp; discernere 
+      <lb ed="#A" n="18"/>significat. Perionius vero transfert, distincte, 
+      La<lb ed="#A" n="19" break="no"/>ctantius autem loco proxime citato merito inquit, 
+      <lb ed="#A" n="20"/>nec vtrumque (scilicet Patrem, &amp; Filium) secernimus. 
+      <lb ed="#A" n="21"/>Nam secernere plus videtur significare, quam 
+      dis<lb ed="#A" n="22" break="no"/>cernere, scilicet separare, &amp; diuidere, quod de 
+      di<lb ed="#A" n="23" break="no"/>uinis personis non est dicendum. Eodem 
+      nomi<lb ed="#A" n="24" break="no"/>ne vtitur Ricardus de S. Victore lib. 4. de Trinita 
+      <lb ed="#A" n="25"/>te, cap. 15. &amp; lib. 5. cap. 15. &amp; lib. 5. cap. 1. sed plane 
+      <lb ed="#A" n="26"/>refert ad proprietates, sicut de voce, differre, 
+      nota<lb ed="#A" n="27" break="no"/>uimus. Porro, vt obseruauit August. 7. de Trinit 
+      <lb ed="#A" n="28"/>cap. vltim. personae non possunt dici dissimiles: id 
+      <lb ed="#A" n="29"/>enim ad essentiam refertur. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e853">
+                     <lb ed="#A" n="30"/>De voce, vnio, &amp; coniunctio, latine caute 
+      loquen<lb ed="#A" n="31" break="no"/>dum esse aliqui putant: potius enim in Deo 
+      con<lb ed="#A" n="32" break="no"/>cedenda videtur vnitas in essentia, quam vnio: hae 
+      <lb ed="#A" n="33"/>namque voces, sicut etiam vox, coniunctio, 
+      colle<lb ed="#A" n="34" break="no"/>ctionem plurium in vnum participatione quadam 
+      <lb ed="#A" n="35"/>significare videtur. Nomine coniunctionis vsus 
+      <lb ed="#A" n="36"/>est Billius interpres Nazianz. in oratione 23. qua 
+      <lb ed="#A" n="37"/>est in laudem Heronis Philosophi, &amp; in 
+      commen<lb ed="#A" n="38" break="no"/>tario Nicetae in illa verba eiusdem orationis, fac 
+      <lb ed="#A" n="39"/>sis, quae sunt circa finem illius, &amp; Perionius 
+      inter<lb ed="#A" n="40" break="no"/>pres Dionysij, cap. 2. de diuinis nominibus, &amp; c. 3. 
+      <lb ed="#A" n="41"/>saepenumero, &amp; ea, quae sunt essentialia in Deo, 
+      <lb ed="#A" n="42"/>vocat coniuncta, &amp; communia totius diuinitatis: 
+      <lb ed="#A" n="43"/>&amp; infra, distinctionem &amp; vnitatem in Deo 
+      appel<lb ed="#A" n="44" break="no"/>lat coniunctionem, &amp; distinctionem, Graece 
+      au<lb ed="#A" n="45" break="no"/>tem apud Nazianzenum, &amp; Dionysium est nomen 
+      <lb ed="#A" n="46"/>ἔνωσις, vnionem, seu vnitatem significans, quo 
+      <lb ed="#A" n="47"/>Graeci passim vtuntur, tam ad denotandam vnio 
+      <lb ed="#A" n="48"/>nem duarum naturarum in vna persona Christi 
+      <lb ed="#A" n="49"/>quam ad significandam vnitatem essentiae, &amp; es 
+      <lb ed="#A" n="50"/>sentialium attributorum in Trinitate. Vtitur 
+      et<lb ed="#A" n="51" break="no"/>iam Dionys. voce, ἢνωμένον, quam Latina 
+      interpre<lb ed="#A" n="52" break="no"/>tamur vnitum, coniunctum, Graeci enim, quod 
+      <lb ed="#A" n="53"/>copiosior sit apud eos verborum significatio, non 
+      <lb ed="#A" n="54"/>timent vllo modo his nominibus vti. Solum 
+      sus<lb ed="#A" n="55" break="no"/>pectam habuerunt vocem, συνάφεια, Patres Con 
+      <lb ed="#A" n="56"/>cilij Alexandrini Epistol. 10. apud Cyril. ad 
+      expri<lb ed="#A" n="57" break="no"/>mendam vnionem duarum naturarum in 
+      Chri<lb ed="#A" n="58" break="no"/>sto: quod potius contactum propinquitatis, quam 
+      <lb ed="#A" n="59"/>vnionem videatur significare, vt notant Lingua 
+      <lb ed="#A" n="60"/>Graecae periti: &amp; Patres illi vtuntur nomine, ἔνω¬ 
+      <lb ed="#A" n="61"/>σις, quo etiam in Trinitate vtuntur; Latine vero 
+      <lb ed="#A" n="62"/>sic dicitur in illa Epist. Conc. Alexandrini. Imo, C 
+      <lb ed="#A" n="63"/>coniunctionis nomen euitanius, tanquam non existens ido 
+      <lb ed="#A" n="64"/>neum, quod significet vnitatis arcanum, &amp; me iudice, 
+      <lb ed="#A" n="65"/>nomen, coniunctio, apud Latinos non ita recte 
+      qua<lb ed="#A" n="66" break="no"/>drat huic mysterio, ad exprimendam vnitatem 
+      <lb ed="#A" n="67"/>trium personarum in vna essentia, sicut nomen 
+      <lb ed="#A" n="68"/>vnitas. De nomine autem, συνάφεια, aliqua dixi in 
+      <!--00137.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>disput. priori contra Elipandum ex ijs, quas 
+      addi<lb ed="#A" n="70" break="no"/>di libris de Adoratione c. 13. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e949">
+                     <lb ed="#A" n="71"/>Quare ex Latinis authoribus Bernard. lib. 5. de 
+      <lb ed="#A" n="72"/>Consideratione ad Eugenium in medio, de Deo, 
+      <lb ed="#A" n="73"/>inquit, Vnum quippe est, sed non vnitum, non partibus 
+      <lb ed="#A" n="74"/>constat, vt corpus, id vero ad exprimendam summam 
+      <lb ed="#A" n="75"/>Dei simplicitatem dixit; quia vnitum videtur esse 
+      <lb ed="#A" n="76"/>id, quod colligitur ex multis ad vnum. Ita enim 
+      <lb ed="#A" n="77"/>dixerat, Non habens (scilicet Deus) quod ad numerum 
+      <lb ed="#A" n="78"/>diuidat, non quae colligat ad vnum, quibus verbis non 
+      <lb ed="#A" n="79"/>negat esse tres personas, cum statim vere 
+      nume<lb ed="#A" n="80" break="no"/>rum in eis concedat; sed inter personam, &amp; 
+      essen<lb ed="#A" n="81" break="no"/>tiam contra Gilbert. numerum negat, &amp; 
+      sum<lb ed="#A" n="82" break="no"/>mam adstruit simplicitatem: ideoque asserit, non 
+      <lb ed="#A" n="83"/>qua colligat ad vnum. Nam licet tres personae 
+      distin<lb ed="#A" n="84" break="no"/>guantur inter se; quia tamen cum essentia sunt 
+      <lb ed="#A" n="85"/>idem omnino: non tam dicuntur in illa vnitae, &amp; 
+      <lb ed="#A" n="86"/>collectae, quam vnum. Idem notauit author 
+      <lb ed="#A" n="87"/>commentarij in librum Boethij de Trinitate apud 
+      <lb ed="#A" n="88"/>Bedam, tomo 8. columna 1115. qui circa finem in 
+      <lb ed="#A" n="89"/>quit, Dicimus, quod non vnus, (scilicet tres 
+      perso<lb ed="#A" n="90" break="no"/>nae) ab vnione, sicut species, vel genus dicitur, non enim 
+      <lb ed="#A" n="91"/>Deus vnit plura, quae eo participant, substantialiter, vel 
+      ac<lb ed="#A" n="92" break="no"/>cidentaliter. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e999">
+                     <lb ed="#A" n="93"/>Ego quidem existimo, Latino sermone com 
+      <lb ed="#A" n="94"/>modius significari mysterium Trinitatis in vna 
+      es<lb ed="#A" n="95" break="no"/>sentia nominibus, vnitas, &amp; vnus, quam 
+      nomini<lb ed="#A" n="96" break="no"/>bus, vnio, coniuncto, vnitus, nihilominus non audeo 
+      <lb ed="#A" n="97"/>modum loquendi, &amp; vsum horum nominum 
+      a<lb ed="#A" n="98" break="no"/>perte damnare. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e206-Dd1e1017">
+                  <head xml:id="tavaz1-d1e206-Hd1e1019">Caput 3</head>
+                  <p xml:id="tavaz1-d1e206-d1e1021">
+                     <lb ed="#A" n="99" type="fixed=129"/>CAPVT III. 
+      <lb ed="#A" n="100"/>De nominibus, triplex, &amp; multiplex.
+    </p>
+                  <p xml:id="tavaz1-d1e206-d1e1028">
+                     <lb ed="#A" n="101"/>SVnt, qui existiment, nomen, triplex, non posse 
+      <lb ed="#A" n="102"/>de Deo praedicari, neque nomen, multiplex 
+      <lb ed="#A" n="103"/>sicut praedicatur, trinus, sic docet Augustinus lib. 6. 
+      <lb ed="#A" n="104"/>de Trinitate, cap. 6. 7. &amp; 8. &amp; lib. 15. cap. 3. Nam 
+      <lb ed="#A" n="105"/>quamuis Epistola 102. videatur admittere hanc 
+      <lb ed="#A" n="106"/>vocem, docet tamen de Deo dici ratione effectu 
+      <lb ed="#A" n="107"/>um; sicut Spiritus sanctus ratione etiam 
+      dono<lb ed="#A" n="108" break="no"/>rum, quae nobis tribuit, dicitur septiformis. 
+      Re<lb ed="#A" n="109" break="no"/>fertur etiam pro hac sententia Ambrosius 1. lib. 
+      <lb ed="#A" n="110"/>de fide, cap. 2. vbi ait, Non est confusum, quod est rnum, 
+      <lb ed="#A" n="111"/>neque multiplex, quod est indifferens, sed ibi plane lo 
+      <lb ed="#A" n="112"/>quitur de essentia Dei, sicut etiam Nazianz. ora 
+      <lb ed="#A" n="113"/>tione ad Euagrium, quae est 45. vbi ait, non esse in 
+      <lb ed="#A" n="114"/>Deo multiplex numen: nec Deum esse multipli 
+      <lb ed="#A" n="115"/>cem. Bernardus quoque citatur, qui libro 5. de 
+      <lb ed="#A" n="116"/>Consideratione circa medium negat, Deum esse 
+      <lb ed="#A" n="117"/>multiplicem, vel duplicem; sed asserit esse 
+      simpli<lb ed="#A" n="118" break="no"/>cem, &amp; Concilium Toletan. XI. in Confessione 
+      <lb ed="#A" n="119"/>fidei plane affirmat, Deum non esse triplicem, sed 
+      <lb ed="#A" n="120"/>trinum. Ex Scholasticis vero id etiam docent, S 
+      <lb ed="#A" n="121"/>Thomas in hac quaestione articulo I. ad 3. &amp; Ale 
+      <lb ed="#A" n="122"/>xand. quaestione 66. membr. 1. articulo 4. Ratio 
+      <lb ed="#A" n="123"/>nem vero reddit Augustinus: quia si Deus 
+      dice<lb ed="#A" n="124" break="no"/>retur triplex, aut multiplex ratione personarum, 
+      <lb ed="#A" n="125"/>sequeretur majus quid esse Patrem, Filium, &amp; 
+      <lb ed="#A" n="126"/>Spiritus sanctum simul, quam sit solus pater: at 
+      <lb ed="#A" n="127"/>Sanctus Thomas ideo negat Deum esse triplicem 
+      <lb ed="#A" n="128"/>quia triplum, &amp; triplex significat proportionem 
+      <lb ed="#A" n="129"/>inaequalitatis; est enim species quaedam 
+      propor<lb ed="#A" n="130" break="no"/>tionis inaequalis: in Deo autem inaequale esse non 
+      <lb ed="#A" n="131"/>potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e1098">
+                     <lb ed="#A" n="132"/>Hae tamen rationes, quod pace tantorum vi 
+      <lb ed="#A" n="133"/>rorum dicere liceat, non probant efficaciter id 
+      <lb ed="#A" n="134"/>quod contendunt: Primum, quia si ex eo, quod Deus 
+      <lb ed="#A" n="135"/>triplex diceretur ratione personarum, seque retur 
+      <!--00138.xml-->
+      <pb ed="#A" n="130"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>absurdum illud, quod August. inferebat: idem plane 
+      <lb ed="#A" n="2"/>colligeretur ex eo, quod trinus diceretur: nam in 
+      <lb ed="#A" n="3"/>ternario majus, quid videtur totus ternarius 
+      qua<lb ed="#A" n="4" break="no"/>uis vnitate seorsum; aut si hic non sequitur hoc 
+      <lb ed="#A" n="5"/>absurdum, nullo modo inferri potest ex eo, quod 
+      <lb ed="#A" n="6"/>Deus triplex dicatur: quomodo autem majus, &amp; 
+      <lb ed="#A" n="7"/>minus concedi debeat in numero, ita, vt diuinis 
+      <lb ed="#A" n="8"/>quoque absque vlla absurditate locum habeat, ex 
+      <lb ed="#A" n="9"/>plicauimus supra quaest. 30. in notat. art. 1. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e1135">
+                     <lb ed="#A" n="10"/>Tum etiam, quod asserit Sanctus Thomas, 
+      so<lb ed="#A" n="11" break="no"/>lum probat, non posse Deum dici triplicem: at 
+      <lb ed="#A" n="12"/>non posse dici multiplicem non demonstrat, quia 
+      <lb ed="#A" n="13"/>nomen, multiplex, non est nomen proportionis, 
+      <lb ed="#A" n="14"/>sed multitudinis. Ad haec licet nomen, triplex, sit 
+      <lb ed="#A" n="15"/>proportionis, minoris &amp; haec in Deo concedatur 
+      <lb ed="#A" n="16"/>non est incommodum: quoniam aequalitas, &amp; in 
+      <lb ed="#A" n="17"/>aequalitas numeri necessario in Deo concedenda 
+      <lb ed="#A" n="18"/>est, sicut etiam pauciores, &amp; plures, vt in eodem 
+      <lb ed="#A" n="19"/>articulo dicebamus: quis enim neger minorem 
+      <lb ed="#A" n="20"/>numerum esse ternarium personarum in Deo, 
+      <lb ed="#A" n="21"/>quam quaternarium personarum hominum, &amp; 
+      <lb ed="#A" n="22"/>plures esse quatuor homines, quam sunt tres 
+      di<lb ed="#A" n="23" break="no"/>uinae personae. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e1169">
+                     <lb ed="#A" n="24"/>Quare ego quidem alia ratione censeo, non 
+      <lb ed="#A" n="25"/>posse dici, Deum multiplicem, vel triplicem, etiam 
+      <lb ed="#A" n="26"/>si trinus recte dicatur: eo vero est, quia vnum 
+      sen<lb ed="#A" n="27" break="no"/>sum e duobus reddit, aut Deum in se pluribus 
+      <lb ed="#A" n="28"/>constare, &amp; ita opponitur simplici, quasi plura 
+      <lb ed="#A" n="29"/>exigens ad sui compositionem, quod nullo modo 
+      <lb ed="#A" n="30"/>de Deo dici potest. Nam quamuis Deus trinus sit 
+      <lb ed="#A" n="31"/>in personis hoc est, in tribus subsistat, quia tamen 
+      <lb ed="#A" n="32"/>nec ex tribus fit, aut coalescit quasi ex 
+      componen<lb ed="#A" n="33" break="no"/>tibus nec illae cum essentia ad compositionem 
+      ip<lb ed="#A" n="34" break="no"/>sius Dei conueniunt, cum sint idem omnino, cum 
+      <lb ed="#A" n="35"/>illa dici non potest triplex, aut multiplex qui tri 
+      <lb ed="#A" n="36"/>nus recte vocatur: trinus enim solam distinctio 
+      <lb ed="#A" n="37"/>nem hypostaseon denotat etiam in eadem natura 
+      <lb ed="#A" n="38"/>&amp; absque vlla ipsarum ab essentia distinctione. 
+      Au<lb ed="#A" n="39" break="no"/>efficit hunc sensum, scilicet multos esse Deos 
+      <lb ed="#A" n="40"/>quasi Deus multiplicetur, qui multiplicari non 
+      <lb ed="#A" n="41"/>potest aut triplicari, nisi plures sint Dij: at Deum 
+      <lb ed="#A" n="42"/>ideo trinum dicimus, quia aliquam in se habeat 
+      <lb ed="#A" n="43"/>Trinitatem, ideoque cum tres Dij dici non pos 
+      <lb ed="#A" n="44"/>sint, Deus trinus recte vocatur. Ex Patribus vero 
+      <lb ed="#A" n="45"/>Nazianz. Ambros. &amp; Bernard. cum negant Deum 
+      <lb ed="#A" n="46"/>multiplicem esse, ad essentiam manifeste referunt, 
+      <lb ed="#A" n="47"/>&amp; primum sensum videntur sequi, multiplex enim 
+      <lb ed="#A" n="48"/>putant opponi simplici: praesertim vero 
+      Bernar<lb ed="#A" n="49" break="no"/>dus, qui contra Gilbertum Porretanum eo loco 
+      <lb ed="#A" n="50"/>contendit, inter personam, &amp; essentiam nullam 
+      <lb ed="#A" n="51"/>esse distinctionem, ne Deus multiplex, &amp; absque 
+      <lb ed="#A" n="52"/>simplicitate esse dicatur, quam putat non tolli 
+      <lb ed="#A" n="53"/>Trinitate personarum, si personae cum essentia 
+      <lb ed="#A" n="54"/>sunt omnino idem. 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e1239">
+                     <lb ed="#A" n="55"/>Verumenimvero si voces, multiplex, &amp; triplex 
+      <lb ed="#A" n="56"/>&amp; duplex referantur ad personas, processiones, aut 
+      <lb ed="#A" n="57"/>relationes, non video quare non possint Deo con 
+      <lb ed="#A" n="58"/>uenire: quare dicere licebit in Deo esse multipli 
+      <lb ed="#A" n="59"/>cem personam, esse triplicem personam, duplicem 
+      <lb ed="#A" n="60"/>emanationem. Sic enim S. Thomas quaest. 10. de 
+      <lb ed="#A" n="61"/>Potentia, artic. 2. dixit, duplicem in Deo esse ema 
+      <lb ed="#A" n="62"/>nationem. Alij dicunt duplicem esse 
+      processio<lb ed="#A" n="63" break="no"/>nem: eodem modo Nazianz. Oratione allegata 
+      <lb ed="#A" n="64"/>dicit, ἡ δίδυμος τοῦ πατρὸς ἀκτις, hoc est, 
+      gemi<lb ed="#A" n="65" break="no"/>nus Patris radius: sic enim appellat Filium, &amp; 
+      <lb ed="#A" n="66"/>Spiritum sanctum. Quod si licet dicere geminam 
+      <lb ed="#A" n="67"/>processionem, &amp; geminum radium, licebit 
+      quo<lb ed="#A" n="68" break="no"/>que dicere duplicem processionem, &amp; duplicem 
+      <!--00138.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>radium: radius enim ad originem tefertur, non 
+      <lb ed="#A" n="70"/>ad essentiam: ea enim, quae communia sunt 
+      com<lb ed="#A" n="71" break="no"/>munitate quasi vniuersalis, quales sunt conceptus 
+      <lb ed="#A" n="72"/>personae, relationis &amp; processionis, qui ex 
+      pluri<lb ed="#A" n="73" break="no"/>bus abstrahuntur per intellectum, vel ea, quae 
+      sal<lb ed="#A" n="74" break="no"/>tem sola voce, quasi praedicatione, communia sunt, 
+      <lb ed="#A" n="75"/>recte dicuntur multiplicari per inferiora, vel tunc 
+      <lb ed="#A" n="76"/>praesertim, cum inferiora non sunt eiusdem 
+      mo<lb ed="#A" n="77" break="no"/>di, sicut paternitas, filiatio, &amp; spiratio, quae quasi 
+      <lb ed="#A" n="78"/>diuersae speciei apprehenduntur. Mitto hic ratio 
+      <lb ed="#A" n="79"/>nem, qua Nazianz. in ea oratione probat, Trini 
+      <lb ed="#A" n="80"/>tatem personarum Dei simplicitati nihil 
+      deroga<lb ed="#A" n="81" break="no"/>re: in personis enim solam nominum differen 
+      <lb ed="#A" n="82"/>tiam, &amp; multiplicationem videtur concedere, cun 
+      <lb ed="#A" n="83"/>tamen hoc satis non sit: Sabellius namque 
+      diuer<lb ed="#A" n="84" break="no"/>sas quoque in eadem natura nomenclaturas 
+      con<lb ed="#A" n="85" break="no"/>cedebat. Ratio autem Bernardi nobis sufficiat, 
+      <lb ed="#A" n="86"/>quam late prosecuti sumus disput. 116. cap. 5. 
+      nem<lb ed="#A" n="87" break="no"/>pe, quia licet personae inter se distinguantur, 
+      ta<lb ed="#A" n="88" break="no"/>men cum natura diuina sunt idem omnino: 
+      qua<lb ed="#A" n="89" break="no"/>re cum illa, vel inter se nihil componunt. Et 
+      qui<lb ed="#A" n="90" break="no"/>bus vltimo infero, perperam Mirandulanum de 
+      <lb ed="#A" n="91"/>Deo dixisse, Vnum in triplici numine numen habet. 
+      <lb ed="#A" n="92"/>Cum enim numen ad essentiam referatur, non 
+      <lb ed="#A" n="93"/>potest multiplicari, atque idcirco expresse 
+      Na<lb ed="#A" n="94" break="no"/>zianz. negauit in Deo triplex numen. Et sane si 
+      <lb ed="#A" n="95"/>triplex dici posset, trina etiam Deo deberetur a 
+      <lb ed="#A" n="96"/>doratio, quod est absurdum: omnis enim adora 
+      <lb ed="#A" n="97"/>tio diuina, numini debetur. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e206-Dd1e1340">
+                  <head xml:id="tavaz1-d1e206-Hd1e1342">Caput 4</head>
+                  <p xml:id="tavaz1-d1e206-d1e1344">
+                     <lb ed="#A" n="98" type="fixed=130"/>CAPVT IV. 
+      <lb ed="#A" n="99"/>De Vocibus Vnicus, Singularis, &amp; Solus.
+    </p>
+                  <p xml:id="tavaz1-d1e206-d1e1351">
+                     <lb ed="#A" n="100"/>Hilarius 7. de Trinitate, non longe a fine, non 
+      <lb ed="#A" n="101"/>"audet Deum vnicum, aut singularem appel 
+      <lb ed="#A" n="102"/>lare, imo sacrilegum putat, Deum singularem di 
+      <lb ed="#A" n="103"/>cere, quem sequitur S. Thomas in hoc articulo 
+      <lb ed="#A" n="104"/>consentit Bonauent. in primum distinct. 21. artic.1. 
+      <lb ed="#A" n="105"/>quaest.1. Caeterum Durand. in primum distinct. 9. 
+      <lb ed="#A" n="106"/>quaest. 1. &amp; alij recentiores putant, secundum 
+      pro<lb ed="#A" n="107" break="no"/>prietatem sermonis concedi posse Deum esse 
+      v<lb ed="#A" n="108" break="no"/>nicum, cumque iam periculum haeresis Sabellia 
+      <lb ed="#A" n="109"/>nae cessauerit, absque vllo incommodo posse 
+      no<lb ed="#A" n="110" break="no"/>vti hac voce. Quod si de essentia ipsa, vel deitate 
+      <lb ed="#A" n="111"/>hanc vocem praedicemus, dubium non est, ei 
+      pos<lb ed="#A" n="112" break="no"/>posse conuenire 
+      </p>
+                  <p xml:id="tavaz1-d1e206-d1e1382">
+                     <lb ed="#A" n="113"/>De nomine, singularis, Hylarius id ipsum docet, 
+      <lb ed="#A" n="114"/>quod dixerat de voce vnicus 7. de Trinitate, post 
+      <lb ed="#A" n="115"/>medium, &amp; non longe a fine, &amp; Leo I. in sermo 
+      <lb ed="#A" n="116"/>ne 2. de Pentecoste, aliquantulum a principio 
+      <lb ed="#A" n="117"/>cum ait: Et quia in deitate Patris, &amp; Filij, &amp; Spirita 
+      <lb ed="#A" n="118"/>sancti, nec singularitas est, nec diuersitas, &amp; author com 
+      <lb ed="#A" n="119"/>mentarij in librum Boethij de Trinitate apud Be 
+      <lb ed="#A" n="120"/>dam 8. tomo, col. 1116. qui refert Augustinum 
+      li<lb ed="#A" n="121" break="no"/>bro quaestionum noui, &amp; veteris Testamenti. Ei 
+      <lb ed="#A" n="122"/>Latinis tamen Lactantius lib. 4. diuinarum 
+      insti<lb ed="#A" n="123" break="no"/>tutionum, cap. 29. circa finem, Deum singularem 
+      <lb ed="#A" n="124"/>appellat: ex Graecis vero Sophronius in 
+      Confes<lb ed="#A" n="125" break="no"/>sione fidei, quae habeturact. 11. sextae Synodi 
+      sae<lb ed="#A" n="126" break="no"/>pius deitatem, &amp; vnitatem eius singularem vocat. 
+      <lb ed="#A" n="127"/>Nec video, cur secundum proprietatem vocis Tri 
+      <lb ed="#A" n="128"/>nitatem in personis auferat: quare, nisi sit 
+      pericu<lb ed="#A" n="129" break="no"/>lum auditoribus, non est timendum hac voce vti. 
+      <lb ed="#A" n="130"/>De nominibus, quae a Logicis dicuntur excepti 
+      <lb ed="#A" n="131"/>ua, vt, solus, solum, in expositione articuli 3. &amp; 4. fu 
+      <lb ed="#A" n="132"/>se explicauimus, squid sit dicendum, &amp; menten 
+      <lb ed="#A" n="133"/>Doctoris sancti sumus interpretati. Cum eo 
+      con<lb ed="#A" n="134" break="no"/>ueniunt Alexand. 1. p. quaest. 65. memb. 3. Bona 
+      <lb ed="#A" n="135"/>uentura in primum distinct. 21. art. 2. quaest. 1. &amp; 2 
+      <!--00139.xml-->
+      <pb ed="#A" n="131"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Scotus quaest. 1. Durandus quaest. 1. &amp; 2. Gabriel. 
+      <lb ed="#A" n="2"/>quaest r. Canarien. in art. 4. huius quaestionis, &amp; in 
+      <lb ed="#A" n="3"/>quaest. 27. artic. 1. disput. 1. p. 3. in responsione ad 
+      <lb ed="#A" n="4"/>secundum. Nec quidquam noui occurrit 
+      notan<lb ed="#A" n="5" break="no"/>dum, vt verum vsum horum nominum retinere 
+      <lb ed="#A" n="6"/>possimus, praeter ea, quae ibi diximus, nisi 
+      exposi<lb ed="#A" n="7" break="no"/>tio illius loci, Ioan. 17. Vt cognoscant te solum Deum 
+      <lb ed="#A" n="8"/>verum, vbi Christus loquens cum Patre, videtur 
+      <lb ed="#A" n="9"/>dicere, tu solus es Deus. Verum, vt colligitur ex 
+      <lb ed="#A" n="10"/>Augustino 6. de Trinitate, cap. 9. nomen, solus, non 
+      <lb ed="#A" n="11"/>refertur ad pronomen, te, quod significat, &amp; 
+      indi<lb ed="#A" n="12" break="no"/>cat personam: dici enim non potest, solus Pater es 
+      <lb ed="#A" n="13"/>Deus, sed coniungi debet cum nomine, Deus, vt si 
+      <lb ed="#A" n="14"/>sensus, vt cognoscant te, qui es verus Deus solus: 
+      <lb ed="#A" n="15"/>tunc autem vox, solus, excludit a vera deitatis na 
+      <lb ed="#A" n="16"/>tura, non alias personas, sed alios Deos falsos, 
+      <lb ed="#A" n="17"/>quos colit gentilitas. 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

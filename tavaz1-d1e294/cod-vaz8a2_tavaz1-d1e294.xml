@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 48</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 48</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="405"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e294"><!-- p1-q48 -->
+            <head xml:id="tavaz1-d1e294-Hd1e99">Quaestio 48</head>
+            <div xml:id="tavaz1-d1e294-Dd1e101"><!-- vaz-p1q48a1 -->
+               <head xml:id="tavaz1-d1e294-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e294-d1e106">
+                  <lb ed="#A" n="41" type="fixed=401"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e294-d1e111">
+                  <lb ed="#A" n="42"/>CONCLVSIO est, Malum est absentia boni. Pro 
+      <lb ed="#A" n="43"/>declaratione huius art. &amp; totius huius quaest. 
+      <lb ed="#A" n="44"/>obseruandum est primum, hic non disputari de 
+      <lb ed="#A" n="45"/>malo vniuerse, vt est commune quid malo 
+      mora<lb ed="#A" n="46" break="no"/>li, hoc est, peccato, &amp; malo naturali, sed tantum 
+      <lb ed="#A" n="47"/>de malo naturali: &amp; de hoc adhuc bifariam 
+      loqui<lb ed="#A" n="48" break="no"/>possumus, sicut de bono, vt notauit disput. 23. c. 
+      <lb ed="#A" n="49"/>2. &amp; 5. nam aut loquimur de malo in se &amp; 
+      abso<lb ed="#A" n="50" break="no"/>lute, aut respectu alterius. Priori modo 
+      conten<lb ed="#A" n="51" break="no"/>dit Aug. vbique contra Manichaeum probare, 
+      nul<lb ed="#A" n="52" break="no"/>lam naturam, hoc est, substantiam, esse malam: sic 
+      <lb ed="#A" n="53"/>enim accipit Aug. pro substantia, quoties contra 
+      <lb ed="#A" n="54"/>Mannichaeum probat, nullam naturam esse malam, 
+      <lb ed="#A" n="55"/>vt 1. 2. q. 71. art. 6. &amp; 79. art. 1. ostendemus: 
+      Mani<lb ed="#A" n="56" break="no"/>chaeus enim non errauit, quod diceret aliquem 
+      <lb ed="#A" n="57"/>actum, vel aliquam qualitatem esse alicui malam 
+      <lb ed="#A" n="58"/>sed quia substantias aliquas, quatenus substantiae 
+      <lb ed="#A" n="59"/>sunt, existimauit substantialiter esse malas. Et con 
+      <lb ed="#A" n="60"/>tra ipsum arguit August. lib. 2. de moribus Manichaeorum 
+      <lb ed="#A" n="61"/>a c. 1. vsque ad 8. &amp; lib. de natura boni. c. 16. Eodem 
+      <lb ed="#A" n="62"/>sensu intelligendi sunt Dionys. 9. de diui. nom. 
+      Ambro<lb ed="#A" n="63" break="no"/>lib. de Isaac, &amp; anima. c. 7. Nyssen. homil. 2. in Cantica¬ 
+      <!--00409.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="64"/>Basil. in concione, Quod Deus non est auctor malorum, &amp; 
+      <lb ed="#A" n="65"/>reliqui Patres, cum asserunt, malum non esse 
+      sub<lb ed="#A" n="66" break="no"/>fistens aliquid, nec naturam aliquam: loquuntur 
+      e<lb ed="#A" n="67" break="no"/>nim de malo, quod opponitur bono reciprocato 
+      <lb ed="#A" n="68"/>cum ente, &amp; passione illius. Hoc enim cum sit 
+      in<lb ed="#A" n="69" break="no"/>tegritas ipsius rei, vt in ea disput. 23. 
+      monstraui<lb ed="#A" n="70" break="no"/>mus, malum debet esse in priuatione modi, aut 
+      <lb ed="#A" n="71"/>speciei, aut ordinis, vt ibidem capit. 4. ex 
+      Augusti<lb ed="#A" n="72" break="no"/>no probauimus. 
+      </p>
+               <p xml:id="tavaz1-d1e294-d1e185">
+                  <lb ed="#A" n="73"/>Deinde nota ex Aug. lib. 7. de moribus 
+      Manicheo<lb ed="#A" n="74" break="no"/>rum, c. 8. nullam naturam, hoc est, substantiam, in 
+      <lb ed="#A" n="75"/>se esse malam, sed aliquam respectu alterius esse 
+      <lb ed="#A" n="76"/>malam, quia ei nocet: intelligit ab euentu, quia 
+      <lb ed="#A" n="77"/>facit aliquid contra naturalem dispositionem illius. 
+      <lb ed="#A" n="78"/>An vero haec malitia respectiua reperiatur etiam 
+      <lb ed="#A" n="79"/>in qualitatibus naturalibus, ita vt illae non solum 
+      <lb ed="#A" n="80"/>dicantur alicui malae ratione priuationis, quam 
+      ef<lb ed="#A" n="81" break="no"/>ficiunt in subiecto, sed etiam secundum se, quia 
+      se<lb ed="#A" n="82" break="no"/>cundum se illi contrariae sunt, dicemus 1. 2. quaest. 
+      <lb ed="#A" n="83"/>71. artic. 6. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e294-Dd1e212"><!-- vaz-p1q48a2 -->
+               <head xml:id="tavaz1-d1e294-Hd1e215">Articulus 2</head>
+               <p xml:id="tavaz1-d1e294-d1e217">
+                  <lb ed="#A" n="56" type="fixed=402"/>CONCLVSIO est affirmans. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e294-Dd1e223"><!-- vaz-p1q48a3 -->
+               <head xml:id="tavaz1-d1e294-Hd1e226">Articulus 3</head>
+               <p xml:id="tavaz1-d1e294-d1e228">
+                  <lb ed="#A" n="29" type="fixed=403"/>COnclusio est affirmans, &amp; intelligenda est de 
+      <lb ed="#A" n="30"/>malo absolute, &amp; non respectiue, quod 
+      con<lb ed="#A" n="31" break="no"/>sistit in priuatione alicuius entitatis. Nam cum 
+      <lb ed="#A" n="32"/>haec priuatio sit in aliqua entitate, vt subiecto; 
+      se<lb ed="#A" n="33" break="no"/>quitur malum esse in bono, non quidem sibi 
+      op<lb ed="#A" n="34" break="no"/>posito, sed in alio, vt in subiecto. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e294-Dd1e245"><!-- vaz-p1q48a4 -->
+               <head xml:id="tavaz1-d1e294-Hd1e248">Articulus 4</head>
+               <p xml:id="tavaz1-d1e294-d1e250">
+                  <lb ed="#A" n="30" type="fixed=404"/>COnclusio est; Malum omnino con sunt bonum, ca 
+      <lb ed="#A" n="31"/>9, ponitur; non tamen bonum, in quo, vt in subiecto 
+      <lb ed="#A" n="32"/>est. Hunc conclusionem habes ex plicatam supra 
+      <lb ed="#A" n="33"/>disput. 23. cap. 5. qua vero ratione malum morale 
+      <lb ed="#A" n="34"/>consumat omnem bonitatem mortalem, cui 
+      op<lb ed="#A" n="35" break="no"/>ponitur, &amp; sit malitia in facto esse, explicabitur I. 
+      <lb ed="#A" n="36"/>2. q 72. art. 1. Porro quo, pacto in telligatur locus 
+      <lb ed="#A" n="37"/>Aristot lib. 4. Ethicot. cap. 5. vbi ait, si malum in 
+      <lb ed="#A" n="38"/>tegrum esset, intole abile esset, d icemus 1. 2. 73. 
+      <lb ed="#A" n="39"/>ant. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e294-Dd1e276"><!-- vaz-p1q48a5 -->
+               <head xml:id="tavaz1-d1e294-Hd1e279">Articulus 5</head>
+               <p xml:id="tavaz1-d1e294-d1e281">
+                  <lb ed="#A" n="13" type="fixed=405"/>Notatio circa articulum. 
+    </p>
+               <p xml:id="tavaz1-d1e294-d1e286">
+                  <lb ed="#A" n="14"/>COnclusio est affirmans. Circa eam tamen 
+      ob<lb ed="#A" n="15" break="no"/>seruandum est, cum dicimus, malum 
+      sufficien<lb ed="#A" n="16" break="no"/>ter diuidi in culpam &amp; poenam, non est ita 
+      intelli<lb ed="#A" n="17" break="no"/>gendum, vt poena accipiatur in altero membro 
+      <lb ed="#A" n="18"/>formali, vt dicit relationem ad culpam; quia 
+      mul<lb ed="#A" n="19" break="no"/>ta mala esse possunt naturalia, quae non sunt 
+      ali<lb ed="#A" n="20" break="no"/>cuius poena; sed poena debet accipi pro malo, 
+      <lb ed="#A" n="21"/>quod potest esse poena, si alicui infligatur pro 
+      cul<lb ed="#A" n="22" break="no"/>pa: nam culpa tale malum est, vt nequeat esse 
+      poe<lb ed="#A" n="23" break="no"/>na ratione malitiae moralis, vt explicabitur i. 2. 
+      <lb ed="#A" n="24"/>q 87. art. 1. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e294-Dd1e313"><!-- vaz-p1q48a6 -->
+               <head xml:id="tavaz1-d1e294-Hd1e316">Articulus 6</head>
+               <p xml:id="tavaz1-d1e294-d1e318">
+      <!--00414.xml-->
+                  <pb ed="#A" n="406"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1" type="fixed=406"/>COnclusio est; Maius malum est culpa, quam poena 
+      <lb ed="#A" n="2"/>Eam probat sanctus Doctor duplici ratione, 
+      <lb ed="#A" n="3"/>quam habet in textu, 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

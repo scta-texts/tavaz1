@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praefatio</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praefatio</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e182"><!-- p1-v2prae -->
+            <head xml:id="tavaz1-d1e182-Hd1e99">Praefatio</head>
+            <p xml:id="tavaz1-d1e182-d1e101"><!--00009.xml-->
+               <pb ed="#A" n="1"/>
+               <cb ed="#A" n="a"/>
+               <lb ed="#A" n="1" type="fixed=1"/>COMMENTARII
+    <lb ed="#A" n="2"/>AC
+    <lb ed="#A" n="3"/>DISPVTATIONES 
+    <lb ed="#A" n="4"/>P. GABRIELIS VAZQVEZ 
+    <lb ed="#A" n="5"/>E SOCIETATE IESV 
+    <lb ed="#A" n="6"/>IN 
+    <lb ed="#A" n="7"/>PRIMAM PARTEM 
+    <lb ed="#A" n="8"/>SANCTI THOMAE
+    <lb ed="#A" n="9"/>a Quaestione XXVII. vsque ad LXVII. &amp; 
+    <lb ed="#A" n="10"/>a Quaestione CVI. vsque ad CXIIII. 
+    <lb ed="#A" n="11"/>PRAEFATIO 
+    <lb ed="#A" n="12"/>INTRACTATVM 
+    <lb ed="#A" n="13"/>DE 
+    <lb ed="#A" n="14"/>TRINITATE
+  </p>
+            <p xml:id="tavaz1-d1e182-d1e139">
+    <!--00009.xml-->
+               <cb ed="#A" n="b"/>
+               <lb ed="#A" n="15"/>HAec est vltima 
+    <lb ed="#A" n="16"/>pars disputatio 
+    <lb ed="#A" n="17"/>nis de Deo in se 
+    <lb ed="#A" n="18"/>ipso: in qua 
+      iu<lb ed="#A" n="19" break="no"/>xta diuisionem. 
+    <lb ed="#A" n="20"/>quam initio 
+      prae<lb ed="#A" n="21" break="no"/>misimus, de 
+    <lb ed="#A" n="22"/>diuinis 
+      opera<lb ed="#A" n="23" break="no"/>tionibus intra 
+    <lb ed="#A" n="24"/>Deum, quae ve 
+    <lb ed="#A" n="25"/>re sunt productiones, consequenter 
+    disse<lb ed="#A" n="26" break="no"/>rendum est: De his disputat sanctus 
+      Do<lb ed="#A" n="27" break="no"/>ctor ab hac quaestione 27. vsque 43. nam 
+    <lb ed="#A" n="28"/>post quam in superioribus egit de Dec 
+    <lb ed="#A" n="29"/>vno, eiusque attributis, quae ratione es 
+    <lb ed="#A" n="30"/>sentiae ipsi conueniunt, ex quibus aliqua 
+    <lb ed="#A" n="31"/>in operatione immanenti posita sunt; iam 
+    <lb ed="#A" n="32"/>tandem ostendit, quo pacto Deus inter 
+    <lb ed="#A" n="33"/>na operatione aliquid in se ipso producat 
+    <lb ed="#A" n="34"/>vt postea de operationibus Dei externis 
+    <lb ed="#A" n="35"/>disputationem instituat, &amp; hinc perfecte 
+    <lb ed="#A" n="36"/>constet, quid de Deo in se ipso vno &amp; Tri 
+    <!--00009.xml-->
+    <cb ed="#A" n="c"/>
+               <lb ed="#A" n="37"/>no, Christiana doceat religio. Et quamuis 
+    <lb ed="#A" n="38"/>omnis de Deo notio &amp; disputatio a Dio 
+    <lb ed="#A" n="39"/>nysio 2. cap. de diuinis nominibus, &amp; ab 
+    <lb ed="#A" n="40"/>alijs Patribus allegatis disputatione 22. 
+    <lb ed="#A" n="41"/>cap. 4. merito dicatur ignorantiae: ea 
+      ta<lb ed="#A" n="42" break="no"/>men, quae de Deo Trino &amp; Vno disserit, 
+    <lb ed="#A" n="43"/>multo maiori ratione hoc nomine appel 
+    <lb ed="#A" n="44"/>lari debet. Nam quae de Deo vno Theolog. 
+    <lb ed="#A" n="45"/>tractant, licet a sensu remotissima sint, &amp; 
+    <lb ed="#A" n="46"/>ideo, quid sint, omnino lateat; multa 
+      ta<lb ed="#A" n="47" break="no"/>men eorum, aut naturali ratione inuesti 
+    <lb ed="#A" n="48"/>gari, aut aliquo modo detractione, au 
+    <lb ed="#A" n="49"/>negatione, pro modulo nostro explicari 
+    <lb ed="#A" n="50"/>possunt: at Trinitatem personarum in vna 
+    <lb ed="#A" n="51"/>numero essentia, quae ratio naturalis 
+      in<lb ed="#A" n="52" break="no"/>dagare, quis intellectus, nisi fidei lumine 
+    <lb ed="#A" n="53"/>instructus, percipere valeat? Ergo firmis 
+    <lb ed="#A" n="54"/>fima fundamenta huius nostrae disputa 
+    <lb ed="#A" n="55"/>tionis ex diuina solum reuelatione 
+      iacien<lb ed="#A" n="56" break="no"/>da sunt: quibus semel positis, Theologica 
+    <lb ed="#A" n="57"/>quoque ratiocinatione multa alia, tam 
+    <lb ed="#A" n="58"/>circa modum loquendi, quam circa rem 
+      <!--00010.xml-->
+      <pb ed="#A" n="2"/>
+               <cb ed="#A" n="a"/>
+               <lb ed="#A" n="1"/>ipsam non obscure deducemus: illud 
+      sem<lb ed="#A" n="2" break="no"/>per prae oculis habentes, ne id, quod fides 
+      <lb ed="#A" n="3"/>nostra adstruit, verae rationi naturali ali 
+      <lb ed="#A" n="4"/>quo modo aduersetur. Neque enim 
+      fide<lb ed="#A" n="5" break="no"/>Christiana naturam destruit, sed perficit 
+      <lb ed="#A" n="6"/>&amp; illustrat magis. Quare conandum pro 
+      <lb ed="#A" n="7"/>virili parte nobis est, aduersariorum 
+      argu<lb ed="#A" n="8" break="no"/>menta, &amp; calumnias, quibus fidei 
+      dogma<lb ed="#A" n="9" break="no"/>ta euertere moliuntur, &amp; principijs 
+      no<lb ed="#A" n="10" break="no"/>strae fidei adiuti, &amp; optima ratiocinatione 
+      <lb ed="#A" n="11"/>muniti diluere: quodque atione a Theo 
+      <lb ed="#A" n="12"/>logo praestari possit, disputatione 12. c. 2. 
+      <lb ed="#A" n="13"/>ostensum est. Et quamui en tota praesent: 
+      <lb ed="#A" n="14"/>de Trinitate tractationis vocabula 
+      quae<lb ed="#A" n="15" break="no"/>dam propria sint, quae quidem Scriptura 
+      <lb ed="#A" n="16"/>expresse non habet: a Patribus tamen, &amp; 
+      <lb ed="#A" n="17"/>Scholasticis conuenienter mysterio sunt 
+      <lb ed="#A" n="18"/>accommodata: qualia sunt, Essentia, 
+      Tri<lb ed="#A" n="19" break="no"/>nitas, Substantia, Persona, Hypostasis, Notio, 
+      <lb ed="#A" n="20"/>Potentia, Actus notionalis, Relatio, &amp; alia, 
+      <lb ed="#A" n="21"/>quibus ita suis locis vtemur, vt, si quid vn 
+      <lb ed="#A" n="22"/>quam fuerit circa illa ortum controuer 
+      <lb ed="#A" n="23"/>siae in Ecclesia, aperiamus. Immerito 
+      au<lb ed="#A" n="24" break="no"/>tem haeretici ea vocabula respuunt, 
+      qui<lb ed="#A" n="25" break="no"/>bus Catholici commode, &amp; syncere 
+      my<lb ed="#A" n="26" break="no"/>sterium Trinitatis explicant, quibus, &amp; 
+      <lb ed="#A" n="27"/>nos eadem quoque de causa libenter 
+      vte<lb ed="#A" n="28" break="no"/>mur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

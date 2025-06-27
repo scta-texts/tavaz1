@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 59</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 59</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="606"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e351"><!-- p1-q59 -->
+            <head xml:id="tavaz1-d1e351-Hd1e99">Quaestio 59</head>
+            <div xml:id="tavaz1-d1e351-Dd1e101"><!-- vaz-p1q59a1 -->
+               <head xml:id="tavaz1-d1e351-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e351-d1e106">
+                  <lb ed="#A" n="12" type="fixed=603"/>CONCLVSIO est affirmans. Circa cuius pro 
+      <lb ed="#A" n="13"/>bationem nihil notatione dignum occurrit 
+      <lb ed="#A" n="14"/>praeter ea, quae diximus supra quaestione 19. artic. 1. 
+      <lb ed="#A" n="15"/>circa rationem, qua S. Thom. probat, in Deo esse 
+      <lb ed="#A" n="16"/>voluntatem, ea enim omnia deseruiunt ad pro 
+      <lb ed="#A" n="17"/>bandum, in angelo etiam esse. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e351-Dd1e123"><!-- vaz-p1q59a2 -->
+               <head xml:id="tavaz1-d1e351-Hd1e126">Articulus 2</head>
+               <p xml:id="tavaz1-d1e351-d1e128">
+                  <lb ed="#A" n="5" type="fixed=604"/>COnclusio est affirmans: circa cuius 
+      confirma<lb ed="#A" n="6" break="no"/>tionem multa consumit Caletanus, quibus 
+      <lb ed="#A" n="7"/>supersedere operae pretium duxi; eadem enim 
+      <lb ed="#A" n="8"/>communisque difficultas est de intellectu &amp; 
+      vo<lb ed="#A" n="9" break="no"/>luntate Angeli, &amp; hominis. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e351-Dd1e142"><!-- vaz-p1q59a3 -->
+               <head xml:id="tavaz1-d1e351-Hd1e145">Articulus 3</head>
+               <p xml:id="tavaz1-d1e351-d1e147">
+                  <lb ed="#A" n="100" type="fixed=604"/>CONCLVSIO est affirmans. 
+    </p>
+            </div>
+            <div xml:id="tavaz1-d1e351-Dd1e153"><!-- vaz-p1q59a4 -->
+               <head xml:id="tavaz1-d1e351-Hd1e156">Articulus 4</head>
+               <p xml:id="tavaz1-d1e351-d1e158">
+                  <lb ed="#A" n="94" type="fixed=605"/>Notationes circa articulum, &amp; quaestio. 
+      <lb ed="#A" n="95"/>nem totam. 
+    </p>
+               <p xml:id="tavaz1-d1e351-d1e165">
+                  <lb ed="#A" n="96"/>Conclusio est: Appetitus intellectiuus in angelis non 
+      <lb ed="#A" n="97"/>diuiditur per irascibilem, &amp; concupiscibilem 
+      sicu<lb ed="#A" n="98" break="no"/>per duas potentias, sed eadem est facultas indiuidua 
+      </p>
+               <p xml:id="tavaz1-d1e351-d1e174">
+                  <lb ed="#A" n="99"/>Non negat S. Thom. facultatem voluntatis in 
+      <lb ed="#A" n="100"/>Angelis habere actum appetendi, qui pertinet ad 
+      <lb ed="#A" n="101"/>appetitiuam potentiam: &amp; actum pertinentem 
+      <lb ed="#A" n="102"/>ad irascibilem: sed negat, esse diuersas facultates. 
+      <lb ed="#A" n="103"/>Circa rationem huius articuli recole, quae 
+      dixi<lb ed="#A" n="104" break="no"/>mus supra disput. 9. c. 3. nempe practicum &amp; 
+      spe<lb ed="#A" n="105" break="no"/>culatiuum non constituere diuersas facultates, 
+      <lb ed="#A" n="106"/>secundum speciem, quia conueniunt eidem 
+      facul<lb ed="#A" n="107" break="no"/>tati secundum rem: &amp; varij respectus ad varios a 
+      <lb ed="#A" n="108"/>ctus sub vna communi ratione in eadem 
+      facul<lb ed="#A" n="109" break="no"/>tate, aut habitu secundum rem, vt respectus ad 
+      al<lb ed="#A" n="110" break="no"/>bum &amp; nigrum in facultate videndi, non variant 
+      <lb ed="#A" n="111"/>facultates, aut habitus secundum speciem. 
+      Cae<lb ed="#A" n="112" break="no"/>tera, quae in hac quaestione disputatione digna 
+      e<lb ed="#A" n="113" break="no"/>rant, communem habent difficultatem in 
+      homi<lb ed="#A" n="114" break="no"/>ne, &amp; in angelo, de quibus Deo duce meliorem 
+      <lb ed="#A" n="115"/>nacti temporis occasionem in materia de anima 
+      <lb ed="#A" n="116"/>fusius disseremus: de libero autem hominis 
+      arbi<lb ed="#A" n="117" break="no"/>trio, an in eo libertas, sit multa diximus supra 
+      di<lb ed="#A" n="118" break="no"/>sput. 68. capit. 1. quae eodem modo de Angelo 
+      in<lb ed="#A" n="119" break="no"/>telligenda sunt.
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

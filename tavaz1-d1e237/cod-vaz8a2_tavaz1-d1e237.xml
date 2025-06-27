@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 37</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 37</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="230"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e237"><!-- p1-q37 -->
+            <head xml:id="tavaz1-d1e237-Hd1e99">Quaestio 37</head>
+            <div xml:id="tavaz1-d1e237-Dd1e101"><!-- vaz-p1q37a1 -->
+               <head xml:id="tavaz1-d1e237-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e237-d1e106">
+                  <lb ed="#A" n="111" type="fixed=230"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e237-d1e111">
+                  <lb ed="#A" n="112"/>CONCLVSIO est, Si amor accipiatur notios 
+      <lb ed="#A" n="113"/>lioet, vt significat habitudinem procedentis per 
+      mo<lb ed="#A" n="114" break="no"/>dum amoris, nomen proprium Spiritus S. est amor. Haec 
+      <lb ed="#A" n="115"/>conclusio desumpta est ex <ref xml:id="tavaz1-d1e237-Rd1e121">Aug. 15. de Trin. c. 17</ref>. vbi 
+      <lb ed="#A" n="116"/>asserit amorem procedentem, qui est Deus esse 
+      <lb ed="#A" n="117"/>Spiritum S. probatque ex illo 1. Ioan. 4. Charissimi 
+      <lb ed="#A" n="118"/>diligamus inuicem, quia dilectio ex Deo est, &amp; omnis, qui 
+      <lb ed="#A" n="119"/>diligit, ex Deo natus est, &amp; cognoscit Deum; qui non 
+      dili<lb ed="#A" n="120" break="no"/>git, non nouit Deum, quoniam Deus charitas est. Vbi Ioan. 
+      <!--00239.xml-->
+      <pb ed="#A" n="231"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>duo dicit, &amp; dilectionem esse Deum, &amp; 
+      dilectio<lb ed="#A" n="2" break="no"/>nem esse ex ipso Deo. est igitur Deus amor 
+      proce<lb ed="#A" n="3" break="no"/>dens, non alius quam Spiritus sanctus. Verum 
+      <lb ed="#A" n="4"/>hunc locum explicat Concilium Mileuitanum c. 
+      <lb ed="#A" n="5"/>4. de dilectione creata, cum dicit loan. Dilectio ex 
+      <lb ed="#A" n="6"/>Deo est, indeque probat dilectionem, qua prosequi 
+      <lb ed="#A" n="7"/>mur Deum, esse donum ipsius. Nihilominus Deus 
+      <lb ed="#A" n="8"/>ipse dicitur charitas, idque loannes dixit, vt 
+      com<lb ed="#A" n="9" break="no"/>mendaret nobis donum charitatis, quod eodem 
+      <lb ed="#A" n="10"/>nomine, atque ipse Deus, vocatur, 
+      eoquemaxi<lb ed="#A" n="11" break="no"/>me Deo assimilamur. 
+      </p>
+               <p xml:id="tavaz1-d1e237-d1e166">
+                  <lb ed="#A" n="12"/>Alij idem deducere conantur ex illo ad 
+      Collos<lb ed="#A" n="13" break="no"/>senses.1. Et transtulit in regnum filij dilectionis suae, 
+      qui<lb ed="#A" n="14" break="no"/>nomine dilectionis putant, Spiritum S. significari 
+      <lb ed="#A" n="15"/>sed (vt optime notauit Aug. 15. de Trinit. c. 19. circa 
+      fi<lb ed="#A" n="16" break="no"/>nem) dilectio ibi non potest accipi pro notionali 
+      <lb ed="#A" n="17"/>amore; qui est Spiritus sanctus: alioqui &amp; filius 
+      di<lb ed="#A" n="18" break="no"/>ceretur Spiritus sancti, sicut dicitur filius 
+      dilectio<lb ed="#A" n="19" break="no"/>nis, quod est absurdum. Quare inquif, dilectionem 
+      <lb ed="#A" n="20"/>ibi vsurpare proamore essentiali &amp; dici filium 
+      di<lb ed="#A" n="21" break="no"/>lectionis, id est, filium essentiae, non quod sit ab 
+      es<lb ed="#A" n="22" break="no"/>sentia secundum originem, sed quod eandem ha 
+      <lb ed="#A" n="23"/>beat essentiam cum patre, aut quod iuxta phrasim 
+      <lb ed="#A" n="24"/>Hebraicam dicatur filius dilectionis, hoc est; dile 
+      <lb ed="#A" n="25"/>ctus: Hebraei enim nomina adiectiua non habent, 
+      <lb ed="#A" n="26"/>&amp; ideo substantiuis in casu gignendi vtuntur, quo 
+      <lb ed="#A" n="27"/>pacto dicunt filium perditionis hominem perditum 
+      </p>
+               <p xml:id="tavaz1-d1e237-d1e203">
+                  <lb ed="#A" n="28"/>Ceterum notandum est primum, falsam esse 
+      <lb ed="#A" n="29"/>sententiam Durandi, qui in 1. d. 32. q. u. nu. 8. 
+      affir<lb ed="#A" n="30" break="no"/>mat, nomen amoris nunquam accipi notionaliter 
+      <lb ed="#A" n="31"/>in Deo, nisi secundum appropriationem, non 
+      si<lb ed="#A" n="32" break="no"/>cut communia appropriari solent singulis 
+      perso<lb ed="#A" n="33" break="no"/>nis, sed quia putat processionem Spiritus sanct 
+      <lb ed="#A" n="34"/>non esse voluntatem, nisi solum similitudine qua 
+      <lb ed="#A" n="35"/>dam; vt vidimus disp. 111. e. 1. eademque ratione 
+      <lb ed="#A" n="36"/>docuir nomen, verbum, non esse proprium 
+      secun<lb ed="#A" n="37" break="no"/>dae personae, sed solum illo modo appropriari, vt 
+      <lb ed="#A" n="38"/>retulimus disp. 141. c. 2. quia videlicet eodem modo 
+      <lb ed="#A" n="39"/>sensit filium non procedere per intellectum, sed 
+      <lb ed="#A" n="40"/>eius processionem operationi intellectus similem 
+      <lb ed="#A" n="41"/>esse: vtrumque autem ostendimus esse falsum dispi 
+      <lb ed="#A" n="42"/>illa 111. Quocirca dicendum est, ideo nomen 
+      a<lb ed="#A" n="43" break="no"/>moris appropriari quidem tertiae personae, cum 
+      <lb ed="#A" n="44"/>tamen ex se commune aliquid tribus personis sig 
+      <lb ed="#A" n="45"/>nificet, quia denotat operationem voluntatis, pe 
+      <lb ed="#A" n="46"/>quam Spiritus sanctus procedit 
+      </p>
+               <p xml:id="tavaz1-d1e237-d1e248">
+                  <lb ed="#A" n="47"/>Deinde notat frustra laborasse Aureolum, v 
+      <lb ed="#A" n="48"/>refert Capreolus in I. d. 32. q. 1. art. 1. in argumentis 
+      <lb ed="#A" n="49"/>contra quintam conclusionem, dum probare vo 
+      <lb ed="#A" n="50"/>luit in Deo duos esse amores, alterum essentialem 
+      <lb ed="#A" n="51"/>alterum notionalem: nam (vt ait Caiet. in hunc 
+      <lb ed="#A" n="52"/>art.) amor essentialis &amp; notiorsalis idem sunt ex 
+      <lb ed="#A" n="53"/>natura rei; notionalis vero solum super essentia 
+      <lb ed="#A" n="54"/>lem addit relationem productionis: id quod in 
+      <lb ed="#A" n="55"/>vniuersum verum est de omnibus actibus 
+      essen<lb ed="#A" n="56" break="no"/>tialibus, &amp; notionalibus inuicem collatis, vt dispi 
+      <lb ed="#A" n="57"/>113. ostensum est. 
+      </p>
+            </div>
+            <!-- no direct commentary/exposition on a. 2; it goes directly to the disputatio  -->
+            <div xml:id="tavaz1-d1e237-Dd1e277"><!-- vaz-p1q37a2-d151 -->
+               <head xml:id="tavaz1-d1e237-Hd1e280">Disputatio 151</head>
+               <head xml:id="tavaz1-d1e237-Hd1e282" type="question-title">
+      Quare dici possit, Pater, et Filius 
+      diligunt se Spiritu sancto
+    </head>
+               <p xml:id="tavaz1-d1e237-d1e285">
+                  <lb ed="#A" n="97" type="fixed=232"/>DISPVTATIO CLI. 
+      <lb ed="#A" n="98"/>Quare dici possit, Pater, &amp; Filius 
+      dili<lb ed="#A" n="99" break="no"/>gunt se Spiritu sancto. 
+      </p>
+               <div xml:id="tavaz1-d1e237-Dd1e294">
+                  <head xml:id="tavaz1-d1e237-Hd1e296">Caput 1</head>
+                  <p xml:id="tavaz1-d1e237-d1e298">
+                     <lb ed="#A" n="100" type="fixed=232"/>CAPVT I. 
+      <lb ed="#A" n="101"/>Variae Scholasticorum opiniones.
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e305">
+                     <lb ed="#A" n="102"/>SVpponimus in hac controuersia propositionem 
+      <lb ed="#A" n="103"/>illam, Pater &amp; Filius diligunt se Spiritu sancto, 
+      ali<lb ed="#A" n="104" break="no"/>quo modo dici posse. Sic enim loquitur August. 6. 
+      <lb ed="#A" n="105"/>de Triuit cap. 5. cuius verba retulimus disputatione 
+      <lb ed="#A" n="106"/>praecedenti cap. 3. Hieron. etiam in Psalm. 17. ait, 
+      <lb ed="#A" n="107"/>Spiritus sanctus nec Pater nec Filius, sed dilectio, quam 
+      ha<lb ed="#A" n="108" break="no"/>bet pater in Filio, &amp; Filius in patre. Bernardus in lib. de 1 
+      <lb ed="#A" n="109"/>amore Dei. Amas te (inquit) amabilis Domine, cum a 
+      Pa<lb ed="#A" n="110" break="no"/>tre, &amp; rilio procedit Spiritus sanctus amor Patris ad 
+      Filiun<lb ed="#A" n="111" break="no"/>&amp; Filij ad patrem, &amp; tantus amor, vt sit vnitas. Hugo 
+      <!--00241.xml-->
+      <pb ed="#A" n="233"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>de S. Victore in epistola ad Bern. sic scribit, Si recte diteris 
+      <lb ed="#A" n="2"/>amare amore, qui a te procedit, cur non pater &amp; rilius 
+      di<lb ed="#A" n="3" break="no"/>cuntur amare amore, qui ab ipsis procedit? Et iterum, Si 
+      <lb ed="#A" n="4"/>Spiritus sanctus esset amor cordis tui, &amp; Patris, &amp; rilij, quis 
+      <lb ed="#A" n="5"/>quaeso, posset negate, Spiritu sancto, hoc est, amore tuo, te 
+      di<lb ed="#A" n="6" break="no"/>ligere? Quocirca nunc solum superest controuersia 
+      <lb ed="#A" n="7"/>inter Scholasticos. qua ratione vere ea propositio 
+      <lb ed="#A" n="8"/>pronuntiari possit. In hoc autem cap. more solito 
+      <lb ed="#A" n="9"/>varias Theologorum nostrorum sententias, qua 
+      <lb ed="#A" n="10"/>mihi non probantur, enumerabo, vt deinde in 
+      se<lb ed="#A" n="11" break="no"/>quentibus eam, quae verior videbitur, confirmem 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e360">
+                     <lb ed="#A" n="12"/>Prima sententia sit. Gotfredi Pictauiensis, quem 
+      <lb ed="#A" n="13"/>referunt Bonau. Scotus &amp; Capreol. Asserentis, in 
+      pro<lb ed="#A" n="14" break="no"/>prio sensu falsam esse, propositionem eamque in 
+      <lb ed="#A" n="15"/>simili retractasse Aug. Nam cum lib. 83. qu. q. 23. 
+      <lb ed="#A" n="16"/>dixisset, Patrem esse sapientem sapientia genita, 
+      <lb ed="#A" n="17"/>postea 1.lib. retractat. c. 26. &amp; 6. lib. de Trinitate cap. 1. &amp; 
+      <lb ed="#A" n="18"/>2. &amp; lib. 7. cap. 3. &amp; lib. 15. cap. 7. id retractauit. Huic 
+      <lb ed="#A" n="19"/>autem videtur similis illa, pater &amp; Filius diligunt se 
+      <lb ed="#A" n="20"/>Spiritu sancto. Gotfredo nonnulli recentiores 
+      ad<lb ed="#A" n="21" break="no"/>haerent, inter quos est Canariensis in hunc art. 
+      fa<lb ed="#A" n="22" break="no"/>tetur enim, se prorsus nescire eam 
+      propositio<lb ed="#A" n="23" break="no"/>nem Augustini in proprio sensu defendere. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e389">
+                     <lb ed="#A" n="24"/>Gotfredi opinionem refellit optime Scotus in 
+      <lb ed="#A" n="25"/>1. d. 32. q. 2. § primam quaestionem. tum quia nusquan 
+      <lb ed="#A" n="26"/>hanc propositionem expresse retractauit August 
+      <lb ed="#A" n="27"/>retractasset autem, sicut plures alias, si falsam esse 
+      <lb ed="#A" n="28"/>existimasset; est autem omnino diuersa ab illa 
+      pa<lb ed="#A" n="29" break="no"/>ter est sapiens sapientia genita, vt infra cap. 6. 
+      videbi<lb ed="#A" n="30" break="no"/>mus. Quare nec in ea videtur ab Aug retractata 
+      <lb ed="#A" n="31"/>Accedit, quod cum alij etiam Augustiniani, qualis 
+      <lb ed="#A" n="32"/>fuit Bernardus, &amp; Hugo, hanc propositionem 
+      <lb ed="#A" n="33"/>pronuntiauerint; non est credibile, Augustinum 
+      <lb ed="#A" n="34"/>eam retractasse. Quomodo autem in proprio 
+      sen<lb ed="#A" n="35" break="no"/>su sit vera, perspicue inferius patebit; ex quo 
+      sen<lb ed="#A" n="36" break="no"/>tentia quoque; Gotfredi confutabitur. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e421">
+                     <lb ed="#A" n="37"/>Secunda opinio est eorum, qui asserunt, veram 
+      <lb ed="#A" n="38"/>esse propositionem, si tamen Spiritus sanctus 
+      su<lb ed="#A" n="39" break="no"/>matur pro amore essentiali, qui appropriati solet 
+      <lb ed="#A" n="40"/>Spiritui sancto. Haec tribuitur Alexandro Alensi, qui 
+      <lb ed="#A" n="41"/>potius prima p. q47. memb. 2. in fine, &amp; memb. 3. artic. 
+      <lb ed="#A" n="42"/>3. vbi huius reialiquam facit mentionem, in 
+      pro<lb ed="#A" n="43" break="no"/>prio sensu accepto Spiritu sancto pro tertia 
+      per<lb ed="#A" n="44" break="no"/>sona, propositionem concedere videtur. Eam 
+      ta<lb ed="#A" n="45" break="no"/>men sententiam plane tradidit Duran. in 1. d. 32. 
+      <lb ed="#A" n="46"/>q1. sed cuiuscunque sit, recte illam impugnat Scotus 
+      <lb ed="#A" n="47"/>loco citato, &amp; Capreolus in 1. d. 32. q. 1. art. 1. concl.i 
+      <lb ed="#A" n="48"/>Bona eadem d. art. 1. q. 1. quia si ea solum ratione pro 
+      <lb ed="#A" n="49"/>positio esset vera, eodem quoque pacto concedi 
+      <lb ed="#A" n="50"/>posset haec, pater, &amp; Filius sunt boni Spiritu sancto, 
+      si<lb ed="#A" n="51" break="no"/>quidem boni sunt bonitate essentiali, quae Spiritur 
+      <lb ed="#A" n="52"/>sancto appropriari solet 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e458">
+                     <lb ed="#A" n="53"/>Tertia sententia est Simonis Tornacensis 
+      <lb ed="#A" n="54"/>quem referunt Scotus loco allegato, Bonauentur 
+      <lb ed="#A" n="55"/>articulo illo 1. quaest. 3. Capreo. qui illa prima art. 2. qui eam 
+      <lb ed="#A" n="56"/>propositionem in hoc sensu solum concedebat. 
+      <lb ed="#A" n="57"/>Spiritus sanctus signum est mutuae dilectionis Patris, &amp; 
+      Fi<lb ed="#A" n="58" break="no"/>lij. Impugnant vero hanc opinionem, quia eadem 
+      <lb ed="#A" n="59"/>ratione dici posset, Pater &amp; Filius diligunt se crea 
+      <lb ed="#A" n="60"/>tura: nam saltem creatura rationalis signum 
+      ess<lb ed="#A" n="61" break="no"/>potest huius mutuae dilectionis; atque ea saltem 
+      <lb ed="#A" n="62"/>ratione confutari potest, quia sensus ille valde est 
+      <lb ed="#A" n="63"/>improprius, &amp; ab ipsa litera alienus: sic enim 
+      lice<lb ed="#A" n="64" break="no"/>ret dicere, ignis comburit fumo, quia signum est 
+      <lb ed="#A" n="65"/>calefactionis 
+    </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e490">
+                  <head xml:id="tavaz1-d1e237-Hd1e492">Caput 2</head>
+                  <p xml:id="tavaz1-d1e237-d1e494">
+      <!--00241.xml-->
+                     <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="66" type="fixed=233"/>CAPVT II. 
+      <lb ed="#A" n="67"/>probabilior sententiae ratione sancti Thomae. 
+      Bo<lb ed="#A" n="68" break="no"/>nauenturae, &amp; Thomistarum explicatur.
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e507">
+                     <lb ed="#A" n="69"/>COmmunis &amp; verior sententia est eorum, qui 
+      <lb ed="#A" n="70"/>Caffirmant, hanc propositionem secundum 
+      <lb ed="#A" n="71"/>proprietatem sermonis veram esse, si Spiritus san 
+      <lb ed="#A" n="72"/>ctus accipiatur pro tertia persona Trinitatis; dile 
+      <lb ed="#A" n="73"/>ctio vero seu amor pro actu voluntatis notionali 
+      <lb ed="#A" n="74"/>quo Spiritus sanctus procedit. Eam tradit sanctus 
+      <lb ed="#A" n="75"/>Doctor in hoc art. &amp; cum eo Caiet. &amp; recentiores 
+      <lb ed="#A" n="76"/>multi Thomistae, Bonauen in d. 32. art. 1. q 1. &amp; 2. 
+      Sco<lb ed="#A" n="77" break="no"/>tus q. 2. §. Ad aliam quaestionem, Capreolus q. 1.artic.i.con 
+      <lb ed="#A" n="78"/>clus.5. &amp; seq. Gabr. q. 21a. 2. conclus. i. &amp; Marsilius in 1. 
+      <lb ed="#A" n="79"/>14. 4. 4. notatione 3. concl. 1. &amp; 2. tametsi hic author e 
+      <lb ed="#A" n="80"/>35. art. 1. opinionem, quam tertio loco retulimus, 
+      <lb ed="#A" n="81"/>non leuiter insinuet. Verum non omnes eodem 
+      <lb ed="#A" n="82"/>modo hanc sententiam probant: S. Th. Caiet. &amp; 
+      <lb ed="#A" n="83"/>Capreol. dicunt, hanc denominationem esse velut 
+      <lb ed="#A" n="84"/>in ratione effectus formalis: nam agens interdum 
+      <lb ed="#A" n="85"/>a suo effectu &amp; termino actionis denominatur 
+      <lb ed="#A" n="86"/>veluti a forma: id autem magis adhuc explicat 
+      <lb ed="#A" n="87"/>S. Thomas in corpore, &amp; in solut. 2. cuius 
+      expli<lb ed="#A" n="88" break="no"/>cationem Caietanus &amp; recentiores Thomistae 
+      le<lb ed="#A" n="89" break="no"/>quuntur. hoc modo. Quoties ad conceptum 
+      actio<lb ed="#A" n="90" break="no"/>nis pertinet terminus illius determinatus &amp; 
+      par<lb ed="#A" n="91" break="no"/>ticularis, non tantum denominatur agens abp 
+      a<lb ed="#A" n="92" break="no"/>ctione, verum etiam a termino in casu effectiuo: 
+      <lb ed="#A" n="93"/>atque hac de causa dicimus, arbor floret floribus, 
+      <lb ed="#A" n="94"/>qui sunt effectus ipsius arboris. Eodem igitur 
+      mo<lb ed="#A" n="95" break="no"/>do dicimus, Pater &amp; Filius diligunt se Spiritu 
+      <lb ed="#A" n="96"/>sancto, quia est terminus determinatus &amp; 
+      parti<lb ed="#A" n="97" break="no"/>cularis, ab ipsis per dilectionem mutuam 
+      pro<lb ed="#A" n="98" break="no"/>ductus, &amp; ad conceptum ipsius productionis 
+      <lb ed="#A" n="99"/>pertinens: non tamen dicimus, Pater &amp; Filius 
+      <lb ed="#A" n="100"/>spirant se Spiritu sancto; tametsi Spiritus 
+      san<lb ed="#A" n="101" break="no"/>ctus sit terminus per spirationem productus: 
+      <lb ed="#A" n="102"/>quia, vt ait S. Th. in solutione 2. spiratio solum 
+      <lb ed="#A" n="103"/>significat ipsam emissionem: ac si diceret, non 
+      in<lb ed="#A" n="104" break="no"/>cludit in suo conceptu Spiritum sanctum, vt 
+      ter<lb ed="#A" n="105" break="no"/>minum particularem, &amp; determinate per illam 
+      <lb ed="#A" n="106"/>productum. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e592">
+                     <lb ed="#A" n="107"/>Ceterum praedictam rationem explodit Scotu 
+      <lb ed="#A" n="108"/>q. illa 2. § Aliter dicitur, Durandus, &amp; Canariensis locis 
+      <lb ed="#A" n="109"/>citatis, hoc modo. Primum, aedificare est actio 
+      <lb ed="#A" n="110"/>&amp; in suo conceptu non minus includit 
+      aedifi<lb ed="#A" n="111" break="no"/>cium, tanquam terminum suum 
+      determina<lb ed="#A" n="112" break="no"/>tum &amp; particularem, quam includit dilectio 
+      no<lb ed="#A" n="113" break="no"/>tionalis Spiritum sanctum, &amp; tamen non 
+      dici<lb ed="#A" n="114" break="no"/>tur aedificator aedificio, ergo ob eam solum 
+      cau<lb ed="#A" n="115" break="no"/>sam non dicebatur, Pater &amp; Filius diligunt se 
+      Spi<lb ed="#A" n="116" break="no"/>ritu sancto. Deinde spiratio non minus 
+      inclu<lb ed="#A" n="117" break="no"/>dit in suo conceptu Spiritum sanctum, tanquam 
+      <lb ed="#A" n="118"/>terminum particularem &amp; determinatum 
+      actio<lb ed="#A" n="119" break="no"/>nis, quam dilectio notionalis: Spiritus enim inde 
+      <lb ed="#A" n="120"/>dicitur, quia spiratur, estque determinatus &amp; 
+      <lb ed="#A" n="121"/>particularis terminus spirationis; quatenus spi 
+      <lb ed="#A" n="122"/>ratio est: &amp; tamen dici nequit, Pater &amp; Filius 
+      spi<lb ed="#A" n="123" break="no"/>rant se Spiritu sancto. Generatio quoque refertur 
+      <lb ed="#A" n="124"/>ad Filium, vt ad proprium terminum, &amp; tamen 
+      <lb ed="#A" n="125"/>non dicimus, Pater generat Filio suo aliquid 
+      <lb ed="#A" n="126"/>aliud: neque enim hae duae operationes sic 
+      signi<lb ed="#A" n="127" break="no"/>ficatae solam includunt processionem sine ordine 
+      <lb ed="#A" n="128"/>ad terminum particularem, sed etiam ipsum 
+      ter<lb ed="#A" n="129" break="no"/>minum designant, &amp; in suo conceptu includunt 
+      <lb ed="#A" n="130"/>ergo ob illam rationem non dicentur Pater &amp; 
+      Fi<lb ed="#A" n="131" break="no"/>lius diligere se Spiritu sancto.
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e649">
+      <!--00242.xml-->
+                     <pb ed="#A" n="234"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Porro exemplum S. Thomae refutant hac ra 
+      <lb ed="#A" n="2"/>tione. Verbum florere, non significat actionem 
+      <lb ed="#A" n="3"/>producendi flores, sed floridum esse: est enim ver 
+      <lb ed="#A" n="4"/>bum neutrum: ergo mirum non est, si dicamus 
+      <lb ed="#A" n="5"/>arbor floret floribus: &amp; quamuis denotet etiam 
+      <lb ed="#A" n="6"/>verbum floreo flores producere, vt quibusdam 
+      <lb ed="#A" n="7"/>placet, non tam significat ipsam actionem flores 
+      <lb ed="#A" n="8"/>producendi, quam floridum esse floribus a se pro 
+      <lb ed="#A" n="9"/>ductis: quae sane denóminatio non est agentis? 
+      <lb ed="#A" n="10"/>termino actionis, sed subiecti a forma, quam 
+      ha<lb ed="#A" n="11" break="no"/>bet taliter productam. Idem de verbo floresco, quod 
+      <lb ed="#A" n="12"/>significat floridum fio Quinimo etiamsi flores ab 
+      <lb ed="#A" n="13"/>arbore producti non essent, dici posset arbor illis 
+      <lb ed="#A" n="14"/>florere, veluti ad Heb. 9. virga Aaron dicitur fron 
+      <lb ed="#A" n="15"/>duisse frondibus, non a se sed virtute Dei produ 
+      <lb ed="#A" n="16"/>ctis. Videtur sane eandem significationem habere 
+      <lb ed="#A" n="17"/>verbum floreo, atque verbum niteo: quare sicut dici 
+      <lb ed="#A" n="18"/>tur aliquis nitere auro, gemmis, &amp; margaritis, v 
+      <lb ed="#A" n="19"/>in hymno dedicationis canit Ecclesia, portae niten 
+      <lb ed="#A" n="20"/>margaritis, quae tamen non sunt ab ipso productae 
+      <lb ed="#A" n="21"/>sic arbor diceretur florere floribus non a se pro 
+      <lb ed="#A" n="22"/>ductis. Quodsi verbum aliquod significatet actio 
+      <lb ed="#A" n="23"/>nem producendi ipsos flores, vt si fingamus ver 
+      <lb ed="#A" n="24"/>bum florico, certe non diceretur arbor floricare flo 
+      <lb ed="#A" n="25"/>ribus. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e713">
+                     <lb ed="#A" n="26"/>At Caietanus, vt defendat rationem Doctoris 
+      <lb ed="#A" n="27"/>sancti, solita subtilitate notat, bifariam actionem 
+      <lb ed="#A" n="28"/>includere in suo conceptu terminum productum 
+      <lb ed="#A" n="29"/>vno modo, vt particulariter determinantem 
+      qua<lb ed="#A" n="30" break="no"/>litatem actionis, &amp; hoc pacto dealbatio includi 
+      <lb ed="#A" n="31"/>albedinem, &amp; calefactio calorem; est enim deal 
+      <lb ed="#A" n="32"/>bare, aut calefacere, ac si dicamus, facere album 
+      <lb ed="#A" n="33"/>&amp; calidum, quod est determinate significare qua 
+      <lb ed="#A" n="34"/>litatem actionis, altero modo actio includit ter 
+      <lb ed="#A" n="35"/>isuum in suo conceptu quasi coniunctum 
+      actio<lb ed="#A" n="36" break="no"/>ni, vt productum suo producenti; &amp; hac ratione 
+      <lb ed="#A" n="37"/>dilectio notionalis includit in suo conceptu Spi 
+      <lb ed="#A" n="38"/>ritum sanctum, &amp; dictio, seu prolatio includit ver 
+      <lb ed="#A" n="39"/>bum; dictio enim est verbi prolatio. Hoc 
+      poste<lb ed="#A" n="40" break="no"/>riori modo (inquit Caiet.)intelligendus est S. Th 
+      <lb ed="#A" n="41"/>loquitur enim de actionibus, quae posteriori illo 
+      <lb ed="#A" n="42"/>modo includunt terminum in suo conceptu; illa 
+      <lb ed="#A" n="43"/>autem sunt, quae postulant alium accusatiuum 
+      <lb ed="#A" n="44"/>praeter terminum; huiusmodi est dictio, hac enim 
+      <lb ed="#A" n="45"/>non tantum dicimus verbum, sed etiam historiam 
+      <lb ed="#A" n="46"/>verbo expressam, quam non respicit sicuti rem 
+      <lb ed="#A" n="47"/>productam. Talis est dilectio notionalis, quae non 
+      <lb ed="#A" n="48"/>tantum respicit Spiritum sanctum vt terminum 
+      <lb ed="#A" n="49"/>productum in casu accusandi, sed etiam rem aliam 
+      <lb ed="#A" n="50"/>vt dilectam. In his igitur actionibus recte deno 
+      <lb ed="#A" n="51"/>minatur agens a termino producto in casu effe 
+      <lb ed="#A" n="52"/>ctiuo, &amp; ideo dicere possumus, Pater &amp; Filius di 
+      <lb ed="#A" n="53"/>ligunt se Spiritu sancto, &amp; Pater dicit verbo suo 
+      <lb ed="#A" n="54"/>quaecúnque intelligit; contra vero spiratio, &amp; ge 
+      <lb ed="#A" n="55"/>neratio priori illo modo solum includunt termi 
+      <lb ed="#A" n="56"/>num in suo conceptu, &amp; ideo agens non 
+      denomi<lb ed="#A" n="57" break="no"/>natur a termino in casu effectiuo. Hanc doctri 
+      <lb ed="#A" n="58"/>nam, &amp; explicationem mentis S. Th. desumpsisse 
+      <lb ed="#A" n="59"/>videtur Caiet. ex Capreolo in 1. dist. 32. quaest. 3. artic. 1. 
+      <lb ed="#A" n="60"/>ad I.tertio loco adductum, &amp; ad secundum etiam 
+      <lb ed="#A" n="61"/>argumentum. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e794">
+                     <lb ed="#A" n="62"/>Nonnulli hanc Calet. distinctionem refellunt 
+      <lb ed="#A" n="63"/>quia non magis includitur in conceptu dictionis 
+      <lb ed="#A" n="64"/>verbum productum tanquam productum 
+      con<lb ed="#A" n="65" break="no"/>iunctum producenti, quam Spiritus in conceptu 
+      <lb ed="#A" n="66"/>spirationis: omnis enim actio siue in genere, siue 
+      <lb ed="#A" n="67"/>in specie considerata, ordinem habet ad suum ter 
+      <lb ed="#A" n="68"/>minum tanquam ad productum coniunctum 
+      <!--00242.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>producenti. id quod praesettim verum est in 
+      gene<lb ed="#A" n="70" break="no"/>ratione, haec enim ita intrinsecum ordinem habet 
+      <lb ed="#A" n="71"/>ad Filium genitum, sicut dictio ad verbum; &amp; 
+      ta<lb ed="#A" n="72" break="no"/>men non dicimus, pater generat Filio aliquid aliud. 
+      <lb ed="#A" n="73"/>Denique verbum diligere non significat actionem, 
+      <lb ed="#A" n="74"/>quae postulat duplicem casum accusandi, non 
+      e<lb ed="#A" n="75" break="no"/>nim dicimus, saltem in creaturis, homo diligit 
+      <lb ed="#A" n="76"/>amorem suum, &amp; amicum; &amp; tamen dicimus 
+      <lb ed="#A" n="77"/>homo diligit amicum amore suo; ergo male 
+      Caie<lb ed="#A" n="78" break="no"/>tanus discrimen constituit inter illa duo genera 
+      <lb ed="#A" n="79"/>actionum, 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e840">
+                     <lb ed="#A" n="80"/>Alij vero propositionem illam hac ratione 
+      ex<lb ed="#A" n="81" break="no"/>plicant, concedunt quidem omnem actionem 
+      or<lb ed="#A" n="82" break="no"/>dinem habere ad suum terminum determinatum 
+      <lb ed="#A" n="83"/>&amp; particularem, ihiloninus agens non de nomi 
+      <lb ed="#A" n="84"/>nari in casu effectiuo a termino cuiusuis actionis 
+      <lb ed="#A" n="85"/>sed id folum accidere in actionibus 
+      immanenti<lb ed="#A" n="86" break="no"/>bus, quarum terminus, sicut manet natura sua in 
+      <lb ed="#A" n="87"/>agente, natus est denominare agens per modum 
+      <lb ed="#A" n="88"/>formae, ideo dicimus, Pater &amp; Filius diligunt se 
+      <lb ed="#A" n="89"/>Spiritu sancto, quia dilectio est actio immanens, 
+      <lb ed="#A" n="90"/>&amp; ideo terminus illius, qui est Spiritus sanctus, 
+      de<lb ed="#A" n="91" break="no"/>nominat ipsum operans per modum formae in 
+      <lb ed="#A" n="92"/>casu e ffectiuo, at vero in actionibus transeuntibus, 
+      <lb ed="#A" n="93"/>vel quae significantur vt transeuntes, talem deno 
+      <lb ed="#A" n="94"/>minationem non fieri; &amp; quia generatio, &amp; spira 
+      <lb ed="#A" n="95"/>tio significantur vt actiones transeuntes, licet 
+      re<lb ed="#A" n="96" break="no"/>uera in Deo sint immanentes; idcirco dicunt a 
+      ter<lb ed="#A" n="97" break="no"/>minis earum non denominari in effectiuo 
+      prin<lb ed="#A" n="98" break="no"/>cipium operans, &amp; proinde non posse dici, rater 
+      <lb ed="#A" n="99"/>generat Filio, vel spiritu sancto. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e886">
+                     <lb ed="#A" n="100"/>Ego sane non dubito in aliquibus immanenti 
+      <lb ed="#A" n="101"/>bus actionibus talem determinationem a 
+      termi<lb ed="#A" n="102" break="no"/>no fieri, non tamen ea ratione, idem enim accidit 
+      <lb ed="#A" n="103"/>in aliquibus quoque transeuntibus, vt cum dici 
+      <lb ed="#A" n="104"/>mus, ignis calefacit lignum, aut comburit calore 
+      <lb ed="#A" n="105"/>tum etiam in omnibus immanentibus talis deno 
+      <lb ed="#A" n="106"/>minatio non contingit. nam spiratio, &amp; generatio 
+      <lb ed="#A" n="107"/>in Deo sunt immanentes, &amp; tamen in illis non fit 
+      <lb ed="#A" n="108"/>talis denominatio. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e908">
+                     <lb ed="#A" n="109"/>At dicunt praedicti Theologi, has actiones in 
+      <lb ed="#A" n="110"/>Deo esse quidem immanentes, significari tamen 
+      <lb ed="#A" n="111"/>vt transeuntes, non alia ratione, hisi quia in rebus 
+      <lb ed="#A" n="112"/>creatis sunt transeuntes, quae eisdem nominibus 
+      <lb ed="#A" n="113"/>significantur; quod certe negare non possumus. 
+      <lb ed="#A" n="114"/>Ceterum cum in diuinis concipiantur a nobis vt 
+      <lb ed="#A" n="115"/>immanentes, id satis videbatur, vt addito 
+      termi<lb ed="#A" n="116" break="no"/>no diuino fieret praedicta denominatio. Quod si 
+      <lb ed="#A" n="117"/>id non satis videatur eo quod nomina communia 
+      <lb ed="#A" n="118"/>sint transeuntibus, &amp; immanentibus 
+      operationi<lb ed="#A" n="119" break="no"/>bus; saltem vt fiat talis denominatio, necesse est, 
+      <lb ed="#A" n="120"/>non solum actionem ipsam significari vt 
+      imma<lb ed="#A" n="121" break="no"/>nentem, sed etiam terminum ipsum; imo 
+      termi<lb ed="#A" n="122" break="no"/>nus potissime debet significari vt immanens, quia 
+      <lb ed="#A" n="123"/>concipitur veluti forma denominans, atqui in ea 
+      <lb ed="#A" n="124"/>propositione, pater &amp; Filius diligunt se Spiritu sancto, 
+      <lb ed="#A" n="125"/>non significatur vt terminus immanens, sicut 
+      e<lb ed="#A" n="126" break="no"/>nim nomine spiratio significatur operatio 
+      volun<lb ed="#A" n="127" break="no"/>tatis Dei vt transiens; eodem modo nomine 
+      spi<lb ed="#A" n="128" break="no"/>ritus terminus ipse, qui est amor productus, 
+      <lb ed="#A" n="129"/>nificatur, ergo quamuis dicere possemus, P 
+      <lb ed="#A" n="130"/>ter, &amp; filius diligunt se amore producto ab vtroque, 
+      <lb ed="#A" n="131"/>non tamen, pater &amp; filius diligunt se Spiritu sancto 
+      <lb ed="#A" n="132"/>Nam Spiritus sanctus significatur, vt quid extra 
+      <lb ed="#A" n="133"/>productum, &amp; ita non vt forma intrinsece 
+      deno<lb ed="#A" n="134" break="no"/>minans. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e967">
+                     <lb ed="#A" n="135"/>Respondere quis posset hoc modo, etiam si 
+      <lb ed="#A" n="136"/>spiritus significetur vt terminus extra productus; 
+      <!--00243.xml-->
+      <pb ed="#A" n="235"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>quia tamen coniungitur verbo, diligunt, quod si 
+      <lb ed="#A" n="2"/>gnificat immanentem actionem, ideo determina 
+      <lb ed="#A" n="3"/>tur &amp; restringitur, vt veluti immanens forma 
+      <lb ed="#A" n="4"/>concipiatur. Verum, si hoc satis esset, cur non 
+      et<lb ed="#A" n="5" break="no"/>iam sufficeret addere terminum aliquem 
+      diuinum<lb ed="#A" n="6" break="no"/>vt iam operatio spirandi vt immanens concipere 
+      <lb ed="#A" n="7"/>tur cum suo termino? Vel saltem cur non 
+      suffice<lb ed="#A" n="8" break="no"/>ret ex parte termini ponere nomen significan 
+      <lb ed="#A" n="9"/>aliquid immanens, etiamsi verbum denotaret o 
+      <lb ed="#A" n="10"/>perationem transeuntem, vt talis fieri posset 
+      deno<lb ed="#A" n="11" break="no"/>minatio hoc modo, Pater &amp; verbum spirant seipsos 
+      <lb ed="#A" n="12"/>amore suo? Cum enim denominatio non sit ab 
+      o<lb ed="#A" n="13" break="no"/>peratione, sed a termino, &amp; hic significetur 
+      ter<lb ed="#A" n="14" break="no"/>minus vt manens in producente, id videtur satis, 
+      <lb ed="#A" n="15"/>vt ab eo denominatio illa in casu effectiuo proue 
+      <lb ed="#A" n="16"/>niat, &amp; significationem verbi modificetur, vt 
+      de<lb ed="#A" n="17" break="no"/>notet immanentem: sed nemo dicere audebit, Pa 
+      <lb ed="#A" n="18"/>ter &amp; filius spirant se amore suo: ergo alia ratio redden 
+      <lb ed="#A" n="19"/>da est. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1023">
+                     <lb ed="#A" n="20"/>Horum quoque sententia accedit ad modum 
+      <lb ed="#A" n="21"/>loquendi, quem aliquando secutus Aug. dixit 
+      <lb ed="#A" n="22"/>pater est sapiens sapientia genita; postea tamen 
+      retra<lb ed="#A" n="23" break="no"/>ctauit, vt videbimus cap. 6. siquidem hi Doctores 
+      <lb ed="#A" n="24"/>concedunt, cum dicimus, pater dicit verbo, vel 
+      <lb ed="#A" n="25"/>pater &amp; filius diligunt se Spiritu sancto, 
+      denomi<lb ed="#A" n="26" break="no"/>nationem illam a termino actionis prouenire, 
+      ve<lb ed="#A" n="27" break="no"/>luti a forma: sic enim etiam dicere liceret, Pater 
+      <lb ed="#A" n="28"/>es sapiens sapientia genita, haec enim est veluti 
+      for<lb ed="#A" n="29" break="no"/>malis denominatio. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e1049">
+                  <head xml:id="tavaz1-d1e237-Hd1e1051">Caput 3</head>
+                  <p xml:id="tavaz1-d1e237-d1e1053">
+                     <lb ed="#A" n="30" type="fixed=235"/>CAPVT III. 
+      <lb ed="#A" n="31"/>Vera ratio praedictae sententiae. 
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1060">
+                     <lb ed="#A" n="32"/>MVlto facilior ratio praedictae sententiae &amp; 
+      <lb ed="#A" n="33"/>Ipropositionis reddi potest, quae non tantum 
+      <lb ed="#A" n="34"/>in praesenti, sed in ceteris locum etiam habere 
+      po<lb ed="#A" n="35" break="no"/>test. Eius autem gratia praemittendum est duo esse 
+      <lb ed="#A" n="36"/>genera actionum &amp; operationum, sine in genere 
+      <lb ed="#A" n="37"/>siue in specie denotentur: quaedam significantu 
+      <lb ed="#A" n="38"/>sub respectu solum ad terminum, quem produ 
+      <lb ed="#A" n="39"/>cunt, vt generare, spirare, producere &amp; efficere 
+      <lb ed="#A" n="40"/>aliae vero cum duplici ordine, altero ad terminum 
+      <lb ed="#A" n="41"/>productum, altero ad rem aliam, non quidem pro 
+      <lb ed="#A" n="42"/>ductam, sed aut per modum obiecti, aut per 
+      mo<lb ed="#A" n="43" break="no"/>dum subiecti se habentem. Harum vero quaedam 
+      <lb ed="#A" n="44"/>sunt transeuntes, vt calefactio, transmutatio: quae 
+      <lb ed="#A" n="45"/>dam immanentes &amp; vitales operationes, vt dictio, 
+      <lb ed="#A" n="46"/>dilectio, intellectio. In actionibus prioris generis 
+      <lb ed="#A" n="47"/>non fit denominatio a termino producto in casu 
+      <lb ed="#A" n="48"/>effectiuo, &amp; ideo non dicimus, pater generat filio 
+      <lb ed="#A" n="49"/>se, aut aliquid aliud, nec spirat Spiritu sancto. Ra 
+      <lb ed="#A" n="50"/>tio vero est manifesta, nam si in his operationibus 
+      <lb ed="#A" n="51"/>fieret denominatio huiusmodi, necesse erat, eas 
+      <lb ed="#A" n="52"/>significari sub ordine ad aliquid aliud, quam ad 
+      <lb ed="#A" n="53"/>terminum: nam cum dicimus, pater generat filio 
+      <lb ed="#A" n="54"/>significamus generationem ad aliquid aliud 
+      ordi<lb ed="#A" n="55" break="no"/>nari: sensus enim est, Pater generat filio se, aut aliquid 
+      <lb ed="#A" n="56"/>aliud. Quod si hae actiones &amp; operationes nihil 
+      a<lb ed="#A" n="57" break="no"/>liud praeter terminum suum respiciunt, non 
+      po<lb ed="#A" n="58" break="no"/>test operans in casu effectiuo a termino 
+      produ<lb ed="#A" n="59" break="no"/>cto denominari, cum nihil supersit, quod operans 
+      <lb ed="#A" n="60"/>denominatione illa respiciat. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1125">
+                     <lb ed="#A" n="61"/>Contra vero in operationibus posterioris 
+      ge<lb ed="#A" n="62" break="no"/>neris, cum alter respectus significetur vel ad 
+      sub<lb ed="#A" n="63" break="no"/>iectum, vel ad obiectum, cum quibus verbum 
+      ha<lb ed="#A" n="64" break="no"/>actiones significans construitur in casu accusandi. 
+      <lb ed="#A" n="65"/>optime fieri potest denominatio a termino pro 
+      <lb ed="#A" n="66"/>ducto, in casu effectiuo; atque idcirco recte dici¬ 
+      <!--00243.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>mus. ignis comburit, aut calefacit calore, non tan 
+      <lb ed="#A" n="68"/>tum calore, quem in se habet: sed etiam eo, quem 
+      <lb ed="#A" n="69"/>in subiecto producit: dicimur etiam dealbare pa 
+      <lb ed="#A" n="70"/>rietem albedine in ipso producta. Hae namque 
+      <lb ed="#A" n="71"/>actiones non solum significantur sub respectu ad 
+      <lb ed="#A" n="72"/>terminum productum, sed etiam sub respectu ad 
+      <lb ed="#A" n="73"/>subiectum, in quo inducunt terminum productum 
+      <lb ed="#A" n="74"/>veluti formam illius. Idem contingit in actionibus, 
+      <lb ed="#A" n="75"/>quae significantur cum ordine ad obiectum, qua 
+      <lb ed="#A" n="76"/>de causa dicimus, pater intelligit, seu dicit verbo 
+      <lb ed="#A" n="77"/>suo, quia intellectio patris, quae notionalis est, 
+      <lb ed="#A" n="78"/>praeter respectum ad filium tanquam ad verbum, 
+      <lb ed="#A" n="79"/>significatur cum ordine etiam ad obiecta dicta &amp; 
+      <lb ed="#A" n="80"/>intellecta: ergo cum eadem operatio &amp; productio 
+      <lb ed="#A" n="81"/>filij Dei per intellectum diuersis vocibus 
+      signifi<lb ed="#A" n="82" break="no"/>cetur, mirum non est, si aliquando fiat illa 
+      denomina<lb ed="#A" n="83" break="no"/>tio a termino, aliquando vero non fiat: cum 
+      di<lb ed="#A" n="84" break="no"/>uerso modo eadem operatio significetur. 
+      Quocir<lb ed="#A" n="85" break="no"/>ca licet non dicamus, Pater generat aliquid aliud 
+      fi<lb ed="#A" n="86" break="no"/>lio, dicimus tamen, Pater intelligit &amp; dicit aliquid 
+      a<lb ed="#A" n="87" break="no"/>liud filio. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1190">
+                     <lb ed="#A" n="88"/>Hinc manifeste patet, quare recte dicamus, 
+      <lb ed="#A" n="89"/>Pater &amp; filius diligunt se spiritu sancto; cum tamen dici 
+      <lb ed="#A" n="90"/>nequeat, Pater &amp; filius spirant se spiritu sancto. Eadem 
+      <lb ed="#A" n="91"/>enim operatio diuinae voluntatis priori modo prae 
+      <lb ed="#A" n="92"/>ter respectum ad terminum productum 
+      significa<lb ed="#A" n="93" break="no"/>tur cum ordine etiam ad obiecta; pater autem &amp; 
+      <lb ed="#A" n="94"/>filius sunt obiecta diuini amoris: posteriori autem 
+      <lb ed="#A" n="95"/>modo significatur cum solo ordine ad terminum 
+      <lb ed="#A" n="96"/>productum. Concludamus igitur cum Scoto loco 
+      <lb ed="#A" n="97"/>citato, ex quo haec ratio manifeste colligitur, quem 
+      <lb ed="#A" n="98"/>admodum in Deo dilectio ordinem habet non 
+      <lb ed="#A" n="99"/>tantum ad terminum productum, sed etiam ad rem 
+      <lb ed="#A" n="100"/>amatam; &amp; dictio aut intellectio etiam ad rem 
+      di<lb ed="#A" n="101" break="no"/>ctam seu intellectam; eodem modo amor ipse pro 
+      <lb ed="#A" n="102"/>ductus per dilectionem respicit rem dilectam, &amp; 
+      <lb ed="#A" n="103"/>verbum rem dictam: ideoque denominant agen 
+      <lb ed="#A" n="104"/>tia in casu effectiuo per respectum ad rem 
+      intel<lb ed="#A" n="105" break="no"/>lectam vel amatam. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e1233">
+                  <head xml:id="tavaz1-d1e237-Hd1e1235">Caput 4</head>
+                  <p xml:id="tavaz1-d1e237-d1e1237">
+                     <lb ed="#A" n="106" type="fixed=235"/>CAPVT IV. 
+      <lb ed="#A" n="107"/>Soluuntur quadam oppositiones.
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1244">
+                     <lb ed="#A" n="108"/>HAnc communem sententiam impugnat Dur. 
+      <lb ed="#A" n="109"/>Lin 1. d. 32. q.1. nu. 10. nititurque probare, non 
+      <lb ed="#A" n="110"/>posse ueram esse illam propositionem, Pater, &amp; 
+      Fi<lb ed="#A" n="111" break="no"/>lius diligunt se Spiritu sancto, hac ratione. Vel 
+      intelli<lb ed="#A" n="112" break="no"/>gitur de notionali, vel de essentiali dilectione: 
+      <lb ed="#A" n="113"/>de essentiali vera esse nequit, nam sicut haec 
+      dile<lb ed="#A" n="114" break="no"/>ctio non habet ordinem ad Spiritum sanctum, sic 
+      <lb ed="#A" n="115"/>etiam de ipsa non potest dici, Pater &amp; Filius diligunt 
+      <lb ed="#A" n="116"/>se Spiritu sancto; id quod sine controuersia omnes 
+      <lb ed="#A" n="117"/>fatentur: sed neque vera esse potest, si de notional 
+      <lb ed="#A" n="118"/>dilectione intelligatur; quia nihil notionale 
+      inclu<lb ed="#A" n="119" break="no"/>dit illud, quod commune est omni personae: atqui 
+      <lb ed="#A" n="120"/>habere respectum rationis ad aliquem vt dilectum, 
+      <lb ed="#A" n="121"/>est commune cuiuis personae; omnis enim persona 
+      <lb ed="#A" n="122"/>diligit aliam personam, ceteraque creata: ergo talis 
+      <lb ed="#A" n="123"/>respectus non potest includi in actu notionali: quo 
+      <lb ed="#A" n="124"/>fit vt illa propositio ratione talis respectus vera 
+      <lb ed="#A" n="125"/>esse non possit. Deinde licet talis respectus 
+      ratio<lb ed="#A" n="126" break="no"/>nis includeretur in actu notionali: quia tamen a 
+      <lb ed="#A" n="127"/>ctus notionalis esse nequit, neque intelligi sine 
+      <lb ed="#A" n="128"/>respectu ad rem productam, sequitur non posse 
+      <lb ed="#A" n="129"/>respicere aliud, quam rem productam: pater 
+      au<lb ed="#A" n="130" break="no"/>tem &amp; filius non producuntur dilectione; ergo 
+      <lb ed="#A" n="131"/>dilectio notionalis in illos ferri non potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1299">
+                     <lb ed="#A" n="132"/>Haec Durandi argumenta falso nituuntur fun¬ 
+      <!--00244.xml-->
+      <pb ed="#A" n="236"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>damento a nobis iam confutato disp. 111. c. 2. 
+      ni<lb ed="#A" n="2" break="no"/>mirum actus notionales non esse operationes 
+      in<lb ed="#A" n="3" break="no"/>tellectus, &amp; voluntatis: sic enim manifeste seque 
+      <lb ed="#A" n="4"/>retur, nullum in illis includi respectum ad 
+      ali<lb ed="#A" n="5" break="no"/>quid aliud, quam ad personam productam. Idem 
+      <lb ed="#A" n="6"/>omnino sequeretur, si vera esset aliorum senten 
+      <lb ed="#A" n="7"/>tia, quam disputat. 112. etiam impugnauimus, qui 
+      <lb ed="#A" n="8"/>quamuis dicant actus notionales esse operatio 
+      <lb ed="#A" n="9"/>nes voluntatis, &amp; intellectus, addunt tamen, illas 
+      <lb ed="#A" n="10"/>non esse intelligere, &amp; diligere formaliter, ne has 
+      <lb ed="#A" n="11"/>operationes in notionalibus includi. Sed quia, vt 
+      <lb ed="#A" n="12"/>ibidem explicatum est, intellectio in dictione, &amp; 
+      <lb ed="#A" n="13"/>dilectio in spiratione formaliter includitur, addi 
+      <lb ed="#A" n="14"/>ta tamen relatione productionis; necessario fit, vi 
+      <lb ed="#A" n="15"/>actus notionalis ratione essentialis, quem 
+      inclu<lb ed="#A" n="16" break="no"/>dit in se, &amp; quem relatione sua modo peculiari 
+      <lb ed="#A" n="17"/>determinat, &amp; modificatur, in res alias, quam in 
+      <lb ed="#A" n="18"/>terminum productum feratur. Vnde etiam 
+      pro<lb ed="#A" n="19" break="no"/>uenit, vt actus notionalis ratione essentialis, quem 
+      <lb ed="#A" n="20"/>continet, super ipsum principium reflecti possit. 
+      <lb ed="#A" n="21"/>Sed quia, cum additur terminus in casu effectiuo 
+      <lb ed="#A" n="22"/>denotatur actio notionalis peculiari illo modo 
+      <lb ed="#A" n="23"/>modificans essentialem, non potest cuiuis personae 
+      <lb ed="#A" n="24"/>conuenire, sed illi tantum, quae est principium 
+      il<lb ed="#A" n="25" break="no"/>lius; ideo non dicemus, Spiritus sauctus diligit 
+      <lb ed="#A" n="26"/>se seipso; sicut dicimus, pater, &amp; filius diligunt se 
+      <lb ed="#A" n="27"/>Spiritu sancto. Haec doctrina colligi videtur ex 
+      <lb ed="#A" n="28"/>Bona. in 3. dist. 32. a. 1.q. 1. ad penult argum. ex qua ple 
+      <lb ed="#A" n="29"/>ne satisfit argumentis Durandi. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1373">
+                     <lb ed="#A" n="30"/>Alij vero sic obiiciunt, quamuis actus 
+      notio<lb ed="#A" n="31" break="no"/>nalis dicendi significatus hac voce, dictio, 
+      ordi<lb ed="#A" n="32" break="no"/>nem habeat ad res dictas medio verbratamen 
+      di<lb ed="#A" n="33" break="no"/>lectio notionalis proxime respicit fes dilectas, 
+      <lb ed="#A" n="34"/>non medio amore producto: quin potius prius 
+      <lb ed="#A" n="35"/>origine dilectione notionali, vt origine &amp; 
+      opera<lb ed="#A" n="36" break="no"/>tione, diliguntur res a Patre. &amp; Filio, quam Spiri 
+      <lb ed="#A" n="37"/>tus sanctus producatur. Ego vero hanc 
+      differen<lb ed="#A" n="38" break="no"/>tiam inter dilectionem. &amp; dictionem intelligere 
+      <lb ed="#A" n="39"/>nequeo: sicut enim dictio non prius fertur in res 
+      <lb ed="#A" n="40"/>dictas, quam in verbum, sed simul producit ver 
+      <lb ed="#A" n="41"/>bum dicendo illud, &amp; in eo vt in termino actio 
+      <lb ed="#A" n="42"/>nis dicendo cetera simul, quae ad illius 
+      produ<lb ed="#A" n="43" break="no"/>ctionem per se conducunt: cur non idem de 
+      dile<lb ed="#A" n="44" break="no"/>ctione dicendum est, vt eadem simul dilectione 
+      <lb ed="#A" n="45"/>producatur spiritus, neque prius intelligatur pro 
+      <lb ed="#A" n="46"/>ductio Spiritus sancti terminata ad res alias dile 
+      <lb ed="#A" n="47"/>ctas, quam ad ipsum Spiritum sanctum, qui simul 
+      <lb ed="#A" n="48"/>est res dilecta &amp; producta? Simul igitur Pater &amp; 
+      <lb ed="#A" n="49"/>Filius diligendo Spiritum sanctum producunt, &amp; 
+      <lb ed="#A" n="50"/>producendo diligunt ipsum, &amp; in eo, vt in 
+      termi<lb ed="#A" n="51" break="no"/>no suae dilectionis, res alias, quae cum illius pro 
+      <lb ed="#A" n="52"/>ductione per se comparantur. Et hac ratione in 
+      <lb ed="#A" n="53"/>casu effectiuo fit illa denominatio: quia in 
+      termi<lb ed="#A" n="54" break="no"/>no producto includitur etiam ille spectus ad res 
+      <lb ed="#A" n="55"/>alias dilectas, vt supra explicatum est. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e1433">
+                  <head xml:id="tavaz1-d1e237-Hd1e1435">Caput 5</head>
+                  <p xml:id="tavaz1-d1e237-d1e1437">
+                     <lb ed="#A" n="56" type="fixed=236"/>CAPVT V. 
+      <lb ed="#A" n="57"/>Qua ratione dici possit, Spiritus sanctus 
+      <lb ed="#A" n="58"/>diligit se, se ipso 
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1446">
+                     <lb ed="#A" n="59"/>NOnnulli Thomistae noluerunt concedere 
+      <lb ed="#A" n="60"/>Vhanc propositionem, Spiritus sanctus diligit se 
+      <lb ed="#A" n="61"/>seipso, tum quia denominatio illa in casu effectiuo 
+      <lb ed="#A" n="62"/>tribui non potest Spiritui sancto tanquam 
+      termi<lb ed="#A" n="63" break="no"/>no producto per operationem, neque enim a 
+      se<lb ed="#A" n="64" break="no"/>ipso productus est; neque tanquam principio, 
+      <lb ed="#A" n="65"/>quia principium dilectionis in Spiritu sancto est 
+      <lb ed="#A" n="66"/>sua essentia, seu voluntas: ergo, quamuis dicere 
+      <!--00244.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>possemus, diligit se sua essentia, aut sua voluntate: 
+      <lb ed="#A" n="68"/>tamen dici non potest, diligit se seipso. Placet 
+      ni<lb ed="#A" n="69" break="no"/>hilominus doctrina S. Tho. in 1. d. qu. 1. a. 2. ad. vlt. &amp; 
+      <lb ed="#A" n="70"/>Marsilij in 1. qu. 35. a. proposit. 4. post conclusionem 
+      <lb ed="#A" n="71"/>respondentem quaestioni, qui putant 
+      distinguen<lb ed="#A" n="72" break="no"/>dum esse. Aut enim sermo est de notionali 
+      dile<lb ed="#A" n="73" break="no"/>ctione, &amp; propositio negari debet, quia haec 
+      dile<lb ed="#A" n="74" break="no"/>ctio non conuenit Spiritui sancto, vt omnibus 
+      <lb ed="#A" n="75"/>compertum est: aut sermo est de essentiali, &amp; 
+      con<lb ed="#A" n="76" break="no"/>cedenda est: tunc autem casus effectiuus, seipso, 
+      <lb ed="#A" n="77"/>non denotat principium quo, quale est essentia, 
+      <lb ed="#A" n="78"/>seu voluntas? sed principium, quod, nimirum 
+      per<lb ed="#A" n="79" break="no"/>sonam: sic enim dicere consueuimus, Petrus 
+      in<lb ed="#A" n="80" break="no"/>telligit aut fecit hoc vel illud seipso¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1501">
+                     <lb ed="#A" n="81"/>Addit deinde S. Tho. si ab actu dilectionis 
+      no<lb ed="#A" n="82" break="no"/>tionalis separaremus ordinem &amp; relationem 
+      ori<lb ed="#A" n="83" break="no"/>ginis, ita vt sola remaneat dilectio secundum 
+      ra<lb ed="#A" n="84" break="no"/>tionem dilectionis, dici optime posse, Spiritum 
+      <lb ed="#A" n="85"/>sanctum se diligere dilectione non tantum 
+      essen<lb ed="#A" n="86" break="no"/>tiali, sed etiam personali. Ego vero non video, 
+      <lb ed="#A" n="87"/>quo pacto ablata relatione originis manere posset 
+      <lb ed="#A" n="88"/>dilectio, quae non esset essentialis, quae quamuis 
+      <lb ed="#A" n="89"/>personae Spiritus sancti conueniret, communis 
+      <lb ed="#A" n="90"/>nihilominus omnibus esset. Quod Spiritus 
+      san<lb ed="#A" n="91" break="no"/>ctus peculiari ratione dicitur amor, hoc solum 
+      <lb ed="#A" n="92"/>contingit ratione relationis amoris producti: 
+      <lb ed="#A" n="93"/>cumque verbum, diligere, ex se potius significet 
+      <lb ed="#A" n="94"/>operationem voluntatis communem, &amp; commu 
+      <lb ed="#A" n="95"/>niter non vsurpetur pro notionali nisi aliquid 
+      ad<lb ed="#A" n="96" break="no"/>datur, absque vlla distinctione dici potest, Spiri 
+      <lb ed="#A" n="97"/>tus sanctus diligit se ipso. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e1541">
+                  <head xml:id="tavaz1-d1e237-Hd1e1543">Caput 6</head>
+                  <p xml:id="tavaz1-d1e237-d1e1545">
+                     <lb ed="#A" n="98" type="fixed=236"/>CARVT <sic>IV</sic>. 
+      <lb ed="#A" n="99"/>An recte dici possit, Pater est sapiens, vel sapit 
+      <lb ed="#A" n="100"/>sapientia genita. 
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1556">
+                     <lb ed="#A" n="101"/>EXistimauit aliquando Augustinus hanc 
+      pro<lb ed="#A" n="102" break="no"/>positionem veram esse; pater est sapiens 
+      sapien<lb ed="#A" n="103" break="no"/>tia genita, hoc est, filio. Ita docuit libro 83. 
+      quaestio<lb ed="#A" n="104" break="no"/>num q. 23. sed postea melius sentiens sententiam 
+      <lb ed="#A" n="105"/>mutauit 1. libr. retract. cap. 20. &amp; aliis locis a 
+      no<lb ed="#A" n="106" break="no"/>bis allegatis disp. 142. cap. 1. Eius retractationem 
+      <lb ed="#A" n="107"/>merito amplectuntur Scholastici S. Tho. in 1. d. 32 
+      <lb ed="#A" n="108"/>quaest. 2. art. 1. Bonau. art. 2. qu. 1. Scotus qu. 2. §. Ac 
+      <lb ed="#A" n="109"/>secundam quaestionum, Capreolus qu. 1.art. 2. Gabriel q. 1. 
+      <lb ed="#A" n="110"/>qui omnes cum concedant illam propositionem, 
+      <lb ed="#A" n="111"/>de qua hactenus disputatum est, pater diuit se, &amp; 
+      <lb ed="#A" n="112"/>creaturas verbo suo, hanc tamen, pater est sapiens 
+      sa<lb ed="#A" n="113" break="no"/>pientia genita; omnino negant. Eorum ratio est, 
+      <lb ed="#A" n="114"/>quia cum, dicere, significet productionem; &amp; 
+      sa<lb ed="#A" n="115" break="no"/>pientia genita, seu verbum sit terminus illius; 
+      pa<lb ed="#A" n="116" break="no"/>ter, qui est principium huius dictionis, &amp; verbi 
+      <lb ed="#A" n="117"/>recte potest denominari a verbo in casu 
+      effecti<lb ed="#A" n="118" break="no"/>uo, iuxta ea, quae paulo ante tradita sunt: at vero 
+      <lb ed="#A" n="119"/>cum dicimus, esse sapientem, non significamus 
+      <lb ed="#A" n="120"/>actionem, sed effectum formalem sapientiae: 
+      <lb ed="#A" n="121"/>quare cum Deus Pater sit sapiens sua essentia, 
+      <lb ed="#A" n="122"/>non autem filio tanquam formas dici non potest, 
+      <lb ed="#A" n="123"/>pater est sapiens sapientia genita. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1608">
+                     <lb ed="#A" n="124"/>Ceterum an dici possit, Pater sapit sapientia genita, 
+      <lb ed="#A" n="125"/>videtur eadem ratio: nam verbum, sapit, non 
+      effe<lb ed="#A" n="126" break="no"/>ctum formalem, sed operationem significat. 
+      Ni<lb ed="#A" n="127" break="no"/>hilominus Scotus loco citato, &amp; Gab. quaest. illa 
+      <lb ed="#A" n="128"/>prima a. 3. in fine negant hanc propositionem; quia 
+      <lb ed="#A" n="129"/>sapere, sicut etiam intelligere, sumitur 
+      essentiali<lb ed="#A" n="130" break="no"/>ter: actus autem essentialis non respicit personam 
+      <lb ed="#A" n="131"/>productam; quare ab illa persona, quae dicitur 
+      in<lb ed="#A" n="132" break="no"/>telligere &amp; sapere, tanquam a termino actionis: 
+      <!--00245.xml-->
+      <pb ed="#A" n="237"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>neque vero denominari potest tanquam a prin 
+      <lb ed="#A" n="2"/>cipio: constat enim, sapientiam genitam non esse 
+      <lb ed="#A" n="3"/>patri principium sapiendi &amp; intelligendi: ergo 
+      <lb ed="#A" n="4"/>nullo modo fieri potest talis denominatio 
+      <lb ed="#A" n="5"/>Dicet aliquis sapientiam genitam comparar. 
+      <lb ed="#A" n="6"/>cum patre sicut principium (vt aiunt) sub 
+      autho<lb ed="#A" n="7" break="no"/>ritatiuum: qua ratione concedit Magister in i 
+      <lb ed="#A" n="8"/>dist. illa 32. hanc propositionem, Pater creauit om 
+      <lb ed="#A" n="9"/>nia verbo suo. Nihilominus hac ratione propositio 
+      <lb ed="#A" n="10"/>illa prior concedi non potest; nam ideo dicitur pa 
+      <lb ed="#A" n="11"/>ter creasse omnia verbo suo, quia ratio ideae ap 
+      <lb ed="#A" n="12"/>propriatur filio, vt infra q. 45. in notationibus art 
+      <lb ed="#A" n="13"/>6. dicemus; eo quod sit per intellectum, non quia 
+      <lb ed="#A" n="14"/>reuera sit proprium illius esse loco ideae: nam 
+      om<lb ed="#A" n="15" break="no"/>nes personae Trinitatis aeque conueniunt ad pro 
+      <lb ed="#A" n="16"/>ductionem creaturarum. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1671">
+                     <lb ed="#A" n="17"/>Verum Scotus &amp; Gabr. concedunt hanc 
+      pro<lb ed="#A" n="18" break="no"/>positionem, pater intelligit, aut sapit in verbo suo, sicu 
+      <lb ed="#A" n="19"/>etiam dicitur sapere aut intelligere in essentia suas 
+      <lb ed="#A" n="20"/>creaturas enim (quae habent rationem secundari 
+      <lb ed="#A" n="21"/>obiecti) dicitur pater intelligere in primario 
+      <lb ed="#A" n="22"/>obiecto suo, quod est verbum: nam &amp; verbum 
+      <lb ed="#A" n="23"/>patri creaturas repraesentare, probatum manet 
+      <lb ed="#A" n="24"/>disput. 144. cap. 2. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1692">
+                     <lb ed="#A" n="25"/>Ego vero non video, cur concedi non possit 
+      il<lb ed="#A" n="26" break="no"/>la propositio, rater intelligit &amp; sapit verbo: haec 
+      <lb ed="#A" n="27"/>namque duo verba actionem significant, non ef 
+      <lb ed="#A" n="28"/>fectum formalem: &amp; quamuis essentialem 
+      ope<lb ed="#A" n="29" break="no"/>rationem denotent, vsurpari tamen possunt pro 
+      <lb ed="#A" n="30"/>notionali: ergo sicut dicimus, pater dicit verbo 
+      <lb ed="#A" n="31"/>suo, sic etiam dicere possumus, pater intelligit &amp; 
+      <lb ed="#A" n="32"/>sapit verbo suo, quod est nata sapientia. At vero 
+      <lb ed="#A" n="33"/>dici nequit, Pater est sapiens sapientia genita, quia 
+      de<lb ed="#A" n="34" break="no"/>notatur eo modo loquendi effectus formalis, vt 
+      <lb ed="#A" n="35"/>supra dicebamus. Et quidem ego nullam 
+      differen<lb ed="#A" n="36" break="no"/>tiam, aut nullius sane momenti, inuenio 
+      in<lb ed="#A" n="37" break="no"/>ter haec duo, in verbo suo, &amp; sine praepositione, 
+      <lb ed="#A" n="38"/>verbo suo: vtroque aurem modo loqui licet, quia 
+      <lb ed="#A" n="39"/>verbum est terminus operationis notionalis, vt 
+      <lb ed="#A" n="40"/>explicatum est, 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e1730">
+                  <head xml:id="tavaz1-d1e237-Hd1e1732">Caput 7</head>
+                  <p xml:id="tavaz1-d1e237-d1e1734">
+                     <lb ed="#A" n="41" type="fixed=237"/>CAPVT VII. 
+      <lb ed="#A" n="42"/>Qua ratione dici non possit filius sapiens 
+      <lb ed="#A" n="43"/>sapientia genita vel in
+      <lb ed="#A" n="44"/>genita. 
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1745">
+                     <lb ed="#A" n="45"/>HAnc propositionem tractant S. Tho. in 1. d. 32. 
+      <lb ed="#A" n="46"/>q. 2. artic. 2. Gabri q. 1. art. 1. &amp; 2. Durand. quaest. 2 
+      <lb ed="#A" n="47"/>&amp; Capreolus loco citato: &amp; pro illius explicatione 
+      <lb ed="#A" n="48"/>S. Thoma, &amp; Capreolus notant, has duas 
+      propo<lb ed="#A" n="49" break="no"/>sitiones a &amp; per causam significare, ita &amp; praeposi 
+      <lb ed="#A" n="50"/>tio agenus causae efficientis magis communiter 
+      <lb ed="#A" n="51"/>denotet; sed praepositio per omne genus 
+      indiscri<lb ed="#A" n="52" break="no"/>minatim significet: cumque in diuinis sit velut 
+      <lb ed="#A" n="53"/>genus causae efficientis, nempe principium origi 
+      <lb ed="#A" n="54"/>nis; quoties vtimur hac prae positione a originem 
+      <lb ed="#A" n="55"/>denotare videmur. Est etiam genus causae forma 
+      <lb ed="#A" n="56"/>lis, sola tamen nostra consideratione, qua aliquid 
+      <lb ed="#A" n="57"/>tanquam formam in Deo apprehendimus, &amp; a 
+      <lb ed="#A" n="58"/>liud veluti effectum illius, quod genus causae prae 
+      <lb ed="#A" n="59"/>positione illa, per, possemus significare. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1780">
+                     <lb ed="#A" n="60"/>Hoc supposito primum docet sanctus Thomas 
+      <lb ed="#A" n="61"/>Durandus, &amp; Capreolus huius propositionis, Filius 
+      <lb ed="#A" n="62"/>est sapiens sapientia genita, posse esse duplicem sensum: 
+      <lb ed="#A" n="63"/>nam si ablatiuus denotetem ordin originis, &amp; genus 
+      <lb ed="#A" n="64"/>quasi causae efficientis, idem est, ac si dicamus 
+      <lb ed="#A" n="65"/>a sapientia genita. Est autem hoc modo falsa 
+      propo<lb ed="#A" n="66" break="no"/>sitio, filius enim non habet a sapientia genita, hoc 
+      <lb ed="#A" n="67"/>est, a se antequam a principio per originem esse 
+      <!--00245.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>sapientem, vt manifestum est: contra vero 
+      eo<lb ed="#A" n="69" break="no"/>dem sensu dicere possemus, Filius est sapiens 
+      sapien<lb ed="#A" n="70" break="no"/>tia ingenita, hoc est, a sapientia ingenita, vel, per 
+      sa<lb ed="#A" n="71" break="no"/>pientiam ingenitam, quae est pater, habet esse sapientem, ab 
+      <lb ed="#A" n="72"/>eo namque per originem accipit sapientiam, &amp;c. 
+      <lb ed="#A" n="73"/>Si vero ablatiuus, sapientia genita denotet ordinem, 
+      <lb ed="#A" n="74"/>seu habitudinem quasi causae formalis, adhuc 
+      fal<lb ed="#A" n="75" break="no"/>sa est propositio, Filius est sapiens sapientia genita; eo 
+      <lb ed="#A" n="76"/>quod sapientia, qua est sapiens, est ipsa essentia, 
+      <lb ed="#A" n="77"/>haec autem non est genita. Quare potius 
+      dicere<lb ed="#A" n="78" break="no"/>mus etiam in hoc sensu, Filius est sapiens sapientia 
+      in<lb ed="#A" n="79" break="no"/>genita: vel per sapientiam ingenitam, nam &amp; 
+      praepo<lb ed="#A" n="80" break="no"/>sitio, per, causam veluti formalem denotare potest, 
+      <lb ed="#A" n="81"/>vel denique tertio ablatiuus ille, genita sapientia. 
+      <lb ed="#A" n="82"/>denotare potest ordinem quasi causae subiectiuae 
+      <lb ed="#A" n="83"/>&amp; materialis, sicut cum dicimus, homo seipso 
+      in<lb ed="#A" n="84" break="no"/>telligit, seipso est sapiens, vel per seipsum, &amp; hoc 
+      <lb ed="#A" n="85"/>modo concedi posset propositio, filius est sapiens 
+      <lb ed="#A" n="86"/>sapientia genita. Est enim seipso sapiens; ipse 
+      au<lb ed="#A" n="87" break="no"/>tem est genita sapientia, quamuis hic modus 
+      lo<lb ed="#A" n="88" break="no"/>quendi, vt notauit Durandus, valde 
+      impro<lb ed="#A" n="89" break="no"/>prius sit. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1852">
+                     <lb ed="#A" n="90"/>Addit vltimo Gab. ex eadem doctrina, partem 
+      <lb ed="#A" n="91"/>aeternam dici posse aliquo modo sapientem sapi 
+      <lb ed="#A" n="92"/>entia ingenita. vel per sapientiam ingenitam, se 
+      <lb ed="#A" n="93"/>cundo, &amp; tertio modo explicatis; non tamen esse 
+      <lb ed="#A" n="94"/>sapientem vel a sapientia ingenita, quia a nullo 
+      <lb ed="#A" n="95"/>accipit per originem esse sapientem, vel sapientia 
+      <lb ed="#A" n="96"/>seu per sapientiam geuitam, quia nullo modo per 
+      <lb ed="#A" n="97"/>filium sapiens est. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e237-Dd1e1874"><!-- vaz-p1q37a2-d152 -->
+               <head xml:id="tavaz1-d1e237-Hd1e1877">Disputatio 152</head>
+               <head xml:id="tavaz1-d1e237-Hd1e1879" type="question-title">
+    An Pater et Filius diligant creaturas 
+    Spiritu sancto
+  </head>
+               <p xml:id="tavaz1-d1e237-d1e1882">
+                  <lb ed="#A" n="98" type="fixed=237"/>DISPVT. CLII. 
+      <lb ed="#A" n="99"/>An Pater &amp; Filius diligant creaturas 
+      <lb ed="#A" n="100"/>Spiritu sancto. 
+    </p>
+               <div xml:id="tavaz1-d1e237-Dd1e1891">
+                  <head xml:id="tavaz1-d1e237-Hd1e1893">Caput 1</head>
+                  <p xml:id="tavaz1-d1e237-d1e1895">
+                     <lb ed="#A" n="101" type="fixed=237"/>CAPVT I. 
+      <lb ed="#A" n="102"/>Prior Scolasticorum opinio. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e1902">
+                     <lb ed="#A" n="103"/>NOn desunt, qui hanc propositionem, Pater, &amp; 
+      <lb ed="#A" n="104"/>Filius diligunt creaturas Spiritu sancto, falsam esse 
+      <lb ed="#A" n="105"/>asseuerent, etsi praecedentem veram esse 
+      conce<lb ed="#A" n="106" break="no"/>dant: praecedens namque, de qua nobis proxime 
+      <lb ed="#A" n="107"/>fuit controuersia, est Aug. &amp; aliorum patrum, vt 
+      <lb ed="#A" n="108"/>notatum est: hanc autem propositionem apud 
+      <lb ed="#A" n="109"/>Patres non inuenimus, sed ab aliquibus tantum 
+      <lb ed="#A" n="110"/>Scholasticis tradita videtur. Scotus igitur in 1. dist. 
+      <lb ed="#A" n="111"/>32. q. 2. ad vlt. arbitratur falsam esse hanc 
+      propositio<lb ed="#A" n="112" break="no"/>nem hac ratione. Amor, quo pater &amp; filius dici 
+      <lb ed="#A" n="113"/>possunt diligere creaturas Spiritu sancto, sine 
+      du<lb ed="#A" n="114" break="no"/>bio est notionalis: namque de essentiali 
+      contro<lb ed="#A" n="115" break="no"/>uersia non est; sed neque de notionali vera esse 
+      <lb ed="#A" n="116"/>potest propositio, eo, quod hic amor solum 
+      dici<lb ed="#A" n="117" break="no"/>tur esse illius obiecti, quod vt primarium &amp; 
+      <lb ed="#A" n="118"/>per se respicit, aut saltem quod necessario 
+      comi<lb ed="#A" n="119" break="no"/>tatur primatium, creaturae autem nec sunt obie 
+      <lb ed="#A" n="120"/>ctum primarium notionalis dilectionis, nec 
+      co<lb ed="#A" n="121" break="no"/>mitantur necessario primarium obiectum, quod 
+      <lb ed="#A" n="122"/>est essentia Dei, quia contingenter &amp; libere 
+      <lb ed="#A" n="123"/>diliguntur, ergo dilectio notionalis non dicitur 
+      <lb ed="#A" n="124"/>esse creaturarum, quia tamen pater &amp; filius 
+      ne<lb ed="#A" n="125" break="no"/>cessario comitantur essentiam, quae est primarium 
+      <lb ed="#A" n="126"/>obiectum, ideo non solum dicuntur notional. 
+      <lb ed="#A" n="127"/>dilectione essentiam diligere, verum etiam se 
+      <lb ed="#A" n="128"/>ipsos.
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e1961">
+      <!--00246.xml-->
+                     <pb ed="#A" n="238"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Haec tamen ratio Scoti parum probat, quia 
+      <lb ed="#A" n="2"/>quamuis creaturae futurae aut existentes libere di 
+      <lb ed="#A" n="3"/>ligantur, possibiles tamen necessario adeo 
+      dili<lb ed="#A" n="4" break="no"/>guntur amore complacentiae, vt supra disput. 79. 
+      <lb ed="#A" n="5"/>cap. 2. monstratum est: hunc vero amorem 
+      com<lb ed="#A" n="6" break="no"/>placentiae circa res possibiles concedit in Deo 
+      ip<lb ed="#A" n="7" break="no"/>se Scotus a nobis ibidem allegatus, tametsi non 
+      <lb ed="#A" n="8"/>dicat hunc amorem esse in Deo necessarium. 
+      For<lb ed="#A" n="9" break="no"/>san in illa dist. 32, quaest. 2. proxime citata loquitur 
+      <lb ed="#A" n="10"/>de amore efficaci creaturarum, qui sane solum 
+      fer<lb ed="#A" n="11" break="no"/>tur in creaturas, quae de facto futurae sunt, &amp; de 
+      <lb ed="#A" n="12"/>hac efficaci dilectione dixit, Patrem &amp; Filium 
+      <lb ed="#A" n="13"/>non diligere creaturas Spiritu sancto ob ratio 
+      <lb ed="#A" n="14"/>nem praedictam, quia creaturae hoc modo non 
+      <lb ed="#A" n="15"/>necessario coniunguntur cum obiecto primaria 
+      <lb ed="#A" n="16"/>dilectionis, quod est diuina essentia. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e2005">
+                     <lb ed="#A" n="17"/>Ceterum adhuc hoc modo eius ratio firma 
+      <lb ed="#A" n="18"/>non est. Nam quemadmodum Pater verbo suo 
+      <lb ed="#A" n="19"/>non tantum dicit se, &amp; creaturas possibiles, quas 
+      <lb ed="#A" n="20"/>necessario cognoscit; verum etiam futuras, quas 
+      <lb ed="#A" n="21"/>poterat non cognoscere, siquidem poterant non 
+      <lb ed="#A" n="22"/>fore, vt ex sententia Augustini ostendimus 
+      dis<lb ed="#A" n="23" break="no"/>putatione 143. capite 7. sic etiam nón solum 
+      di<lb ed="#A" n="24" break="no"/>cuntur Pater &amp; Filius Spititu sancto diligere se &amp; 
+      <lb ed="#A" n="25"/>creaturas possibiles, verum etiam futuras, 
+      quan<lb ed="#A" n="26" break="no"/>tumuis libere &amp; contingentereas ament. Adde, 
+      <lb ed="#A" n="27"/>quod falso Scotus asserit. Patrem &amp; Filium sub 
+      <lb ed="#A" n="28"/>proprietate personali esse obiecta secundaria 
+      di<lb ed="#A" n="29" break="no"/>lectionis, qua procedit Spiritus sanctus, &amp; solam 
+      <lb ed="#A" n="30"/>essentiam esse primarium, &amp; disputatione 142 
+      <lb ed="#A" n="31"/>capit. 3. &amp; 4. contra ipsum probauimus; idipsum 
+      <lb ed="#A" n="32"/>notauimus disp. 150. cap. 3. dum defendimus 
+      Spi<lb ed="#A" n="33" break="no"/>ritum sanctum per se procedere vt nexum duo 
+      <lb ed="#A" n="34"/>rum se mutuo diligentium; ac proinde duo 
+      sup<lb ed="#A" n="35" break="no"/>posita esse necessaria ex parte obiecti ad Spiritus 
+      <lb ed="#A" n="36"/>sancti productionem. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e2052">
+                     <lb ed="#A" n="37"/>Scotosconsentit Canariens. in commentario 
+      <lb ed="#A" n="38"/>huius articuli, dum asserit falsam esse praedictam 
+      <lb ed="#A" n="39"/>propositionem. Coniunctus autem videtur 
+      ra<lb ed="#A" n="40" break="no"/>tione Scoti, quam proxime retulimus, sed in 
+      gra<lb ed="#A" n="41" break="no"/>tiam Doctoris sancti, qui praedictam propositio 
+      <lb ed="#A" n="42"/>nem defendit, notat Canariensis hoc sensu eam 
+      <lb ed="#A" n="43"/>recte explicari posse: Pater &amp; Filius diligunt creatu 
+      <lb ed="#A" n="44"/>ras Spiritu sancto, hoc est, dum diligunt creaturas: pro 
+      <lb ed="#A" n="45"/>ducunt Spiritum sanctum. Sed expositio videtur nimis 
+      <lb ed="#A" n="46"/>extorta, &amp; inepta. nam eadem ratione dicere 
+      posse<lb ed="#A" n="47" break="no"/>mus Pater &amp; Filius intelligunt creaturas Spiritu 
+      <lb ed="#A" n="48"/>sancto, hoc est, dum intelligunt creaturas, 
+      spiran<lb ed="#A" n="49" break="no"/>Spiritum sanctum: ille enim sensus, quem reddi 
+      <lb ed="#A" n="50"/>particula, dum, solum denotat comitantiam; quam 
+      <lb ed="#A" n="51"/>etiam habet cognitio creaturarum cum 
+      proces<lb ed="#A" n="52" break="no"/>sione Spiritus sancti 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e237-Dd1e2090">
+                  <head xml:id="tavaz1-d1e237-Hd1e2092">Caput 2</head>
+                  <p xml:id="tavaz1-d1e237-d1e2094">
+                     <lb ed="#A" n="53" type="fixed=238"/>CAPVT II. 
+      <lb ed="#A" n="54"/>Patrem, &amp; Filium vere dicendos esse diligere crcaturas 
+      <lb ed="#A" n="55"/>Spiritu sancto, probabilior opinio fert 
+    </p>
+                  <p xml:id="tavaz1-d1e237-d1e2103">
+                     <lb ed="#A" n="56"/>IN hac re supponendum est id, quod 
+      disputa<lb ed="#A" n="57" break="no"/>tione 143. cap. 5. in fine de processione Spiritus 
+      <lb ed="#A" n="58"/>sancti notauimus, videlicet, eum non procedere 
+      <lb ed="#A" n="59"/>formaliter per amorem creaturarum. etiam 
+      possi<lb ed="#A" n="60" break="no"/>bilium, sicut neque verbum per cognitionem 
+      <lb ed="#A" n="61"/>creaturarum: vtriusque enim eandem esse 
+      ratio<lb ed="#A" n="62" break="no"/>nem, vt ibidem latius prosecuti sumus dubium 
+      <lb ed="#A" n="63"/>non est, si semel supponamus creaturas possibiles 
+      <lb ed="#A" n="64"/>diligi a Deo aliquo amore. Reliquum ergo est, vt 
+      <lb ed="#A" n="65"/>in praesenti ostendamus, an Pater, &amp; Filius 
+      dican<lb ed="#A" n="66" break="no"/>tur diligere creaturas, non solum possibiles, sed 
+      <!--00246.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>etiam futuras, Spiritu sancto. Verior igitur 
+      sen<lb ed="#A" n="68" break="no"/>tentia est, eas omnes a Patre &amp; Filio diligi Spiritu 
+      <lb ed="#A" n="69"/>sancto. Hanc tradit S. Tho. in hoc art. ad 3. Bonauent. 
+      <lb ed="#A" n="70"/>in I. dist. 32. art. 1. q. 1. ad penult. argum. &amp; Marsilius in 1. 
+      <lb ed="#A" n="71"/>qu. 35. art. 1. proposit. 5. post conclusionem 
+      responsi<lb ed="#A" n="72" break="no"/>uam; eam tamen non eodem modo explicant. 
+      <lb ed="#A" n="73"/>Marsilius existimat primum, veram esse 
+      proposi<lb ed="#A" n="74" break="no"/>tionem de notionali dilectione, vt sensus sit, 
+      Pa<lb ed="#A" n="75" break="no"/>ter &amp; Filius spirant Spiritum sanctum, qui est 
+      pri<lb ed="#A" n="76" break="no"/>mum donum, &amp; ratio liberalis donationis, quae 
+      <lb ed="#A" n="77"/>fieri potest, aut fit creaturis: deinde veram etiam 
+      <lb ed="#A" n="78"/>esse censet de dilectione essentiali, quia processio 
+      <lb ed="#A" n="79"/>personarum intra Deum est ratio processionis 
+      <lb ed="#A" n="80"/>creaturarum extra ipsam: haec enim est per 
+      amo<lb ed="#A" n="81" break="no"/>rem; sic ergo, quando dicimus, Pater &amp; Filius 
+      di<lb ed="#A" n="82" break="no"/>ligunt creaturas Spiritu sancto, denotatur ratio 
+      <lb ed="#A" n="83"/>efficaciae non ex parte Dei, quia in Deo ratio 
+      effi<lb ed="#A" n="84" break="no"/>ciendi est essentia, sed ex Patre effectorum; cum 
+      <lb ed="#A" n="85"/>enim Spiritus sanctus sit primum donum, 
+      vide<lb ed="#A" n="86" break="no"/>tur esse ratio cuiuscunque liberalis donationis, 
+      <lb ed="#A" n="87"/>ac proinde processionis creaturarum, quae dona 
+      <lb ed="#A" n="88"/>tione liberali procedunt. Hanc sententiam 
+      vide<lb ed="#A" n="89" break="no"/>tur sequutus S. Tho. in 1. distinctione 32. quaest. 1. 
+      <lb ed="#A" n="90"/>art. 3. in corpore. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e2186">
+                     <lb ed="#A" n="91"/>Ceterum ego non video, quo pacto dici possit 
+      <lb ed="#A" n="92"/>spiratio Spiritus sancti ratio processionis creatu 
+      <lb ed="#A" n="93"/>rarum, nisi per appropriationem, idque valde im 
+      <lb ed="#A" n="94"/>proprie; siquidem ratio producendi creaturas est 
+      <lb ed="#A" n="95"/>vnitas essentiae; pluralitas vero personarum ex 
+      <lb ed="#A" n="96"/>parte principij ad eam per se non pertinet. 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e2202">
+                     <lb ed="#A" n="97"/>Ideo placet mihi praedictam propositionen 
+      <lb ed="#A" n="98"/>sedem intelligere de notionali distinctione, sicu 
+      <lb ed="#A" n="99"/>etiam illud, Pater &amp; Filius diligunt se Spiritu sancto 
+      <lb ed="#A" n="100"/>de eadem esse intelligendam, praecedenti 
+      disputa<lb ed="#A" n="101" break="no"/>tione monstrauimus. Ratio vero, ob quam dici 
+      <lb ed="#A" n="102"/>mus, Pater &amp; Filius diligunt creaturas Spiritu sancto, 
+      <lb ed="#A" n="103"/>est eadem omnino cum ea, ob quam dicuntur 
+      et<lb ed="#A" n="104" break="no"/>iam seipsos diligere: quia scilicet, Spiritus 
+      san<lb ed="#A" n="105" break="no"/>ctus, tanquam terminus producta per 
+      dilectio<lb ed="#A" n="106" break="no"/>nem non solum habet respectum producti ad 
+      Pa<lb ed="#A" n="107" break="no"/>trem &amp; Filium, verum etiam respicit obiecta 
+      se<lb ed="#A" n="108" break="no"/>cundaria amoris, sicut ipsa dilectio notionalis. 
+      <lb ed="#A" n="109"/>Quare sicut diximus disputatione 144. cap. 2. 
+      Pa<lb ed="#A" n="110" break="no"/>trem intelligere creaturas in Filio, &amp; verbo suo 
+      <lb ed="#A" n="111"/>ita dicere debemus, Pater &amp; Filius diligunt 
+      crea<lb ed="#A" n="112" break="no"/>tura Spiritus sancto: tametsi non procedat per 
+      <lb ed="#A" n="113"/>amorem creaturarum formaliter, id enim ea 
+      pro<lb ed="#A" n="114" break="no"/>positione non denotatur 
+      </p>
+                  <p xml:id="tavaz1-d1e237-d1e2245">
+                     <lb ed="#A" n="115"/>Sed hic duo sunt obseruanda. Verum est, in 
+      <lb ed="#A" n="116"/>sententia S. Tho. qui, vt aliqui ipsum 
+      interpreta<lb ed="#A" n="117" break="no"/>tur, putat creaturas possibiles non diligi a Deo; v 
+      <lb ed="#A" n="118"/>disp. 79. vidimus, praedictam propositionem non 
+      <lb ed="#A" n="119"/>esse de illis intelligendam, sed de futuris tantum: 
+      <lb ed="#A" n="120"/>&amp; ideo consulto dixisse in hoc articulo ad tertium, 
+      <lb ed="#A" n="121"/>Pater non solum Filium, sed etiam se &amp; nos diligit Spiritu 
+      <lb ed="#A" n="122"/>sancto, cum dicit nos, plane intelligit futuros, non 
+      <lb ed="#A" n="123"/>possibiles. Sed quia eadem disp. diximus, 
+      possibi<lb ed="#A" n="124" break="no"/>les etiam creaturas a Deo amari, &amp; S. Tho. in 
+      bo<lb ed="#A" n="125" break="no"/>num sensum interpretati sumus, ideo de omnibus 
+      <lb ed="#A" n="126"/>praedictam propositionem veram esse 
+      arbitra<lb ed="#A" n="127" break="no"/>mur. Alterum notandum est, notionalem dile 
+      <lb ed="#A" n="128"/>ctionem libere referri ad creaturas; ad quas, si 
+      fu<lb ed="#A" n="129" break="no"/>turae non essent, possent non terminari: hoc au 
+      <lb ed="#A" n="130"/>tem fieret, nulla in ipsa variatione reali facta 
+      so<lb ed="#A" n="131" break="no"/>la mutatione respectu rationis, vt disputatione 
+      <lb ed="#A" n="132"/>80. cap. 2. 2. monstrauimus.
+    </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

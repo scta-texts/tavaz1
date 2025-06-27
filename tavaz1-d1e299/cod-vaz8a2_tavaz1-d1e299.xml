@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 49</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 49</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="407"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e299"><!-- p1-q49 -->
+            <head xml:id="tavaz1-d1e299-Hd1e99">Quaestio 49</head>
+            <div xml:id="tavaz1-d1e299-Dd1e101"><!-- vaz-p1q49a1 -->
+               <head xml:id="tavaz1-d1e299-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e299-d1e106">
+                  <lb ed="#A" n="24" type="fixed=407"/>COnclusio est, Bonum est causa mali per accidens. 
+      <lb ed="#A" n="25"/>quae quidem etiam intelligitur de malo natu 
+      <lb ed="#A" n="26"/>rali absolute. Cum enim sit corruptio, &amp; haec fia 
+      <lb ed="#A" n="27"/>per accidens malum quoque hoc modo fit per ac 
+      <lb ed="#A" n="28"/>cidens: malum autem morale sub ratione 
+      for<lb ed="#A" n="29" break="no"/>mali mali, etiam fit per accidens, vt 1. 2. quaest. 79. 
+      <lb ed="#A" n="30"/>art. 1. &amp; 2. dicemus. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e299-Dd1e125"><!-- vaz-p1q49a2 -->
+               <head xml:id="tavaz1-d1e299-Hd1e128">Articulus 2</head>
+               <p xml:id="tavaz1-d1e299-d1e130">
+                  <lb ed="#A" n="114" type="fixed=407"/>Notatio circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e299-d1e135">
+                  <lb ed="#A" n="115"/>COnclusio est, Deus est causa mali, quod est, aut esse 
+      <lb ed="#A" n="116"/>potest poena, non tamen est causa mali, quod est culpa 
+      <lb ed="#A" n="117"/>De posteriori parte dicendum est quaest. illa 78. 
+      <lb ed="#A" n="118"/>artic. I. &amp; 2. de priori vero nota, ita Deum esse 
+      <lb ed="#A" n="119"/>causam mali poenae, vt quicquid non est culpa, ab 
+      <lb ed="#A" n="120"/>eo sit, &amp; directe ab eo volitum, vt explicauimus 
+      <lb ed="#A" n="121"/>sup. disput. 79. cap. vltim. nisi quod mala, quae sunt 
+      <!--00416.xml-->
+      <pb ed="#A" n="408"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>alicui poena, Deus non dicitur velle 
+      anteceden<lb ed="#A" n="2" break="no"/>ti voluntate, &amp; ex seipso; sed consequenti, 
+      occa<lb ed="#A" n="3" break="no"/>sione sumpta ex nobis, vt praedictum est disput 
+      <lb ed="#A" n="4"/>83. cap. 4. &amp; 5. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e299-Dd1e169"><!-- vaz-p1q49a3 -->
+               <head xml:id="tavaz1-d1e299-Hd1e172">Articulus 3</head>
+               <p xml:id="tavaz1-d1e299-d1e174">
+                  <lb ed="#A" n="59" type="fixed=409"/>Conclusio negat de errore vero Manichaei 
+      di<lb ed="#A" n="60" break="no"/>ximus supra disp. 17. c. 1. quid vero sentiant 
+      Ari<lb ed="#A" n="61" break="no"/>stot. 4. Eth. c. 5. cum ait, si malum integrum sit, 
+      se<lb ed="#A" n="62" break="no"/>ipsum destrueret, explicabitur 1. 2. q. 73. a. 2.
+    </p>
+               <p xml:id="tavaz1-d1e299-d1e185">
+      <!--00417.xml-->
+                  <cb ed="#A" n="c"/>
+                  <lb ed="#A" n="63"/>Praefatio in Tractatum de Angelis
+    </p>
+               <p xml:id="tavaz1-d1e299-d1e194">
+                  <lb ed="#A" n="64"/>POstquam Sanctus Doctor de creatione in vniuersum tractauit, tam de operibus 
+      <lb ed="#A" n="65"/>ipsius creationis speciatim disputare incipit. Cumque in hac rerum vniuersitate 
+      <lb ed="#A" n="66"/>praecipuae creaturae sint Angeli, totam hanc disputationem ab eorum tractatione 
+      <lb ed="#A" n="67"/>exorditur. Quae sane materies bona ex parte ad Philosophum, &amp; Metaphysicum 
+      po<lb ed="#A" n="68" break="no"/>tius, quam ad Theologum pertinebat. Sed quia ab Scholasticis tam copiose, &amp; accurrate 
+      <lb ed="#A" n="69"/>traditur, vt ipsi non solum Theologica omnia, &amp; quae sola reuelatione constant: sed 
+      Phi<lb ed="#A" n="70" break="no"/>losophica etiam exactius, quam vllus vnquam Philosophus, vel Aristotelicus, vel etiam 
+      <lb ed="#A" n="71"/>Platonicus, tractauerint, nihil ex iis, quae diligenter scripserunt, praetermittemus, sed 
+      so<lb ed="#A" n="72" break="no"/>litis disputationibus singula examinabimus. Neque vero id nobis vitio vertendum est, 
+      <lb ed="#A" n="73"/>tum quia multa ex iis, quae Philosophica videntur, conducere possunt ad intelligenda ea, 
+      <lb ed="#A" n="74"/>quae Theologica sunt, &amp; maioris momenti. Tum etiam quia in re Scholasticis nostris 
+      <lb ed="#A" n="75"/>multum deferendum est, quod adeo occulta, &amp; scitu digna de Angelorum natura, &amp; 
+      <lb ed="#A" n="76"/>protrietatibus Philosophis omnino ignota, nobis tradiderunt. Ex qua vel vna re 
+      praeci<lb ed="#A" n="77" break="no"/>pue apparet id, quod dicebamus disputatione prima, nimirum sacram doctrinam 
+      scien<lb ed="#A" n="78" break="no"/>tiam esse necessariam non modo ad supernaturalium, sed etiam ad naturalium rerum 
+      co<lb ed="#A" n="79" break="no"/>gnitionem sine errore comparandam; sine qua Philosophi doctissimi pauca, eaque ab 
+      er<lb ed="#A" n="80" break="no"/>roribus non omnino libera scripta nobis reliquerunt. Verum cum multa ex ijs, quae 
+      Scho<lb ed="#A" n="81" break="no"/>lastici de Angelis docuerunt, in opinione posita sint, nec apud eos satis certa, nostri 
+      insti<lb ed="#A" n="82" break="no"/>tuti ratio postulat, vt per singula discurrentes, quoad eius fieri potest, admoneamus (id 
+      <lb ed="#A" n="83"/>quod in hac nostra tempestate ab alijs etiam diligenter obseruatum est) an aliquid 
+      peri<lb ed="#A" n="84" break="no"/>culi contra sacram Scripturam, vel fidei dogmata in aliquibus Scholasticorum opinioni 
+      <lb ed="#A" n="85"/>bus esse possit.
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

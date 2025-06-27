@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 30</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 30</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="111"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e201"><!-- p1-q30 -->
+            <head xml:id="tavaz1-d1e201-Hd1e99">Quaestio 30</head>
+            <div xml:id="tavaz1-d1e201-Dd1e101"><!-- vaz-p1q30a1 -->
+               <head xml:id="tavaz1-d1e201-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e201-d1e106">
+                  <lb ed="#A" n="95" type="fixed=111"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e201-d1e111">
+                  <lb ed="#A" n="96"/>COnclusio est affirmans, &amp; ex superioribus 
+      sa<lb ed="#A" n="97" break="no"/>tis manifesta: expressa est in Symbolo Atha 
+      <lb ed="#A" n="98"/>nasij, Alia est enim persona Patris, alia Filij, alia Spiritus 
+      a<lb ed="#A" n="99" break="no"/>sancti 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e122">
+                  <lb ed="#A" n="100"/>Sed circa solutionem quarti est difficultas 
+      pro<lb ed="#A" n="101" break="no"/>posita in eodem argumento in hunc modum. Si 
+      <lb ed="#A" n="102"/>in Deo est numerus personarum, sequitur in eo 
+      <lb ed="#A" n="103"/>esse aliquid majus, &amp; minus, aliquid perfectius, 
+      <lb ed="#A" n="104"/>&amp; minus perfectum: esse etiam totum, &amp; partes; 
+      <lb ed="#A" n="105"/>haec enim omnia in quouis numero inueniuntur. 
+      <lb ed="#A" n="106"/>Primum, quia in multitudine quacumque majus 
+      <lb ed="#A" n="107"/>quid est tota multitudo, quam si detrahas 
+      ali<lb ed="#A" n="108" break="no"/>quam vnitatem illius. Deinde, quia perfectius, 
+      <lb ed="#A" n="109"/>quid est totus numerus, quam aliquid illius. 
+      Po<lb ed="#A" n="110" break="no"/>stremo integer numerus habet rationem totius, 
+      <lb ed="#A" n="111"/>&amp; quaelibet vnitas rationem partis. At haec sunt 
+      <lb ed="#A" n="112"/>absurda: dicitur enim in Symbolo Athanasij, in 
+      <lb ed="#A" n="113"/>hac Trinitate nihil prius aut posterius; nihil 
+      ma<lb ed="#A" n="114" break="no"/>ius, aut minus. 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e157">
+                  <lb ed="#A" n="115"/>Respondet S. Thomas hoc pacto. Si numerus, 
+      <lb ed="#A" n="116"/>qui est in diuinis accipiatur absolute, &amp; abstracte. 
+      <lb ed="#A" n="117"/>nihil obstat, quo minus ibi sit totum, &amp; parss 
+      <lb ed="#A" n="118"/>idemque dicet de alijs, quae inferebamus in 
+      argu<lb ed="#A" n="119" break="no"/>mento; quia hoc modo solum dicitur esse totum, &amp; 
+      <lb ed="#A" n="120"/>pars; majus &amp; minus perfectius &amp; minus perfectum 
+      <lb ed="#A" n="121"/>ab intellectu; si vero numerus accipiatur prout est 
+      <lb ed="#A" n="122"/>in ipsis rebus, nihil eorum in numero diuinarum 
+      <lb ed="#A" n="123"/>personarum reperitur. Solutio quidem, si recti 
+      <!--00120.xml-->
+      <pb ed="#A" n="112"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>explicetur, verissima est, sed primo aspectu non 
+      <lb ed="#A" n="2"/>videtur argumento satisfacere: quia si numero 
+      <lb ed="#A" n="3"/>abstracto illa tria conueniunt; debent etiam con 
+      <lb ed="#A" n="4"/>uenire numero in quauis materia contracto: ac 
+      <lb ed="#A" n="5"/>proinde numero diuinarum personarum: quia quae 
+      <lb ed="#A" n="6"/>conueniunt numero secundum se, conueniunt 
+      <lb ed="#A" n="7"/>etiam tali numero, licet non contra. Quae enim 
+      <lb ed="#A" n="8"/>dicuntur de communi, &amp; superiori; dicuntur et 
+      <lb ed="#A" n="9"/>iam de inferiori, &amp; singulari. 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e206">
+                  <lb ed="#A" n="10"/>Quare huius rei explicandae gratia, notandum 
+      <lb ed="#A" n="11"/>est, ex Gabriel. in 1. distinct. 24. quaest. 2. art. 3. dub. 1. 
+      <lb ed="#A" n="12"/>majus, &amp; minus posse bifariam considerari: &amp; se 
+      <lb ed="#A" n="13"/>cundum quantitatem continuam, &amp; secundum 
+      <lb ed="#A" n="14"/>discretam: intelligit autem quantitatem 
+      conti<lb ed="#A" n="15" break="no"/>nuam, vel quantitatem, quam dicunt molis, vel 
+      <lb ed="#A" n="16"/>quam vocant virtutis, &amp; perfectionis: vt aliquid 
+      <lb ed="#A" n="17"/>sit majus alio quantitate continua molis, deber 
+      <lb ed="#A" n="18"/>esse magis extensum: quantitate vero virtutis, 
+      de<lb ed="#A" n="19" break="no"/>bet esse magis perfectum sua entitate, &amp; esse; at 
+      <lb ed="#A" n="20"/>que hoc modo in Trinitate nihil reperitur majus 
+      <lb ed="#A" n="21"/>nihil minus: &amp; hoc significare voluit S. Thomas 
+      <lb ed="#A" n="22"/>cum dixit, tantus est pater, quanta tota Trinitas: 
+      <lb ed="#A" n="23"/>hoc est, tam perfectus quantitate continua virtu 
+      <lb ed="#A" n="24"/>tis, &amp; entitatis. Hoc etiam modo non reperitur 
+      <lb ed="#A" n="25"/>in numero Trinitatis totum, &amp; pars: cum tamen 
+      <lb ed="#A" n="26"/>in multitudine aliarum rerum totus numerus sit 
+      <lb ed="#A" n="27"/>maior, id est, perfectior quantitate quasi 
+      conti<lb ed="#A" n="28" break="no"/>nua, quam aliquae vnitates illius; maioris enim 
+      <lb ed="#A" n="29"/>perfectionis est ternarius hominum, quam bina 
+      <lb ed="#A" n="30"/>rius, &amp; plus valet ternarius equorum, quam bina 
+      <lb ed="#A" n="31"/>rius. Sed, vt aliquid sit majus alio quantitate 
+      dis<lb ed="#A" n="32" break="no"/>creta, non debet esse perfectius; sed satis est, si in 
+      <lb ed="#A" n="33"/>vna multitudine dicantur esse plures, quam in a 
+      <lb ed="#A" n="34"/>lia; &amp; ita concedimus in Trinitate maiorem, &amp; 
+      <lb ed="#A" n="35"/>minorem numerum, hoc est, plures, &amp; paucio 
+      <lb ed="#A" n="36"/>res vtilitates, plures enim sunt Pater, Filius, &amp; 
+      <lb ed="#A" n="37"/>Spiritus sanctus, quam Pater, &amp; Filius. Nec quid 
+      <lb ed="#A" n="38"/>quam contra hanc doctrinam docuit S. Thomas 
+      <lb ed="#A" n="39"/>imo eam paucis indicauit, cum dixit in numero 
+      <lb ed="#A" n="40"/>ipso abstracto dari majus &amp; minus; non tamen in 
+      <lb ed="#A" n="41"/>numero personis diuinis contracto; ac si diceret, 
+      <lb ed="#A" n="42"/>in perfectione ipsarum personarum non datur 
+      <lb ed="#A" n="43"/>majus &amp; minus; hoc enim attenditur penes quan 
+      <lb ed="#A" n="44"/>titatem continuam virtutis &amp; perfectionis; datu 
+      <lb ed="#A" n="45"/>tamen majus, &amp; minus in numero abstracto, hoc 
+      <lb ed="#A" n="46"/>est, penes rationem numeri discreti, non habita 
+      <lb ed="#A" n="47"/>ratione perfectionis personarum in se est maior. 
+      <lb ed="#A" n="48"/>&amp; minor numerus; quod quidem verum est. 
+      Er<lb ed="#A" n="49" break="no"/>go numerum abstractum intelligit Sanctus 
+      Do<lb ed="#A" n="50" break="no"/>ctor, rationem solum discretae quantitatis, &amp; mul 
+      <lb ed="#A" n="51"/>titudinis inquauis etiam materia. Hoc pacto in 
+      <lb ed="#A" n="52"/>uenitur totum, &amp; pars in Trinitate, hoc est, totus 
+      <lb ed="#A" n="53"/>numerus, &amp; partes illius; nempe singulae vnita 
+      <lb ed="#A" n="54"/>tes inuenitur etiam majus, &amp; minus; perfectius 
+      <lb ed="#A" n="55"/>&amp; minus perfectum, quia maior numerus, &amp; per 
+      <lb ed="#A" n="56"/>fectior numerus est ternarius, quam binarius 
+      <lb ed="#A" n="57"/>personarum in ratione multitudinis, &amp; discreta 
+      <lb ed="#A" n="58"/>quantitatis. 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e315">
+                  <lb ed="#A" n="59"/>Sed obseruandum est, haec nomina, Maius, &amp; 
+      <lb ed="#A" n="60"/>&amp; minus, non esse Trinitati accommodanda sine ad 
+      <lb ed="#A" n="61"/>ditamento, quia communi modo loquendi deno 
+      <lb ed="#A" n="62"/>tant maiorem, &amp; minorem perfectionem in 
+      quan<lb ed="#A" n="63" break="no"/>titate continua: ideoque Athanasius in Symbolo 
+      <lb ed="#A" n="64"/>dixit. In hac Trinitate nihil maius, aut minus, quare ne 
+      <lb ed="#A" n="65"/>cesse erit dicere cum additamento hoc modo, in 
+      <lb ed="#A" n="66"/>Deo est maior, &amp; minor numerus. Idem de toto. 
+      <lb ed="#A" n="67"/>&amp; partibus, de perfectiori, &amp; minus perfecto 
+      as<lb ed="#A" n="68" break="no"/>serendum est. Dicere tamen possumus, plures, &amp; 
+      <!--00120.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="69"/>pauciores personas esse, quia haec nomina 
+      signifi<lb ed="#A" n="70" break="no"/>cant magis, &amp; minus in quantitate discreta. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e349"><!-- vaz-p1q30a2 -->
+               <head xml:id="tavaz1-d1e201-Hd1e352">Articulus 2</head>
+               <p xml:id="tavaz1-d1e201-d1e354">
+                  <lb ed="#A" n="105" type="fixed=113"/>Dubitationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e201-d1e359">
+                  <lb ed="#A" n="106"/>COnclusio articuli est: In Deo non sunt plures per 
+      <lb ed="#A" n="107"/>sonae, quam tres. Est de fide primae loannis 
+      vlti<lb ed="#A" n="108" break="no"/>mo: Tres sunt, qui testimonium dant in coelo, Pater, ver 
+      <lb ed="#A" n="109"/>bum, &amp; Spiritus sanctus. Et colligitur ex omnibus, 
+      <lb ed="#A" n="110"/>quae diximus circa quaest. 27. S. Thomae. 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e372">
+                  <lb ed="#A" n="111"/>Sed circa ea, quae asserit S. Thomas in textu, 
+      <lb ed="#A" n="112"/>proponit Caietanus duas dubitationes. Prior est 
+      <lb ed="#A" n="113"/>quia, vt sanctus Doctor colligeret tres esse per 
+      <lb ed="#A" n="114"/>sonas in Deo, probauit, processionem passiuan 
+      <lb ed="#A" n="115"/>non conuenire Patri, &amp; Filio simul; eo, quod se 
+      <lb ed="#A" n="116"/>queretur, processionem per voluntatem esse 
+      <lb ed="#A" n="117"/>priorem processione per intellectum pribritate 
+      <lb ed="#A" n="118"/>originis: sed non probat; processionem passiuam 
+      <lb ed="#A" n="119"/>non conuenire filio solum: quod tamen 
+      debe<lb ed="#A" n="120" break="no"/>bat probare. Nam si Filius esset productus per 
+      in<lb ed="#A" n="121" break="no"/>tellectum, &amp; voluntatem simul; posse esse eadem 
+      <!--00122.xml-->
+      <pb ed="#A" n="114"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>persona Filius, &amp; Spiritus sanctus, &amp; ita non essent 
+      <lb ed="#A" n="2"/>tres personae. Respondet Caietan. idem omnino 
+      <lb ed="#A" n="3"/>sequi absurdum, si dicamus, processionem 
+      pe<lb ed="#A" n="4" break="no"/>voluntatem conuenire filio: sic enim necesse est 
+      <lb ed="#A" n="5"/>aut filium prius produci per voluntatem; &amp; it 
+      <lb ed="#A" n="6"/>processio per voluntatem erit prior processione 
+      <lb ed="#A" n="7"/>per intellectum? vel filium posterius produci per 
+      <lb ed="#A" n="8"/>voluntatem, &amp; hoc est impossibile: quia persona 
+      <lb ed="#A" n="9"/>producta per vnam processionem, non potest per 
+      <lb ed="#A" n="10"/>aliam denuo produci. Sed dices, poterat simus 
+      <lb ed="#A" n="11"/>per intellectum, &amp; voluntatem produci: &amp; ita es 
+      <lb ed="#A" n="12"/>set eadem persona genita, &amp; procedens. 
+      Respon<lb ed="#A" n="13" break="no"/>deo, hic supponere S. Thomam, quod dixera 
+      <lb ed="#A" n="14"/>quaest. 27. esse nimirum duas processiones distin 
+      <lb ed="#A" n="15"/>ctas, alteram per intellectum, alteram per 
+      volun<lb ed="#A" n="16" break="no"/>tatem: sic autem non potest aeque primo vtraque 
+      <lb ed="#A" n="17"/>persona produci: nec enim idem produci 
+      potes<lb ed="#A" n="18" break="no"/>duabus productionibus simul. Quomodo autem 
+      <lb ed="#A" n="19"/>processio per voluntatem differat a processione 
+      <lb ed="#A" n="20"/>per intellectum, quia illa persona, quae est per 
+      vo<lb ed="#A" n="21" break="no"/>luntatem, procedit a Patre, &amp; Filio; &amp; quare, si 
+      <lb ed="#A" n="22"/>non procederet a Filio, esset eadem processio per 
+      <lb ed="#A" n="23"/>voluntatem, &amp; intellectum, ostendemus 
+      dispu<lb ed="#A" n="24" break="no"/>tat. 147. 
+      </p>
+               <p xml:id="tavaz1-d1e201-d1e457">
+                  <lb ed="#A" n="25"/>Posterior dubitatio est: quomodo verum sit 
+      <lb ed="#A" n="26"/>solam oppositionem relatiuam in Deo esse cau 
+      <lb ed="#A" n="27"/>sam distinctionis personarum: cum processio rea 
+      <lb ed="#A" n="28"/>liter distinguatur a paternitate, cui non opponi 
+      <lb ed="#A" n="29"/>tur. Respondet Caietanus, aliqua dupliciter op 
+      <lb ed="#A" n="30"/>poni relatiue; aut ratione relationis oppositae, si 
+      <lb ed="#A" n="31"/>cut paternitas, &amp; filiatio; aut ratione originis 
+      <lb ed="#A" n="32"/>quando ita se habent duo, vt vnum sit ab alio: sic 
+      <lb ed="#A" n="33"/>opponitur processio passiua paternitati, &amp; filia 
+      <lb ed="#A" n="34"/>tioni: ac si diceret, oponitur ratione adiunctae re 
+      <lb ed="#A" n="35"/>lationis, scilicet spirationis actiuae, quae 
+      coniun<lb ed="#A" n="36" break="no"/>gitur filiationi, &amp; paternitati. Quomodo autem 
+      <lb ed="#A" n="37"/>hoc satis sit, &amp; vtrum, si spiratio actiua non 
+      con<lb ed="#A" n="38" break="no"/>iungeretur paternitati, nihilominus paternitas 
+      <lb ed="#A" n="39"/>distingueretur a processione passiua, an non, ex 
+      <lb ed="#A" n="40"/>plicauimus disput. citata cap. 6. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e495"><!-- vaz-p1q30a3 -->
+               <head xml:id="tavaz1-d1e201-Hd1e498">Articulus 3</head>
+               <p xml:id="tavaz1-d1e201-d1e500">
+                  <lb ed="#A" n="65" type="fixed=115"/>CONCLVSIO articuli est. Termini 
+      numera<lb ed="#A" n="66" break="no"/>C les, qui de Deo dicuntur praeter illa, de quibus 
+      dicun<lb ed="#A" n="67" break="no"/>tur, nihil aliud, nisi negationem significant. Quae 
+      qui<lb ed="#A" n="68" break="no"/>dem conclusio difficilis admodum est, ideoque 
+      <lb ed="#A" n="69"/>sequenti disput. ex professo examinanda. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e514"><!-- vaz-p1q30a3-d128 -->
+               <head xml:id="tavaz1-d1e201-Hd1e517">Disputatio 128</head>
+               <head xml:id="tavaz1-d1e201-Hd1e519" type="question-title">
+    Utrum nomen Vnitas significet 
+    positiuum aliquid, an solam 
+    negationem
+  </head>
+               <p xml:id="tavaz1-d1e201-d1e522">
+                  <lb ed="#A" n="70" type="fixed=115"/>DISDVTATIO CXXVIII. 
+      <lb ed="#A" n="71"/>Vtrum nomen Vnitas significet 
+      positi<lb ed="#A" n="72" break="no"/>uum aliquid, an solam 
+      nega<lb ed="#A" n="73" break="no"/>tionem 
+    </p>
+               <div xml:id="tavaz1-d1e201-Dd1e533">
+                  <head xml:id="tavaz1-d1e201-Hd1e535">Caput 1</head>
+                  <p xml:id="tavaz1-d1e201-d1e537">
+                     <lb ed="#A" n="74" type="fixed=115"/>CAPVI I. 
+      <lb ed="#A" n="75"/>Vnitatem formaliter esse solum quandam negationem in 
+      <lb ed="#A" n="76"/>ente, putant Sanctus Thomas, &amp; alij
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e546">
+                     <lb ed="#A" n="77"/>VT melius examinemus, quae in hoc articu 
+      <lb ed="#A" n="78"/>lo tradit Sanctus Thomas de terminis 
+      nu<lb ed="#A" n="79" break="no"/>meralibus, vtrum significent aliquid positiuum 
+      <lb ed="#A" n="80"/>in DEO, an solam negationem, oportet primum 
+      <lb ed="#A" n="81"/>disserere de vnitate, vtrum supra rationem entis 
+      <lb ed="#A" n="82"/>addat rationem aliquam positiuam, an solum ne 
+      <lb ed="#A" n="83"/>gationem, quam sane controuersiam de qua 
+      su<lb ed="#A" n="84" break="no"/>pra quaest. 11. eramus tractaturi, in hunc locum 
+      <lb ed="#A" n="85"/>reseruauimus. In ea igitur i. sententia est sanct 
+      <lb ed="#A" n="86"/>Thomae in hoc articulo, &amp; supra quaest. 11. artic. 1 
+      <lb ed="#A" n="87"/>&amp; 2. Caietani, &amp; recentiorum Thomistarum ibi 
+      <lb ed="#A" n="88"/>dem, Durandi in primum distinct. 24. q. 1. num. 9. 
+      <lb ed="#A" n="89"/>&amp; quaest. 2. num. 11. &amp; sequentibus, Gabrielis 
+      ea<lb ed="#A" n="90" break="no"/>dem distinct. q. 1, ar. 3. dub. 3. Capreoli qu. uart. 1. 
+      <lb ed="#A" n="91"/>conclus. 3. Gregor. q. 1. art. 1. in principio, &amp; 
+      con<lb ed="#A" n="92" break="no"/>clus. 3. Henric. quodlib. I. qu. 1. litera A. qui 
+      affir<lb ed="#A" n="93" break="no"/>mant, formalem rationem vnitatis esse 
+      negatio<lb ed="#A" n="94" break="no"/>nem diuisionis; quare dicunt, idem formaliter 
+      <lb ed="#A" n="95"/>esse vnum, atque indiuisum. Id autem non 
+      so<lb ed="#A" n="96" break="no"/>lum ita docent, vt formaliter ratio vnius 
+      negatio<lb ed="#A" n="97" break="no"/>ne exprimatur; verum etiam, vt nihil respondeat 
+      <lb ed="#A" n="98"/>huic negationi, tanquam materiale significatum, 
+      <lb ed="#A" n="99"/>in quo ratio formalis vnitatis consistat: sicut vox 
+      <lb ed="#A" n="100"/>incorruptibile, negationem significat expresse, &amp; 
+      <lb ed="#A" n="101"/>tamen ei respondet ratio positiua, vt materiale 
+      <lb ed="#A" n="102"/>significatum, quam melius per negationem 
+      signi<lb ed="#A" n="103" break="no"/>ficamus. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e607">
+                     <lb ed="#A" n="104"/>Probatur haec sententia hoc vnico argumento 
+      <lb ed="#A" n="105"/>Quacunque ratione positiua remota ab ente, 
+      et<lb ed="#A" n="106" break="no"/>iam per intellectum, ens semper remanet vnum, 
+      <lb ed="#A" n="107"/>ergo nullo positiuo constituitur in farione vnius, 
+      <lb ed="#A" n="108"/>nihil autem aliud superest, quam negatio, ergo 
+      <lb ed="#A" n="109"/>vnitas in negatione consistit. Caeterum obseruan 
+      <lb ed="#A" n="110"/>dum est, sanctum Thom. solum loqui de vnita 
+      <lb ed="#A" n="111"/>te, quam vocant entitatiuam, &amp; quae solet 
+      con<lb ed="#A" n="112" break="no"/>stitui passio entis, &amp; in quauis re mundi reperi 
+      <lb ed="#A" n="113"/>tur. Nam si de vnitate, quae est principium 
+      nu<lb ed="#A" n="114" break="no"/>meri praedicamentalis sermo sit, putat ille vnita 
+      <lb ed="#A" n="115"/>tem addere supra substantiam aliquam rationem 
+      <lb ed="#A" n="116"/>positiuam, esse videlicet principium numeri. Do 
+      <!--00124.xml-->
+      <pb ed="#A" n="116"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>cet enim numerum praedicamenti quantitatis 
+      so<lb ed="#A" n="2" break="no"/>lum reperiri in rebus quantis: nam in alijs rebus 
+      <lb ed="#A" n="3"/>non videtur esse alius numerus, quam per ratio 
+      <lb ed="#A" n="4"/>nem nostram constituentem, &amp; numerantem pri 
+      <lb ed="#A" n="5"/>mam, secundam, &amp; tertiam vnitatem: &amp; sic de a 
+      <lb ed="#A" n="6"/>lijs. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e658">
+                  <head xml:id="tavaz1-d1e201-Hd1e660">Caput 2</head>
+                  <p xml:id="tavaz1-d1e201-d1e662">
+                     <lb ed="#A" n="7" type="fixed=116"/>CAPVT II. 
+      <lb ed="#A" n="8"/>Rationem formalem vnitatis, quae est passio entis 
+      <lb ed="#A" n="9"/>esse quid positiuum, probabilius sentiunt 
+      <lb ed="#A" n="10"/>Alexand. Bonau. &amp; Scotus.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e673">
+                     <lb ed="#A" n="11"/>EGo vero probabiliorem esse censeo 
+      senten<lb ed="#A" n="12" break="no"/>tiam Alexandri prima parte quaest. 13. mem. 
+      <lb ed="#A" n="13"/>primo &amp; 2. Bonauenturae in primum, 
+      distinctio<lb ed="#A" n="14" break="no"/>ne 24. articu. 1. quaestione prima Scoti 4. meta 
+      <lb ed="#A" n="15"/>phy. quaestione quarta, qui docent, rationem for 
+      <lb ed="#A" n="16"/>malem vnitatis esse quid positiuum: tamersi eam 
+      <lb ed="#A" n="17"/>diuerso modo explicent. Alexander censet, esse 
+      <lb ed="#A" n="18"/>conformationem effectus ad primam causam in 
+      <lb ed="#A" n="19"/>genere efficientis: nam conformationem ad 
+      pri<lb ed="#A" n="20" break="no"/>mam causam in genere causae exemplaris, &amp; quasi 
+      <lb ed="#A" n="21"/>formalis, dicit esse veritatem, &amp; in genere causa 
+      <lb ed="#A" n="22"/>finalis, esse bonitatem, quae sunt duae aliae 
+      passio<lb ed="#A" n="23" break="no"/>nes entis. Ita docuit Alexand. in illo membro 2 
+      <lb ed="#A" n="24"/>Alij vero nullo modo explicant rationem 
+      vnita<lb ed="#A" n="25" break="no"/>tis, sed tantum affirmant, esse rationem aliquam 
+      <lb ed="#A" n="26"/>positiuam. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e710">
+                     <lb ed="#A" n="27"/>Est autem haec opinio meo iudicio expressa ab 
+      <lb ed="#A" n="28"/>Aristotele 10. meta. cap. 5. vbi scribit in haec 
+      ver<lb ed="#A" n="29" break="no"/>ba: Opponuntur autem vnum, &amp; multa multis modis 
+      <lb ed="#A" n="30"/>quorum vno, vnum &amp; multitudo, vt indiuisibile, &amp; 
+      di<lb ed="#A" n="31" break="no"/>uisibile, quod enim aut diuisum, aut diuisibile est, 
+      multi<lb ed="#A" n="32" break="no"/>tudo quadam dicitur, quod vero indiuisibile, aut non di 
+      <lb ed="#A" n="33"/>uisum, vnum. Cum autem oppositionis quatuor sint modi, 
+      <lb ed="#A" n="34"/>borum alius secundum priuationem dicatur, contraria 
+      e<lb ed="#A" n="35" break="no"/>runt profecto, &amp; neque vt contradictio, neque vt ea, qua 
+      <lb ed="#A" n="36"/>ad aliquid dicuntur. Quibus cum dicat, quatuor esse 
+      <lb ed="#A" n="37"/>genera oppositionum, &amp; ijs numeratis conclu 
+      <lb ed="#A" n="38"/>dat vnitatem &amp; multitudinem esse contraria: quis 
+      <lb ed="#A" n="39"/>negare audeat, solum opponi priuatiue, vt aduer 
+      <lb ed="#A" n="40"/>sarij contendunt. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e743">
+                     <lb ed="#A" n="41"/>Verum obijcies, etiam dixit Aristoteles 
+      oppo<lb ed="#A" n="42" break="no"/>ni secundum priuationem, cum ait horum alius 
+      se<lb ed="#A" n="43" break="no"/>cundum priuationem dicatur. Hoc enim genus 
+      oppo<lb ed="#A" n="44" break="no"/>sitionis non negauit inter vnum &amp; multa, 
+      sicu<lb ed="#A" n="45" break="no"/>negauit oppositionem contradictionem, &amp; 
+      rela<lb ed="#A" n="46" break="no"/>tiuam. Respondeo primum. si eam oppositionem 
+      <lb ed="#A" n="47"/>non negauit, saltem non asseruit, solum oppon 
+      <lb ed="#A" n="48"/>secundum priuationem: sed cum addidit, 
+      contra<lb ed="#A" n="49" break="no"/>ria erunt profecto, quibus verbis enumerauit genus 
+      <lb ed="#A" n="50"/>oppositionis contrariae vnum ex quatuor, quae es 
+      <lb ed="#A" n="51"/>se dixit, expresse sensit opponi contrarie. Quare 
+      <lb ed="#A" n="52"/>si concedimus opponi priuatiue, ita id debemus 
+      <lb ed="#A" n="53"/>asserere vt non negemus etiam opponi 
+      contrarie<lb ed="#A" n="54" break="no"/>Nam quod ait Auerroes in illum locum, ideo A 
+      <lb ed="#A" n="55"/>ristotelem dixisse opponi contrarie, quia ad hanc 
+      <lb ed="#A" n="56"/>oppositionem reducitur priuatiua, qua proprie 
+      <lb ed="#A" n="57"/>vnum &amp; multa opponuntur, commentitium est 
+      <lb ed="#A" n="58"/>Si enim vnum &amp; multa proprie opponerentur 
+      <lb ed="#A" n="59"/>priuatiue, &amp; nullo modo contrarie, etiamsi 
+      op<lb ed="#A" n="60" break="no"/>positio contraria ad priuatiuam reducatur, non 
+      <lb ed="#A" n="61"/>debebat Aristot. ex quatuor generibus 
+      opposi<lb ed="#A" n="62" break="no"/>tionis, quae eo loco proposuit, eligere illud, quod 
+      <lb ed="#A" n="63"/>proprie vnitati &amp; multitudini non conueniebat. 
+      <lb ed="#A" n="64"/>&amp; illud magis asseueranter ipsis tribuere: siquidem 
+      <lb ed="#A" n="65"/>non satis constat exverbis citatis, Aristotelem 
+      <lb ed="#A" n="66"/>oppositionem priuatiuam vnitati &amp; multitudini 
+      <lb ed="#A" n="67"/>assignasse. Quare Sanctus Thomas in eum locum 
+      <!--00124.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>docet, sententiam esse Atistotelis vnum, &amp; 
+      mul<lb ed="#A" n="69" break="no"/>ta opponi contrarie, cum id verba illius disertae 
+      <lb ed="#A" n="70"/>indicent, ideo autem cum praemisisse illa verba, 
+      <lb ed="#A" n="71"/>horum alius secundum priuationem, non vt asseteret 
+      <lb ed="#A" n="72"/>vnum &amp; multa opponi priuatiue, sed quia 
+      oppo<lb ed="#A" n="73" break="no"/>sitio secundum priuationem, est radix 
+      oppositio<lb ed="#A" n="74" break="no"/>nis secundum contrarietatem: quod an verum sit 
+      <lb ed="#A" n="75"/>nostra parum refert: hoc nobis in praesenti 
+      suffi<lb ed="#A" n="76" break="no"/>ciat, ex mente Sancti Thomae ibidem, vnum &amp; 
+      <lb ed="#A" n="77"/>multa iuxta Aristotelis sensum eo loco, oppon 
+      <lb ed="#A" n="78"/>contrarie, quatenus vt diuisum &amp; ind iuisum esse 
+      <lb ed="#A" n="79"/>dicuntur. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e835">
+                     <lb ed="#A" n="80"/>Deinde respondeo his verbis, horum alius 
+      setun<lb ed="#A" n="81" break="no"/>dum priuationem dicitur, non affirmasse Aristotelem 
+      <lb ed="#A" n="82"/>vnum &amp; multa opponi priuatiue, sed enumerasse 
+      <lb ed="#A" n="83"/>vnum genus oppositionis ex quatuor quae dixit 
+      <lb ed="#A" n="84"/>esse, &amp; illud reliquisse tanquam minime 
+      conue<lb ed="#A" n="85" break="no"/>niens vnitati &amp; multitudini, deinde antequam e 
+      <lb ed="#A" n="86"/>numerat reliqua, affirmauit opponi contrarie, 
+      il<lb ed="#A" n="87" break="no"/>lis verbis, Contraria erunt profecto. Tandem 
+      recen<lb ed="#A" n="88" break="no"/>setalia duo genera, &amp; aperte fatetur, vnitati, &amp; 
+      <lb ed="#A" n="89"/>multitudini ea non conuenire. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e859">
+                     <lb ed="#A" n="90"/>Hanc vero expositionem colligo ex sequenti 
+      <lb ed="#A" n="91"/>bus verbis, quae talia sunt: Dicitur autem ex contra 
+      <lb ed="#A" n="92"/>rio ipsum vnum, &amp; significatur ex diuisibili 
+      indiuisibi<lb ed="#A" n="93" break="no"/>le, eo quod magis multitudo &amp; indiuisibile sensibile est. 
+      <lb ed="#A" n="94"/>Quasi dicat, ideo vnum significatur negatione 
+      <lb ed="#A" n="95"/>oppositi, cum dicitur indiuisibile, etiam si 
+      oppo<lb ed="#A" n="96" break="no"/>natur illi contrarie, quia multitudo magis 
+      sensibi<lb ed="#A" n="97" break="no"/>lis, &amp; nota est, &amp; quia vt ait paulo inferius, sim 
+      pli<lb ed="#A" n="98" break="no"/>cia &amp; prima, qualis est vnitas, melius negatione 
+      <lb ed="#A" n="99"/>significamus, cum tamen eorum ratio sit positius 
+      <lb ed="#A" n="100"/>quam etiam rationem reddit Alexander loco 
+      ci<lb ed="#A" n="101" break="no"/>tato. Quodsi ex senrentia Aristotelis vnum &amp; 
+      <lb ed="#A" n="102"/>multa priuatiue opponerentur, frustra illi obie 
+      <lb ed="#A" n="103"/>ctioni occurrisset. Si enim vnitas in negatione 
+      <lb ed="#A" n="104"/>formaliter consistit, aut in priuatione, quid 
+      mi<lb ed="#A" n="105" break="no"/>rum si nomine negatiuo significetur. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e896">
+                     <lb ed="#A" n="106"/>Difficile tamen videtur, quod initio capitis 
+      <lb ed="#A" n="107"/>dixit Aristot. his verbis: Opponitur autem vnum, c 
+      <lb ed="#A" n="108"/>multa multis modis, quorum vno vnum, &amp; multitudo v 
+      <lb ed="#A" n="109"/>indiuisibile &amp; diuisibile, quod enim aut diuisum, aut di 
+      <lb ed="#A" n="110"/>uisibile est, multitudo quadam dicitur, quod vero indiui 
+      <lb ed="#A" n="111"/>sibile, aut non indiuisum, vnum. Cum autem 
+      oppositio<lb ed="#A" n="112" break="no"/>num quatuor sint genera, &amp; caetera, quae supta 
+      reci<lb ed="#A" n="113" break="no"/>tauimus, quibus verbis videtur Arist. docere, vi 
+      <lb ed="#A" n="114"/>num &amp; multa non solum conrrarie, nec 
+      priuati<lb ed="#A" n="115" break="no"/>de tantum, sed alijs quoque modis opponi, nam 
+      <lb ed="#A" n="116"/>si duobus illis, priuatiue scilicet, &amp; contrariae 
+      so<lb ed="#A" n="117" break="no"/>lum opposita essent non multis, sed duobus 
+      tan<lb ed="#A" n="118" break="no"/>tum modis opponeretur. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e927">
+                     <lb ed="#A" n="119"/>Hujus difficultatis vix apud Aristotelis inter 
+      <lb ed="#A" n="120"/>pretes aliquam inuenies factam mentionem, tan 
+      <lb ed="#A" n="121"/>etsi Sanctus Thomas in eum locum eam leuiter 
+      <lb ed="#A" n="122"/>insinuauerit. Sensus igitur est, vnum &amp; 
+      mul<lb ed="#A" n="123" break="no"/>ta opponi quidem multis modis, non quidem 
+      <lb ed="#A" n="124"/>multis oppositionum generibus, quatenus 
+      consi<lb ed="#A" n="125" break="no"/>derantur, vt diuisum &amp; indiuisum, sic enim 
+      so<lb ed="#A" n="126" break="no"/>la contrarietatis oppositione dixit opponi, sed 
+      <lb ed="#A" n="127"/>multis modis, quibus vnum &amp; multa vsurpari 
+      <lb ed="#A" n="128"/>solent, quouis enim modo capiantur, opposi 
+      <lb ed="#A" n="129"/>ta sunt. Vnus autem est, quo significantur vi 
+      <lb ed="#A" n="130"/>diuisum &amp; indiuisum, &amp; hoc indicauit, cum di 
+      <lb ed="#A" n="131"/>xit. Quorum vno scilicet modo) vnum &amp; multitudo 
+      <lb ed="#A" n="132"/>vt diuisibile &amp; indiuisibile, hoc est, ex varijs 
+      mo<lb ed="#A" n="133" break="no"/>dis, quibus capiuntur vnitas &amp; multitudo, vnus 
+      <lb ed="#A" n="134"/>est, quatenus significantur, vt diuisum &amp; indiui 
+      <lb ed="#A" n="135"/>sum, sunt enim alij modi, quibus vnum &amp; multa 
+      <!--00125.xml-->
+      <pb ed="#A" n="117"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>svsurpari solent, quos enumerat statim eodem ca 
+      <lb ed="#A" n="2"/>pite his verbis. Ita vnius, quidem est (quemadmodun 
+      <lb ed="#A" n="3"/>&amp; in diuisione contrariorum descripsimus) idem, simile, &amp; 
+      <lb ed="#A" n="4"/>aequale, multitudinis vero, diuersum, dissimile, &amp; inae 
+      <lb ed="#A" n="5"/>quale est, de quibus statim disserit, &amp; varias 
+      acce<lb ed="#A" n="6" break="no"/>ptiones illorum affert. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e986">
+                     <lb ed="#A" n="7"/>Verum enim vero, si Aristoteles verbis 
+      allega<lb ed="#A" n="8" break="no"/>tis vellet significare, vnum &amp; multa opposita est 
+      <lb ed="#A" n="9"/>se multis modis oppositionis, etiam vt significam 
+      <lb ed="#A" n="10"/>tur, sicut diuisum &amp; indiuisum, hoc non obstaret, 
+      <lb ed="#A" n="11"/>quo minus non opponerentur contrarie, vt nos 
+      <lb ed="#A" n="12"/>contendimus; imo sequeretur, non solum 
+      oppo<lb ed="#A" n="13" break="no"/>ni priuatiue, vt aduersarij defendunt. Et haec satis 
+      <lb ed="#A" n="14"/>de testimonio Arist. quod instar omnium quae 
+      af<lb ed="#A" n="15" break="no"/>serri possunt, nobis esse debet. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1008">
+                     <lb ed="#A" n="16"/>Sed ratione probatur, primum quidem 
+      argu<lb ed="#A" n="17" break="no"/>mento ad hominem. Si enim verum est, vt 
+      San<lb ed="#A" n="18" break="no"/>ctus Thomas fatetur locis citatis, vnitatem, qua 
+      <lb ed="#A" n="19"/>est principium numeri in praedicamentis 
+      quanti<lb ed="#A" n="20" break="no"/>tatis, significare aliquid positiuum formaliter, 
+      <lb ed="#A" n="21"/>quod alio modo explicari nequit, quam quod sit 
+      <lb ed="#A" n="22"/>principium numeri, cur ergo vnitas, quam 
+      vo<lb ed="#A" n="23" break="no"/>cant transcendentalem, quae non solum in rebus 
+      <lb ed="#A" n="24"/>quantis, sed in alijs etiam reperitur, non erit 
+      for<lb ed="#A" n="25" break="no"/>maliter quid positiuum, quod principium 
+      multi<lb ed="#A" n="26" break="no"/>tudinis esse dicatur. Quod si respondeas, 
+      vnita<lb ed="#A" n="27" break="no"/>tem numeri, qui est in praedicamento quantita 
+      <lb ed="#A" n="28"/>tis, supra substantiam addere aliquid positiuum re 
+      <lb ed="#A" n="29"/>ipsa distinctum, scilicet quantitatem corporis con 
+      <lb ed="#A" n="30"/>tinuam, supra illam tamen nihil positiuum adde 
+      <lb ed="#A" n="31"/>re, sed solam negationem diuisignis, &amp; ita, quod 
+      <lb ed="#A" n="32"/>ad hoc spectat, eandem esse rationem vtriusque 
+      <lb ed="#A" n="33"/>vnitatis, sequitur magnum absurdum, nempe 
+      <lb ed="#A" n="34"/>numerum de praedicamento quantitatis 
+      formali<lb ed="#A" n="35" break="no"/>ter, non nisi priuationibus constare, quod vero 
+      <lb ed="#A" n="36"/>vnitas numeri qui collocatur in praedicamento, 
+      <lb ed="#A" n="37"/>sit in quantitate continua, parum refert, 
+      quanti<lb ed="#A" n="38" break="no"/>tas enim continna non est ratio formalis vnitatis, 
+      <lb ed="#A" n="39"/>sed materiale subiectum, alioquin vna species 
+      <lb ed="#A" n="40"/>quantitatis secundum rationem formalem scili 
+      <lb ed="#A" n="41"/>cet secundum continuitatem, componeret aliam 
+      <lb ed="#A" n="42"/>nempe numerum: vnitas vero consideratur a 
+      <lb ed="#A" n="43"/>Mathematico abstracta a quauis materia, &amp; a quan 
+      <lb ed="#A" n="44"/>titate corporis: ergo quamuis vnitas negatione 
+      <lb ed="#A" n="45"/>commodius a nobis explicetur propter rationem 
+      <lb ed="#A" n="46"/>superius assignatam, eius tamen formalis ratio es 
+      <lb ed="#A" n="47"/>quid positiuum, quod explicari potest per 
+      princi<lb ed="#A" n="48" break="no"/>pium multitudinis. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1083">
+                     <lb ed="#A" n="49"/>Deinde probari potest: quoniam omnis 
+      ne<lb ed="#A" n="50" break="no"/>gatio, quae est in subiecto nascitur ex aliquo 
+      fun<lb ed="#A" n="51" break="no"/>damento positiuo, vt patet inductione: illud ergo 
+      <lb ed="#A" n="52"/>formale positiuum, quod consequitur negatio 
+      <lb ed="#A" n="53"/>diuisionis, erit formalis ratio vnitatis: nanque, vt 
+      <lb ed="#A" n="54"/>sequenti capite dicemus, ens vt ens, vel esse, 
+      signi<lb ed="#A" n="55" break="no"/>ficatum extra numerum singularem, &amp; pluralem, 
+      <lb ed="#A" n="56"/>abstrahitur ab vno &amp; a pluribus: ergo vt ei 
+      con<lb ed="#A" n="57" break="no"/>iungatur negatio diuisionis, aliquid etiam 
+      positi<lb ed="#A" n="58" break="no"/>uum ei accedere debet: alioquin non magis ei con 
+      <lb ed="#A" n="59"/>ueniret negatio diuisionis, quam ipsa diuisio, &amp; 
+      <lb ed="#A" n="60"/>multitudo. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1112">
+                     <lb ed="#A" n="61"/>Postremo, si vnitas est priuatio, aut negatio 
+      <lb ed="#A" n="62"/>non potest esse alterius, quam multitudinis: ac 
+      <lb ed="#A" n="63"/>proinde prior debet esse multitudo, quam 
+      vni<lb ed="#A" n="64" break="no"/>tas: quia prior est nabirus, quam priuatio: 
+      con<lb ed="#A" n="65" break="no"/>sequens autem est absurdum, quia vnitas potius 
+      <lb ed="#A" n="66"/>est principium multitudinis. Respondent ali 
+      <lb ed="#A" n="67"/>qui, vnitatem formaliter consistere in negatione 
+      <!--00125.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>multitudinis, non formaliter acceptae, sed pro 
+      <lb ed="#A" n="69"/>fundamento: fundamentum autem multitudinis 
+      <lb ed="#A" n="70"/>dicunt esse hanc &amp; illam entitatem. Verum haec 
+      <lb ed="#A" n="71"/>solutio friuola est: nam vnitas non priuat hac, &amp; 
+      <lb ed="#A" n="72"/>illa entitate: alioqui vnitas, quae est in Petro, &amp; 
+      <lb ed="#A" n="73"/>Ioanne, esset negatio entitaris ipsius Petri, &amp; 
+      <lb ed="#A" n="74"/>loannis, quae est multitudo pro fundamento. 
+      Di<lb ed="#A" n="75" break="no"/>ces, non esse priuationem entitatum secundum 
+      <lb ed="#A" n="76"/>rationem entis, sed secundum rationem huius, &amp; 
+      <lb ed="#A" n="77"/>illius simul. Verum hoc nihil aliud est, quam 
+      asse<lb ed="#A" n="78" break="no"/>rere, vnitatem esse prinationem huius &amp; illius 
+      <lb ed="#A" n="79"/>entitatis, quatenus diuisae &amp; plures sunt: &amp; ita 
+      se<lb ed="#A" n="80" break="no"/>cundum illam rationem vnitas erit priuatio 
+      mul<lb ed="#A" n="81" break="no"/>titudinis formaliter; ac proinde multitudo erit 
+      <lb ed="#A" n="82"/>prior, quod tanquam absurdum supra 
+      infereba<lb ed="#A" n="83" break="no"/>mus. Porro autem negationem diuisionis, &amp; 
+      mul<lb ed="#A" n="84" break="no"/>titudinis idem esse; quia multitudo, &amp; diuisio 
+      for<lb ed="#A" n="85" break="no"/>maliter idem sunt, sequenti disp. patebit. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e1175">
+                  <head xml:id="tavaz1-d1e201-Hd1e1177">Caput 3</head>
+                  <p xml:id="tavaz1-d1e201-d1e1179">
+                     <lb ed="#A" n="86" type="fixed=117"/>CAPVT III. 
+      <lb ed="#A" n="87"/>Respondetur fundamento prioris sententiae.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e1186">
+                     <lb ed="#A" n="88"/>AD rationem prioris sententiae Respondeo 
+      <lb ed="#A" n="89"/>cogitari quidem posse rationem entis 
+      prae<lb ed="#A" n="90" break="no"/>cisa aliqua ratione positiua, etiamsi non intelliga 
+      <lb ed="#A" n="91"/>tur ratio vnitatis, aut pluralitatis. Ita enim vni 
+      <lb ed="#A" n="92"/>tas &amp; bonitas sunt passiones entis, vt ens 
+      sin<lb ed="#A" n="93" break="no"/>illis possit intellectu apprehendi, etiamsi cum 
+      il<lb ed="#A" n="94" break="no"/>lis reciprocetur. Quinimo aliter ponitur 
+      bo<lb ed="#A" n="95" break="no"/>nitas passio entis, quam vnitas: haec enim sola 
+      <lb ed="#A" n="96"/>non reciprocatur cum ente, sed vnitas vel 
+      plura<lb ed="#A" n="97" break="no"/>litas: bonitas autem sola cum ente conuertitur, 
+      <lb ed="#A" n="98"/>&amp; illius passio esse dicitur. Intelligitur autem 
+      <lb ed="#A" n="99"/>ratio entis non intellecta vnitate, nec 
+      pluralita<lb ed="#A" n="100" break="no"/>te, quoties concipimus ipsum ens, neque in 
+      nu<lb ed="#A" n="101" break="no"/>mero plurali nec in singulari, vt significatur 
+      ver<lb ed="#A" n="102" break="no"/>bo infinitiuo, Esse: quod si ens alijs nominibus, 
+      <lb ed="#A" n="103"/>aut verbis significatum, non potest cogitari, nisi 
+      <lb ed="#A" n="104"/>aut sub vnitate, aut sub multitudine; non ideo 
+      <lb ed="#A" n="105"/>est, quia ratio vnitatis sit negatio; nam licet ita 
+      <lb ed="#A" n="106"/>esset, posset sine negatione apprehendi, sed quia 
+      <lb ed="#A" n="107"/>nomina per numerum singularem, &amp; pluralem 
+      <lb ed="#A" n="108"/>disposita sunt, vt significent ens tanquam vnum, 
+      <lb ed="#A" n="109"/>vel tanquam multa. Quare idem argumentum 
+      <lb ed="#A" n="110"/>contra priorem sententiam confici posset, &amp; 
+      eo<lb ed="#A" n="111" break="no"/>dem modo soluendum esset, nempe quacumque 
+      <lb ed="#A" n="112"/>negatione praecisa semper quodlibet ens appre 
+      <lb ed="#A" n="113"/>hendi, vt vnum, &amp; singulare, ac proinde 
+      ratio<lb ed="#A" n="114" break="no"/>nem vnitatis, non posse in negatione constitui. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e1250"><!-- vaz-p1q30a3-d129 -->
+               <head xml:id="tavaz1-d1e201-Hd1e1253">Disputatio 129</head>
+               <head xml:id="tavaz1-d1e201-Hd1e1255" type="question-title">
+    An nomina numeralia significent 
+    aliquid positiuum in Deo
+  </head>
+               <p xml:id="tavaz1-d1e201-d1e1258">
+                  <lb ed="#A" n="115" type="fixed=117"/>DISPVTATIO CXXIX. 
+      <lb ed="#A" n="116"/>An nomina numeralia significent 
+      <lb ed="#A" n="117"/>aliquid positiuum in Deo
+      </p>
+               <div xml:id="tavaz1-d1e201-Dd1e1267">
+                  <head xml:id="tavaz1-d1e201-Hd1e1269">Caput 1</head>
+                  <p xml:id="tavaz1-d1e201-d1e1271">
+                     <lb ed="#A" n="118" type="fixed=117"/>CAPVT I. 
+      <lb ed="#A" n="119"/>Duae Scholasticorum sententiae.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e1278">
+                     <lb ed="#A" n="120"/>EX superiori disputatione non obscure colli 
+      <lb ed="#A" n="121"/>gi videtur, quid in praesenti dicendum sit, 
+      <lb ed="#A" n="122"/>sed quia varie etiam in hac re Scholastici sense 
+      <lb ed="#A" n="123"/>runt, eorum placita recensere opere pretium erit 
+      <!--00126.xml-->
+      <pb ed="#A" n="118"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>
+                     <ref xml:id="tavaz1-d1e201-Rd1e1297">Magister ergo in 1. distinctione 24.</ref> existimat, 
+      no<lb ed="#A" n="2" break="no"/>men multitudinis, &amp; numeri Deo solum conue 
+      <lb ed="#A" n="3"/>nire negatiue, &amp; metaphorice, vt nihil positiuum 
+      <lb ed="#A" n="4"/>ei proprie conueniens significet: tribuitur itaque 
+      <lb ed="#A" n="5"/>(inquit ille) hoc nomen Deo, ad remouendam v. 
+      <lb ed="#A" n="6"/>nitatem personarum: quare secundum Magistri 
+      <lb ed="#A" n="7"/>idem significat nomen numeri in Deo, atque non 
+      <lb ed="#A" n="8"/>vnum: imo addit eodem modo secundum meta 
+      <lb ed="#A" n="9"/>phoram haec nomina Deo conuenire sicut 
+      nomi<lb ed="#A" n="10" break="no"/>naquantitatis continuae, vt longitudo, latitudo, &amp; 
+      <lb ed="#A" n="11"/>profunditas. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1322">
+                     <lb ed="#A" n="12"/>Huic sententiae ex aduerso se opponunt 
+      Scho<lb ed="#A" n="13" break="no"/>lastici omnes, quotquot huius controuersiae men 
+      <lb ed="#A" n="14"/>tionem fecerunt. Alexander prima parte quaest 
+      <lb ed="#A" n="15"/>45. memb. 2. &amp; 3. Bonauentura in primum dist 
+      <lb ed="#A" n="16"/>24. articulo 2. quaest. 1. Scotus quaestio. I. in fine 
+      <lb ed="#A" n="17"/>Gregor. qu. 2. articulo 4. Gabr. qu. 1. artic. 2. &amp; art. 
+      <lb ed="#A" n="18"/>3. dub. 2. Durand. quaest. 1. Capreolus quaestio.t. 
+      <lb ed="#A" n="19"/>artic. 2. conclus. 2. &amp; 3. Marsilius in primum qui 
+      <lb ed="#A" n="20"/>27. articu. 2. &amp; 3. ad dubium secundum, Sanctus 
+      <lb ed="#A" n="21"/>Thomas, &amp; Caietan. &amp; Canariensis in hoc artic. 
+      <lb ed="#A" n="22"/>docentque contra Magistrum, nomen numer 
+      <lb ed="#A" n="23"/>non significare in Deo solam negationem vnita 
+      <lb ed="#A" n="24"/>tis, &amp; indiuisionis. Eorum vero ratio est huius 
+      <lb ed="#A" n="25"/>modi: Si nomen numeri solum significaret 
+      nega<lb ed="#A" n="26" break="no"/>tionem vnitatis, &amp; indiuisionis, cum eadem si 
+      <lb ed="#A" n="27"/>ratio vnitatis, omnia nomina numerorum signi 
+      <lb ed="#A" n="28"/>ficarent negationem eiusdem rationis formalis 
+      <lb ed="#A" n="29"/>&amp; vnitatis; idem igitur esset Deo tribuere terna 
+      <lb ed="#A" n="30"/>rium, quod tribuere quaternarium: quia idem o 
+      <lb ed="#A" n="31"/>mnino haec duo significarent: quod est plane 
+      <lb ed="#A" n="32"/>absurdum. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1370">
+                     <lb ed="#A" n="33"/>Caeterum licet praedicti Doctores contra 
+      Ma<lb ed="#A" n="34" break="no"/>gistrum conspirent eo modo, quem diximus, in 
+      <lb ed="#A" n="35"/>ter se tamen variant in explicanda significatione 
+      <lb ed="#A" n="36"/>nominum multitudinis, &amp; numeri. Nam San 
+      <lb ed="#A" n="37"/>ctus Thomas in hoc articulo, quem sequitur Ca 
+      <lb ed="#A" n="38"/>ietanus, &amp; Canariensis ibidem, &amp; Capreolus 
+      lo<lb ed="#A" n="39" break="no"/>co allegato, affirmant nomina multitudinis prae 
+      <lb ed="#A" n="40"/>ter vnitates nihil formaliter supra ipsas significa 
+      <lb ed="#A" n="41"/>re, sed solam negationem, non (vt dixit Magister 
+      <lb ed="#A" n="42"/>negationem vnitatis; sed diuisionis circa 
+      vnam<lb ed="#A" n="43" break="no"/>quamque rem: cumque ex sententia Sancti 
+      Tho<lb ed="#A" n="44" break="no"/>mae ratio vnitatis posita sit in hac negatione 
+      diui<lb ed="#A" n="45" break="no"/>sionis; nomen multitudinis supra ipsas vnitates 
+      <lb ed="#A" n="46"/>nihil formale, nec reale, nec rationis significabit 
+      <lb ed="#A" n="47"/>Horum sententia, non video, qua alia ratione 
+      <lb ed="#A" n="48"/>probari possit, nisi quia, si haec nomina aliquam 
+      <lb ed="#A" n="49"/>rationem multitudinis supra vnitates 
+      significa<lb ed="#A" n="50" break="no"/>rent, sequeretur omnem multitudinem etiam 
+      re<lb ed="#A" n="51" break="no"/>rum spiritualium esse in praedicamento quantita 
+      <lb ed="#A" n="52"/>tis, quod ipsi putant absurdum. Ideo namque 
+      <lb ed="#A" n="53"/>multitudo rerum quantarum est in 
+      praedicamen<lb ed="#A" n="54" break="no"/>to, quia supra vnitates addit aliquam rationem 
+      <lb ed="#A" n="55"/>positiuam. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e1423">
+                  <head xml:id="tavaz1-d1e201-Hd1e1425">Caput 2</head>
+                  <p xml:id="tavaz1-d1e201-d1e1427">
+                     <lb ed="#A" n="56" type="fixed=118"/>CAPVT II. 
+      <lb ed="#A" n="57"/>Nomina numerorum in Deo, significare aliquid 
+      <lb ed="#A" n="58"/>positiuum supra singulas vnitates, 
+      <lb ed="#A" n="59"/>verior opinio est. 
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e1438">
+                     <lb ed="#A" n="60"/>MIhi probabilior semper visa est opinio alio 
+      <lb ed="#A" n="61"/>rum, qui docent, nomina multitudinis non 
+      <lb ed="#A" n="62"/>solum non significare negationem vnitatis, vt con 
+      <lb ed="#A" n="63"/>tra Magistrum probauimus: verum etiam 
+      ratio<lb ed="#A" n="64" break="no"/>nem aliquam formalem supra singulas vnitates 
+      <lb ed="#A" n="65"/>denotare: siue dicamus, rationem vnitatis in 
+      ne<lb ed="#A" n="66" break="no"/>gatione, sine in positiuo consistere. Hanc senten 
+      <!--00126.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>tiam tradiderunt Bonauentura, &amp; Durandus 
+      su<lb ed="#A" n="68" break="no"/>perius citatus, tametsi doceat, rationem vnitatis 
+      <lb ed="#A" n="69"/>in priuatione formaliter sitam esse. Et colligitu 
+      <lb ed="#A" n="70"/>ex Alexandro 1. parte qu. 13. memb. 4. cum asse 
+      <lb ed="#A" n="71"/>rit, vnum &amp; multa opponi contrarie; quod ve 
+      <lb ed="#A" n="72"/>rum non esset, si multitudo non significaret ali 
+      <lb ed="#A" n="73"/>quid positiuum distinctum ab ipsis vnitatibus 
+      <lb ed="#A" n="74"/>formaliter, &amp; saltem secundum rationem. In 
+      ean<lb ed="#A" n="75" break="no"/>dem sententiam referri debet Marsilius in 1. qui 
+      <lb ed="#A" n="76"/>illa 27. articulo :. conclusione 3. qui quanuis 
+      exi<lb ed="#A" n="77" break="no"/>stimet, rationem formalem multitudinis esse per 
+      <lb ed="#A" n="78"/>intellectum (quod an verum sit statim dicemus 
+      <lb ed="#A" n="79"/>asserit tamen, esse positiuam distinctam ab vnita, 
+      <lb ed="#A" n="80"/>tib. per intellectum. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1490">
+                     <lb ed="#A" n="81"/>Ratione vero haec sententia sic probatur, vnum 
+      <lb ed="#A" n="82"/>&amp; multa opponuntur contrarie, vt praecedent 
+      <lb ed="#A" n="83"/>disputatione ostensum est, vel saltem priuatiue 
+      <lb ed="#A" n="84"/>atque vno ex his modis opponi citra 
+      controuer<lb ed="#A" n="85" break="no"/>siam est. Si autem opponuntur contrarie, necesse 
+      <lb ed="#A" n="86"/>est in vtroque extremo esse formam positiuam 
+      <lb ed="#A" n="87"/>contrariam: quodsi multitudo nullam rationem 
+      <lb ed="#A" n="88"/>significaret praeter ipsas vnitates formaliter, non 
+      <lb ed="#A" n="89"/>essent duo extrema contraria opposita. Si vero 
+      <lb ed="#A" n="90"/>opponuntur priuatiue, priuatio debet esse ex 
+      par<lb ed="#A" n="91" break="no"/>te vnitatis non ex parte multitudinis, vt omnes 
+      <lb ed="#A" n="92"/>fatentur, docent qui rationem vnitatis in 
+      priua<lb ed="#A" n="93" break="no"/>uatione aut negatione sitam esse, vt expresse no 
+      <lb ed="#A" n="94"/>tauit S. Tho. supra quaestione 11. art. 2. ergo habi 
+      <lb ed="#A" n="95"/>tus &amp; forma positiua cui opposita est vnitas, vt 
+      <lb ed="#A" n="96"/>negatio debet esse in multitudine. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1527">
+                     <lb ed="#A" n="97"/>Respondebit aliquis, vnitatem non oppon 
+      <lb ed="#A" n="98"/>multitudini, sed diuisioni, sicut negationem illius 
+      <lb ed="#A" n="99"/>non multitudinis: &amp; ita non recte sequi multitu 
+      <lb ed="#A" n="100"/>dinem esse aliquam formam positiuam: id quod 
+      <lb ed="#A" n="101"/>docere videtur Sanctus Thomas in hoc articulo 
+      <lb ed="#A" n="102"/>ad tertium, cum ait. Vnum non remouet 
+      multitudi<lb ed="#A" n="103" break="no"/>nem, sed diuisionem. Sic igitur vnitas erit quidem 
+      <lb ed="#A" n="104"/>negatio diuisionis, non multitudinis. Hoc ipsum 
+      <lb ed="#A" n="105"/>docuerat S. Thomas etiam supra quaest. 11. artic. 
+      <lb ed="#A" n="106"/>2. ad 4. Verum haec solutio facile potest refelli, 
+      <lb ed="#A" n="107"/>primum ex Aristotele io. metaph. capit. 3. vbi ait, 
+      <lb ed="#A" n="108"/>vnum, &amp; multa opponi vno modo, sicut diuisum, 
+      <lb ed="#A" n="109"/>&amp; indiuisum, de qua acceptione vnitatis, &amp; 
+      mul<lb ed="#A" n="110" break="no"/>titudinis nunc disserimus, vt praecedenti 
+      dispu<lb ed="#A" n="111" break="no"/>tatione notauimus. Tum etiam definiens eodem 
+      <lb ed="#A" n="112"/>capite multitudinem, dixit. Quod enim diuisum 
+      es<lb ed="#A" n="113" break="no"/>multitudo quadam dicitur: ergo idem formaliter est 
+      <lb ed="#A" n="114"/>multitudo, atque diuisio: quare si vnitas consistit 
+      <lb ed="#A" n="115"/>in negatione diuisionis, posita etiam erit in 
+      nega<lb ed="#A" n="116" break="no"/>tione multitudinis: oportebit igitur ipsam 
+      mul<lb ed="#A" n="117" break="no"/>titudinem esse vt habitum, &amp; formam positiuam. 
+      <lb ed="#A" n="118"/>Ad haec, si verum esset id, quod inquit S. 
+      Thoma<lb ed="#A" n="119" break="no"/>in hoc articulo multitudine videlicet 
+      transcen<lb ed="#A" n="120" break="no"/>dentalem nihil aliud esse, quam res ipsas cum 
+      ne<lb ed="#A" n="121" break="no"/>gatione diuisionis circa vnamquamque; 
+      sequere<lb ed="#A" n="122" break="no"/>tur, vnum &amp; multa non esse opposita: quia 
+      vni<lb ed="#A" n="123" break="no"/>tas, quae significat indiuisionem, non opponitur 
+      <lb ed="#A" n="124"/>indiuisioni circa quamcunque rem, sed diuisio 
+      <lb ed="#A" n="125"/>ni plurium rerum inter se: ergo multitudo cu 
+      <lb ed="#A" n="126"/>opponitur vnitas significare debet non solum 
+      <lb ed="#A" n="127"/>diuisionis negationem circa vnamquamque rem, 
+      <lb ed="#A" n="128"/>verum etiam diuisionem plurium rerum 
+      in<lb ed="#A" n="129" break="no"/>ter se. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1602">
+                     <lb ed="#A" n="130"/>Ex quibus infero, non satis intelligi id, quod 
+      <lb ed="#A" n="131"/>ait Doctor sanctus in illa quaest. 11. articul. 2. ad 4. 
+      <lb ed="#A" n="132"/>nempe diuisionem formaliter in negatione 
+      con<lb ed="#A" n="133" break="no"/>sistere, qua vna res dicitur, non esse alia: hinc e¬ 
+      <!--00127.xml-->
+      <pb ed="#A" n="119"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>nim sequitur, in eius sententia non posse vnitatem 
+      <lb ed="#A" n="2"/>esse negationem diuisionis, quia vnius negatio 
+      <lb ed="#A" n="3"/>nis non est alia negatio. Sed neque dici potest itam 
+      <lb ed="#A" n="4"/>opponi priuatiue vnitatem, &amp; multitudinem, vt 
+      <lb ed="#A" n="5"/>negatio sit in multitudine, habitus vero, &amp; 
+      for<lb ed="#A" n="6" break="no"/>ma positiua in vnitate. Hoc enim praeterquam 
+      <lb ed="#A" n="7"/>quod nullis hactenus docuit, nec vllus alique 
+      <lb ed="#A" n="8"/>fundamento nixus poterit affirmare; ducit nos in 
+      <lb ed="#A" n="9"/>absurdum superius contra Magistrum 
+      impugna<lb ed="#A" n="10" break="no"/>tum, vt manifeste patet. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e1643">
+                  <head xml:id="tavaz1-d1e201-Hd1e1645">Caput 3</head>
+                  <p xml:id="tavaz1-d1e201-d1e1647">
+                     <lb ed="#A" n="11" type="fixed=119"/>CAPVT III. 
+      <lb ed="#A" n="12"/>Soluitur ratio secundae sententiae. 
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e1654">
+                     <lb ed="#A" n="13"/>AD argumentum sententiae sancti Thomae, 
+      <lb ed="#A" n="14"/>&amp; aliorum, quo probant, multitudinem 
+      trans<lb ed="#A" n="15" break="no"/>cendentalem non esse formam aliquam positiuam 
+      <lb ed="#A" n="16"/>supra singulas vnitates, etiam secundum rationem 
+      <lb ed="#A" n="17"/>Respondeo, idem dicendum esse de multitudine 
+      <lb ed="#A" n="18"/>rerum quantarum, &amp; quantitate carentium, ni 
+      <lb ed="#A" n="19"/>mirum vtrobique rationem multitudinis esse ali 
+      <lb ed="#A" n="20"/>quid positiuum supra singulas vnitates, quod 
+      <lb ed="#A" n="21"/>nomine diuisionis explicari solet : nec esse pe 
+      <lb ed="#A" n="22"/>culiare aliquid in vna multitudine, quod non sit 
+      <lb ed="#A" n="23"/>in alia, quo minus vtraque sit, in eodem 
+      praedi<lb ed="#A" n="24" break="no"/>camento. Quod enim singulae vnitates quantita 
+      <lb ed="#A" n="25"/>te continua praeditae sint, videtur omnino 
+      acci<lb ed="#A" n="26" break="no"/>dentarium ratione numeri, vt in praedicamento 
+      <lb ed="#A" n="27"/>ponatur: namque quantitas numeri cum sit 
+      dis<lb ed="#A" n="28" break="no"/>creta, non in singulis vnitatibus, sed in earum 
+      <lb ed="#A" n="29"/>diuisione, &amp; discretione attendenda est; haec 
+      au<lb ed="#A" n="30" break="no"/>tem etiam in spiritualibus reperitur. Quare Arith 
+      <lb ed="#A" n="31"/>metici ex eisdem prorsus principijs disputant de 
+      <lb ed="#A" n="32"/>numeris, siue rerum corporearum sint, siue 
+      spiri<lb ed="#A" n="33" break="no"/>tualium. Ego vero vehementer suspicor, vtrum 
+      <lb ed="#A" n="34"/>que numerum sub propria ratione numeri esse a 
+      <lb ed="#A" n="35"/>liquid per rationem, &amp; intellectum, tametsi vter 
+      <lb ed="#A" n="36"/>que in ratione multitudinis positiuam aliquam, 
+      <lb ed="#A" n="37"/>&amp; realem formam ratione saltem distinctam ab 
+      <lb ed="#A" n="38"/>vnitatibus significet: dixi sub ratione numeri 
+      <lb ed="#A" n="39"/>quia praeter realem diuisionem, numerus etiam 
+      <lb ed="#A" n="40"/>constat ratione prioris, &amp; posterioris: est enim 
+      <lb ed="#A" n="41"/>ordo inter primam, secundam, tertiam, &amp; reliquas 
+      <lb ed="#A" n="42"/>vnitates, ratione cuius dicuntur numeri differre 
+      <lb ed="#A" n="43"/>atqui hic ordo, &amp; distinctio numerorum solum 
+      <lb ed="#A" n="44"/>est per nostrum intellectum, sicut enim ab hac 
+      v<lb ed="#A" n="45" break="no"/>nitate incipimus numerare, &amp; definimus in illam 
+      <lb ed="#A" n="46"/>possemus e contrario incipere, &amp; denique a 
+      qua<lb ed="#A" n="47" break="no"/>cunque vnitate multitudinis initium ducere, 
+      libe<lb ed="#A" n="48" break="no"/>rum est. Cum igitur non sit ex natura rei in rebus 
+      <lb ed="#A" n="49"/>ipsis ordo primae, secundae, &amp; tertiae, sed in 
+      no<lb ed="#A" n="50" break="no"/>stro intellectu, sequitur eam rationem, qua es 
+      <lb ed="#A" n="51"/>sentialiter completur multitudo in ratione numer 
+      <lb ed="#A" n="52"/>esse per intellectum nostrum. Caeterum ratio 
+      <lb ed="#A" n="53"/>multitudinis realis est, &amp; positiua, distincta salte 
+      <lb ed="#A" n="54"/>operatione intellectus ab vnitatibus, ea vera est 
+      <lb ed="#A" n="55"/>ratio diuisionis, &amp; huic opponitur vnitas vt su 
+      <lb ed="#A" n="56"/>pra probatum manet. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1752">
+                     <lb ed="#A" n="57"/>Tria tamen obseruanda supersunt, primum 
+      <lb ed="#A" n="58"/>ta. est, esse quidem in diuinis personis ordinem 
+      pri<lb ed="#A" n="59" break="no"/>oris, &amp; posterioris secundum rem, &amp; non per 
+      so<lb ed="#A" n="60" break="no"/>lum intellectum, quo ordine ex natura rei est 
+      pri<lb ed="#A" n="61" break="no"/>ma, secunda, &amp; tertia persona: hic tamen orde 
+      <lb ed="#A" n="62"/>non est numeri; ordo enim numeri non est, nisi 
+      <lb ed="#A" n="63"/>per intellectum, nam vt numerentur personae, 
+      <lb ed="#A" n="64"/>ita posset initium numeri sumi ab Spiritu sancto, 
+      <lb ed="#A" n="65"/>sicut ab vnaquaque alia persona; ex qua doctrina 
+      <lb ed="#A" n="66"/>supra disputatione 37. cap. 4. facile &amp; recte ex 
+      <!--00127.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67"/>plicauimus locum Isidori, qui viris doctissimis 
+      <lb ed="#A" n="68"/>nostrae aetatis adeo difficilis visus est, vt corruptum 
+      <lb ed="#A" n="69"/>esse censerent. Est igitur ille ordo originis, quo 
+      <lb ed="#A" n="70"/>vna persona dicitur esse principium alterius, &amp; al 
+      <lb ed="#A" n="71"/>tera ab illa procedere, prior autem dicitur illa; a 
+      <lb ed="#A" n="72"/>qua alia procedit, quae vero procedit posterior 
+      di<lb ed="#A" n="73" break="no"/>citur, de quo ordine reali copiosius disseremus 
+      <lb ed="#A" n="74"/>disp. 169. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1798">
+                     <lb ed="#A" n="75"/>Secundo notandum est, ideo in Concilijs a 
+      <lb ed="#A" n="76"/>pud Patres aliquando dici, Deum nec capi 
+      nu<lb ed="#A" n="77" break="no"/>mero, nec recedere a numero, quia simul in eo 
+      <lb ed="#A" n="78"/>est vnitas essentiae, &amp; Trinitas personarum. Sic 
+      <lb ed="#A" n="79"/>in Concilio Toletano 11. in confessione fidei di 
+      <lb ed="#A" n="80"/>citur de Deo. Nec recedit a numero, nec capitur nume 
+      <lb ed="#A" n="81"/>ro. In relatione enim personarum numerus cernitur, in 
+      v<lb ed="#A" n="82" break="no"/>nitate autem essentiae, quid enumeratum sit non 
+      compre<lb ed="#A" n="83" break="no"/>henditur. Et Bernardus lib. 5. de consideratione 
+      <lb ed="#A" n="84"/>circa medium adducit illud Boethij de Trinitate, 
+      <lb ed="#A" n="85"/>Hoc vero vnum, in quo nullus est numerus, subiungit 
+      <lb ed="#A" n="86"/>vero ipse Bernardus, Trinitas est tamen Deus. Quid 
+      er<lb ed="#A" n="87" break="no"/>go destruimus, quod dictum est de vnitate, quia inducimu 
+      <lb ed="#A" n="88"/>Trinitatem? non, sed statuimus vnitatem. Et infra. Quia 
+      <lb ed="#A" n="89"/>sibi vult ipse (vt ita loquar) absque numero numerus? Si 
+      <lb ed="#A" n="90"/>tria, quomodo non numerus? Si vnum, vbi numerus? sec 
+      <lb ed="#A" n="91"/>habeo, inquis, quid numerem, &amp; quid non numerem, 
+      <lb ed="#A" n="92"/>substantia vnaest. personae tres sunt. Solum autem ibi 
+      <lb ed="#A" n="93"/>contra Gilbertum contendit Bernardus, non pos 
+      <lb ed="#A" n="94"/>se numerari essentiam &amp; personam, tanquam di 
+      <lb ed="#A" n="95"/>stincta, de quo satis superque disputatione 116. c. 
+      <lb ed="#A" n="96"/>5. &amp; 120. cap. 4. dictum est. Quod si aliquando 
+      <lb ed="#A" n="97"/>Patres absolute Deum praedicant sine numero; ex 
+      <lb ed="#A" n="98"/>parte essentiae intelligunt, ne plures Deos 
+      conce<lb ed="#A" n="99" break="no"/>dere videantur. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1856">
+                     <lb ed="#A" n="100"/>Tertio obserua, perperam allegari Ambrosium 
+      <lb ed="#A" n="101"/>a Magistro in primo distinct. illa 24. ad probandum 
+      <lb ed="#A" n="102"/>nomina numeri negatiue tantum in Deo dici, 
+      <lb ed="#A" n="103"/>nam Ambrosius libro 1. de fide capit. 2. qui 
+      lo<lb ed="#A" n="104" break="no"/>cus citatur a Magistro, loquitur solum in sensu 
+      <lb ed="#A" n="105"/>quem hactenus explicauimus, cum videtur 
+      nu<lb ed="#A" n="106" break="no"/>merum Deo negare, ait enim ante medium 
+      ca<lb ed="#A" n="107" break="no"/>pitis. Diuersitas (intelligit personarum) plures facit 
+      <lb ed="#A" n="108"/>vnitas potestatis excludit numeri quantitatem, quia vni 
+      <lb ed="#A" n="109"/>tas numerus non est, sed haec omnium est principium. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e1882"><!-- vaz-p1q30a4 -->
+               <head xml:id="tavaz1-d1e201-Hd1e1885">Articulus 4</head>
+               <p xml:id="tavaz1-d1e201-d1e1887">
+                  <lb ed="#A" n="80" type="fixed=120"/>COnclusio articuli est: Nomen persona, non so 
+      <lb ed="#A" n="81"/>lum voce commune est tribus personis, sed etiam 
+      si<lb ed="#A" n="82" break="no"/>gnificat rationem quandam communem illis, nempe mo 
+      <lb ed="#A" n="83"/>dum subsistendi incommunicabiliter. Quae quidem 
+      <lb ed="#A" n="84"/>conclusio, &amp; torius articuli doctrina 
+      disputatio<lb ed="#A" n="85" break="no"/>ne sequenti examinanda est. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e201-Dd1e1904"><!-- vaz-p1q30a4-d130 -->
+               <head xml:id="tavaz1-d1e201-Hd1e1907">Disputatio 130</head>
+               <head xml:id="tavaz1-d1e201-Hd1e1909" type="question-title">
+    An nomen Persona, significet rationem 
+    realem communem tribus 
+    diuinis personis
+  </head>
+               <p xml:id="tavaz1-d1e201-d1e1912">
+                  <lb ed="#A" n="86" type="fixed=120"/>DISPVTATIO CXXX. 
+      <lb ed="#A" n="87"/>An nomen Persona, significet rationem 
+      <lb ed="#A" n="88"/>realem communem tribus 
+      diui<lb ed="#A" n="89" break="no"/>nis personis 
+    </p>
+               <div xml:id="tavaz1-d1e201-Dd1e1923">
+                  <head xml:id="tavaz1-d1e201-Hd1e1925">Caput 1</head>
+                  <p xml:id="tavaz1-d1e201-d1e1927">
+                     <lb ed="#A" n="90" type="fixed=120"/>CAPVT I. 
+      <lb ed="#A" n="91"/>Variae Scholasticorum sententiae.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e1934">
+                     <lb ed="#A" n="92"/>IVxta varias opiniones, quas disputatione 127. 
+      <lb ed="#A" n="93"/>capite primo numerauimus, de significato 
+      <lb ed="#A" n="94"/>nominis, Persona, varie quoque Doctores in 
+      prae<lb ed="#A" n="95" break="no"/>senti controuersia sentiunt. In primis autem apud 
+      <lb ed="#A" n="96"/>omnes certum est, significatum huius nominis 
+      <lb ed="#A" n="97"/>non esse commune tribus personis re ipsa, de 
+      <lb ed="#A" n="98"/>quo nullo modo quaestio est: nec oppositum do 
+      <lb ed="#A" n="99"/>cuit Alexand. prima par. quaest. 56. memb. 4. at. 
+      <lb ed="#A" n="100"/>ticu. 2. quanuis perperam a nonnullis in eam sen 
+      <lb ed="#A" n="101"/>tentiam referatur. Controuersia autem est, an 
+      <lb ed="#A" n="102"/>significatum, nominis sit commune tribus per 
+      <lb ed="#A" n="103"/>sonis per rationem, sicut genus speciebus, vel 
+      <lb ed="#A" n="104"/>quodcunque vniuersale praedicatum est 
+      commu<lb ed="#A" n="105" break="no"/>ne particularibus. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e1967">
+                     <lb ed="#A" n="106"/>In qua sane quaestione 1. Scotus in 1. d. 13. qu.t. 
+      <lb ed="#A" n="107"/>&amp; Gabr. qu. 1. arti. 1. &amp; 2. docent nomen 
+      personae<lb ed="#A" n="108" break="no"/>tam in humanis, quam in diuinis, formaliter 
+      nec<lb ed="#A" n="109" break="no"/>significare secundam intentionem, qualis est 
+      ge<lb ed="#A" n="110" break="no"/>neris, &amp; speciei, nec aliquid reale positiuum, sed 
+      <lb ed="#A" n="111"/>negationem solam communem omnibus 
+      perso<lb ed="#A" n="112" break="no"/>nis, vt in illo cap. 1. disputationis 127. explicatum 
+      <lb ed="#A" n="113"/>est. Scotum sequutus videtur Canariensis supra 
+      <lb ed="#A" n="114"/>art. 3. q. 29. ad tertium argumentum. Sed 
+      reijcien<lb ed="#A" n="115" break="no"/>da est horum sententia a nobis cum S. Thoma in 
+      <!--00129.xml-->
+      <pb ed="#A" n="121"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>hoc articulo quia nomen personae, non 
+      negatio<lb ed="#A" n="2" break="no"/>nem formaliter, sed aliquem modum positiuum 
+      <lb ed="#A" n="3"/>significat, vt latius ostendemus in 3. part. quaest. 4. 
+      <lb ed="#A" n="4"/>artic. 2. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2006">
+                     <lb ed="#A" n="5"/>Caeteri Scholastici putant, nomen, Persona, 
+      ali<lb ed="#A" n="6" break="no"/>quid positiuum significare, in eius tamen 
+      explica<lb ed="#A" n="7" break="no"/>tione variant. <ref xml:id="tavaz1-d1e201-Rd1e2014">Henricus enim quodlibeto 5. qu. 6.</ref>
+                     <lb ed="#A" n="8"/>censet, nomen hoc significare intentionem 
+      com<lb ed="#A" n="9" break="no"/>munem omnibus personis; cumque in eadem quae 
+      <lb ed="#A" n="10"/>stione dicat duplicem esse intentionem, primam, &amp; 
+      <lb ed="#A" n="11"/>secundam, &amp; hanc posteriorem esse ens rationis, 
+      <lb ed="#A" n="12"/>quale est genus, species &amp; indiuiduum, videtur 
+      pla<lb ed="#A" n="13" break="no"/>ne asserere, nomen, Persona, significare ens 
+      ratio<lb ed="#A" n="14" break="no"/>nis; quia persona indiuidua substantia rationalis 
+      <lb ed="#A" n="15"/>naturae. Haec etiam opinio tribuitur Durando in 
+      <lb ed="#A" n="16"/>1. distinct. 23. q. 1. n. 5. ibi tamen solum asserit; hoc 
+      <lb ed="#A" n="17"/>nomen significare intentionem, non explicans. 
+      <lb ed="#A" n="18"/>vtrum primam, an secundam; infra vero 
+      videbi<lb ed="#A" n="19" break="no"/>mus, an eius sententia ab opinione S. Thomae, 
+      <lb ed="#A" n="20"/>quae verior est, aliquo modo differat. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2046">
+                     <lb ed="#A" n="21"/>Tertia igitur sententia est, nomen hoc 
+      signifi<lb ed="#A" n="22" break="no"/>care aliquid reale commune secundum rationem 
+      <lb ed="#A" n="23"/>omnibus personis Ita docent Alexand. 1 part. q. 56. 
+      <lb ed="#A" n="24"/>membr. 4. art. 2. Bonauent. in 1. distinct. 25. artic. 2. 
+      <lb ed="#A" n="25"/>quaest. 1. S. Thom. &amp; Caietan. in hoc articulo, 
+      Ca<lb ed="#A" n="26" break="no"/>preol. in 1. distinct. 25. quaest. 1. art. 1. Marsilius in 1. 
+      <lb ed="#A" n="27"/>quaest. 17. art. 2. concl. 2. nec ab ea opinione differt 
+      <lb ed="#A" n="28"/>Durandus, vt inferius explicabitur, quam 
+      recen<lb ed="#A" n="29" break="no"/>tiores etiam Thomistae sequuntur. Sed adhuc, &amp; 
+      <lb ed="#A" n="30"/>hi inter se dissentiunt. Nam recentiores aliqui 
+      <lb ed="#A" n="31"/>cum Caietano affirmant, nomen, Persona, 
+      signifi<lb ed="#A" n="32" break="no"/>care aliquid positiuum reale communem 
+      secun<lb ed="#A" n="33" break="no"/>dum rationem tribus personis Trinitatis, quod 
+      <lb ed="#A" n="34"/>quidem non solum sit superius quiditatiue tribus 
+      <lb ed="#A" n="35"/>personis, vt significantur hoc nomine, Persona, sed 
+      <lb ed="#A" n="36"/>etiam, vt significantur nomine Patris, &amp; Filij, &amp; 
+      <lb ed="#A" n="37"/>Spiritus sancti, ita vt haec praedicatio sit quiditatiua, 
+      <lb ed="#A" n="38"/>Pater aeternus est persona, &amp; haec, Paternitas est persona 
+      <lb ed="#A" n="39"/>litas. Fundamenta vero praecipua huius opinionis 
+      <lb ed="#A" n="40"/>ad haec duo reduci possunt, primum, aut nomen, 
+      <lb ed="#A" n="41"/>Persona, praedicatur denominatiue de Patre &amp; Fi 
+      <lb ed="#A" n="42"/>lio, &amp; Spiritui sancto, aut quiditatiue; nam alio 
+      <lb ed="#A" n="43"/>modo dici non potest; non praedicatur 
+      denomi<lb ed="#A" n="44" break="no"/>natiue, quia si hoc modo solum praedicaretur, 
+      con<lb ed="#A" n="45" break="no"/>cretum diceretur de concreto, nempe persona de 
+      <lb ed="#A" n="46"/>Patre, sed non abstractum de abstracto, videlicet 
+      <lb ed="#A" n="47"/>personalitas de relatione; sic enim videbimus in 
+      <lb ed="#A" n="48"/>alijs denominatiuis, in quibus concretum de 
+      con<lb ed="#A" n="49" break="no"/>creto praedicatur, sed non abstractum de 
+      abstra<lb ed="#A" n="50" break="no"/>cto, vt album de pariete; non tamen albedo de 
+      ab<lb ed="#A" n="51" break="no"/>stracto parietis; atqui de relationibus etiam in ab 
+      <lb ed="#A" n="52"/>stracto praedicatur personalitas; dicimus enim 
+      <lb ed="#A" n="53"/>Paternitas est personalitas, ergo illa praedicatur in quid 
+      <lb ed="#A" n="54"/>quae enim in abstracto de alijs praedicantur, ad 
+      qui<lb ed="#A" n="55" break="no"/>ditatem pertinent. Quo fit, vt eodem gradu no 
+      <lb ed="#A" n="56"/>men, Persona, quod concretum significat, praedi 
+      <lb ed="#A" n="57"/>cetur de Patre, quo personalitas de paternitate 
+      di<lb ed="#A" n="58" break="no"/>citur. Eodem argumento probatur significatum 
+      <lb ed="#A" n="59"/>nominis, Persona, quiditatiue praedicari de Petro 
+      <lb ed="#A" n="60"/>aut de quouis altero homine singulari, non 
+      mo<lb ed="#A" n="61" break="no"/>do, vt significatur nomine, Persona, sed etiam 
+      no<lb ed="#A" n="62" break="no"/>mine, Petrus, Paulus, &amp;c. Vnde non minus haec est 
+      <lb ed="#A" n="63"/>quiditatiua, Petrus est persona, quam haec, Persona Pe 
+      <lb ed="#A" n="64"/>tri est persona. Idem de personalitatibus 
+      singulari<lb ed="#A" n="65" break="no"/>bus, &amp; de personalitate vniuerse, eadem 
+      propor<lb ed="#A" n="66" break="no"/>tione dicendum est 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2148">
+                     <lb ed="#A" n="67"/>Deinde, aut ratio communis personae, &amp; 
+      per<lb ed="#A" n="68" break="no"/>sonalitatis in Deo contrahitur ad esse huius, &amp; il¬ 
+      <!--00129.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>lius personae, &amp; personalitatis per absolutum, aut 
+      <lb ed="#A" n="70"/>per relatiuum, vel denique per aliquid vtrique 
+      <lb ed="#A" n="71"/>commune; per aliquid commune non potest, vt 
+      <lb ed="#A" n="72"/>patet; quia illud, quod contrahit, debet esse 
+      singu<lb ed="#A" n="73" break="no"/>lare; per absolutum etiam nequit fieri, quia 
+      alio<lb ed="#A" n="74" break="no"/>qui sequeretur, personas diuinas constitui, &amp; 
+      di<lb ed="#A" n="75" break="no"/>stingui proprietatibus absolutis, quod absurdum 
+      <lb ed="#A" n="76"/>esse probabitur infra disputat. 153. cap. 3. Superest 
+      <lb ed="#A" n="77"/>igitur, rationem personae &amp; personalitatis 
+      vniuer<lb ed="#A" n="78" break="no"/>sim contrahi ad hanc, &amp; illam personalitatem, &amp; 
+      <lb ed="#A" n="79"/>personam diuinam relatione; ergo signum est illa 
+      <lb ed="#A" n="80"/>duo praedicari quiditatiue de relationibus, quibus 
+      <lb ed="#A" n="81"/>adesse talis, &amp; talis determinantur; id enim quod 
+      <lb ed="#A" n="82"/>contrahitur, quiditatiue dicitur de 
+      contrahente<lb ed="#A" n="83" break="no"/>Caetera argumenta, quae fieri solent pro hac 
+      sen<lb ed="#A" n="84" break="no"/>tentia, solum probant, relationes personales esse 
+      <lb ed="#A" n="85"/>perlonalitates; non autem de ipsis, vt 
+      significan<lb ed="#A" n="86" break="no"/>tur nomine telationis praedicari quiditatiue 
+      signi<lb ed="#A" n="87" break="no"/>ficatum nominis, Persona. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e2201">
+                  <head xml:id="tavaz1-d1e201-Hd1e2203">Caput 2</head>
+                  <p xml:id="tavaz1-d1e201-d1e2205">
+                     <lb ed="#A" n="88" type="fixed=121"/>CAPVT II. 
+      <lb ed="#A" n="89"/>Nomen, Persona, significare quid commune tribus 
+      rela<lb ed="#A" n="90" break="no"/>tionibus diuinis, non quiditatiue, sed 
+      denomina<lb ed="#A" n="91" break="no"/>tiue, verior sententia est.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e2216">
+                     <lb ed="#A" n="92"/>MVlto probabilior mihi semper visa est 
+      sen<lb ed="#A" n="93" break="no"/>tentia, quae docet, nomen, Persona, 
+      significa<lb ed="#A" n="94" break="no"/>re quidem conceptum communem huic, &amp; illi 
+      <lb ed="#A" n="95"/>personae, vt significantur eodem nomine; non 
+      ta<lb ed="#A" n="96" break="no"/>men significare rationem communem 
+      quiditati<lb ed="#A" n="97" break="no"/>ue paternitati, &amp; filiationi, vt significantur his 
+      no<lb ed="#A" n="98" break="no"/>minibus relatiuis. Pro hac sententia non 
+      possu<lb ed="#A" n="99" break="no"/>mus referre Scholasticos praecedenti cap. 
+      allega<lb ed="#A" n="100" break="no"/>tos: illi enim excepto Caietano, &amp; Durando, solume 
+      <lb ed="#A" n="101"/>docent, nomen Persona, significare conceptum 
+      com<lb ed="#A" n="102" break="no"/>munem tribus personis, quod vno, &amp; alio modo 
+      <lb ed="#A" n="103"/>potest intelligi. Solus Caietan. peculiarem 
+      secu<lb ed="#A" n="104" break="no"/>tus est opinionem, quam iam retulimus: 
+      Duran<lb ed="#A" n="105" break="no"/>dus vero pro hac nostra sententia explicari 
+      po<lb ed="#A" n="106" break="no"/>test. Sed, vt eam ratione confirmemus, notandum 
+      <lb ed="#A" n="107"/>est in praedicamento substantiae esse primam, &amp; 
+      <lb ed="#A" n="108"/>secundam substantiam: Prima est indiuiduum 
+      il<lb ed="#A" n="109" break="no"/>lius, secunda vero quodcumque vniuersale 
+      prae<lb ed="#A" n="110" break="no"/>dicatum vsque ad generalissimum: nomen autem, 
+      <lb ed="#A" n="111"/>Substantia, &amp; significatum illius commune est 
+      pri<lb ed="#A" n="112" break="no"/>mae, &amp; secundae substantiae. Quo fit, vt nomen 
+      <lb ed="#A" n="113"/>Substantia, non significet aliquid commune 
+      essen<lb ed="#A" n="114" break="no"/>tiale, vel quiditatiuum: nam generalissimo illius 
+      <lb ed="#A" n="115"/>praedicamenti, &amp; singularibus illius nihil potes 
+      <lb ed="#A" n="116"/>esse commune essentialiter, &amp; quiditatiue praeter 
+      <lb ed="#A" n="117"/>ens, praesertim, quod proxime respiciat primam, 
+      <lb ed="#A" n="118"/>&amp; secundam substantiam, hoc est indiuidua, &amp; 
+      <lb ed="#A" n="119"/>vniuersalia praedicata substantiae, vt satis liquet. 
+      <lb ed="#A" n="120"/>Nomen igitur, Substantia, in vniuersum significat 
+      <lb ed="#A" n="121"/>modum quendam realem, qui quasi 
+      denominati<lb ed="#A" n="122" break="no"/>ne de prima, &amp; secunda praedicatur. Defumitur 
+      <lb ed="#A" n="123"/>autem haec demonstratio ex actu, &amp; quasi officio 
+      <lb ed="#A" n="124"/>substantiae, quod est subsistere; vel substare, hoc 
+      <lb ed="#A" n="125"/>est, sub alio esse, quod commune est primae, &amp; 
+      se<lb ed="#A" n="126" break="no"/>cundae substantiae, hoc est ei, quod est, primo &amp; 
+      se<lb ed="#A" n="127" break="no"/>cundo substare. Eodem modo, Hypostasis, seu Subsi 
+      <lb ed="#A" n="128"/>stentia, significat, quid commune Petro, &amp; Paulo 
+      <lb ed="#A" n="129"/>quasi denominatiue, hoc est, singulariter, &amp; indi 
+      <lb ed="#A" n="130"/>uidue existere. Quare haec est differentia inter no 
+      <lb ed="#A" n="131"/>men, Persona, nomen, Petrus, quod hoc significa 
+      <lb ed="#A" n="132"/>ipsam rem, cui conuenit denominatio personae 
+      <lb ed="#A" n="133"/>illud vero denotat ipsam denominationem, &amp; 
+      <lb ed="#A" n="134"/>modum subsistendi incommunicabiliter. Tum 
+      <!--00130.xml-->
+      <pb ed="#A" n="122"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>etiam a significato nominis, Petrus, abstrahitur 
+      fa<lb ed="#A" n="2" break="no"/>tio naturae communis essentialiter, sed ab hoc, &amp; 
+      <lb ed="#A" n="3"/>illo significato personae solum potest abstrahi 
+      ra<lb ed="#A" n="4" break="no"/>tio communis denominatiue Petro, &amp; Ioannis 
+      <lb ed="#A" n="5"/>tametsi essentialis sit huic &amp; illi personae, vt 
+      nomi<lb ed="#A" n="6" break="no"/>ne, Persona, significatur. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2331">
+                     <lb ed="#A" n="7"/>Deinde aduertendum est, personam definiri 
+      <lb ed="#A" n="8"/>per indiuiduum, seu incommunicabile: haec 
+      au<lb ed="#A" n="9" break="no"/>tem duo non significant conceptum quiditatiuum 
+      <lb ed="#A" n="10"/>rerum, sed denominatiuum: est enim indiuiduum 
+      <lb ed="#A" n="11"/>veluti passio propria cuiusque rei in ratione 
+      en<lb ed="#A" n="12" break="no"/>tis, sicut bonum; passio autem non praedicatur in 
+      <lb ed="#A" n="13"/>quid sed denominatiue: sic ergo non mirum est, si 
+      <lb ed="#A" n="14"/>ex hac etiam parte nomen, Persona, rationem de 
+      <lb ed="#A" n="15"/>nominatiuam significet Petri, &amp; loannis; 
+      quam<lb ed="#A" n="16" break="no"/>uis sit essentialis huic, &amp; illi personae, vt nomine, 
+      <lb ed="#A" n="17"/>Persona, significatur. Atque ideo recte admones 
+      <lb ed="#A" n="18"/>Scotus in 1. distinct. 23. quaest. 1. in fine, a tribus 
+      per<lb ed="#A" n="19" break="no"/>sonis Trinitatis, Patre videlicet, Filio, &amp; Spiritu 
+      <lb ed="#A" n="20"/>sancto non posse abstrahi conceptum communem 
+      <lb ed="#A" n="21"/>quiditatiue: bene tamen communem quasi 
+      pro<lb ed="#A" n="22" break="no"/>prium earum: proprium autem denominatiuo 
+      <lb ed="#A" n="23"/>praedicatur, vt proxime dicebamus. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2370">
+                     <lb ed="#A" n="24"/>Hinc ergo recte probatur nostra sententia: 
+      <lb ed="#A" n="25"/>nam cum nomen, Persona, formaliter, &amp; expresse 
+      <lb ed="#A" n="26"/>significet rationalis naturae incommunicabilem 
+      <lb ed="#A" n="27"/>subsistentiam, idem significabit persona diuina, 
+      <lb ed="#A" n="28"/>nisi quod in locum rationalis naturae, diuina 
+      de<lb ed="#A" n="29" break="no"/>bet substitui: in hac autem definitione licet ipsa 
+      <lb ed="#A" n="30"/>natura diuina, aut deitas, sit connotatum secundum 
+      <lb ed="#A" n="31"/>propriam rationem essentialem, significatum 
+      ta<lb ed="#A" n="32" break="no"/>men directum est denominatiuum respectu 
+      Pa<lb ed="#A" n="33" break="no"/>tris, Filij, &amp; Spiritus sancti; est enim modus ille 
+      <lb ed="#A" n="34"/>subsistendi per modum actus, est etiam ratio in 
+      <lb ed="#A" n="35"/>communicabilis, seu indiuidui, quae est veluti pas 
+      <lb ed="#A" n="36"/>sio, vt explicatum est, quare totum significatum 
+      <lb ed="#A" n="37"/>denominatiue de persona dicitur; ideoque 
+      existi<lb ed="#A" n="38" break="no"/>mo, Durandum dixisse, nomen, Persona, 
+      significa<lb ed="#A" n="39" break="no"/>re intentionem communem tribus, aut pluribus 
+      <lb ed="#A" n="40"/>personis; non quidem quam Logici vocant 
+      se<lb ed="#A" n="41" break="no"/>cundam, quae est ens rationis, sed quia denomina 
+      <lb ed="#A" n="42"/>tiue de Petro &amp; loanne, de Patre, &amp; Filio, &amp; 
+      Spi<lb ed="#A" n="43" break="no"/>ritu sancto praedicatur. Vtrum autem 
+      paternita<lb ed="#A" n="44" break="no"/>ti, filiationi, &amp; spirationi actiuae, &amp; passiuae, detur 
+      <lb ed="#A" n="45"/>aliquis communis conceptus relationis, an non, 
+      <lb ed="#A" n="46"/>dicemus infra disput. 159. cap. 7. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e201-Dd1e2424">
+                  <head xml:id="tavaz1-d1e201-Hd1e2426">Caput 3</head>
+                  <p xml:id="tavaz1-d1e201-d1e2428">
+                     <lb ed="#A" n="47" type="fixed=122"/>CAPVT III. 
+      <lb ed="#A" n="48"/>Solutio argumentorum tertiae sententia.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e2435">
+                     <lb ed="#A" n="49"/>AD primum vero Argumentum tertiae 
+      opi<lb ed="#A" n="50" break="no"/>nionis respondeo, nomen, Personalitas, 
+      ab<lb ed="#A" n="51" break="no"/>stractum praedicari de relationibus diuinis in 
+      ab<lb ed="#A" n="52" break="no"/>stracto, nihilominus ipsis non esse essentiale; ne 
+      <lb ed="#A" n="53"/>que enim quaeuis forma, quae abstracte praedica 
+      <lb ed="#A" n="54"/>tur de aliquo subiecto, est illi essentialis, sed 
+      ali<lb ed="#A" n="55" break="no"/>quando est denominatiua. Nam rationalitas di 
+      <lb ed="#A" n="56"/>citur differentia, &amp; risibilis proprietas; &amp; tamen 
+      <lb ed="#A" n="57"/>ratio differentiae, rationalitati, nec ratio 
+      proprie<lb ed="#A" n="58" break="no"/>tatis risibilitatis essentialis est. Sic etiam de haec 
+      <lb ed="#A" n="59"/>ceitate (vt ita loquar cum Scoto) Petri, aut Ioan 
+      <lb ed="#A" n="60"/>nis praedicatur abstracte indiuiduatio; &amp; tamen 
+      <lb ed="#A" n="61"/>non est illi essentialis, sed veluti proprietas, sicut 
+      <lb ed="#A" n="62"/>etiam tatio indiuidui non est essentialis Petro, vel 
+      <lb ed="#A" n="63"/>loanni, vt probatum est. Dicimus igitur 
+      abstra<lb ed="#A" n="64" break="no"/>ctum de abstracto aliquando denominatiue prae 
+      <lb ed="#A" n="65"/>dicari: tunc praesertim, quando denotamus quasi 
+      <lb ed="#A" n="66"/>actum, &amp; officium illius, vt si de haecceitate 
+      dica<lb ed="#A" n="67" break="no"/>mus, ea reddi Petrum, vel loannem singularem 
+      <!--00130.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>&amp; indiuiduum, &amp; ipsam esse singularitatem, vel 
+      <lb ed="#A" n="69"/>rationem singularis haec enim non praedicantur 
+      <lb ed="#A" n="70"/>essentialiter de hac, &amp; illa haecceitate, si ergo in 
+      <lb ed="#A" n="71"/>proposita paternitas, seu filiatio in diuinis dicitur 
+      <lb ed="#A" n="72"/>personalitas denominatiue, quia personalitas sig 
+      <lb ed="#A" n="73"/>nificat rationem singularitatis, &amp; indiuiduatio 
+      <lb ed="#A" n="74"/>nis, qua vltimo natura diuina redditur 
+      incommu<lb ed="#A" n="75" break="no"/>nicabilis; ratio autem singularitatis est veluti 
+      pas<lb ed="#A" n="76" break="no"/>sio ipsius relationis, non ergo mirum, si tres 
+      diui<lb ed="#A" n="77" break="no"/>nae relationes habeant commune quoddam 
+      prae<lb ed="#A" n="78" break="no"/>dicatum denominatiuum. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2507">
+                     <lb ed="#A" n="79"/>Ad secundum respondeo, rationem communem 
+      <lb ed="#A" n="80"/>personae contrahi in diuinis essentialiter, &amp; 
+      qui<lb ed="#A" n="81" break="no"/>ditatiue veluti per differentias proprias, per hanc 
+      <lb ed="#A" n="82"/>&amp; illam rationem. Nam per relationes contrahi 
+      <lb ed="#A" n="83"/>tur ratio personae, non sicut per proprias 
+      differen<lb ed="#A" n="84" break="no"/>tias, sed sicut per materiale subiectum, quod de 
+      <lb ed="#A" n="85"/>nominant: haec autem, &amp; illa ratio personae, qua 
+      <lb ed="#A" n="86"/>contrahitur communis ratio personae, ex se 
+      essen<lb ed="#A" n="87" break="no"/>tialiter absoluta est, tametsi denominatiue dicatur 
+      <lb ed="#A" n="88"/>de relatiua persona; id quod significat Augustin. 
+      <lb ed="#A" n="89"/>lib. 7. de Trinitate, cap. 6. vbi probat, personam ad 
+      <lb ed="#A" n="90"/>se significari, non ad aliud, intelligit enim, 
+      expres<lb ed="#A" n="91" break="no"/>se, &amp; formaliter; ob id tamen non negat, de 
+      rela<lb ed="#A" n="92" break="no"/>tione denominatiue praedicari. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2540">
+                     <lb ed="#A" n="93"/>Neque satis est, si dicatur nomen, Persona, sig. 
+      <lb ed="#A" n="94"/>nificare aliquid abstractum ab absoluto, &amp; 
+      rela<lb ed="#A" n="95" break="no"/>tiuo; quia impossibile est, esse aliquid commune 
+      <lb ed="#A" n="96"/>absoluto, &amp; relationi, nisi solo nomine, vt optime 
+      <lb ed="#A" n="97"/>probat Durandus in 1. distinct. 23. quaest. 1. nu. 16 
+      <lb ed="#A" n="98"/>&amp; ratio esse potest huiusmodi. Si conceptus illi 
+      <lb ed="#A" n="99"/>communis abstractus est a relatione, &amp; absoluto. 
+      <lb ed="#A" n="100"/>sequitur non esse ad aliud; impossibile autem est, 
+      <lb ed="#A" n="101"/>aliquid concipi non ad aliud, &amp; non concipi 
+      ab<lb ed="#A" n="102" break="no"/>solutum, &amp; ad se; illud enim est absolutum, quod 
+      <lb ed="#A" n="103"/>a termino soluitur, quia nihil aliud respicit: ergo 
+      <lb ed="#A" n="104"/>non potest aliquis conceptus realis esse 
+      commu<lb ed="#A" n="105" break="no"/>nis relatiuo, &amp; absoluto. Quo etiam argumento 
+      <lb ed="#A" n="106"/>probatur, non posse rationem accidentis 
+      vniuo<lb ed="#A" n="107" break="no"/>cam esse, vel vnum conceptum obiectiuum illius 
+      <lb ed="#A" n="108"/>assignari communem nouem praedicamentis, 
+      quan<lb ed="#A" n="109" break="no"/>tumuis dicatur, analogice ab inferioribus eam 
+      <lb ed="#A" n="110"/>participari, quia non potest ille conceptus non 
+      <lb ed="#A" n="111"/>esse absolutus, vt probatum est: absolutum autem 
+      <lb ed="#A" n="112"/>nequit contrahi essentialiter per differentias 
+      rela<lb ed="#A" n="113" break="no"/>tionis; ergo nihil potest esse commune secundum 
+      <lb ed="#A" n="114"/>rationem absoluto &amp; respectiuo; sed eodem 
+      no<lb ed="#A" n="115" break="no"/>mine accidentis proxime significatur relatio; &amp; 
+      <lb ed="#A" n="116"/>reliqua octo praedicamenta. Deinde cum August 
+      <lb ed="#A" n="117"/>loco allegato dicat personam significari ad se, non 
+      <lb ed="#A" n="118"/>ad aliud, nullo modo asserere possumus 
+      conce<lb ed="#A" n="119" break="no"/>ptum personae abstractum esse ab absoluto, &amp; 
+      res<lb ed="#A" n="120" break="no"/>pectiuo, sed absolutum esse. 
+      </p>
+                  <p xml:id="tavaz1-d1e201-d1e2604">
+                     <lb ed="#A" n="121"/>Ex dictis sequitur discrimen esse inter haec tria 
+      <lb ed="#A" n="122"/>nomina, Petrus, Quidam homo, Persena, quia nomen 
+      <lb ed="#A" n="123"/>Petrus, significat rem ipsam, qua constituitur per 
+      <lb ed="#A" n="124"/>sona, connotat autem naturam humanam in qua 
+      <lb ed="#A" n="125"/>subsistit, sed, Persona, eandem significat rem, 
+      deno<lb ed="#A" n="126" break="no"/>minatiue tamen, &amp; connotat naturam; at, Quidam 
+      <lb ed="#A" n="127"/>homo, significat directe naturam hominis cum 
+      pro<lb ed="#A" n="128" break="no"/>prietate, &amp; modo subsistendi, quem connotat, vt 
+      <lb ed="#A" n="129"/>docuit S. Thomas in hoc artic. &amp; Durand. quaest.1. 
+      <lb ed="#A" n="130"/>nu. 6. &amp; 7. qui tacito nomine reprehendit 
+      Docto<lb ed="#A" n="131" break="no"/>rem sanctum, quasi oppositum docuerit, cum 
+      re<lb ed="#A" n="132" break="no"/>uera id non dixerit; tametsi Caietanus, nescio qua 
+      <lb ed="#A" n="133"/>ratione deceptus, putauerit, ex sententia S. 
+      Tho<lb ed="#A" n="134" break="no"/>mae idem significari hoc nomine, Quidam homo 
+      <lb ed="#A" n="135"/>quod nomine, Persona.
+    </p>
+                  <p xml:id="tavaz1-d1e201-d1e2639">
+      <!--00131.xml-->
+                     <pb ed="#A" n="123"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>Deinde sequitur, quare quidam homo, quod 
+      <lb ed="#A" n="2"/>Indiuiduum vagum vocari solet, non constituatur 
+      <lb ed="#A" n="3"/>a logicis sextum praedicabile; quia reuera nihil 
+      <lb ed="#A" n="4"/>commune significat, nisi denominatiue ratione 
+      <lb ed="#A" n="5"/>connotati, sicut vox. Indiuiduum, sic autem 
+      suffi<lb ed="#A" n="6" break="no"/>cienter ad quintum praedicabile reducitur. 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

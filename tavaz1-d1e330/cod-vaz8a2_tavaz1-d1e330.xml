@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 55</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 55</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="491"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e330"><!-- p1-q55 -->
+            <head xml:id="tavaz1-d1e330-Hd1e99">Quaestio 55</head>
+            <div xml:id="tavaz1-d1e330-Dd1e101"><!-- vaz-p1q55a1 -->
+               <head xml:id="tavaz1-d1e330-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e330-d1e106">
+      <!--00498.xml-->
+                  <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="58" type="fixed=490"/>Explicatio Articuli. 
+      <lb ed="#A" n="59"/>CONCLVSIO est, Angelus non cognoscit on 
+      <lb ed="#A" n="60"/>per suam essentiam, tanquam per principium 
+      proxi<lb ed="#A" n="61" break="no"/>mum, &amp; intelligibilem formam. In superiori enim 
+      qui<lb ed="#A" n="62" break="no"/>artic. 1. probauit, ipsum intelligere angeli non 
+      <lb ed="#A" n="63"/>esse suam essentiam, &amp; in secundo non esse suum 
+      <lb ed="#A" n="64"/>existere: nunc vero ostendit, suam essentiam non 
+      <lb ed="#A" n="65"/>esse proximum principium intelligendi, sicut est 
+      <lb ed="#A" n="66"/>forma, aut species intelligibilis, qua intellectus 
+      <lb ed="#A" n="67"/>informatur. Loquitur autem in hoc art. de 
+      intel<lb ed="#A" n="68" break="no"/>lectione aliarum rerum, praeter Deum, &amp; se ipsum: 
+      <lb ed="#A" n="69"/>nam de cognitione, qua se ipsum intelligit, disserit 
+      <lb ed="#A" n="70"/>in art. 1. q. seque de cognitione vero, quam habet de 
+      <lb ed="#A" n="71"/>Deo, in a. 2. Cum vero ait in hoc art. non 
+      omni<lb ed="#A" n="72" break="no"/>ab Angelo cognosci per suam essentiam, non 
+      in<lb ed="#A" n="73" break="no"/>telligit, Angelum non cognoscere aliqua per suam 
+      <lb ed="#A" n="74"/>essentiam, sed nulla, per quid vero illa intelligat, 
+      <lb ed="#A" n="75"/>art. seque declarat: quapropter doctrina praesentis 
+      <lb ed="#A" n="76"/>articuli cum sequenti melius examinabitur. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e155"><!-- vaz-p1q55a2 -->
+               <head xml:id="tavaz1-d1e330-Hd1e158">Articulus 2</head>
+               <p xml:id="tavaz1-d1e330-d1e160">
+                  <lb ed="#A" n="86" type="fixed=491"/>CONCLVSIO est, Angeli non intelligunt per 
+      spe<lb ed="#A" n="87" break="no"/>cies a rebus acceptas sed per species sibi innatas &amp; 
+      <lb ed="#A" n="88"/>connaturales: cuius veritas sequenti disput. magis 
+      <lb ed="#A" n="89"/>explicabitur. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e172"><!-- vaz-p1q55a2-d200 -->
+               <head xml:id="tavaz1-d1e330-Hd1e175">Disputatio 200</head>
+               <head xml:id="tavaz1-d1e330-Hd1e177" type="question-title">
+    An species Angeli intelligant
+  </head>
+               <p xml:id="tavaz1-d1e330-d1e180">
+                  <lb ed="#A" n="90" type="fixed=491"/>DISPVT. CC. 
+      <lb ed="#A" n="91"/>An species Angeli intelligant.
+    </p>
+               <p xml:id="tavaz1-d1e330-d1e187">
+                  <lb ed="#A" n="92"/>Angelos per solam suam essentiam, &amp; intellectum 
+      omni<lb ed="#A" n="93" break="no"/>intelligere senserunt Durandus &amp; Nominales, 
+      <lb ed="#A" n="94"/>cap. 1. 
+      <lb ed="#A" n="95"/>Communis sententia cap. 2. 
+      <lb ed="#A" n="96"/>Iudicium de vtraque sententia cap. 3. 
+      </p>
+               <div xml:id="tavaz1-d1e330-Dd1e200">
+                  <head xml:id="tavaz1-d1e330-Hd1e202">Caput 1</head>
+                  <p xml:id="tavaz1-d1e330-d1e204">
+                     <lb ed="#A" n="97" type="fixed=491"/>CAPVT I. 
+      <lb ed="#A" n="98"/>Angelos per solam suam essentiam, &amp; intellectum 
+      <lb ed="#A" n="99"/>omnia intelligere, senserunt Durandus 
+      <lb ed="#A" n="100"/>&amp; Nominales.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e215">
+                     <lb ed="#A" n="101"/>PRaesens controuersia est de principio, quo 
+      <lb ed="#A" n="102"/>Angelus intelligit, aut visionem elicit, an 
+      si<lb ed="#A" n="103" break="no"/>nuda essentia sua, &amp; intellectus, vel indigeat 
+      spe<lb ed="#A" n="104" break="no"/>cie aliqua addita ipsi intellectui, vt ea formatu 
+      <lb ed="#A" n="105"/>intellectus eliciat intellectionem: tum etiam, qua 
+      <lb ed="#A" n="106"/>ratione tales species Angelo conueniant. In qua 
+      <lb ed="#A" n="107"/>quaestione mirum non est varia esse 
+      Theologo<lb ed="#A" n="108" break="no"/>rum placita: est enim res haec a sensu 
+      remotissi<lb ed="#A" n="109" break="no"/>ma, ac proinde vix aliqua certa coniectura de 
+      ea<lb ed="#A" n="110" break="no"/>summi potest: referam igitur singulatim omnium 
+      <lb ed="#A" n="111"/>sententias, vt saltem nobis appareat, quae 
+      illa<lb ed="#A" n="112" break="no"/>rum minus rectae philosophiae, &amp; rationi 
+      aduer<lb ed="#A" n="113" break="no"/>setur. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e246">
+                     <lb ed="#A" n="114"/>Prima opinio est eorum, qui dicunt Angelum 
+      <lb ed="#A" n="115"/>absque vlla specie in nata, vel adquisita sola sua 
+      es<lb ed="#A" n="116" break="no"/>sentia, &amp; intellectu esse foecundum ad 
+      intelligen<lb ed="#A" n="117" break="no"/>dum, quaecumque intelligit cognitione 
+      propria<lb ed="#A" n="118" break="no"/>&amp; (vt aiunt) quiditatiua rei. Ita tradiderunt 
+      Duran<lb ed="#A" n="119" break="no"/>In 2. d. 3. q6. n. 17. &amp; seq. Gabr. in ead. d. q. 2. a. 2. concl. 2. 
+      <lb ed="#A" n="120"/>&amp; 3. &amp; a 3. prima parte conclus. 2 &amp; 3. Occam in 2. q. 15. 
+      <lb ed="#A" n="121"/>concli, vbi docet de omni intellectu etiam hominis, &amp; 
+      <lb ed="#A" n="122"/>in eadem quaest, in solutione q. 14. §. his visis, speciatim 
+      <!--00500.xml-->
+      <pb ed="#A" n="492"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>id docet de Aigelis, idem etiam habet in q. 16. 
+      <lb ed="#A" n="2"/>consentiunt Bassolis in 2 d 3 quaest. 3. §. dico igitur, &amp; 
+      <lb ed="#A" n="3"/>Greg. in 2. d. 7. q. 5. a. 1. Asserunt itaque cum Duram 
+      <lb ed="#A" n="4"/>do solam rei praesentiam in se, vel in causa sufficere, 
+      <lb ed="#A" n="5"/>vt res quaecumque naturalis ab Angelo per suam 
+      <lb ed="#A" n="6"/>essentiam &amp; intellectum absque specie cognos 
+      <lb ed="#A" n="7"/>catur. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e290">
+                     <lb ed="#A" n="8"/>Primo probari potest, quia superuacanea est 
+      <lb ed="#A" n="9"/>huiusmodi species, ergo frustra constituitur tanquam 
+      <lb ed="#A" n="10"/>necessaria. Eam vero superuacaneam esse patet, 
+      <lb ed="#A" n="11"/>quia nulla ratione monstrari potest nudam 
+      facul<lb ed="#A" n="12" break="no"/>tatem intellectus ad id muneris non sufficere. 
+      <lb ed="#A" n="13"/>Secundo probat Durandus quia commentitium 
+      <lb ed="#A" n="14"/>existimat, in aliqua facultate cognoscente, 
+      praeser<lb ed="#A" n="15" break="no"/>tim intellectus, esse rerum similitudines &amp; species. 
+      <lb ed="#A" n="16"/>Putat enim similitudinem alicuius rei esse eius 
+      <lb ed="#A" n="17"/>dem speciei cum re ipsa: in intellectu autem 
+      An<lb ed="#A" n="18" break="no"/>gelico, aut humano, vel in alia facultate 
+      cogno<lb ed="#A" n="19" break="no"/>scente non potest esse similitudo rerum 
+      externa<lb ed="#A" n="20" break="no"/>rum eiusdem naturae &amp; speciei, cum ipsis: ergo 
+      <lb ed="#A" n="21"/>figmentum est, tales similitudines facultatibus 
+      <lb ed="#A" n="22"/>tribuere. Probat autem similitudines has fore 
+      eius<lb ed="#A" n="23" break="no"/>dem naturae &amp; speciei, cum re ipsa, si darentur 
+      ex<lb ed="#A" n="24" break="no"/>emplo luminis, &amp; coloris, ex quibus aliqua 
+      simi<lb ed="#A" n="25" break="no"/>litudo deriuatur eiusdem speciei cum ipsis, minus 
+      <lb ed="#A" n="26"/>tamen perfecta: censet enim Dur. lumen 
+      produ<lb ed="#A" n="27" break="no"/>ctum in medio aëre esse speciem luminis, quod 
+      <lb ed="#A" n="28"/>est in corpore luminoso, &amp; ex colore qui est in 
+      <lb ed="#A" n="29"/>corpore terminato, nasci speciem quandam in 
+      <lb ed="#A" n="30"/>diaphano, quae sit remissus quidam color per 
+      re<lb ed="#A" n="31" break="no"/>fractionem: denique idem de omnibus 
+      sensibili<lb ed="#A" n="32" break="no"/>bus qualitatibus affirmat: quia videlicet semper 
+      <lb ed="#A" n="33"/>agant, &amp; producant effectum eiusdem secum 
+      ratio<lb ed="#A" n="34" break="no"/>niis: idem igitur de speciebus intelligibilibus 
+      di<lb ed="#A" n="35" break="no"/>cendum est. Tertio, si species est similitudo obiecti, 
+      <lb ed="#A" n="36"/>ergo est eiusdem naturae cum eo: similitudo enim 
+      <lb ed="#A" n="37"/>est vnitas secundum naturam speciei, aut vnitas se 
+      <lb ed="#A" n="38"/>cundum qualitatem eiusdem rationis, aut est 
+      rela<lb ed="#A" n="39" break="no"/>tio fundata in hac vnitate. Quarto, si intellectus 
+      <lb ed="#A" n="40"/>instructus esset his specieb, semper intelligeret: at 
+      <lb ed="#A" n="41"/>non semper intelligit: ergo tales species non habet 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e367">
+                     <lb ed="#A" n="42"/>Secundo docet Gabr. sufficere facultatem, &amp; 
+      <lb ed="#A" n="43"/>obiectum ad cognitionem intuitiuam, ita vt 
+      ob<lb ed="#A" n="44" break="no"/>iectum sit causa cognitionis simul cum facultate 
+      <lb ed="#A" n="45"/>etiam intellectus, quod vocat causam partialem 
+      <lb ed="#A" n="46"/>&amp; videtur sentire, esse causam efficientem. Ocam 
+      <lb ed="#A" n="47"/>vero non appellat aperte obiectum efficientem 
+      <lb ed="#A" n="48"/>causam, sed dicit, esse causam simul cum facultate 
+      <lb ed="#A" n="49"/>Gabrieli consentiunt Bassolis in illa d. q. 4. §. quantum 
+      <lb ed="#A" n="50"/>ad sicundum, &amp; Gregor. quidit. conclus.i.imo etiam 
+      Sco<lb ed="#A" n="51" break="no"/>tus loco allegato, nam quamuis concedat 
+      intelle<lb ed="#A" n="52" break="no"/>ctui Angelico species aliquas, docet tamen, ad 
+      <lb ed="#A" n="53"/>cognitionem, quam vocent intuitiuam, obiectum 
+      <lb ed="#A" n="54"/>ipsum, quod est extra, cum intellectu Angeli 
+      effi<lb ed="#A" n="55" break="no"/>ciendo concurrere. Probat vero Gab hac ratione 
+      <lb ed="#A" n="56"/>Illud est causa alicuius, quo posito ponitur &amp; quo 
+      <lb ed="#A" n="57"/>ablato aufertur, sed huiusmodi est obiectum extra 
+      <lb ed="#A" n="58"/>intellectum: quia eo posito ponitur intellectio in 
+      <lb ed="#A" n="59"/>Angelo, &amp; eo ablato perit intellectio, praesertim 
+      <lb ed="#A" n="60"/>intuitua: ergo illud est causa efficiens. Ita infert 
+      <lb ed="#A" n="61"/>Gabr. cum tamen ex vi praemissarum solum 
+      debe<lb ed="#A" n="62" break="no"/>ret inferre hoc modo, ergo obiectum est causa. 
+      <lb ed="#A" n="63"/>Eadem ratione vtitur Ocam loco cit. Gregorius 
+      <lb ed="#A" n="64"/>vero probat hoc pacto, Angelus non intelligit 
+      sin<lb ed="#A" n="65" break="no"/>gularia futura, sed praesentia: ergo illorum 
+      prae<lb ed="#A" n="66" break="no"/>sentia est causis talis cognitionis: non finalis, non 
+      <lb ed="#A" n="67"/>materialis non formalis: ergo efficiens. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e426">
+                     <lb ed="#A" n="68"/>Tertio docent, notitiam quam vocant abstra¬ 
+      <!--00500.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>ctiuam, fieri in Angelis ab ipsa notitia intuitiua, 
+      <lb ed="#A" n="70"/>vel ab habitu ab ea effecto: ita tradunt Occam, 
+      Ga<lb ed="#A" n="71" break="no"/>briel, &amp; Gregorius. Nam vt inquit Gabr. in prima quaest. 
+      <lb ed="#A" n="72"/>prologi a. 2. notatione 2. duplex est notitia abstractiua 
+      <lb ed="#A" n="73"/>aut est praedicati vniuersalis abstracti a 
+      singulari<lb ed="#A" n="74" break="no"/>bus, &amp; haec fit ex notitia intuitiua singularium, a 
+      <lb ed="#A" n="75"/>quibus abstrahitur: aut est rei abstractae ab 
+      exi<lb ed="#A" n="76" break="no"/>stentia, hoc est, non existentis: &amp; haec non fit a 
+      <lb ed="#A" n="77"/>notitia intuitiua, sed ab habitu, quem notitia 
+      ab<lb ed="#A" n="78" break="no"/>stractiua in nobis efficit. Hanc vero notitiam 
+      ab<lb ed="#A" n="79" break="no"/>stractiuam in Angelis esse, nemo dubitabit. Fieri 
+      <lb ed="#A" n="80"/>autem non per species inditas Angelo, sed per 
+      <lb ed="#A" n="81"/>habitum, quem in ipsis notitia intuitiua efficit, 
+      <lb ed="#A" n="82"/>probant hoc modo. Si nunc Angelus crearetur, 
+      <lb ed="#A" n="83"/>etiam cum speciebus rerum omnium, vndenam 
+      <lb ed="#A" n="84"/>intelligere posset, rem hanc vel illam esse 
+      praere<lb ed="#A" n="85" break="no"/>ritam, nisi antea vidisset praesentem, &amp; ex illa 
+      no<lb ed="#A" n="86" break="no"/>titia aliquid in intellectu fuisset effectum, quod 
+      <lb ed="#A" n="87"/>esset principium intelligendi rem illam vt 
+      prae<lb ed="#A" n="88" break="no"/>teritam? 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e480">
+                  <head xml:id="tavaz1-d1e330-Hd1e482">Caput 2</head>
+                  <p xml:id="tavaz1-d1e330-d1e484">
+                     <lb ed="#A" n="89" type="fixed=492"/>CAPVT II. 
+      <lb ed="#A" n="90"/>Communis sententia.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e491">
+                     <lb ed="#A" n="91"/>COmmunis opinio apud Scholasticos est, 
+      An<lb ed="#A" n="92" break="no"/>gelum intelligere res omnes per species 
+      simi<lb ed="#A" n="93" break="no"/>litudinis, aut qualitates additas intellectui. Ita 
+      <lb ed="#A" n="94"/>sentiunt S. Th. Caiet. &amp; recentiores in his duobus 
+      <lb ed="#A" n="95"/>art. Albertus 2. parte summae tract. 3. quaest. 19. art. 11 
+      <lb ed="#A" n="96"/>Alexand. 2pp q 24. memb. 2. &amp; 3. Bonauent. in 2. dist. 3. 
+      <lb ed="#A" n="97"/>par. 2 art. 2. 1. Ricard art. 6. q. 1. Scot. q. 10. §. Ad quae 
+      <lb ed="#A" n="98"/>stionem igitur, AEgidius eadem dist. par. 2. a. 1. in solutioni 
+      <lb ed="#A" n="99"/>dubij, Heruaeus q. 4 a. 2. Maior q. 6. &amp; 7. Capreol. q. 2. d. 1. 
+      <lb ed="#A" n="100"/>conclus. 4. Thomas de Argent. q. 24. 4. 1. part. art. Mars. in 
+      <lb ed="#A" n="101"/>2. q. 7. art. 1. 2. part. conclus. 5. &amp; 6. Ferrarienf. 2. contra 
+      <lb ed="#A" n="102"/>gent cap. 96. Henricus quodlib. 5. q. 14. litera S. qui 
+      lice<lb ed="#A" n="103" break="no"/>plures species non concedat, asserit tamen, 
+      neces<lb ed="#A" n="104" break="no"/>sarium esse vnum quendam habitum scientiae 
+      re<lb ed="#A" n="105" break="no"/>spectu omnium, quae Angelus cognoscit. Docet 
+      <lb ed="#A" n="106"/>etiam hunc habitum considerari posse bifariam, 
+      <lb ed="#A" n="107"/>vno modo vt est qualitas quaedam de specie prima 
+      <lb ed="#A" n="108"/>qualitatis: altero modo vt virtute est ipsa scibilia, 
+      <lb ed="#A" n="109"/>&amp; ea facit praesentia intellectui. Posteriori modo. 
+      <lb ed="#A" n="110"/>inquit, appellari potest species, &amp; ita Angelus 
+      in<lb ed="#A" n="111" break="no"/>telligit omnia per vnicam speciem. Ideo autem 
+      <lb ed="#A" n="112"/>vnam tantum concedit, quia si plures essent, 
+      An<lb ed="#A" n="113" break="no"/>gelus semper actu intelligeret quamlibet rem per 
+      <lb ed="#A" n="114"/>suam speciem, id quod non sequitur, si ponatur vnus 
+      <lb ed="#A" n="115"/>habitus vel vna species tantum pro omnibus 
+      re<lb ed="#A" n="116" break="no"/>bus, vt ipse fuse, &amp; obscure satis ostendit. Est igitur 
+      <lb ed="#A" n="117"/>communis sententia, Angelum per species suo 
+      <lb ed="#A" n="118"/>intellectui additas res omnes intelligere, siue illae 
+      <lb ed="#A" n="119"/>sint plures, siue pauciores, de quo nunc non est 
+      <lb ed="#A" n="120"/>disputandum. Fuit autem haec sententia Procli in 
+      <lb ed="#A" n="121"/>lib. causarum, qui circumfertur inter opera Arist. vbi 
+      <lb ed="#A" n="122"/>propositione 10. inquit, intelligentias plenas esse 
+      <lb ed="#A" n="123"/>formis rerum, id est, speciebus intelligibilibus 
+      re<lb ed="#A" n="124" break="no"/>rum. Probari vero potest ex Arist. 3. de Anima cap. 1. 
+      <lb ed="#A" n="125"/>aut secundum aliam diuisionem c. 4. qui laudat 
+      Pla<lb ed="#A" n="126" break="no"/>tonem, quod diceret, intellectum esse locum 
+      for<lb ed="#A" n="127" break="no"/>marum. Et quamuis de intellectu humano 
+      loqua<lb ed="#A" n="128" break="no"/>tur, videtur tamen eadem ratio etiam de Angelico 
+      <lb ed="#A" n="129"/>Affert etiam S. Thom. in argumento. Sed contra, 
+      Diony<lb ed="#A" n="130" break="no"/>sium 4. cap. de diui. nom. parum a principio: verum 
+      si<lb ed="#A" n="131" break="no"/>attente legatur, nihil huic fauet sententiae. 
+      Qua<lb ed="#A" n="132" break="no"/>vero ratione haec sententia probari possit, c. seq. 
+      <lb ed="#A" n="133"/>videbimus. 
+    </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e588">
+                  <head xml:id="tavaz1-d1e330-Hd1e590">Caput 3</head>
+                  <p xml:id="tavaz1-d1e330-d1e592">
+      <!--00501.xml-->
+                     <pb ed="#A" n="493"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1" type="fixed=493"/>CAPVT III. 
+      <lb ed="#A" n="2"/>Iudicium de vtraque sententia. 
+        </p>
+                  <p xml:id="tavaz1-d1e330-d1e605">
+                     <lb ed="#A" n="3"/>EGo quidem existimo rationes efficaces 
+      sup<lb ed="#A" n="4" break="no"/>petere, ab probandum humanum intellectum 
+      <lb ed="#A" n="5"/>instrui speciebus ad intelligendum: at vix certe 
+      vl<lb ed="#A" n="6" break="no"/>lam esse rationem, quae id de intellectu angelico 
+      <lb ed="#A" n="7"/>eodem modo aperte conuincat. Primum quidem 
+      <lb ed="#A" n="8"/>de humano intellectu probatur ex sensibus, in 
+      <lb ed="#A" n="9"/>quibus esse species, experimento compertum est, 
+      <lb ed="#A" n="10"/>Omissis vero exterioribus, quorum species non 
+      <lb ed="#A" n="11"/>pauciores rationes ab experimento ductae 
+      confir<lb ed="#A" n="12" break="no"/>mant: de interioribus, qui intellectui magis 
+      <lb ed="#A" n="13"/>assimilantur, id ostenditur. Quia interiori 
+      no<lb ed="#A" n="14" break="no"/>stra imaginatione voluimus frequenter rerum 
+      si<lb ed="#A" n="15" break="no"/>militudines, cum nobis absentia, &amp; praeterita 
+      prae<lb ed="#A" n="16" break="no"/>sentia facimus, ac si ipsa intueremur: quae, nisi 
+      <lb ed="#A" n="17"/>species aliquae, &amp; similitudines eorum in nostra 
+      i<lb ed="#A" n="18" break="no"/>maginatione conseruarentur, recogitari non 
+      pos<lb ed="#A" n="19" break="no"/>sent. Cur enim ea, quae nunquam vidimus, 
+      me<lb ed="#A" n="20" break="no"/>morari non possumus; eorum autem quae 
+      vidi<lb ed="#A" n="21" break="no"/>mus facile recordamur: nisi quia haec in nobis 
+      a<lb ed="#A" n="22" break="no"/>liquam sui imaginem impressam, illa vero nullam 
+      <lb ed="#A" n="23"/>reliquerunt? Cum igitur in his facultatibus 
+      spe<lb ed="#A" n="24" break="no"/>cies esse dicamus praeter ipsam facultatis 
+      poten<lb ed="#A" n="25" break="no"/>tiam, &amp; virtutem: intellectui quoque humano, 
+      <lb ed="#A" n="26"/>qui sensibus ita alligatus est pro hoc statu vt 
+      ni<lb ed="#A" n="27" break="no"/>hil sine illis intelligat, easdem concedere 
+      debe<lb ed="#A" n="28" break="no"/>mus. At de intellectu a corpore omnino 
+      separa<lb ed="#A" n="29" break="no"/>to haec ratio non probat. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e666">
+                     <lb ed="#A" n="30"/>Posset tamen aliquis de omni facultate 
+      cogno<lb ed="#A" n="31" break="no"/>scente, &amp; de angelico intellectu idem suadere 
+      <lb ed="#A" n="32"/>hoc argumento. Quia facultas cognoscens 
+      secun<lb ed="#A" n="33" break="no"/>dum se est vniuersale quoddam principium huius 
+      <lb ed="#A" n="34"/>&amp; illius cognitionis; nec ex se determinatum est, 
+      <lb ed="#A" n="35"/>vt potius hoc quam illud cognoscat: ergo indiget 
+      <lb ed="#A" n="36"/>forma peculiari, qua determinetur, vt hoc, vel 
+      il<lb ed="#A" n="37" break="no"/>lud intelligat: nulla autem commodior videtur 
+      <lb ed="#A" n="38"/>esse, quam species obiecti: nam omnis qualitas 
+      <lb ed="#A" n="39"/>quae cum ipsa facultate est principium 
+      cognoscen<lb ed="#A" n="40" break="no"/>di aliquid, merito species illius dicitur, species 
+      <lb ed="#A" n="41"/>inquam in actu primo repraesentans, quia virtu 
+      <lb ed="#A" n="42"/>tem habet producendi actualem, &amp; expressam 
+      si<lb ed="#A" n="43" break="no"/>militudinem, quae est ipsa cognitio vt supra diput 
+      <lb ed="#A" n="44"/>43. cap. 7. ostensum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e701">
+                     <lb ed="#A" n="45"/>Sed obijciet aliquis, etiamsi intellectus, vel 
+      fa<lb ed="#A" n="46" break="no"/>cultas cognoscens recipiat species singulorum 
+      ob<lb ed="#A" n="47" break="no"/>iectorum: nihilominus indifferens ex se manet ad 
+      <lb ed="#A" n="48"/>intelligendum hoc, vel illud; &amp; ab alio extrinseco 
+      <lb ed="#A" n="49"/>principio determinari debet: ergo hac ratione non 
+      <lb ed="#A" n="50"/>sufficienter probatur, species esse concedendas 
+      <lb ed="#A" n="51"/>Angelo. Verum haec obiectio non obstat rationi 
+      <lb ed="#A" n="52"/>superius factae. Nam quamuis intellectus 
+      instru<lb ed="#A" n="53" break="no"/>ctus specie indigeat, aliquo principio a quo 
+      de<lb ed="#A" n="54" break="no"/>terminetur ad exercitium circa hoc obiectum 
+      <lb ed="#A" n="55"/>quod in nobis prouenit a sensibus &amp; a voluntate 
+      <lb ed="#A" n="56"/>tamen ex parte agentis principij vniuersis videtur 
+      <lb ed="#A" n="57"/>necessaria forma quaedam, quae ipsam facultatem 
+      <lb ed="#A" n="58"/>physice modificetur ad agendum hoc potius, quam 
+      <lb ed="#A" n="59"/>illud: nam intellectus &amp; facultas cognoscendi ex 
+      <lb ed="#A" n="60"/>se solum videntur esse physicum principium 
+      co<lb ed="#A" n="61" break="no"/>gnoscendi in vniuersum, &amp; cum hac vel illa 
+      spe<lb ed="#A" n="62" break="no"/>cie completur in ratione integri principij, vt hoc 
+      <lb ed="#A" n="63"/>intelligat vel illud. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e746">
+                     <lb ed="#A" n="64"/>Caeterum quamuis haec ratio de intellectu 
+      ho<lb ed="#A" n="65" break="no"/>minis probet, de intellectu tamen angelico non 
+      <lb ed="#A" n="66"/>item. Posset enim aliquis dicere, vniuersalem 
+      effi<lb ed="#A" n="67" break="no"/>cacitatem intellectus angelici, ad hoc vel illud 
+      <!--00501.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>telligendum non necessario determinari a 
+      for<lb ed="#A" n="69" break="no"/>ma intrinseca sibi, sed ab obiecto. Nam proprium 
+      <lb ed="#A" n="70"/>videtur facultatum cognoscentium, &amp; 
+      appeten<lb ed="#A" n="71" break="no"/>tium, vt ab obiectis determinentur non 
+      efficien<lb ed="#A" n="72" break="no"/>tibus, sed peculiari modo concurrentibus ad 
+      ope<lb ed="#A" n="73" break="no"/>rationem &amp; aliquam rationem causae habentibus; 
+      <lb ed="#A" n="74"/>ita tamen vt facultas appetens determinetur ab 
+      <lb ed="#A" n="75"/>obiecto existente in cognitione, facultas vero 
+      in<lb ed="#A" n="76" break="no"/>tellectus ab ipso oblecto exterius existente 
+      secun<lb ed="#A" n="77" break="no"/>dum illud esse praesens, praeteritum, aut futurum 
+      <lb ed="#A" n="78"/>secundum quod accommodatum est intellectui. 
+      <lb ed="#A" n="79"/>Nam eo ipso quod est intra latitudinem obiecti 
+      <lb ed="#A" n="80"/>debiti, iam intellectus eo potest determinare. Hoc 
+      <lb ed="#A" n="81"/>autem in angelis absque vllo incommodo potest 
+      <lb ed="#A" n="82"/>defendi: at species Angelo concedere, certe 
+      ali<lb ed="#A" n="83" break="no"/>qua difficultate non caret.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e796">
+                     <lb ed="#A" n="84"/>Primum, quia si intellectus angelicus ex se non 
+      <lb ed="#A" n="85"/>esset sufficiens sine aliqua specie sibi addita ab 
+      eli<lb ed="#A" n="86" break="no"/>ciendam cognitionem, vel eam deberet accipere 
+      <lb ed="#A" n="87"/>a rebus, vel habere ab initio secum productam. Si 
+      <lb ed="#A" n="88"/>prius dicamus, sequuntur plura absurda, quae 
+      se<lb ed="#A" n="89" break="no"/>quenti disputatione videbimus. Tum etiam si cum 
+      <lb ed="#A" n="90"/>dicitur angelus species accipere a rebus, possemus 
+      <lb ed="#A" n="91"/>dicere res ipsas cum intellectu Angeli ad 
+      cogni<lb ed="#A" n="92" break="no"/>tionem sui sine aliqua specie concurrere; ergo 
+      <lb ed="#A" n="93"/>non est dicendum, angelum accipere species a 
+      <lb ed="#A" n="94"/>rebus. Posterius vero non minorem difficultatem 
+      <lb ed="#A" n="95"/>habet. Nam vel illae species productae ab initio 
+      <lb ed="#A" n="96"/>cum angelo infusae sunt a solo Deo non sicut 
+      de<lb ed="#A" n="97" break="no"/>bitae perfectiones naturae angelicae, aut sicut 
+      for<lb ed="#A" n="98" break="no"/>mae debitae &amp; fluentes ab Angelo per modum 
+      <lb ed="#A" n="99"/>passionis. Prius est difficile: sequeretur enim, 
+      pos<lb ed="#A" n="100" break="no"/>se Deum species Angelo negare absque eo quod 
+      <lb ed="#A" n="101"/>vim aliquam naturae angelicae inferret, quare 
+      vio<lb ed="#A" n="102" break="no"/>lentum non esset Angelo nullius rei 
+      cognitio<lb ed="#A" n="103" break="no"/>nem habere, sicut violentum illi non est non 
+      vi<lb ed="#A" n="104" break="no"/>dere Deum, cum tamen possit videre lumine 
+      si<lb ed="#A" n="105" break="no"/>bi non debito communicato. Nam &amp; illi qui 
+      <lb ed="#A" n="106"/>dicunt Angelum nunc intelligere per species ad 
+      <lb ed="#A" n="107"/>dita intellectui, plane fateri debent aliquarum 
+      <lb ed="#A" n="108"/>naturarum possibilium, species illi concessas non 
+      <lb ed="#A" n="109"/>esse, nec illas ab angelo cognosci, absque eo quod 
+      <lb ed="#A" n="110"/>Angelus vim aliquam patiatur. Nullus enim 
+      <lb ed="#A" n="111"/>vim patitur nisi contra internum impetum 
+      for<lb ed="#A" n="112" break="no"/>ma aliqua ei denegetur, aut contraria illi 
+      infun<lb ed="#A" n="113" break="no"/>datur. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e864">
+                     <lb ed="#A" n="114"/>Praeterea si hoc modo species angelo infunde 
+      <lb ed="#A" n="115"/>rentur, essent formae supernaturales, sicuti est 
+      lu<lb ed="#A" n="116" break="no"/>men gloriae. Nam omnes illae, proxime a Deo 
+      in<lb ed="#A" n="117" break="no"/>funderentur, sicut est lumen gloriae, &amp; ex parte 
+      <lb ed="#A" n="118"/>Angeli solum esset potentia passiua sicut ad 
+      reci<lb ed="#A" n="119" break="no"/>piendum lumen gloriae; neque tales formae in 
+      <lb ed="#A" n="120"/>funderentur a Deo exigente aliqua dispositione 
+      <lb ed="#A" n="121"/>vel causa creata, sicut infunditur anima 
+      rationa<lb ed="#A" n="122" break="no"/>lis. Nihil igitur deesset, quo minus 
+      supernatura<lb ed="#A" n="123" break="no"/>les formae dicerentur non secus atque lumen 
+      glo<lb ed="#A" n="124" break="no"/>riae iuxta definitionem rei supernaturalis, quam 
+      <lb ed="#A" n="125"/>trademus disputat. 214. Quod si dicas, ideo has 
+      <lb ed="#A" n="126"/>species esse formas naturales, quia sunt a Deo 
+      a<lb ed="#A" n="127" break="no"/>gente naturali, lumen autem gloriae esse formam 
+      <lb ed="#A" n="128"/>supernaturalem, quia supernaturali modo 
+      infun<lb ed="#A" n="129" break="no"/>ditur, id est, praeter cursum communem: hoc 
+      di<lb ed="#A" n="130" break="no"/>scrimen non satis est, nam forma naturalis a 
+      super<lb ed="#A" n="131" break="no"/>naturali non ex parte tantum efficientis, sed ex se 
+      <lb ed="#A" n="132"/>ipsa distingui debet, vt supra disputat. 44. capit. 1. 
+      <lb ed="#A" n="133"/>contra Scotum notatum est, &amp; infra etiam 
+      dispu<lb ed="#A" n="134" break="no"/>tatione 214. capite 2. ostendemus. Deus enim non 
+      <lb ed="#A" n="135"/>dicitur supernaturaliter aliquid facere, nisi vno ex 
+      <!--00502.xml-->
+      <pb ed="#A" n="494"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>duobus modis: vel quia solus ipse producit id 
+      <lb ed="#A" n="2"/>quod alias ab agente creato produci solet, 
+      pro<lb ed="#A" n="3" break="no"/>pter aliquod tamen impedimentum iam non 
+      po<lb ed="#A" n="4" break="no"/>terat ab agente naturali produci, vel quia formam 
+      <lb ed="#A" n="5"/>aliquam suapte natura supernaturalem producit, 
+      <lb ed="#A" n="6"/>alia vero ratione distingui non potest ex parte 
+      i<lb ed="#A" n="7" break="no"/>psius modus operandi naturaliter, &amp; 
+      superna<lb ed="#A" n="8" break="no"/>turaliter. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e938">
+                     <lb ed="#A" n="9"/>Quare facilius, vt reor, defenderemus 
+      cogni<lb ed="#A" n="10" break="no"/>tionem euidentem, quam vocant intuitiuam &amp; 
+      <lb ed="#A" n="11"/>propriam procedere ex sola virtute intellectus 
+      An<lb ed="#A" n="12" break="no"/>gelici hoc modo, vt quamuis intellectus 
+      angeli<lb ed="#A" n="13" break="no"/>sit vniuersalis causa, &amp; determinatione aliqua 
+      in<lb ed="#A" n="14" break="no"/>digeat, vt hoc vel illo modo operetur, 
+      determine<lb ed="#A" n="15" break="no"/>tur a tali, &amp; tali obiecto sibi proprio, &amp; suae 
+      virtu<lb ed="#A" n="16" break="no"/>ti natiuae aequali, non quia obiectum efficiente 
+      <lb ed="#A" n="17"/>cum intellectu concurrat, sed quia per modum 
+      <lb ed="#A" n="18"/>obiecti &amp; termini ipsum modificetur &amp; 
+      determi<lb ed="#A" n="19" break="no"/>net ad talem operationem, ita vt circa tale 
+      obie<lb ed="#A" n="20" break="no"/>ctum non possit nisi talem operationem habere, 
+      <lb ed="#A" n="21"/>non tamen quia ab obiecto excitetur, vt hoc 
+      po<lb ed="#A" n="22" break="no"/>tius quam aliud consideret, hoc enim ab alia cau 
+      <lb ed="#A" n="23"/>sa prouenit, vt infra disputatione 236. cap. 4. 
+      dice<lb ed="#A" n="24" break="no"/>mus. neque quia obiectum cum intellectu 
+      con<lb ed="#A" n="25" break="no"/>rere possit vt causa efficiens ad intellectionem, vt 
+      <lb ed="#A" n="26"/>patebit ex ijs, quae dicemus disputat. seq. Et hinc 
+      <lb ed="#A" n="27"/>solui potest ratio Scoti &amp; Nominalium, qua 
+      con<lb ed="#A" n="28" break="no"/>tendebant, obiectum esse causam efficientem 
+      in<lb ed="#A" n="29" break="no"/>tellectionis. Quod enim posito obiecto ponatur 
+      <lb ed="#A" n="30"/>intellectio, &amp; ablato auferatur, non satis est, vt 
+      di<lb ed="#A" n="31" break="no"/>camus, esse causam effectricem: sed satis est, asse 
+      <lb ed="#A" n="32"/>rere, esse causam alio modo, vt explicatum est: qua 
+      <lb ed="#A" n="33"/>autem sint obiecta sibi propria, &amp; suae natiuae 
+      vir<lb ed="#A" n="34" break="no"/>tati integre accommodata notabimus disputat. 
+      <lb ed="#A" n="35"/>208. 209. &amp; 212. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e999">
+                     <lb ed="#A" n="36"/>Hoc tamen non obest, quo minus Angelus in 
+      <lb ed="#A" n="37"/>digeat aliqua forma sibi addita ad intelligenda 
+      <lb ed="#A" n="38"/>obiecta suae virtuti natiuae non accommodata, vi 
+      <lb ed="#A" n="39"/>ad videndum Deum, &amp; mysteria gratiae, &amp; futura 
+      <lb ed="#A" n="40"/>contingentia, quia ad haec non habet completam 
+      <lb ed="#A" n="41"/>virtutem intelligendi, sed inchoatam: habet enim 
+      <lb ed="#A" n="42"/>vim intelligendi, prout intelligere est, quae sub sua 
+      <lb ed="#A" n="43"/>latitudine complectitur hoc, &amp; illud intelligere 
+      <lb ed="#A" n="44"/>sed non habet virtutem integre completam, vt 
+      <lb ed="#A" n="45"/>intelligat, aut videat quaedam obiecta, quae supra 
+      <lb ed="#A" n="46"/>suam virtutem sunt, qualis est Deus, &amp;c. 
+      comple<lb ed="#A" n="47" break="no"/>tur tamen eius virtus ad ea videnda, addita aliqua 
+      <lb ed="#A" n="48"/>forma supernaturali, vt de lumine gloriae 
+      philo<lb ed="#A" n="49" break="no"/>sophati sumus supra disputatione 43. capit. 6. &amp; 
+      <lb ed="#A" n="50"/>sequentibus. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1034">
+                     <lb ed="#A" n="51"/>Dicet aliquis ex dictis sequi species infusas, 
+      <lb ed="#A" n="52"/>quae animae Christi communicatae sunt ad 
+      cogno<lb ed="#A" n="53" break="no"/>scendas res naturales, esse etiam ordinis 
+      superna<lb ed="#A" n="54" break="no"/>turalis. Siquidem id etiam nos inferebamus contra 
+      <lb ed="#A" n="55"/>species Angelorum. Respondeo: id non sequi 
+      vl<lb ed="#A" n="56" break="no"/>lo modo: nam cum supponamus iam posse res 
+      <lb ed="#A" n="57"/>creatas naturales intelligi &amp; cognosci, sicut sunt 
+      <lb ed="#A" n="58"/>ab angelis intuitiua (vt aiunt) cognitione, 
+      mi<lb ed="#A" n="59" break="no"/>rum non est, si in alio intellectu, qui per se illas 
+      co<lb ed="#A" n="60" break="no"/>gnoscere non valet, dari possint species infusae 
+      ea<lb ed="#A" n="61" break="no"/>rum ordinis naturalis ad easdem res 
+      cognoscen<lb ed="#A" n="62" break="no"/>das. Dixi, ad easdem res cognoscendas: quia ad 
+      <lb ed="#A" n="63"/>obiecta supernaturalia, qualis est gratia, &amp; visio 
+      <lb ed="#A" n="64"/>beatifica non dantur species infusae ordinis natu 
+      <lb ed="#A" n="65"/>ralis, sed supernaturalis secundum substantiam 
+      si<lb ed="#A" n="66" break="no"/>cut sunt ipsae res, quae cognoscuntur, quod si 
+      ne<lb ed="#A" n="67" break="no"/>que intellectus angeli posset res creatas sine 
+      spe<lb ed="#A" n="68" break="no"/>ciebus intueri, nulli intellectui viderentur species 
+      <!--00502.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>Illae, &amp; cognitio illa intuitiua connaturalis, sed 
+      su<lb ed="#A" n="70" break="no"/>pernaturales essent omnibus: manet igitur 
+      pro<lb ed="#A" n="71" break="no"/>batum, hac species non esse infusas angelo ex 
+      so<lb ed="#A" n="72" break="no"/>la; Dei voluntate 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1090">
+                     <lb ed="#A" n="73"/>Deinde dici non potest, has species oriri ex 
+      ip<lb ed="#A" n="74" break="no"/>sa natura angeli tanquam passionis illius, sicut 
+      <lb ed="#A" n="75"/>quidam opinantur, de quibus diputatione 201. 
+      <lb ed="#A" n="76"/>capit. 3. dicemus: nam cum natura Angeli, &amp; 
+      in<lb ed="#A" n="77" break="no"/>tellectus illius sint determinata secundum se, 
+      po<lb ed="#A" n="78" break="no"/>stulant determinatas passiones, &amp; perfectiones 
+      si<lb ed="#A" n="79" break="no"/>bi naturales: sed species rerum intelligibilium non 
+      <lb ed="#A" n="80"/>sunt determinatae, ergo nequeunt esse secundum 
+      <lb ed="#A" n="81"/>naturalem inclinationem Angeli. Eas vero 
+      deter<lb ed="#A" n="82" break="no"/>minatas non esse patet. Nam vel intellectus 
+      ange<lb ed="#A" n="83" break="no"/>li exposcit eas tantum species rerum, quas Deus 
+      <lb ed="#A" n="84"/>creauit, aut creaturus est, vel etiam species 
+      possi<lb ed="#A" n="85" break="no"/>bilium, quae creaturus non est: ad species tantum 
+      <lb ed="#A" n="86"/>rerum, quas de facto creauit, vel creaturus est, non 
+      <lb ed="#A" n="87"/>potest habere naturalem inclinationem, quia hae 
+      <lb ed="#A" n="88"/>non sunt naturaliter, sed sola voluntate Dei 
+      de<lb ed="#A" n="89" break="no"/>terminatae: inclinatio autem naturalis, 
+      praeser<lb ed="#A" n="90" break="no"/>tim ad passiones, debet esse determinata 
+      natura<lb ed="#A" n="91" break="no"/>liter: ad possibiles vero non potest, quia non 
+      es<lb ed="#A" n="92" break="no"/>set maior ratio, quare ad has, quam ad illas, ac 
+      pro<lb ed="#A" n="93" break="no"/>inde ad omnes naturaliter inclinaretur. Quare 
+      <lb ed="#A" n="94"/>vel illas omnes Angelus haberet, quae essent 
+      infi<lb ed="#A" n="95" break="no"/>nitae, vel aliquibus imo infinitis careret contra 
+      <lb ed="#A" n="96"/>naturalem suam propensionem: quae duo 
+      absur<lb ed="#A" n="97" break="no"/>da sunt: ergo facilius esset defendere Angelum 
+      <lb ed="#A" n="98"/>absque speciebus res omnes creatas, &amp; naturales 
+      <lb ed="#A" n="99"/>intelligere. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1151">
+                     <lb ed="#A" n="100"/>Verum contra hanc sententiam obijciet 
+      ali<lb ed="#A" n="101" break="no"/>quis hoc modo. Si nuda angeli potentia cum 
+      ob<lb ed="#A" n="102" break="no"/>iecto sufficeret, posset quidem angelus 
+      intellige<lb ed="#A" n="103" break="no"/>re possibilia &amp; futura: nam &amp; possibile &amp; 
+      futu<lb ed="#A" n="104" break="no"/>rum prout talia, obiecta intelligibilia sunt. 
+      Re<lb ed="#A" n="105" break="no"/>spondeo de futuris eandem pene difficultatem 
+      es<lb ed="#A" n="106" break="no"/>se in opinione asserentium, angelum per species 
+      <lb ed="#A" n="107"/>intelligere. Nam &amp; futurorum species nunc 
+      ha<lb ed="#A" n="108" break="no"/>bet, nec eas accipit a futuris, quando praesentia 
+      <lb ed="#A" n="109"/>sunt, vt infra disputatione sequenti, capite 
+      secun<lb ed="#A" n="110" break="no"/>do probabimus. Verum in vtraque sententia 
+      fa<lb ed="#A" n="111" break="no"/>cilis est responsio. Dico ergo siue intellectus 
+      ha<lb ed="#A" n="112" break="no"/>beat species rerum possibilium, &amp; futurarum, siue 
+      <lb ed="#A" n="113"/>nullam habeat, sed nuda sua potentia intelligat. 
+      <lb ed="#A" n="114"/>res omnes ideo non intelligere possibilia, quae in 
+      <lb ed="#A" n="115"/>sola Dei potentia continentur, &amp; futura 
+      contin<lb ed="#A" n="116" break="no"/>gentia, quae ex libero arbitrio pendent (haec enim 
+      <lb ed="#A" n="117"/>sola angelicae cognitioni negamus) quia non sunt 
+      <lb ed="#A" n="118"/>obiecta, quae ipsi potentiae secundum eius 
+      virtu<lb ed="#A" n="119" break="no"/>tem naturalem respondeant, &amp; aequalia sint. 
+      Qua<lb ed="#A" n="120" break="no"/>re circa illa prout talia sunt propria virtute 
+      opera<lb ed="#A" n="121" break="no"/>ri non poterit. Caeterum vt communem 
+      senten<lb ed="#A" n="122" break="no"/>tiam defendamus, aliquae sunt deinde 
+      difficulta<lb ed="#A" n="123" break="no"/>tes examinandae vt ei adhaerere, &amp; consentanee 
+      <lb ed="#A" n="124"/>philosophari possimus. Praeterea posset aliquis 
+      <lb ed="#A" n="125"/>defendere, species Angelis infusas esse a Deo, &amp; 
+      <lb ed="#A" n="126"/>nihilominus esse ordinis naturalis: quia licet a 
+      so<lb ed="#A" n="127" break="no"/>lo Deo postulent produci, nulla alia causa 
+      effici<lb ed="#A" n="128" break="no"/>ente aut dispositione id exigente: quae videtur 
+      <lb ed="#A" n="129"/>definitio entis supernaturalis, quam tradidimus 
+      <lb ed="#A" n="130"/>disputatione 154. tamen, quia tales species sunt 
+      <lb ed="#A" n="131"/>circa obiecta ordinis naturalis, &amp; quasi 
+      exigenti<lb ed="#A" n="132" break="no"/>bus ipsis obiectis, vt intelligantur, infunduntur 
+      <lb ed="#A" n="133"/>species a Deo; ideo ipsae etiam species sunt 
+      ordi<lb ed="#A" n="134" break="no"/>nis naturalis. Haec tamen ratio difficultate non 
+      <lb ed="#A" n="135"/>caret: nam quamuis obiecta intellectus sint 
+      or<lb ed="#A" n="136" break="no"/>dinis naturalis in genere entis &amp; rei: tamen in ge¬ 
+      <!--00503.xml-->
+      <pb ed="#A" n="495"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>nere obiecti possunt esse supernaturalis ordinis. 
+      <lb ed="#A" n="2"/>Etenim multa futura ex libertate arbitrij sunt 
+      en<lb ed="#A" n="3" break="no"/>tia naturalia in genere rei: &amp; tamen in genere 
+      <lb ed="#A" n="4"/>obiecti sunt supernaturalia, ita vt, quatenus 
+      futu<lb ed="#A" n="5" break="no"/>ra, non cognoscantur ab Angelis naturaliter: 
+      ne<lb ed="#A" n="6" break="no"/>que illorum species naturalis ordinis angelis 
+      in<lb ed="#A" n="7" break="no"/>fundi possint: alioquin non esset causa, ob quam 
+      <lb ed="#A" n="8"/>tales species illis non essent ab initio creationis 
+      <lb ed="#A" n="9"/>concessae. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e1262"><!-- vaz-p1q55a2-d201 -->
+               <head xml:id="tavaz1-d1e330-Hd1e1265">Disputatio 201</head>
+               <head xml:id="tavaz1-d1e330-Hd1e1267" type="question-title">
+      An accipiat angelus species a rebus
+    </head>
+               <p xml:id="tavaz1-d1e330-d1e1270">
+                  <lb ed="#A" n="10" type="fixed=495"/>DISTATIO. CCI 
+      <lb ed="#A" n="11"/>An accipiat angelus species a rebus.
+    </p>
+               <p xml:id="tavaz1-d1e330-d1e1277">
+                  <lb ed="#A" n="12"/>Opinio Scoti, &amp; aliorum, cap. 1. 
+      <lb ed="#A" n="13"/>Angelum nullas species accipere a rebus, communis, &amp; 
+      ve<lb ed="#A" n="14" break="no"/>rior sententia adstruit, cap. 2. 
+      <lb ed="#A" n="15"/>Quo pacto has species Angelus habeat ab initio ingenii 
+      <lb ed="#A" n="16"/>tas. cap. 3. 
+      </p>
+               <div xml:id="tavaz1-d1e330-Dd1e1290">
+                  <head xml:id="tavaz1-d1e330-Hd1e1292">Caput 1</head>
+                  <p xml:id="tavaz1-d1e330-d1e1294">
+                     <lb ed="#A" n="17" type="fixed=495"/>CAPVT I. 
+      <lb ed="#A" n="18"/>opinio Stoti, &amp; aliorum.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e1301">
+                     <lb ed="#A" n="19"/>INTER eos, qui intellectui Angelico 
+      specie<lb ed="#A" n="20" break="no"/>concedunt, vt ipsis instructus intelligere 
+      pos<lb ed="#A" n="21" break="no"/>sit dissensio est de modo, quo tales species 
+      Ange<lb ed="#A" n="22" break="no"/>lo conueniunt. Prior opinio est eorum, qui 
+      do<lb ed="#A" n="23" break="no"/>cent, eodem modo Angelum accipere species a 
+      <lb ed="#A" n="24"/>rebus, sicut noster intellectus a sensibus eas ab 
+      <lb ed="#A" n="25"/>strahit. Ita affirmat Scotus in 2. dist. 3. 411. praesertim 
+      <lb ed="#A" n="26"/>§. Resp. Ricar. artic. 6. q. 2. Maior q. 7. Bassolis q. 4. ar. 2. &amp; 
+      <lb ed="#A" n="27"/>3. Marsilius in 2. q. 7. art. 12. part. conclusione 5. 8. &amp; 9. &amp; 
+      <lb ed="#A" n="28"/>Alexand. 2. p. q. 24. memb. 2. &amp; 3. ex quibus Alexand 
+      <lb ed="#A" n="29"/>nulla facta distinctione asserit, omnes species 
+      an<lb ed="#A" n="30" break="no"/>geli a rebus esse acceptas, &amp; nullas infusas ab 
+      ini<lb ed="#A" n="31" break="no"/>tio creationis: loquitur autem de speciebus rerum 
+      <lb ed="#A" n="32"/>spiritualium in memb. 2. de speciebus autem 
+      re<lb ed="#A" n="33" break="no"/>rum materialium in membro 3. Caeteri vero 
+      au<lb ed="#A" n="34" break="no"/>thores dicunt, rerum incorruptibilium, &amp; 
+      vni<lb ed="#A" n="35" break="no"/>uersalium species esse Angelo ab initio suae 
+      cre<lb ed="#A" n="36" break="no"/>tionis ingenitas, rerum autem singularium, &amp; 
+      <lb ed="#A" n="37"/>corruptibilium esse a rebus ipsis postea 
+      deriua<lb ed="#A" n="38" break="no"/>tas: intelligunt autem meo iudicio, species earum 
+      <lb ed="#A" n="39"/>solum rerum incorruptibilium, quae ab initio cum 
+      <lb ed="#A" n="40"/>ipsis angelis creatae fuerunt, ipsis ingenita fuisse 
+      <lb ed="#A" n="41"/>a principio suae creationis: at vero rerum 
+      incor<lb ed="#A" n="42" break="no"/>ruptibilium, vt animarum, quae post ipsos 
+      Ange<lb ed="#A" n="43" break="no"/>los futurae erant eodem modo ab ipsis rebus de 
+      <lb ed="#A" n="44"/>cursu temporis esse acceptas, sicut ab alijs rebus 
+      <lb ed="#A" n="45"/>corruptibilibus: namque in eorum sententia 
+      iden<lb ed="#A" n="46" break="no"/>omnino sequeretur absurdum, si rerum 
+      futura<lb ed="#A" n="47" break="no"/>rum incorruptibilium species ab initio angeli 
+      ha<lb ed="#A" n="48" break="no"/>buissent, nempe res aliquas futuras recte ab ipsis 
+      <lb ed="#A" n="49"/>cognosci. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1371">
+                     <lb ed="#A" n="50"/>Probant igitur, species rerum singularium non 
+      <lb ed="#A" n="51"/>dum angelis Praesentium, a rebus ipsis desumi 
+      <lb ed="#A" n="52"/>quia alioqui sequeretur, omnia futura etiam con 
+      <lb ed="#A" n="53"/>tingentia ab Angelo cognosci, antequam sint, si 
+      <lb ed="#A" n="54"/>ab initio secundum esse species omnium illorum 
+      <lb ed="#A" n="55"/>habuisset: hac ratione praedicti Doctores 
+      vtun<lb ed="#A" n="56" break="no"/>tur, excepto Scoto, qui affirmat, potuisse 
+      qui<lb ed="#A" n="57" break="no"/>dem angelos habere species omnium rerum 
+      sin<lb ed="#A" n="58" break="no"/>gularium, &amp; futurarum contingentium, nihilo 
+      <lb ed="#A" n="59"/>minus non cognoscere futura contingentia, quia 
+      <lb ed="#A" n="60"/>per illas species Angeli non cognoscerent 
+      con<lb ed="#A" n="61" break="no"/>nexionem actualis existentiae cum tali re. Ipse 
+      igi<lb ed="#A" n="62" break="no"/>tur alia ratione vtitur nimirum, quia essent 
+      infi<lb ed="#A" n="63" break="no"/>nitae species in angelo, si omnium futurorum spe¬ 
+      <!--00503.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="64"/>cies ab initio haberet, eo quod futura 
+      contingen<lb ed="#A" n="65" break="no"/>tia infinita sunt: existimat enim, vt inferius 
+      vide<lb ed="#A" n="66" break="no"/>bimus, non posse esse vnam speciem, quae plura 
+      <lb ed="#A" n="67"/>repraesentet, sed singularium rerum &amp; 
+      operatio<lb ed="#A" n="68" break="no"/>num singulas quoque species esse assignandas. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1419">
+                     <lb ed="#A" n="69"/>Duo tamen addit Scotus: vnum est, si 
+      Ange<lb ed="#A" n="70" break="no"/>lus non haberet aliquas species ingenitas ab 
+      initio<lb ed="#A" n="71" break="no"/>singulas accipere posset a rebus, in quo alij autho 
+      <lb ed="#A" n="72"/>res ab Scoto non dissentirent: nam si aliquas ac 
+      <lb ed="#A" n="73"/>cipere posset, cur etiam omnes non posset: Dicit 
+      <lb ed="#A" n="74"/>tamen de facto Deum aliquas species Angelis 
+      in<lb ed="#A" n="75" break="no"/>fudisse: vt ipsum ornatum &amp; perfectum crearet: 
+      <lb ed="#A" n="76"/>id quod expresse cum Scoto notarunt Bassolis, &amp; 
+      <lb ed="#A" n="77"/>Maior locis allegatis; alterum est, etiamsi 
+      Ange<lb ed="#A" n="78" break="no"/>lus haberet species rerum singularium futurarum 
+      <lb ed="#A" n="79"/>ad notitiam tamen intuitiuam aliquid a rebus 
+      ac<lb ed="#A" n="80" break="no"/>ciperet: id ipsum docuit Maior loco citato: 
+      existi<lb ed="#A" n="81" break="no"/>mant enim, notitiam intuitiuam non fieri per 
+      so<lb ed="#A" n="82" break="no"/>lam speciem &amp; conceptum proprium rei, sed 
+      es<lb ed="#A" n="83" break="no"/>se notitiam rei vt actu existentis, &amp; praesentis, ac 
+      <lb ed="#A" n="84"/>proinde ad illam non sufficere speciem propriam 
+      <lb ed="#A" n="85"/>rei antea infusam, nisi tunc aliquid angelus a 
+      te<lb ed="#A" n="86" break="no"/>bus accipiat Consentit etiam Gabr. in 2. qui prologi ar. 
+      <lb ed="#A" n="87"/>2. notatione 2. ex doctrina Ocami. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1464">
+                     <lb ed="#A" n="88"/>Verum Scotus in hoc non omnino cum alijs 
+      <lb ed="#A" n="89"/>conuenit. Alij enim docent Angelum accipere 
+      <lb ed="#A" n="90"/>species intelligibiles a rebus, quibus postea 
+      eli<lb ed="#A" n="91" break="no"/>ciat intellectionem: Scotus vero asserit, angelos 
+      <lb ed="#A" n="92"/>accipere notitiam ipsam intuitiam a rebus ita, vt 
+      <lb ed="#A" n="93"/>intellectus cum re ipsa singulari praesenti 
+      produ<lb ed="#A" n="94" break="no"/>cat cognitionem intuitiuam ipsius, quanuis ex hac 
+      <lb ed="#A" n="95"/>notitia (vt ait Scotus) relinquatur species ad 
+      noti<lb ed="#A" n="96" break="no"/>tiam abstractiuam, hoc est, ad notitiam rei non 
+      <lb ed="#A" n="97"/>existentis, aut sine existentia consideratae. Ita 
+      do<lb ed="#A" n="98" break="no"/>cuit quaest. 10. §. Ad quaestionem circa finem illius. 
+      <lb ed="#A" n="99"/>Quomodo vero Scotus differat a Gabriele, 
+      Occa<lb ed="#A" n="100" break="no"/>mo, &amp; Gregorio, diximus praeced. disputat. cap. 1. 
+      <lb ed="#A" n="101"/>illi enim nullam speciem in angelo esse concedunt: 
+      <lb ed="#A" n="102"/>Scotus autem plures esse dicit, &amp; solam notitiam 
+      <lb ed="#A" n="103"/>intuitiuam a rebus accipi: quare non recte videtur 
+      <lb ed="#A" n="104"/>Caletanus Scoti sententiam retulisse infraq. 57. 
+      <lb ed="#A" n="105"/>art. 2. Pro hac opinione adduci solet August. 12. de 4. 
+      <lb ed="#A" n="106"/>Trinit. cap. 7. ait enim Deum non videre ad tempus, 
+      <lb ed="#A" n="107"/>nec aliquid noui fieri in eis visione, cum aliquid 
+      <lb ed="#A" n="108"/>in tempore nouiter fit, Sicut (inquit) inde afficiuntur 
+      <lb ed="#A" n="109"/>sensus vel carnales animalium &amp; hominum, vel 
+      coeleste<lb ed="#A" n="110" break="no"/>Angelorum. Huic tamen testimonio primum 
+      res<lb ed="#A" n="111" break="no"/>pondemus, mirum non esse, si huius sententia 
+      <lb ed="#A" n="112"/>fuerit August. qui vt vidimus disputat. 179. cap. 2. 
+      <lb ed="#A" n="113"/>non dubitauit asserere, Angelos corporeos esse. 
+      <lb ed="#A" n="114"/>Qui vero docent esse spirituales, vt Scotus 
+      affir<lb ed="#A" n="115" break="no"/>mat, negare debent ipsos aliquid posse pati a 
+      cor<lb ed="#A" n="116" break="no"/>pore. Deinde dico, illud intelligi posse non quia 
+      <lb ed="#A" n="117"/>Angelus immutetur a re praesente, vt ab efficiente 
+      <lb ed="#A" n="118"/>sed quia non intelligit futura, donec praesentia sint, 
+      <lb ed="#A" n="119"/>vt disp. 106. &amp; 107. ostendimus. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e1538">
+                  <head xml:id="tavaz1-d1e330-Hd1e1540">Caput 2</head>
+                  <p xml:id="tavaz1-d1e330-d1e1542">
+                     <lb ed="#A" n="120" type="fixed=495"/>CAPVT II. 
+      <lb ed="#A" n="121"/>Angelum nullas species accipere a rebus, communis e 
+      <lb ed="#A" n="122"/>verior sententia adstruit. 
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e1551">
+                     <lb ed="#A" n="123"/>SEntentia communis amplectenda nobis est, 
+      <lb ed="#A" n="124"/>quae docet, angelum nullas species sumere a 
+      <lb ed="#A" n="125"/>rebus ipsis, quam tradiderunt Sanctus Thomas, 
+      Ca<lb ed="#A" n="126" break="no"/>iet. &amp; alij Thomistae in hoc art. idemque S. Th. 2. 
+      <lb ed="#A" n="127"/>cont. gent. cap. 96. &amp; Ferrariens. ibid. Albertus in 2. pari 
+      <lb ed="#A" n="128"/>summae tractatu 4. q. 14. memb. 3. artic. 2. 1. part. articuli, 
+      <lb ed="#A" n="129"/>&amp; ad primum, &amp; libr. de quatuor coauis 1. parte quaest. 
+      <!--00504.xml-->
+      <pb ed="#A" n="496"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>5. artic. 12. Thomas de Argent. in 2. distinct. 3. quaest. 2. art. 
+      <lb ed="#A" n="2"/>4. 2. parte conclusione 1. &amp; 2. Bonauent. 2. parte distinct. 
+      <lb ed="#A" n="3"/>art. 2. 1. Capreol. quaest. 2. art. 1. conclus. 3. &amp; 4. 
+      AEgi<lb ed="#A" n="4" break="no"/>dius 2. parte quaest. 2. art. 1. in resolutione 2. dub. &amp; art 
+      <lb ed="#A" n="5"/>2. Heruaus quaest. 4. art. 3. cum quibus conuenit 
+      Hen<lb ed="#A" n="6" break="no"/>ricus loco allegato in praecedenti disputat. 
+      quam<lb ed="#A" n="7" break="no"/>uis enim dicat, Angelum intelligere res omnes 
+      <lb ed="#A" n="8"/>non per varias species, sed per vnum habitum, 
+      ta<lb ed="#A" n="9" break="no"/>men illum docet non esse a rebus adquisitum, sed 
+      <lb ed="#A" n="10"/>cum Angelo simul creatum. Omissis vero 
+      pluri<lb ed="#A" n="11" break="no"/>bus alijs, hac vnica ratione, haec sententia 
+      proba<lb ed="#A" n="12" break="no"/>tur, &amp; refutatur opposita. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1601">
+                     <lb ed="#A" n="13"/>Si Angelus species a rebus praesentibus 
+      accipe<lb ed="#A" n="14" break="no"/>ret, vno ex tribus modis fieri deberet, aut enim 
+      <lb ed="#A" n="15"/>solae res praesentes deberent esse causa integra &amp; 
+      <lb ed="#A" n="16"/>perfecta specierum in intellectu angelico, aut 
+      ip<lb ed="#A" n="17" break="no"/>sae res cum intellectu deberent concurrere ad pro 
+      <lb ed="#A" n="18"/>ducendas species, ita vt res essent causae, quas 
+      vo<lb ed="#A" n="19" break="no"/>cant partiales; aut denique solus intellectus 
+      ange<lb ed="#A" n="20" break="no"/>li deberet esse causa specierum: sed nullo ex his 
+      mo<lb ed="#A" n="21" break="no"/>dis fieri id potest: ergo non est afferendum, 
+      An<lb ed="#A" n="22" break="no"/>gelum species accipere, a rebus. Primo res ipse 
+      ex<lb ed="#A" n="23" break="no"/>tra intellectum existentes non possunt esse tota &amp; 
+      <lb ed="#A" n="24"/>integra causa: tum quia si sint res materiales quia 
+      <lb ed="#A" n="25"/>materiale &amp; corporeum in spirituale, quod 
+      nobi<lb ed="#A" n="26" break="no"/>lius est, agere nequit; nihil enim corporeum vir 
+      <lb ed="#A" n="27"/>tute sua producere potest formam spiritualem 
+      <lb ed="#A" n="28"/>cuius solum capax est angelus, &amp; substantia 
+      spiri<lb ed="#A" n="29" break="no"/>tualis: tum etiam quia etsi res ipsae &amp; obiecta sint 
+      <lb ed="#A" n="30"/>spiritualia, hoc modo species procedere neque 
+      <lb ed="#A" n="31"/>unt: quia, vt disputatione 217. ostendemus, 
+      ange<lb ed="#A" n="32" break="no"/>lus sua virtute solum potest imprimere motum 
+      fe<lb ed="#A" n="33" break="no"/>cundum locum corporibus: at qualitatem aliquam 
+      <lb ed="#A" n="34"/>producere certe non valet: ergo nec speciem sui 
+      <lb ed="#A" n="35"/>in alio Angelo¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1653">
+                     <lb ed="#A" n="36"/>Secundo res ipsae &amp; obiecta non possunt 
+      spe<lb ed="#A" n="37" break="no"/>cies producere vt causa partialis. Nam vel essent 
+      <lb ed="#A" n="38"/>hoc modo causa specierum propria virtute, vel 
+      <lb ed="#A" n="39"/>tanquam instrumenta eleuata a virtute intellectus 
+      <lb ed="#A" n="40"/>angeli: non propria virtute, ob rationem 
+      supe<lb ed="#A" n="41" break="no"/>rius factam. Non vt instrumenta: nam quamuis 
+      <lb ed="#A" n="42"/>dicamus phantasma materiale, &amp; corporeum esse 
+      <lb ed="#A" n="43"/>in nobis instrumentum ad producendas species 
+      <lb ed="#A" n="44"/>in nostro intellectu, idem non debemus asserere 
+      <lb ed="#A" n="45"/>de rebus, quae sunt extra intellectum Angelicum 
+      <lb ed="#A" n="46"/>collatis cum ipso. Phantasma enim, quia nobis 
+      <lb ed="#A" n="47"/>coniunctum est, potest naturaliter eleuari a nostic 
+      <lb ed="#A" n="48"/>intellectu agente per ordinationem quandam 
+      na<lb ed="#A" n="49" break="no"/>turalem, qua sub illo constituitur hoc ipso, quod 
+      <lb ed="#A" n="50"/>coniunctum est: at res separatae quo pacto 
+      possen<lb ed="#A" n="51" break="no"/>vt instrumenta ab intellectu angelico eleuari, 
+      <lb ed="#A" n="52"/>cum etiam respectu Dei satis difficilis sit talis 
+      e<lb ed="#A" n="53" break="no"/>leuatio rerum ad superiores effectus 
+      producen<lb ed="#A" n="54" break="no"/>dos? Adde, quod qua ratione possent assumi vt 
+      in<lb ed="#A" n="55" break="no"/>strumenta ad producendas species intelligibiles, 
+      <lb ed="#A" n="56"/>possent assumi ad producendam intellectionem 
+      <lb ed="#A" n="57"/>sicut voluit Scotus. Frustra igitur prius 
+      assume<lb ed="#A" n="58" break="no"/>rentur ad producendas species, quam 
+      intellectio<lb ed="#A" n="59" break="no"/>nes ipsas, 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1709">
+                     <lb ed="#A" n="60"/>Tertio, produci non potest species 
+      efficacita<lb ed="#A" n="61" break="no"/>te &amp; virtute solius intellectus absque 
+      cooperatio<lb ed="#A" n="62" break="no"/>ne aliqua rerum &amp; obiectorum; quia eadem 
+      ra<lb ed="#A" n="63" break="no"/>tione dicere posset aliquis praesentibus rebus &amp; 
+      <lb ed="#A" n="64"/>obiectis fieri cognitionem, nec opus esse 
+      specie<lb ed="#A" n="65" break="no"/>impressae, qua reddatur intellectus potens in actu 
+      <lb ed="#A" n="66"/>primo. Tum etiam vt intellectus agens, qui 
+      ef<lb ed="#A" n="67" break="no"/>ex se potentia communis &amp; indifferens 
+      determi<lb ed="#A" n="68" break="no"/>naretur ad productionem huius, vel alterius spe¬ 
+      <!--00504.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>ciei, indigeret alia causa particulari, aut 
+      instru<lb ed="#A" n="70" break="no"/>mento, a quo determinaretur: ergo ex se non 
+      ma<lb ed="#A" n="71" break="no"/>gis abstraheret hanc speciem quam illam: causam 
+      <lb ed="#A" n="72"/>autem particularem aut instrumentum non habe 
+      <lb ed="#A" n="73"/>ret, vt supponimus: ergo sola virtute illius 
+      abstra<lb ed="#A" n="74" break="no"/>hi nequeunt species intelligibiles. Dices 
+      determi<lb ed="#A" n="75" break="no"/>naretur a rebus ipsis tanquam ab obiecto seu 
+      ma<lb ed="#A" n="76" break="no"/>teria. Hoc certe est impossibile. Nam quamuis 
+      ef<lb ed="#A" n="77" break="no"/>ficiens aliquod determinaretur a subiecto &amp; 
+      ma<lb ed="#A" n="78" break="no"/>teria, circa quam operatur, ratione cuius varios 
+      <lb ed="#A" n="79"/>effectus producit, &amp; facultas cognoscens ab 
+      obie<lb ed="#A" n="80" break="no"/>cto, quod cognoscit, determinari etiam possit: 
+      ta<lb ed="#A" n="81" break="no"/>men intellectus agens non potest determinari a 
+      <lb ed="#A" n="82"/>rebus, vt a materia, quia non operatur aliquid 
+      cir<lb ed="#A" n="83" break="no"/>ca illas, neque vt ab obiecto, quia non sunt 
+      ob<lb ed="#A" n="84" break="no"/>iectum illius. ergo neque hoc modo ab illis 
+      deter<lb ed="#A" n="85" break="no"/>minari potest. Hac ratione probatur, angelum non 
+      <lb ed="#A" n="86"/>posse accipere species a rebus, ac proinde non esse 
+      <lb ed="#A" n="87"/>in angelo intellectum agentem. Nam si aliqua 
+      ra<lb ed="#A" n="88" break="no"/>tione deberet esse, maxime ad specierum 
+      produ<lb ed="#A" n="89" break="no"/>ctionem, ad nullum enim alium effectum 
+      neces<lb ed="#A" n="90" break="no"/>satius est, vt disput. 198. ostendimus. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1783">
+                     <lb ed="#A" n="91"/>Ex dictis etiam consequitur, falsam esse 
+      senten<lb ed="#A" n="92" break="no"/>tiam Gabrielis, &amp; Gregorij, Ocami &amp; Bassolis 
+      as<lb ed="#A" n="93" break="no"/>serentium, res ipsas extra intellectum angeli 
+      exi<lb ed="#A" n="94" break="no"/>stentes esse causam efficientem cognitionis, 
+      prae<lb ed="#A" n="95" break="no"/>sertim intuituae, quam angelus habet de ipsis. 
+      Eo<lb ed="#A" n="96" break="no"/>dem modo colligitur, falsum esse id, quod ait 
+      Sco<lb ed="#A" n="97" break="no"/>tus, notitiam videlicet intuitiuam rerum 
+      singula<lb ed="#A" n="98" break="no"/>rium proxime esse ab obiecto, si intelligit ab eo 
+      <lb ed="#A" n="99"/>esse vt ab efficiente. Quod si intelligat esse ab 
+      ob<lb ed="#A" n="100" break="no"/>iecto per modum causae formalis speciem 
+      tribuen<lb ed="#A" n="101" break="no"/>tis &amp; terminantis cognitionem, idem dicere 
+      de<lb ed="#A" n="102" break="no"/>bebat de omni cognitione: quare non esset hoc 
+      <lb ed="#A" n="103"/>peculiare in intuitiua, 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1814">
+                     <lb ed="#A" n="104"/>Demum etiam falsum existimo, quod asserit 
+      <lb ed="#A" n="105"/>Scotus, etiamsi Angelus futura cognosceret, &amp; 
+      <lb ed="#A" n="106"/>per proprias species, &amp; conceptum secundum 
+      i<lb ed="#A" n="107" break="no"/>psorum existentiam tali tempore futuram, 
+      nihilo<lb ed="#A" n="108" break="no"/>minus ipsis iam praesentibus eorum notitiam 
+      mu<lb ed="#A" n="109" break="no"/>tandam, vt quae erat abstactiua, fieret intuitiua, 
+      <lb ed="#A" n="110"/>eamque a rebus ipsis deriuandam. Censet enim, 
+      <lb ed="#A" n="111"/>abstractiuam &amp; intuitiuam notitiam differre 
+      se<lb ed="#A" n="112" break="no"/>cundum substantiam. Definit autem intuitiuam 
+      <lb ed="#A" n="113"/>quodlib. 3. artic. 2. circa secundum quaesitum, &amp; in 
+      <lb ed="#A" n="114"/>2. dist. 3. q. 9. in ordine quae incipit, Secundo, quaere 
+      <lb ed="#A" n="115"/>§. Ad quaest. igitur, vt existentis actu &amp; praesentis: 
+      <lb ed="#A" n="116"/>quem sequitur Gabriel quaest. 1. prologi artic. 2. nota. 2. 
+      <lb ed="#A" n="117"/>hoc igitur falsum existimo, nam si semel angelus 
+      <lb ed="#A" n="118"/>haberet propriam cognitionem futurorum pro 
+      <lb ed="#A" n="119"/>tali tempore, nunquam aliquid ex ipsorum 
+      prae<lb ed="#A" n="120" break="no"/>sentia in cognitione immutaretur. Quod si rebus 
+      <lb ed="#A" n="121"/>praesentibus cognitio mutatur, ideo est, quia non 
+      <lb ed="#A" n="122"/>habebatur prius propria aliqua notitia illarum, vt 
+      <lb ed="#A" n="123"/>futurae erant. Quod si talis haberetur, certe 
+      prae<lb ed="#A" n="124" break="no"/>sentia rei nihil mutaret, sicut diximus supra 
+      dispi<lb ed="#A" n="125" break="no"/>64. cap. 4. de oculo qui videret in absentia obiecti, 
+      <lb ed="#A" n="126"/>vt fieri posset: quare recte notauit Maior in secundum 
+      <lb ed="#A" n="127"/>dist. 3. q. 10. fieri posse a Deo intuitiuam notitiam rerum 
+      <lb ed="#A" n="128"/>futurarum, antequam sunt praesentes. Cum vero 
+      <lb ed="#A" n="129"/>dicit in eadem distinct. q. 7. in probatione 3. 
+      con<lb ed="#A" n="130" break="no"/>clusionis aliquid mutari in cognitione quam 
+      ha<lb ed="#A" n="131" break="no"/>bebat angelus prius, quando iam rem intuetur, 
+      i<lb ed="#A" n="132" break="no"/>deo asserit, quia existimat, nunc Angelum non 
+      ha<lb ed="#A" n="133" break="no"/>bere propriam notitiam futurorum antequam 
+      <lb ed="#A" n="134"/>sint.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e1884">
+      <!--00505.xml-->
+                     <pb ed="#A" n="497"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>CAPVT III. 
+      <lb ed="#A" n="2"/>Quo pacto has species Angelus habeat ab initio. 
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e1897">
+                     <lb ed="#A" n="3"/>QVO autem modo species, quas Angelus 
+      ha<lb ed="#A" n="4" break="no"/>bet, fuerint ab initio intellectui ipsius 
+      inge<lb ed="#A" n="5" break="no"/>nitae, inter Doctores posterioris sententiae 
+      dissen<lb ed="#A" n="6" break="no"/>sio est. Nonnulli dicunt, species esse veluti 
+      passio<lb ed="#A" n="7" break="no"/>nes naturaliter ab essentia profectas: ita Caietanu 
+      <lb ed="#A" n="8"/>1. 2. q. 50. artic. 6. vbi inquit, Angelum dupliciter 
+      <lb ed="#A" n="9"/>accipere habitus ab exteriori, vno modo quasi ad 
+      <lb ed="#A" n="10"/>uentitiam qualitatem, quales putat esse habitus 
+      <lb ed="#A" n="11"/>supernaturales: altero modo quasi qualitatem 
+      <lb ed="#A" n="12"/>congenitam ab authore naturae, sicut grauia &amp; 
+      le<lb ed="#A" n="13" break="no"/>uia habent motum a generante: &amp; hoc pacto 
+      An<lb ed="#A" n="14" break="no"/>gelos habere species intelligibiles rerum: per 
+      <lb ed="#A" n="15"/>qualitatem vero congenitam non intelligit simul 
+      <lb ed="#A" n="16"/>genitam cum Angelo, sic enim &amp; gratiam, &amp; 
+      ha<lb ed="#A" n="17" break="no"/>bitus supernaturales hoc posteriori modo angelo 
+      <lb ed="#A" n="18"/>fuisse communicatos existimaret; sed intelligi 
+      <lb ed="#A" n="19"/>qualitatem, quam vocant conaturalem, &amp; velut 
+      <lb ed="#A" n="20"/>passionem ipsius Angeli, quam comparat motui 
+      <lb ed="#A" n="21"/>grauium &amp; leuium, qui fluit etiam ab ipsis 
+      graui<lb ed="#A" n="22" break="no"/>bus, &amp; leuibus. Idem plane asseruit Capreol. in 2 
+      <lb ed="#A" n="23"/>dist. 3. q. 2. ar. 3. ad argumentum Aureoli contra 
+      ter<lb ed="#A" n="24" break="no"/>tiam conclusionem. Et videtur fuisse sententia 
+      <lb ed="#A" n="25"/>authori libro de causis apud Aristot. 
+      propositio<lb ed="#A" n="26" break="no"/>ne 10. potest vero confirmari ratione facta in 
+      <lb ed="#A" n="27"/>praecedenti disputatione: quia cum intellectus 
+      an<lb ed="#A" n="28" break="no"/>geli naturalem vim habeat ad intelligendum, 
+      ha<lb ed="#A" n="29" break="no"/>bere quoque debet vel speciem naturaliter 
+      con<lb ed="#A" n="30" break="no"/>iunctam ab intrinseco, vel vim aliquam, qua 
+      ean<lb ed="#A" n="31" break="no"/>sibi possit adquirere: alioqui facultas 
+      intelligen<lb ed="#A" n="32" break="no"/>di frustra videretur, quae ex suis principijs 
+      natu<lb ed="#A" n="33" break="no"/>talibus non haberet quo posset operati posse 
+      ope<lb ed="#A" n="34" break="no"/>rari, nisi a Deo omnino libere speciem reciperet, 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e1969">
+                     <lb ed="#A" n="35"/>Alij vero existimant species intelligibiles non 
+      <lb ed="#A" n="36"/>nasci a natura ipsius Angeli, vt a naturali principio 
+      <lb ed="#A" n="37"/>efficienti, sed a Deo solo infundi &amp; libere 
+      donari<lb ed="#A" n="38" break="no"/>nam si naturaliter fluerent ab intellectu, seu 
+      na<lb ed="#A" n="39" break="no"/>tura angeli, non esset maior ratio, ob quam harum 
+      <lb ed="#A" n="40"/>rerum, quae futurae sunt, species haberet, &amp; non 
+      <lb ed="#A" n="41"/>possibilium, quod si possibilium, non maior ratio 
+      <lb ed="#A" n="42"/>esset, ob quam harum potius, quam aliarum 
+      ha<lb ed="#A" n="43" break="no"/>beret, vt superiori disputatione cap. 3. in 
+      fereba<lb ed="#A" n="44" break="no"/>mus: atqui Angelum non habere species rerum 
+      <lb ed="#A" n="45"/>omnium possibilium imo solas futurarum 
+      habe<lb ed="#A" n="46" break="no"/>re, communis sententia docet, quam tradit S. Th. 
+      <lb ed="#A" n="47"/>infra q 56. ar. 2. ad 4. Ferrar. vero, qui pro hac 
+      poste<lb ed="#A" n="48" break="no"/>riori sententia refertur a contra gentes cap. 96. §. Ad 
+      <lb ed="#A" n="49"/>uertendum, priorem potius videtur secutus. Ego 
+      <lb ed="#A" n="50"/>vero censeo pro vtraque parte rem difficilem esse 
+      <lb ed="#A" n="51"/>nec plene satisfieri posse argumentis vtriusque, 
+      <lb ed="#A" n="52"/>Facilius autem ad intelligendum mihi visum est 
+      <lb ed="#A" n="53"/>angelum speciebus non indigere, vt intelligat, sed 
+      <lb ed="#A" n="54"/>sola sua virtute posse intelligere aliquid eo 
+      ipso<lb ed="#A" n="55" break="no"/>quod intra limites sui obiecti continetur, Quid 
+      <lb ed="#A" n="56"/>vero intra latitudinem illius collocetur, ex sequen 
+      <lb ed="#A" n="57"/>tibus fiet manifestum. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e2024"><!-- vaz-p1q55a3 -->
+               <head xml:id="tavaz1-d1e330-Hd1e2027">Articulus 3</head>
+               <p xml:id="tavaz1-d1e330-d1e2029">
+                  <lb ed="#A" n="43" type="fixed=498"/>COnclusio est, Angeli quo superiores, per 
+      <lb ed="#A" n="44"/>pauciores species eadem cognoscunt. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e2037"><!-- vaz-p1q55a3-d202 -->
+               <head xml:id="tavaz1-d1e330-Hd1e2040">Disputatio 202</head>
+               <head xml:id="tavaz1-d1e330-Hd1e2042" type="question-title">
+    An plurium rerum possit esse vna 
+    species
+  </head>
+               <p xml:id="tavaz1-d1e330-d1e2045">
+                  <lb ed="#A" n="45" type="fixed=498"/>DISPVTATIO CCII. 
+      <lb ed="#A" n="46"/>An plurium rerum possit esse vna 
+      <lb ed="#A" n="47"/>species 
+    </p>
+               <p xml:id="tavaz1-d1e330-d1e2054">
+                  <lb ed="#A" n="48"/>Singularum rerum singulas species esse, dixerunt Scotus, 
+      <lb ed="#A" n="49"/>&amp; alij cap. 1. 
+      <lb ed="#A" n="50"/>Vnam esse speciem, aut qualitatem in Angelis plura 
+      reprae<lb ed="#A" n="51" break="no"/>sentantem, plures authores dixerunt, cap. 2 
+      </p>
+               <div xml:id="tavaz1-d1e330-Dd1e2065">
+                  <head xml:id="tavaz1-d1e330-Hd1e2067">Caput 1</head>
+                  <p xml:id="tavaz1-d1e330-d1e2069">
+                     <lb ed="#A" n="52" type="fixed=498"/>CAPVT I. 
+      <lb ed="#A" n="53"/>Singularum rerum singulas species esse, dixerum 
+      <lb ed="#A" n="54"/>Scotus, &amp; alij. 
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e2078">
+                     <lb ed="#A" n="55"/>SI cum sententia communi supponamus, 
+      An<lb ed="#A" n="56" break="no"/>gelum per species intelligere, vt videamus, an 
+      <lb ed="#A" n="57"/>superior per pauciores intelligat, necesse est prius 
+      <!--00506.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="58"/>examinare, an plurium rerum vna species 
+      indi<lb ed="#A" n="59" break="no"/>uidua esse possit: in qua difficultate prior 
+      opinio<lb ed="#A" n="60" break="no"/>sit asserentium, non posse vnam &amp; eandem speciem 
+      <lb ed="#A" n="61"/>esse plurium rerum. Ita docuerunt Scotus in 2. dist. 3. 
+      <lb ed="#A" n="62"/>quaest. 10. §. Ista propositio, &amp; §. Ad quaestionem, Bassolis 
+      <lb ed="#A" n="63"/>quaest. 3. §. Alia opinio, Richard. artic. 6. quaest. 2. in 2 
+      <lb ed="#A" n="64"/>argumen. Sed contra maior quaest. 6. conclusione 2. 3. &amp; 
+      <lb ed="#A" n="65"/>Cumque praedicti authores existiment, omnium 
+      <lb ed="#A" n="66"/>naturarum species esse a principio ingenitas 
+      an<lb ed="#A" n="67" break="no"/>gelo, decursu autem temporis species 
+      indiuiduo<lb ed="#A" n="68" break="no"/>rum &amp; singularium a rebus ipsis accipi, docent 
+      <lb ed="#A" n="69"/>singularum naturarum, &amp; singulorum 
+      indiuiduo<lb ed="#A" n="70" break="no"/>rum singulas species in angelo esse. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2120">
+                     <lb ed="#A" n="71"/>Probant vero primo, quia sequeretur ex 
+      op<lb ed="#A" n="72" break="no"/>posita sententia, vnica specie repraesentari posse 
+      <lb ed="#A" n="73"/>infinita: nunc enim in supremo Angelo vel est 
+      vi<lb ed="#A" n="74" break="no"/>na species repraesentans omnes naturas possibiles 
+      <lb ed="#A" n="75"/>specie diuersas, vel saltem multas ex illis: illa 
+      igi<lb ed="#A" n="76" break="no"/>tur poterit repraesentare omnes naturas inferioris 
+      <lb ed="#A" n="77"/>speciei: hae autem sunt infinitae, quia sub qualibet 
+      <lb ed="#A" n="78"/>specie infinitae aliae fieri possunt: ergo vna species 
+      <lb ed="#A" n="79"/>posset infinita repraesentare. Similiter de 
+      indiui<lb ed="#A" n="80" break="no"/>duis argui potest hoc modo. Si est species aliqua 
+      <lb ed="#A" n="81"/>intelligibilis repraesentans naturam ipsam, &amp; 
+      ali<lb ed="#A" n="82" break="no"/>qua indiuidua illius, poterit infinita indiuidua 
+      re<lb ed="#A" n="83" break="no"/>praesentare. Porro autem infinita, siue indiuidua 
+      <lb ed="#A" n="84"/>eiusdem naturae, siue naturas eiusdem generis non 
+      <lb ed="#A" n="85"/>posse eadem specie repraesentari, probat Scotus, 
+      <lb ed="#A" n="86"/>quia vbi pluralitas secundum numerum requirit. 
+      <lb ed="#A" n="87"/>perfectionem maiorem. infinitas secundum 
+      nu<lb ed="#A" n="88" break="no"/>merum requirit infinitam perfectionem: nam si, 
+      <lb ed="#A" n="89"/>vt quis portet tot libras, necesse est, habeat 
+      tan<lb ed="#A" n="90" break="no"/>tam virtutem, vt portet infinitas, oportet habeat 
+      <lb ed="#A" n="91"/>infinitam: adde quod si esset vna species 
+      reprae<lb ed="#A" n="92" break="no"/>sentans infinita saltem indiuidua, posset angelus 
+      <lb ed="#A" n="93"/>propria virtute omnia simul intelligere. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2172">
+                     <lb ed="#A" n="94"/>Secundo probat Scotus, vna qualitate non 
+      pos<lb ed="#A" n="95" break="no"/>se plura repraesentari, hoc argumento: vnica ratio 
+      <lb ed="#A" n="96"/>cognoscendi habet vnum obiectum adaequatum, 
+      <lb ed="#A" n="97"/>sub quo reliqua includuntur, sed vna species, seu 
+      <lb ed="#A" n="98"/>qualitas non potest habere vnum obiectum 
+      adae<lb ed="#A" n="99" break="no"/>quatum continens sub se reliqua, si per illam 
+      om<lb ed="#A" n="100" break="no"/>nia creata repraesententur, vt quidam affirmant: 
+      <lb ed="#A" n="101"/>ergo nec vna species omnium creaturarum, nec 
+      <lb ed="#A" n="102"/>vnus habitus ad omnia creata intelligenda, sicut 
+      <lb ed="#A" n="103"/>asseruit Henricus, esse potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2197">
+                     <lb ed="#A" n="104"/>Tertio, nihil est principium cognoscendi 
+      a<lb ed="#A" n="105" break="no"/>liud, nisi sit ratio illius, vel rationem eius 
+      conti<lb ed="#A" n="106" break="no"/>neat, sed vna species non potest esse huiusmodi, 
+      <lb ed="#A" n="107"/>quia non potest continere rationes tot naturarum 
+      <lb ed="#A" n="108"/>in se, ergo non potest esse principium 
+      cognos<lb ed="#A" n="109" break="no"/>cendi plura. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2213">
+                     <lb ed="#A" n="110"/>Quarto idem non potest assimiari pluribus di 
+      <lb ed="#A" n="111"/>uersis inter se: ergo vna qualitas non potest esse 
+      si<lb ed="#A" n="112" break="no"/>militudo &amp; species tam variarum naturarum. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e2224">
+                  <head xml:id="tavaz1-d1e330-Hd1e2226">Caput 2</head>
+                  <p xml:id="tavaz1-d1e330-d1e2228">
+                     <lb ed="#A" n="113" type="fixed=498"/>CAPVT II. 
+    <lb ed="#A" n="114"/>Vnam esse speciem, aut qualitatem in Angelis plura 
+      re<lb ed="#A" n="115" break="no"/>praesentantem, plures authores dixerunt.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e2237">
+                     <lb ed="#A" n="116"/>MVlto magis communis, &amp; verior sententia 
+      <lb ed="#A" n="117"/>est, quae docet posse vna, &amp; eadem numero 
+      <lb ed="#A" n="118"/>specie plura diuersa repraesentari, &amp; huiusmodi 
+      <lb ed="#A" n="119"/>species Angelis concessas fuisse. Opinio haec fuit 
+      <lb ed="#A" n="120"/>Alberti lib. de quatuor coaeuis 1. part. q. 5. art. 12. post 
+      me<lb ed="#A" n="121" break="no"/>dium. Aegidij in 2. d. 3. 2 parte distinctionis q. 2. art. 2. dub. 
+      <lb ed="#A" n="122"/>3 &amp; 4. Capreol. q. 2. art. 1. conclus. 7. &amp; art. 3. ad 
+      argu<lb ed="#A" n="123" break="no"/>menta Scoti contra illam Thom. de Argentina quaest. 2. 
+      <!--00507.xml-->
+      <pb ed="#A" n="499"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>art. a. parte 2. artic. concl. 3. Ferrar. 2. contra gent. cap. 98 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2266">
+                     <lb ed="#A" n="2"/>§. Tertia conclusio. Fauet etiam Henricus quodlib. 5. q. 14 
+      <lb ed="#A" n="3"/>cum asserit, esse vnicum habitum in intellectu 
+      <lb ed="#A" n="4"/>Angeli, quo instructus intelligit vniuersa, quem 
+      <lb ed="#A" n="5"/>licet non appellet speciem, non incongrue ita 
+      vo<lb ed="#A" n="6" break="no"/>cari potest: nam illa qualitas, quae intellectum 
+      in<lb ed="#A" n="7" break="no"/>struit in actu primo ad intelligendum, species per 
+      <lb ed="#A" n="8"/>modum habitus repraesentans nuncupari potest, 
+      <lb ed="#A" n="9"/>vt disput. 43. cap. 7. de lumine gloriae notauimus. 
+      <lb ed="#A" n="10"/>Quocirca Scotus contra Henricum etiam 
+      argu<lb ed="#A" n="11" break="no"/>mentatur, vt probet, vna qualitate non posse 
+      plu<lb ed="#A" n="12" break="no"/>ra repraesentari. Fanet etiam Bonauent. in eadem 
+      di<lb ed="#A" n="13" break="no"/>stinct. 3. parte 2 distinct. art. 2. quaest. 1. ad 3. vbi 
+      conce<lb ed="#A" n="14" break="no"/>dit per vnam speciem cognosci naturam 
+      specifi<lb ed="#A" n="15" break="no"/>cam, &amp; omnia indiuidua. Praecipuum autem 
+      hu<lb ed="#A" n="16" break="no"/>ius sententiae fundamentum est huiusmodi, si non 
+      <lb ed="#A" n="17"/>est aliqua manifesta contradictio, non est cur 
+      di<lb ed="#A" n="18" break="no"/>camus fieri non posse, vt vna qualitate &amp; specie 
+      <lb ed="#A" n="19"/>plura repraesententur: quod si fieri potest, id quod 
+      <lb ed="#A" n="20"/>maioris perfectionis Angelo denegare non 
+      debe<lb ed="#A" n="21" break="no"/>mus, ita, vt quo perfectiores Angeli sint, per 
+      pau<lb ed="#A" n="22" break="no"/>ciores species intelligant. Nam quamuis haec 
+      ra<lb ed="#A" n="23" break="no"/>tio non probet; id esse necessarium, demonstrat 
+      <lb ed="#A" n="24"/>tamen maxime congruum, &amp; perfectissimae 
+      na<lb ed="#A" n="25" break="no"/>turae spirituali consentaneum esse. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2321">
+                     <lb ed="#A" n="26"/>Porro non implicare contradictionem id, quod 
+      <lb ed="#A" n="27"/>diximus, manifeste apparebit, si argumenta 
+      Scoti<lb ed="#A" n="28" break="no"/>dissoluamus. Quo etiam fiet, vt fundamenta 
+      opi<lb ed="#A" n="29" break="no"/>nionis illius, simul euertamus. Primum 
+      argumen<lb ed="#A" n="30" break="no"/>tum erat, quia sequeretur, per vnam speciem 
+      re<lb ed="#A" n="31" break="no"/>praesentari posse infinitas naturas. Respondeo 
+      ta<lb ed="#A" n="32" break="no"/>men primo, licet concedamus, per vnam 
+      qualita<lb ed="#A" n="33" break="no"/>tem repraesentari posse plures naturas, non pro 
+      <lb ed="#A" n="34"/>pterea sequitur, repraesentari posse infinitas 
+      ru<lb ed="#A" n="35" break="no"/>ras: quia quamuis repraesententur tres, aut 
+      qua<lb ed="#A" n="36" break="no"/>tuor, non sequitur repraesentari posse omnes 
+      pos<lb ed="#A" n="37" break="no"/>sibiles inferiores naturas, quas, inquit Scotus, 
+      es<lb ed="#A" n="38" break="no"/>se infinitas; quia potest species ita esse adaequata 
+      <lb ed="#A" n="39"/>tribus aut quatuor naturis, vt repraesentet eas 
+      <lb ed="#A" n="40"/>tantum: sequeretur autem posse repraesentare 
+      in<lb ed="#A" n="41" break="no"/>finitas inferiores, si eo ipso quod superiorem 
+      re<lb ed="#A" n="42" break="no"/>praesentat, inferiorem repraesentaret: quod non 
+      <lb ed="#A" n="43"/>contingit. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2364">
+                     <lb ed="#A" n="44"/>Secundo dico, non constare, an sint possibile 
+      <lb ed="#A" n="45"/>species infinitae versus infimum, vt notaui supra 
+      <lb ed="#A" n="46"/>disput. 106. cap. 4. etiamsi non sequatur absurdum 
+      <lb ed="#A" n="47"/>aliquid, si dicamus versus eam partem infinitas 
+      es<lb ed="#A" n="48" break="no"/>se possibiles. Tertio pronuncio, non esse 
+      impossi<lb ed="#A" n="49" break="no"/>bile, vna qualitate creata &amp; finita secundum 
+      es<lb ed="#A" n="50" break="no"/>sentiam repraesentari infinitas rerum naturas 
+      spe<lb ed="#A" n="51" break="no"/>cie diuersas, vel indiuidua eiusdem naturae. Nam 
+      <lb ed="#A" n="52"/>quemadmodum per vnam speciem, aut 
+      qualita<lb ed="#A" n="53" break="no"/>tem recreatam repraesentatur Deus, qui est 
+      secun<lb ed="#A" n="54" break="no"/>dum essentiam infinitus, nempe aut lumine 
+      glo<lb ed="#A" n="55" break="no"/>riae, aut specie impressa, quae fieri potest, aut visio 
+      <lb ed="#A" n="56"/>ne ipsa, quae est expressa repraesentatio, quae 
+      om<lb ed="#A" n="57" break="no"/>nia deducuntur ex supra dictis in tota q. 12. ita 
+      et<lb ed="#A" n="58" break="no"/>iam non implicat contradictionem, vna simplici 
+      <lb ed="#A" n="59"/>qualitate repraesentari infinitam multitudinem 
+      <lb ed="#A" n="60"/>aut indiuiduorum in eadem natura, aut 
+      diuersa<lb ed="#A" n="61" break="no"/>rum naturarum. Et si vrgeas hac ratione, vt 
+      quali<lb ed="#A" n="62" break="no"/>tas repraesentet vnam naturam, requiritur aliqua 
+      <lb ed="#A" n="63"/>perfectio: vt repraesentet duas requiritur maiori 
+      <lb ed="#A" n="64"/>ergo, vt repraesentet infinitas, requiritur infinita; 
+      <lb ed="#A" n="65"/>quae fieri non potest. Respondeo hac forma 
+      ar<lb ed="#A" n="66" break="no"/>guendi solum colligi infinitum augmentum, 
+      quo<lb ed="#A" n="67" break="no"/>ties augmentum fit vniuoce in eadem forma 
+      se<lb ed="#A" n="68" break="no"/>cundum intensionem, vel extensionem quantita¬ 
+      <!--00507.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>tis. At sit augmentum fiat in diuersa natura, certe 
+      <lb ed="#A" n="70"/>non sequitur, sed hoc solum tandem colligitur, ad 
+      <lb ed="#A" n="71"/>repraesentandam infinitam multitudinem 
+      requi<lb ed="#A" n="72" break="no"/>rispeciem alterius naturae, seu proprietatis, quod 
+      <lb ed="#A" n="73"/>non inficiamur, vt iam ostendi 1. tom. disput. 50. 
+      <lb ed="#A" n="74"/>cap. 5. dixi, alterius naturae, seu proprietatis, quia 
+      <lb ed="#A" n="75"/>etiamsi non diceremus, esse diuersae naturae 
+      se<lb ed="#A" n="76" break="no"/>cundum speciem, sufficeret dicere, esse numero 
+      <lb ed="#A" n="77"/>diuersam ab ea, quae repraesentaret finita, sed 
+      ha<lb ed="#A" n="78" break="no"/>bere diuersum modum: quamuis hoc 
+      intelligen<lb ed="#A" n="79" break="no"/>dum esset de specie, quae infinita indiuidua 
+      eius<lb ed="#A" n="80" break="no"/>dem naturae repraesentarer. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2451">
+                     <lb ed="#A" n="81"/>Illud etiam, quod addidi primo argumento, 
+      <lb ed="#A" n="82"/>parum probat: quia quamuis aliqua species 
+      in<lb ed="#A" n="83" break="no"/>telligibilis repraesentaret, infinita, non liceret 
+      col<lb ed="#A" n="84" break="no"/>ligere, fore infinitae perfectionis, vt patet ex 
+      di<lb ed="#A" n="85" break="no"/>ctis. Et quidem non repugnare infinita actu 
+      si<lb ed="#A" n="86" break="no"/>mul cognosci, ostendimus supra disput. 49. 
+      Prae<lb ed="#A" n="87" break="no"/>terea licet daretur species actu infinita 
+      repraesen<lb ed="#A" n="88" break="no"/>tans in actu primo, non propterea esset 
+      con<lb ed="#A" n="89" break="no"/>cedendum omnia illa simul actu posse cognosci. 
+      <lb ed="#A" n="90"/>Nam repraesentatio illius speciei non esset talis 
+      <lb ed="#A" n="91"/>naturae, vt in ea, quasi in speculo res omnes 
+      vide<lb ed="#A" n="92" break="no"/>rentur. Nec enim intellectus, quasi conuersus ad 
+      <lb ed="#A" n="93"/>speciem intelligibilem in ea intuetur, quae in illa 
+      <lb ed="#A" n="94"/>dicuntur repraesentari, sed illa diceretur 
+      reprae<lb ed="#A" n="95" break="no"/>sentare res in actu primo, vel vt alij loquuntur, per 
+      <lb ed="#A" n="96"/>modum habitus, quia esset principium cum 
+      in<lb ed="#A" n="97" break="no"/>tellectu eliciendi cognitionem singulorum, &amp; ita 
+      <lb ed="#A" n="98"/>distingueretur ab ipso verbo aut cognitione, quod 
+      <lb ed="#A" n="99"/>verbum, aut cognitio est veluti actualis 
+      repraesen<lb ed="#A" n="100" break="no"/>tatio; species autem esset veluti habitualis: 
+      cum<lb ed="#A" n="101" break="no"/>que cooperatio intellectus cum specie sit 
+      limita<lb ed="#A" n="102" break="no"/>ta, hinc sit, vt species impressa plura repraesentet 
+      <lb ed="#A" n="103"/>per modum habitus, quam intellectus actu per 
+      il<lb ed="#A" n="104" break="no"/>lam cognoscat. Concedit tamen Caietan. in hoc 
+      <lb ed="#A" n="105"/>artic. posse Angelum per vnam speciem plura 
+      si<lb ed="#A" n="106" break="no"/>mul intelligere, sed non omnia. Vtrum vero 
+      pos<lb ed="#A" n="107" break="no"/>sit omnia, an non, ita facile definire non 
+      possu<lb ed="#A" n="108" break="no"/>mus. Hoc tamen certum sit, posse esse tantum 
+      nu<lb ed="#A" n="109" break="no"/>merum eorum, quae vna specie repraesentantur, 
+      <lb ed="#A" n="110"/>vt non possunt simul cognosci, quia virtus 
+      intelle<lb ed="#A" n="111" break="no"/>ctus ad vtendum specie limitata est. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2521">
+                     <lb ed="#A" n="112"/>Secundum augmentum, pro sententia 
+      Scoti<lb ed="#A" n="113" break="no"/>erat, vna species debet habere vnum obiectum 
+      <lb ed="#A" n="114"/>adaequatum, &amp;c. Respondeo, non opus esse, vt 
+      <lb ed="#A" n="115"/>vna species habeat vnum obiectum adaequatum 
+      <lb ed="#A" n="116"/>secundum aliquam rationem vniuocam; sed pro 
+      <lb ed="#A" n="117"/>obiecto adaequato esse potest vniuersa illa 
+      multi<lb ed="#A" n="118" break="no"/>tudo rerum, quae specie repraesentantur, vt visus 
+      <lb ed="#A" n="119"/>habet pro obiecto colorem, &amp; lucem, quae non 
+      <lb ed="#A" n="120"/>conueniunt in vna ratione adaequata, &amp; vniuoca, 
+      <lb ed="#A" n="121"/>vt supra disput. 7. cap. 5. notauimus. Idem est de 
+      <lb ed="#A" n="122"/>ente, quod secundum totam latitudinem 
+      analo<lb ed="#A" n="123" break="no"/>giae suae est obiectum intellectus. Quocirca non 
+      vi<lb ed="#A" n="124" break="no"/>deo, cur Caietan. in hunc artic. concedat, 
+      respe<lb ed="#A" n="125" break="no"/>ctu cuiuscumque speciei intelligibilis esse vnam 
+      <lb ed="#A" n="126"/>rationem formalem obiecti adaequatam, in quam 
+      <lb ed="#A" n="127"/>conueniunt omnia, quae per illam speciem 
+      reprae<lb ed="#A" n="128" break="no"/>sentantur. Optime tamen docet, esse vnum 
+      obie<lb ed="#A" n="129" break="no"/>ctum, quod si praecipuum inter reliqua, &amp; 
+      conti<lb ed="#A" n="130" break="no"/>nens illa: id quod etiam dixerat Capreolus art. 3. 
+      <lb ed="#A" n="131"/>citato in solutione primi argumenti Scoti, contra 
+      <lb ed="#A" n="132"/>septimam conclusionem. Quare Ferrar. 2. cont. gent 
+      <lb ed="#A" n="133"/>cap. 98. §. Ad euidentiam eorum, plane asserit, esse 
+      <lb ed="#A" n="134"/>posse vnam speciem plura repraesentantem, qua 
+      <lb ed="#A" n="135"/>non conueniant in vnam rationem adaequatam: 
+      <lb ed="#A" n="136"/>in §. autem Ad huius, solum affirmat, fieri etiam 
+      <!--00508.xml-->
+      <pb ed="#A" n="500"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>posse, vt plura obiecta per vnam speciem 
+      reprae<lb ed="#A" n="2" break="no"/>sentata in vnam rationem communem conueniant, 
+      <lb ed="#A" n="3"/>quod non negamus. Caeterum quamuis 
+      conce<lb ed="#A" n="4" break="no"/>deremus plures res, quae repraesentantur, vna 
+      spe<lb ed="#A" n="5" break="no"/>cie, debere in vnam communem rationem 
+      con<lb ed="#A" n="6" break="no"/>uenire: argumentum Scoti solum contra 
+      Henri<lb ed="#A" n="7" break="no"/>cum probaret, non posse esse vnam speciem, seu 
+      <lb ed="#A" n="8"/>qualitatem respectu omnium rerum 
+      intelligibi<lb ed="#A" n="9" break="no"/>lium, quia omnes non possunt in vnam 
+      commu<lb ed="#A" n="10" break="no"/>nem rationem conuenire: at praedicta ratio certe 
+      <lb ed="#A" n="11"/>non probat, non posse plures res eadem specie 
+      re<lb ed="#A" n="12" break="no"/>praesentari, quia plures possent in vnam 
+      commu<lb ed="#A" n="13" break="no"/>nem rationem conuenire. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2612">
+                     <lb ed="#A" n="14"/>Tertium enim argumentum Scoti nihil 
+      pro<lb ed="#A" n="15" break="no"/>bat; vnum enim potest esse ratio cognoscendi 
+      a<lb ed="#A" n="16" break="no"/>liud dupliciter. Primum quatenus prius cogniti 
+      <lb ed="#A" n="17"/>est, &amp; hoc modo recte docet Scotus, id, per quod 
+      <lb ed="#A" n="18"/>aliud cognoscitur, debere esse aut rationem illius 
+      <lb ed="#A" n="19"/>aut illud formaliter continere: sic autem 
+      specie<lb ed="#A" n="20" break="no"/>non est ratio cognoscendi obiectum, quod reprae 
+      <lb ed="#A" n="21"/>sentat: quia neque est ratio illius, neque aliud 
+      for<lb ed="#A" n="22" break="no"/>maliter in se continet. Deinde vnum est ratio 
+      co<lb ed="#A" n="23" break="no"/>gnoscendi aliud, non prius cognitum, sed vt 
+      spe<lb ed="#A" n="24" break="no"/>cies illius, quatenus est principium eliciendi 
+      cogi<lb ed="#A" n="25" break="no"/>nitionem illius rei, vel quatenus est ipsa actualis 
+      <lb ed="#A" n="26"/>repraesentatio cognitionis: &amp; hoc modo non de 
+      <lb ed="#A" n="27"/>bet in se formaliter habere illud, quod facit 
+      cog<lb ed="#A" n="28" break="no"/>nosci, nec debet esse ratio illius, sed satis est, si 
+      il<lb ed="#A" n="29" break="no"/>lud repraesentet. Quare etiam si vna species 
+      ex<lb ed="#A" n="30" break="no"/>pressa, aut impressa multarum rerum sit, non 
+      se<lb ed="#A" n="31" break="no"/>quitur, eam in se continere formaliter rationes 
+      <lb ed="#A" n="32"/>diuersarum rerum, aut eandem esse rationem 
+      for<lb ed="#A" n="33" break="no"/>malem ipsarum: hoc autem in omni opinione 
+      <lb ed="#A" n="34"/>manifestum est. Quis enim dicat, speciem 
+      homi<lb ed="#A" n="35" break="no"/>nis esse hominem, aut eiusdem rationis cum 
+      ho<lb ed="#A" n="36" break="no"/>mine? &amp; sic de alijs. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2664">
+                     <lb ed="#A" n="37"/>Hinc etiam soluitur ratio quarto loco adducta 
+      <lb ed="#A" n="38"/>in confirmationem prioris sententiae. Namque 
+      <lb ed="#A" n="39"/>duobus modis vnum potest esse similitudo 
+      alte<lb ed="#A" n="40" break="no"/>rius, altero modo ratione qualitatis, aut formae 
+      <lb ed="#A" n="41"/>eiusdem rationis, quae dicitur similitudo de 
+      secun<lb ed="#A" n="42" break="no"/>do genere relationum, qualis est inter duo alba 
+      <lb ed="#A" n="43"/>altero modo potest esse vnum similitudo alterius, 
+      <lb ed="#A" n="44"/>cum tamen sint diuersae omnino naturae, ea solum 
+      <lb ed="#A" n="45"/>ratione, qua vnum alterum repraesentat, cognitione 
+      <lb ed="#A" n="46"/>nimirum, aut principio cognitionis. Priori modo 
+      <lb ed="#A" n="47"/>repugnat, vnam qualitatem, aut rem pluribus 
+      as<lb ed="#A" n="48" break="no"/>similari; &amp; ita repugnat vnum similitudinem 
+      ge<lb ed="#A" n="49" break="no"/>nere plurium rerum, quia idem non potest habere 
+      <lb ed="#A" n="50"/>qualitatem, aut formam eandem cum forma &amp; 
+      <lb ed="#A" n="51"/>qualitate plurium. Posteriori autem modo non 
+      <lb ed="#A" n="52"/>repugnat, eandem qualitatem esse similitudinem 
+      <lb ed="#A" n="53"/>multorum: quia eadem qualitas potest plura re 
+      <lb ed="#A" n="54"/>praesentare, vel actu, vt species expressa, vel 
+      habi<lb ed="#A" n="55" break="no"/>tu, sicuti impressa, eo quod haec repraesentatio 
+      <lb ed="#A" n="56"/>non sit secundum identitatem in forma¬ 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e330-Dd1e2712"><!-- vaz-p1q55a3-d203 -->
+               <head xml:id="tavaz1-d1e330-Hd1e2715">Disputatio 203</head>
+               <head xml:id="tavaz1-d1e330-Hd1e2717" type="question-title">
+    An quo superior Angelus est, eo per 
+    pauciores species intelligat
+  </head>
+               <p xml:id="tavaz1-d1e330-d1e2720">
+                  <lb ed="#A" n="57" type="fixed=500"/>DISPVTATIO CCIII. 
+      <lb ed="#A" n="58"/>An quo superior Angelus est, eo per 
+      <lb ed="#A" n="59"/>pauciores species intelligat.
+    </p>
+               <p xml:id="tavaz1-d1e330-d1e2729">
+                  <lb ed="#A" n="60"/>Superiores Angelos non intelligere per pauciores species 
+      exi<lb ed="#A" n="61" break="no"/>stimarunt Scotus &amp; Bassolis, c. 1. 
+      <lb ed="#A" n="62"/>Angelos superiores non solum Hierarchiae &amp; ordine, sed et 
+      <lb ed="#A" n="63"/>iam natura intelligere per pauciores species 
+      Thomi<lb ed="#A" n="64" break="no"/>stae dixerunt, c. 2 
+      <lb ed="#A" n="65"/>Duae aliae Scholasticorum sententiae, c. 3 
+      <lb ed="#A" n="66"/>Quid in hac re sentiendum sit, 
+    </p>
+               <div xml:id="tavaz1-d1e330-Dd1e2747">
+                  <head xml:id="tavaz1-d1e330-Hd1e2749">Caput 1</head>
+                  <p xml:id="tavaz1-d1e330-d1e2751">
+      <!--00508.xml-->
+                     <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="67" type="fixed=500"/>CAPVT I
+      <lb ed="#A" n="68"/>Superiores Angelos non intelligere per paucior, 
+      <lb ed="#A" n="69"/>existimarunt Scotus &amp; Bassolis. 
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e2764">
+                     <lb ed="#A" n="70"/>VAria sunt Scholasticorum placita in praesenti 
+      <lb ed="#A" n="71"/>controuersia, cum tamen nullus eorum 
+      cer<lb ed="#A" n="72" break="no"/>ro aliquo fundamento nitatur. Referam igitur ea 
+      <lb ed="#A" n="73"/>sigillatim, &amp; vltimo tandem nihil certi in hac re 
+      <lb ed="#A" n="74"/>definiri posse, demonstrabo. Prima sententia sit 
+      <lb ed="#A" n="75"/>Scoti &amp; Bassolis locis allegatis superiori dubio 
+      <lb ed="#A" n="76"/>qui affirmant, Angelos superiores non 
+      intellige<lb ed="#A" n="77" break="no"/>re per pauciores &amp; vniuersaliores species, idemque 
+      <lb ed="#A" n="78"/>asserere debet Ricardus, qui sentit, per vnam 
+      spe<lb ed="#A" n="79" break="no"/>ciem non posse plura repraesentari: allegantur 
+      et<lb ed="#A" n="80" break="no"/>iam pro hac opinione quotquot dixerunt, 
+      Ange<lb ed="#A" n="81" break="no"/>los accipere species a rebus, cum tamen ex 
+      ipso<lb ed="#A" n="82" break="no"/>rum sententia inde non sequatur, quoniam illi 
+      so<lb ed="#A" n="83" break="no"/>lum dixerunt, species rerum singularium &amp; 
+      futu<lb ed="#A" n="84" break="no"/>rarum accipi a rebus &amp; earum, quas Angeli non 
+      <lb ed="#A" n="85"/>cognoscunt a principio: concesserunt tamen 
+      spe<lb ed="#A" n="86" break="no"/>cies Angelis congenitas earum naturarum, quas 
+      <lb ed="#A" n="87"/>ab initio cognoscunt, in quibus quasdam esse 
+      vni<lb ed="#A" n="88" break="no"/>uersaliores existimare potuerunt. Fundamentum 
+      <lb ed="#A" n="89"/>huius sententiae nullum aliud esse potest, nisi quia 
+      <lb ed="#A" n="90"/>vna &amp; eadem qualitate non possunt plura 
+      reprae<lb ed="#A" n="91" break="no"/>sentari. Nam si possunt, non video, qua certa 
+      ra<lb ed="#A" n="92" break="no"/>tione negari queat, superiores Angelos per 
+      pau<lb ed="#A" n="93" break="no"/>ciores species intelligere. Caeterum cum 
+      superio<lb ed="#A" n="94" break="no"/>ri disput. ostensum sit, eadem qualitate indiuidua 
+      <lb ed="#A" n="95"/>posse plura simul repraesentari, non video aliquid 
+      <lb ed="#A" n="96"/>obesse, quominus superiores per pauciores 
+      spe<lb ed="#A" n="97" break="no"/>cies intelligant. An vero hoc ita esse, aliqua etiam 
+      <lb ed="#A" n="98"/>ratio demonstret, inferius dicemus. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e2831">
+                  <head xml:id="tavaz1-d1e330-Hd1e2833">Caput 2</head>
+                  <p xml:id="tavaz1-d1e330-d1e2835">
+                     <lb ed="#A" n="99" type="fixed=500"/>CAPVT II. 
+      <lb ed="#A" n="100"/>Angelos superiores non solum Hierarchia &amp; ordine, sed 
+      <lb ed="#A" n="101"/>etiam natura intelligere per pauciores 
+      spe<lb ed="#A" n="102" break="no"/>cies Thomistae dixerunt. 
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e2846">
+                     <lb ed="#A" n="103"/>COmmunis inter Thomistas opinio est, quam 
+      <lb ed="#A" n="104"/>S. Thom. in hoc art. in ratione suae conclus. 
+      <lb ed="#A" n="105"/>indicauit, &amp; plane sequuntur Caietan. &amp; 
+      recen<lb ed="#A" n="106" break="no"/>tiores Theologi in hunc artic. &amp; Capreol. in 2. di Capres 
+      <lb ed="#A" n="107"/>stinct. 3. quaest. 2. art. 1. concl. 8. Angelos non solum 
+      <lb ed="#A" n="108"/>Hierarchiae superioris &amp; ordinis, sed etiam 
+      excel<lb ed="#A" n="109" break="no"/>lentioris naturae intra eandem Hierarchiam, &amp; 
+      <lb ed="#A" n="110"/>ordinem per pauciores species intelligere: quam 
+      <lb ed="#A" n="111"/>sententiam confirmant ex Dionys. 12. cap. de coelesti 
+      Di<lb ed="#A" n="112" break="no"/>Hierarch. vbi inquit, superiores Angelos habere 
+      <lb ed="#A" n="113"/>scientiam magis vniuersalem, quam inferiores: &amp; 
+      <lb ed="#A" n="114"/>ex libro de causis apud Aristot. vbi in 10. 
+      propos<lb ed="#A" n="115" break="no"/>haec opinio expressa est. Et demum ratione, quia 
+      <lb ed="#A" n="116"/>aut dicendum est, omnes Angelos habere species 
+      <lb ed="#A" n="117"/>aeque vniuersales: quod videtur falsum, cum 
+      per<lb ed="#A" n="118" break="no"/>fectior Angelus perfectius debeat intelligere, 
+      <lb ed="#A" n="119"/>quam inferior, atque adeo per species magis 
+      vni<lb ed="#A" n="120" break="no"/>uersales, aut si aliqui debent habere species magis 
+      <lb ed="#A" n="121"/>vniuersales, quam alij, debent esse superiores non 
+      <lb ed="#A" n="122"/>solum in ordine &amp; Hierarchia, sed etiam in 
+      natu<lb ed="#A" n="123" break="no"/>ra: id quod ratio quoque S. Thomae confirmat: 
+      <lb ed="#A" n="124"/>nam quo perfectior est aliqua natura 
+      intellectua<lb ed="#A" n="125" break="no"/>lis, eo est Deo magis similis in modo 
+      cognoscen<lb ed="#A" n="126" break="no"/>di, &amp; perfectione intellectionis: perfectio autem 
+      <lb ed="#A" n="127"/>intellectionis in eo maxime consistit, vt per vnam 
+      <lb ed="#A" n="128"/>simplicem essentiam tam varia cognoscantur; 
+      er<lb ed="#A" n="129" break="no"/>go perfectio Angeli in eo etiam erit, vt per 
+      pau<lb ed="#A" n="130" break="no"/>ciores species plura intelligat. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2909">
+                     <lb ed="#A" n="131"/>Addit praeterea Caetan. hoc ita verum esse, vt 
+      <!--00509.xml-->
+      <pb ed="#A" n="501"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>supremus Angelus, qui nunc est, per vnicam 
+      tan<lb ed="#A" n="2" break="no"/>tum speciem omnia intelligat, quae naturali sua 
+      <lb ed="#A" n="3"/>virtute cognoscere potest. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e2927">
+                     <lb ed="#A" n="4"/>Haec sententia, quod attinet ad priorem eius 
+      <lb ed="#A" n="5"/>partem, non continet quidquam absurdi, ratione 
+      <lb ed="#A" n="6"/>tamen firma non constat. Primo quia non satis 
+      <lb ed="#A" n="7"/>certum est, an Angeli specie differant, vt 
+      dis<lb ed="#A" n="8" break="no"/>putat. 181. monstratum est. Quod si Angeli non 
+      <lb ed="#A" n="9"/>differunt specie, certum esse non potest, Angelos 
+      <lb ed="#A" n="10"/>perfectiores secundum gradum indiuiduae naturae 
+      <lb ed="#A" n="11"/>per pauciores aut perfectiores species intelligere 
+      <lb ed="#A" n="12"/>Quod si concedamus singulos specie differre, 
+      ad<lb ed="#A" n="13" break="no"/>huc non sequitur perfectiores Angelos per 
+      spe<lb ed="#A" n="14" break="no"/>cies perfectiores &amp; pauciores intelligere: Nam 
+      <lb ed="#A" n="15"/>aut huiusmodi species sunt sola Dei voluntate 
+      An<lb ed="#A" n="16" break="no"/>gelis communicatae, &amp; ita quis scire potest, 
+      diuer<lb ed="#A" n="17" break="no"/>sas species, vel eiusdem rationis singulis fuisse 
+      <lb ed="#A" n="18"/>concessas? quod enim Angeli perfectioris naturae 
+      <lb ed="#A" n="19"/>perfectius intelligant, non est necesse prouenire 
+      <lb ed="#A" n="20"/>ex perfectioribus speciebus intelligibilibus: si 
+      <lb ed="#A" n="21"/>quidem perfectior intellectus cum aequali specie 
+      <lb ed="#A" n="22"/>perfectius intelligit, eo quod ea vtitur tanquam 
+      in<lb ed="#A" n="23" break="no"/>strumento iuxta suam efficacitatem, &amp; virtutem 
+      <lb ed="#A" n="24"/>&amp; inter homines hoc quotidie videmus: atque 
+      <lb ed="#A" n="25"/>hac sola ratione Angelus superioris naturae eo 
+      ma<lb ed="#A" n="26" break="no"/>gis assimilaretur Deo, quo perfectius intellige 
+      <lb ed="#A" n="27"/>ret: nec opus esset, in eo magis assimilari, quod 
+      <lb ed="#A" n="28"/>per species perfectiores, vel pauciores 
+      cognosce<lb ed="#A" n="29" break="no"/>ret. Hac igitur via nobis constare non potest, 
+      An<lb ed="#A" n="30" break="no"/>gelum perfectioris naturae per species 
+      perfectio<lb ed="#A" n="31" break="no"/>res, aut magis vniuersales intelligere. Aut species 
+      <lb ed="#A" n="32"/>intelligibiles, quas Angeli habent, oriuntur ex 
+      ip<lb ed="#A" n="33" break="no"/>sorum essentia veluti passiones, vt quidam 
+      arbi<lb ed="#A" n="34" break="no"/>trantur. Et hoc modo recte videtur sequi, 
+      perfe<lb ed="#A" n="35" break="no"/>ctiores species Angelis perfectioris naturae 
+      con<lb ed="#A" n="36" break="no"/>uenire. Nam accidentia &amp; passiones, quae natu 
+      <lb ed="#A" n="37"/>ram aliquam consequuntur, &amp; ab ea, vt a 
+      princi<lb ed="#A" n="38" break="no"/>pio dimanant, iuxta mensuram naturae procedunt, 
+      <lb ed="#A" n="39"/>&amp; a diuersis naturis diuersae; ex hoc tamen non 
+      <lb ed="#A" n="40"/>sit, vt species superioris Angeli debeant esse 
+      vni<lb ed="#A" n="41" break="no"/>versaliores &amp; pauciores: posset enim aliquis 
+      con<lb ed="#A" n="42" break="no"/>cedere perfectiores quidem procedere a 
+      perfe<lb ed="#A" n="43" break="no"/>ctiori natura, non quia plura, sed quia perfectius 
+      <lb ed="#A" n="44"/>eadem repraesentent. Et haec circa priorem 
+      par<lb ed="#A" n="45" break="no"/>tem huius sententiae. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3022">
+                     <lb ed="#A" n="46"/>Posterior vero pars, quam addidit Caietanus 
+      <lb ed="#A" n="47"/>vel ea sola ratione optime confutatur, quod 
+      abs<lb ed="#A" n="48" break="no"/>que vllo fundamento, aut ratione eam asseruit. 
+      <lb ed="#A" n="49"/>Primum, quia nemo est, qui recte metiri 
+      valea<lb ed="#A" n="50" break="no"/>proportionem, quam vnus Angelus cum alio 
+      ha<lb ed="#A" n="51" break="no"/>bet respectu rerum omnium intelligibilium, vt 
+      <lb ed="#A" n="52"/>tandem asserat, supremum Angelum in ea 
+      pro<lb ed="#A" n="53" break="no"/>portione excedere reliquos, vt omnia intelligibi 
+      <lb ed="#A" n="54"/>lia vnica tantum specie complectatur, quae 
+      ali<lb ed="#A" n="55" break="no"/>pluribus speciebus intelligunt. Tum etiam, quia 
+      <lb ed="#A" n="56"/>ea ratione asserere debemus, supremum 
+      Ange<lb ed="#A" n="57" break="no"/>lum propria virtute posse, cum voluerit res 
+      om<lb ed="#A" n="58" break="no"/>nes vnico intuitu contemplari: quod quidem ita 
+      <lb ed="#A" n="59"/>difficile apparet, vt sine magno fundamento, &amp; 
+      <lb ed="#A" n="60"/>ratione non sit affirmandum. Ad haec, si alius 
+      An<lb ed="#A" n="61" break="no"/>gelus superior supremo, qui nunc est, crearetur 
+      <lb ed="#A" n="62"/>in opinione Caietani deberet esse alterius speciei: 
+      <lb ed="#A" n="63"/>ergo per pauciores species deberet intelligere, 
+      <lb ed="#A" n="64"/>quam ille, qui nunc supremus est: atqui non 
+      pos<lb ed="#A" n="65" break="no"/>set per pauciores, quam per vnam intelligere: 
+      er<lb ed="#A" n="66" break="no"/>go non est dicendum, Angelum supremum, qui 
+      <lb ed="#A" n="67"/>nunc est, omnia per vnam tantum speciem 
+      intel<lb ed="#A" n="68" break="no"/>ligere. Respondet Caietanus, in eo casu adden¬ 
+      <!--00509.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>dam fore nouam quandam speciem singulis 
+      An<lb ed="#A" n="70" break="no"/>gelis inferioribus, qua cognoscerent: in illo 
+      au<lb ed="#A" n="71" break="no"/>tem omnium supremo futuram vnam speciem 
+      <lb ed="#A" n="72"/>tantum, qua cognosceret omnia; sed in eo, qui 
+      <lb ed="#A" n="73"/>antea erat supremus, permansuram vnam 
+      spe<lb ed="#A" n="74" break="no"/>ciem respectu omnium inferiorum, tam 
+      spiritua<lb ed="#A" n="75" break="no"/>lium quam corporalium, &amp; quandam aliam 
+      illi<lb ed="#A" n="76" break="no"/>addendam, qua cognosceret Angelum sibi 
+      supe<lb ed="#A" n="77" break="no"/>riorem tunc creatum: hoc tamen non minus 
+      <lb ed="#A" n="78"/>commentitium est, &amp; pro libito a Caietan. 
+      confi<lb ed="#A" n="79" break="no"/>ctum. Qua enim ratione hanc specierum 
+      diuisio<lb ed="#A" n="80" break="no"/>nem quisquam suadere poterit? Praeterea, si 
+      An<lb ed="#A" n="81" break="no"/>gelus, qui nunc est supremus, cognoscit omnia 
+      si<lb ed="#A" n="82" break="no"/>bi inferiora tam spiritualia, quam corporalia per 
+      <lb ed="#A" n="83"/>vnicam speciem, &amp; creato superiori Angelo, 
+      so<lb ed="#A" n="84" break="no"/>lum ei adderetur noua species, vt superiorem 
+      il<lb ed="#A" n="85" break="no"/>lum intelligeret: eadem ratione de reliquis, qui 
+      <lb ed="#A" n="86"/>nunc sunt, dicere debemus, nempe vnica tantum 
+      <lb ed="#A" n="87"/>specie intelligere tam corporalia omnia, quam 
+      <lb ed="#A" n="88"/>spiritualia, sibi inferiora, &amp; species in ipsis solum 
+      <lb ed="#A" n="89"/>multiplicari vt superiora cognoscant: quare quo 
+      <lb ed="#A" n="90"/>aliquis superior est, non intelligit materiales, &amp; 
+      <lb ed="#A" n="91"/>spirituales inferiores se per pauciores species, 
+      sic<lb ed="#A" n="92" break="no"/>ut haec opinio adstruere videtur, vt in hoc 
+      supe<lb ed="#A" n="93" break="no"/>rior Angelus magis Deo assimiletur. Quod si 
+      res<lb ed="#A" n="94" break="no"/>pectu harum rerum non oporteat assignare 
+      supe<lb ed="#A" n="95" break="no"/>riori Angelo pauciores species, nec respectu 
+      alia<lb ed="#A" n="96" break="no"/>rum oportebit. Lege Aegidium loco seque cap. 
+      al<lb ed="#A" n="97" break="no"/>legando, qui late prosequitur, quo modo 
+      neces<lb ed="#A" n="98" break="no"/>sarium non sit, supremum Angelum per vnam 
+      <lb ed="#A" n="99"/>tantum speciem intelligere, etiamsi eo per 
+      pau<lb ed="#A" n="100" break="no"/>ciores species Angeli intelligant, quo sunt 
+      supe<lb ed="#A" n="101" break="no"/>riores 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3150">
+                     <lb ed="#A" n="102"/>Ex his, quae diximus, constat, necessarium non 
+      <lb ed="#A" n="103"/>esse, vt maior Angeli perfectio Deo in hoc 
+      assimi<lb ed="#A" n="104" break="no"/>letur, quod per pauciores species intelligibiles 
+      in<lb ed="#A" n="105" break="no"/>telligat res omnes, quam inferior; sed satis est, si 
+      <lb ed="#A" n="106"/>eas perfectius intelligat. Testimonium vero 
+      Dio<lb ed="#A" n="107" break="no"/>nys. si recte inspiciatur, nihil probat: solum enim 
+      <lb ed="#A" n="108"/>contendit ille, plurium rerum scientiam ipsis 
+      in<lb ed="#A" n="109" break="no"/>esse, &amp; hoc est quod dixit, vniuersaliorem 
+      eorun<lb ed="#A" n="110" break="no"/>scientiam esse. Verba Dionys. secundum 
+      transla<lb ed="#A" n="111" break="no"/>tionem Perionij sunt; Sanctorum Cherubin ordo 
+      sa<lb ed="#A" n="112" break="no"/>pientiae, scientiaeque altioris est particeps, ordines autem 
+      ea<lb ed="#A" n="113" break="no"/>rum essentiarum, quae eis subiectae sunt, participes quidem 
+      <lb ed="#A" n="114"/>etiam ipsi sunt &amp; sapientiae &amp; scientiae: sed tamen eius quae 
+      <lb ed="#A" n="115"/>pars est ad illos, &amp; quae inferiorem locum tenet. Vult ergo 
+      <lb ed="#A" n="116"/>docere Dionys. inferiores Angelos pauciora 
+      sci<lb ed="#A" n="117" break="no"/>re, &amp; ideo eorum scientiam appellauit partem 
+      <lb ed="#A" n="118"/>scientiae Angelorum superiorum, quam antiqua 
+      <lb ed="#A" n="119"/>translatio particularem scientiam vocauit. De 
+      spe<lb ed="#A" n="120" break="no"/>ciebus autem, quas Scholastici tribuunt Angelis, 
+      <lb ed="#A" n="121"/>vt principium sint cognitionis, ne verbum 
+      qui<lb ed="#A" n="122" break="no"/>dem habet Dionys. Fateor tamen, librum illum 
+      <lb ed="#A" n="123"/>de causis in ea fuisse sententia, vt assereret 
+      supe<lb ed="#A" n="124" break="no"/>riores Angelos per pauciores species intelligere: 
+      <lb ed="#A" n="125"/>tamen liber ille minoris est authoritatis, quam vt 
+      <lb ed="#A" n="126"/>opinio Thomistarum eo sit comprobanda &amp; 
+      con<lb ed="#A" n="127" break="no"/>firmanda: nec enim est Aristot. sed aut Procli, aut 
+      <lb ed="#A" n="128"/>Auempacae, vel Alpharabij. De alio vero 
+      testimo<lb ed="#A" n="129" break="no"/>nio Diony. quod magis huic sententiae fauet, cap. 
+      <lb ed="#A" n="130"/>vit. dicemus. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e3216">
+                  <head xml:id="tavaz1-d1e330-Hd1e3218">Caput 3</head>
+                  <p xml:id="tavaz1-d1e330-d1e3220">
+                     <lb ed="#A" n="131" type="fixed=501"/>CAPVT III. 
+      <lb ed="#A" n="132"/>Duae aliae Scholasticorum sententiae.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e3227">
+                     <lb ed="#A" n="133"/>TErtia opinio est eorum, qui dicunt Angelos 
+      <lb ed="#A" n="134"/>superioris ordinis per pauciores species in 
+      <lb ed="#A" n="135"/>telligere, quam Angelos inferioris: Angelos ta¬ 
+      <!--00510.xml-->
+      <pb ed="#A" n="502"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>men eiusdem ordinis, etiamsi specie differant, 
+      <lb ed="#A" n="2"/>easdem omnino species rerum habere, solumque 
+      <lb ed="#A" n="3"/>inter se differre, quia superioris naturae Angeli 
+      in<lb ed="#A" n="4" break="no"/>tra eundem ordinem intelligunt perfectius 
+      eas<lb ed="#A" n="5" break="no"/>dem res per easdem species, eo quod perfectioris 
+      <lb ed="#A" n="6"/>sint intellectus. Hanc sententiam vt probabilem 
+      <lb ed="#A" n="7"/>defendit Aegidius in 2. dist. 3. part. 2. quaest. 2. art. 2. ad 4 
+      <lb ed="#A" n="8"/>dub. Sed expresse eam amplectitur Ferrar. 2. contra 
+      <lb ed="#A" n="9"/>gent. c. 98. §. Circa conclusionem. Fauet quoque 
+      Her<lb ed="#A" n="10" break="no"/>ueus d illa 39. 4. art. 4. vbi asserit, omnes Angelos, 
+      <lb ed="#A" n="11"/>qui in eodem genere proximo conueniunt, 
+      ha<lb ed="#A" n="12" break="no"/>bere aequales species intelligibiles; &amp; ita quo sunt 
+      <lb ed="#A" n="13"/>superioris generis, habere pauciores species 
+      in<lb ed="#A" n="14" break="no"/>telligibiles, non tamen quo sunt superioris 
+      natu<lb ed="#A" n="15" break="no"/>rae secundum speciem. An vero omnes, qui 
+      con<lb ed="#A" n="16" break="no"/>ueniunt in eodem proximo genere, sint eiusdem 
+      <lb ed="#A" n="17"/>ordinis, non explicat. Caeterum in quouis 
+      Ange<lb ed="#A" n="18" break="no"/>lo perfectioris naturae etiam secundum speciem 
+      <lb ed="#A" n="19"/>concedit clariores species intelligibiles, quam in 
+      <lb ed="#A" n="20"/>alio inferioris naturae. Confirmat autem 
+      Ferrar<lb ed="#A" n="21" break="no"/>hanc suam sententiam primum ex Dionys. 12. cap. de 
+      <lb ed="#A" n="22"/>coelesti Hierarch. Deinde quia videmus multa 
+      bruta<lb ed="#A" n="23" break="no"/>animantia secundum speciem diuersa: ex quibus 
+      <lb ed="#A" n="24"/>ea, quae perfectiora sunt, non habent pauciores 
+      <lb ed="#A" n="25"/>facultates sentiendi: ergo eadem ratione necesse 
+      <lb ed="#A" n="26"/>non est, in Angelis; quo perfectioris naturae sunt, 
+      <lb ed="#A" n="27"/>pauciores esse species intelligibiles: quam ratio 
+      <lb ed="#A" n="28"/>nem sumpsisse videtur ex Aegidio¬ 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3303">
+                     <lb ed="#A" n="29"/>Verum eadem quoque ratione probari posset, 
+      <lb ed="#A" n="30"/>nec in Angelis superioris ordinis debere esse 
+      pau<lb ed="#A" n="31" break="no"/>ciores species, testimonium vero Dionysij, quam 
+      <lb ed="#A" n="32"/>parum probet, iam superius ostensum est; quare 
+      <lb ed="#A" n="33"/>&amp; haec sententia Ferrar. non habet firmum 
+      admo<lb ed="#A" n="34" break="no"/>dum fundamentum. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3319">
+                     <lb ed="#A" n="35"/>Quarta opinio est Henrici quodlib. 5. quaest. 14. qui 
+      <lb ed="#A" n="36"/>docet, quemcumque Angelum omnia 
+      intellige<lb ed="#A" n="37" break="no"/>re per vnam qualitatem seu habitum, non per 
+      <lb ed="#A" n="38"/>plures species; quamuis affirmet, illum habitum 
+      <lb ed="#A" n="39"/>dici posse quodammodo speciem. Supponit au 
+      <lb ed="#A" n="40"/>tem id, quod Scotus affirmauit, si darentur 
+      spe<lb ed="#A" n="41" break="no"/>cies intelligibiles in Angelo, tot esse futuras, 
+      quo<lb ed="#A" n="42" break="no"/>essent obiecta: negat autem plures species in 
+      An<lb ed="#A" n="43" break="no"/>gelo, &amp; vnum habitum tantum concedit; quia si 
+      <lb ed="#A" n="44"/>plures essent species intelligibiles, simul moue 
+      <lb ed="#A" n="45"/>rent intellectum Angeli ad intelligendum omnia 
+      <lb ed="#A" n="46"/>obiecta. Nam si in nobis plures species, quas 
+      ha<lb ed="#A" n="47" break="no"/>bemus, id non efficiunt, sed nunc ad vnum 
+      obie<lb ed="#A" n="48" break="no"/>ctum mouemur, postea ad aliud: causa est 
+      mani<lb ed="#A" n="49" break="no"/>festa: cum enim indigeamus etiam sensu ad 
+      intel<lb ed="#A" n="50" break="no"/>ligendum, &amp; sensus non moueatur simul ad 
+      om<lb ed="#A" n="51" break="no"/>nia, sed nunc ad vnum deinde ad aliud obiectum, 
+      <lb ed="#A" n="52"/>intellectus etiam ad omnia simul non mouetur: 
+      <lb ed="#A" n="53"/>at in Angelis haec ratio locum non habet. Si vero 
+      <lb ed="#A" n="54"/>ponatur vnus habitus in singulis Angelis, quem 
+      <lb ed="#A" n="55"/>appellat Henricus habitum scientiae, non 
+      sequi<lb ed="#A" n="56" break="no"/>tur idem incommodum, quia habitus ille inclinat 
+      <lb ed="#A" n="57"/>primo ad vnum primarium obiectum, &amp; deinde 
+      <lb ed="#A" n="58"/>ad reliqua: non tamen ostendit hic author, 
+      quod<lb ed="#A" n="59" break="no"/>nam sit primarium illud obiectum, &amp; quomodo 
+      <lb ed="#A" n="60"/>deinde ad reliqua successiue non simul Angelus 
+      <lb ed="#A" n="61"/>moueatur. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3381">
+                     <lb ed="#A" n="62"/>Ego tamen non video, cur Henricus plures 
+      <lb ed="#A" n="63"/>species Angelis non concedat, &amp; vnum tantum 
+      <lb ed="#A" n="64"/>habitum illis tribuat Quoniam licet Angelus 
+      ha<lb ed="#A" n="65" break="no"/>beat plures species plurium rerum, ab eis tamen 
+      <lb ed="#A" n="66"/>non determinatur ad primam cognitionem: ac 
+      <lb ed="#A" n="67"/>primam inquam, non solum quam habuit initio 
+      <lb ed="#A" n="68"/>creationis, sed a qua incipit genus aliquod nego 
+      <!--00510.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>tij ita cogitari, vt illa cognitio ex alia orta non 
+      fue<lb ed="#A" n="70" break="no"/>rit, vt in nobis contingit, sed ad hanc 
+      determina<lb ed="#A" n="71" break="no"/>tur a Deo, vt 1. 2. q. 9. art. vit. dicemus, &amp; Aristot. 
+      do<lb ed="#A" n="72" break="no"/>cet 7. lib. ad Eudemum circa finem, vbi dixit primam 
+      <lb ed="#A" n="73"/>cognitionem in nobis esse a bona forma, 
+      muni<lb ed="#A" n="74" break="no"/>mine tamen diuino instructa &amp; directa. Difficile 
+      <lb ed="#A" n="75"/>etiam est ostendere, quomodo ex vno habitu ad 
+      <lb ed="#A" n="76"/>hoc potius obiectum, quam ad aliud Angelus 
+      de<lb ed="#A" n="77" break="no"/>terminetur, vt contra eundem Henricum 
+      supe<lb ed="#A" n="78" break="no"/>rius dicebam. Quare hac ratione non debuisset 
+      <lb ed="#A" n="79"/>plures species Angelo denegare. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e330-Dd1e3428">
+                  <head xml:id="tavaz1-d1e330-Hd1e3430">Caput 4</head>
+                  <p xml:id="tavaz1-d1e330-d1e3432">
+                     <lb ed="#A" n="80" type="fixed=502"/>CAPVT IV. 
+      <lb ed="#A" n="81"/>Quid in hac re sentiendum sit.
+    </p>
+                  <p xml:id="tavaz1-d1e330-d1e3439">
+                     <lb ed="#A" n="82"/>EGo vero existimo, rem hanc ita esse a sensu, 
+      <lb ed="#A" n="83"/>&amp; ratione hominis remotam, vt nihil certi 
+      <lb ed="#A" n="84"/>de illa affirmare possimus, non solum certa 
+      ali<lb ed="#A" n="85" break="no"/>qua &amp; manifesta ratione, sed neque probabili 
+      con<lb ed="#A" n="86" break="no"/>iectura. Nam quamuis in vno, aut alio modo 
+      phi<lb ed="#A" n="87" break="no"/>losophandi non possimus manifestam 
+      contradi<lb ed="#A" n="88" break="no"/>ctionem deprehendere: ob id tamen non 
+      debe<lb ed="#A" n="89" break="no"/>mus asserere, hoc, aut illo modo species in 
+      Ange<lb ed="#A" n="90" break="no"/>lis esse, nisi ad id aliqua alia ratione inducamur. 
+      <lb ed="#A" n="91"/>Hanc autem ego existimo non suppetere, vt hoc 
+      <lb ed="#A" n="92"/>potius modo, quam illo Philosophemur. Quare 
+      <lb ed="#A" n="93"/>in re ita a sensu &amp; Philosophia humana remota 
+      <lb ed="#A" n="94"/>nihil affirmare, commodius est, quam sine certa 
+      <lb ed="#A" n="95"/>ratione aliquid asserere. Ideo mitto multa alia, 
+      <lb ed="#A" n="96"/>quae Theologi recentiores ex suo sensu 
+      excogita<lb ed="#A" n="97" break="no"/>runt, vt quisque suam tueretur opinionem, 
+      diui<lb ed="#A" n="98" break="no"/>dunt enim species in Angelis prout libet. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3478">
+                     <lb ed="#A" n="99"/>Sed obijciet quis nobis iterum Dionys. cap. vit. 
+      <lb ed="#A" n="100"/>de coelesti Hierarch. Satis ante medium, vbi videtur. 
+      <lb ed="#A" n="101"/>asserere, superiores Angelos per pauciores 
+      spe<lb ed="#A" n="102" break="no"/>cies intelligere: ostendens enim, quomodo 
+      sin<lb ed="#A" n="103" break="no"/>gula corporis nostri membra similitudine 
+      qua<lb ed="#A" n="104" break="no"/>dam &amp; metaphora Angelis tribuantur, de 
+      denti<lb ed="#A" n="105" break="no"/>bus inquit; Dentes id quod alimenti adhibiti, diuidunt, 
+      <lb ed="#A" n="106"/>vnaquaeque enim essentia, quae mente praedita est, vnicam 
+      <lb ed="#A" n="107"/>intelligentiam, quam a diuiniori traditam accepit, in 
+      <lb ed="#A" n="108"/>quadam qua alijs natura consulit, diuidit, atque 
+      ampli<lb ed="#A" n="109" break="no"/>ficat pro captu &amp; ductu inferioris. Si ergo superior 
+      An<lb ed="#A" n="110" break="no"/>gelus inferiori distribuit in plures conceptus id, 
+      <lb ed="#A" n="111"/>quod ipse vnico tantum intellexerat, vt ita id, 
+      <lb ed="#A" n="112"/>quod nouit, captui inferioris adaptet, signum est, 
+      <lb ed="#A" n="113"/>superiores per pauciores species, quam 
+      inferio<lb ed="#A" n="114" break="no"/>res intelligere. 
+      </p>
+                  <p xml:id="tavaz1-d1e330-d1e3515">
+                     <lb ed="#A" n="115"/>Respondeo Dionys. non loqui de notitia rerum, 
+      <lb ed="#A" n="116"/>quas Angelus superior &amp; inferior naturaliter 
+      sci<lb ed="#A" n="117" break="no"/>uit, quasi de his sentiat, inferiorem Angelum per 
+      <lb ed="#A" n="118"/>plures species intelligere: sed loquitur de his re 
+      <lb ed="#A" n="119"/>bus, quas superiores Angeli sola diuina 
+      reuelatio<lb ed="#A" n="120" break="no"/>ne cognoscunt: has autem inquit cognosci ab 
+      An<lb ed="#A" n="121" break="no"/>gelo superiori vnico conceptu perfectiori, easque 
+      <lb ed="#A" n="122"/>distribui inferioribus in plura, vt quisque pro 
+      ca<lb ed="#A" n="123" break="no"/>ptu suo melius illa intelligat. Horum autem 
+      my<lb ed="#A" n="124" break="no"/>steriorum non sunt propriae species in 
+      Angelo<lb ed="#A" n="125" break="no"/>Quod si de rebus naturalibus sit sermo, cum eas 
+      <lb ed="#A" n="126"/>quicumque Angelus naturaliter cognoscat, sicuti 
+      <lb ed="#A" n="127"/>sunt, fieri nequit, vt superior debeat in plures 
+      <lb ed="#A" n="128"/>conceptus eas diuidere, vt tradat inferiori melius 
+      <lb ed="#A" n="129"/>intelligendas. Quocirca inferius disput. 217. cap. 1. 
+      <lb ed="#A" n="130"/>Eadem ratione ostendemus, Angelos inferiores 
+      <lb ed="#A" n="131"/>non posse a superioribus illuminari in rebus, quas 
+      <lb ed="#A" n="132"/>naturaliter vnusquisque illorum cognoscit, sed in 
+      <lb ed="#A" n="133"/>ijs tantum, quae diuina reuelatione accipiunt.
+    </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

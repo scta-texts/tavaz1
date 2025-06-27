@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 33</title>
+            <author ref="#per-g8a8b8">Gabriel Vazquez</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 33</title>
+               <date when="2025-06-27">June 27, 2025</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-vaz8a2">Antwerp 1621, v. 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2025-06-27" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="156"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="tavaz1-d1e216"><!-- p1-q33 -->
+            <head xml:id="tavaz1-d1e216-Hd1e99">Quaestio 33</head>
+            <div xml:id="tavaz1-d1e216-Dd1e101"><!-- vaz-p1q33a1 -->
+               <head xml:id="tavaz1-d1e216-Hd1e104">Articulus 1</head>
+               <p xml:id="tavaz1-d1e216-d1e106">
+                  <lb ed="#A" n="21" type="fixed=156"/>COnclusio est affirmans, quae simul cum 
+      do<lb ed="#A" n="22" break="no"/>ctrina articuli sequentibus disputationibus 
+      <lb ed="#A" n="23"/>examinanda nobis est. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e216-Dd1e116"><!-- vaz-p1q33a1-d139 -->
+               <head xml:id="tavaz1-d1e216-Hd1e119">Disputatio 139</head>
+               <head xml:id="tavaz1-d1e216-Hd1e121" type="question-title">
+    De nominibus, quae in patre significare 
+    possunt rationem principii
+  </head>
+               <p xml:id="tavaz1-d1e216-d1e124">
+                  <lb ed="#A" n="24" type="fixed=156"/>DISPVTATIO CXXXIX. 
+      <lb ed="#A" n="25"/>De nominibus, quae in patre significare 
+      <lb ed="#A" n="26"/>possunt rationem principij 
+      </p>
+               <div xml:id="tavaz1-d1e216-Dd1e133">
+                  <head xml:id="tavaz1-d1e216-Hd1e135">Caput 1</head>
+                  <p xml:id="tavaz1-d1e216-d1e137">
+                     <lb ed="#A" n="27" type="fixed=156"/>CAPVT I. 
+      <lb ed="#A" n="28"/>De nominibus, Principium, &amp; Initium. 
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e144">
+                     <lb ed="#A" n="29"/>NOmen, Principium, praedicari de Patre, &amp; de 
+      <lb ed="#A" n="30"/>Filio nulli dubium est, docentque omnes 
+      <lb ed="#A" n="31"/>Scholastici citandi in hac disputatione: imo de 
+      <lb ed="#A" n="32"/>finitum est in Concil. Lugdunensi sub Gregor.X. 
+      <lb ed="#A" n="33"/>&amp; refertur in cap. 1. de summa Trinit. &amp; fide 
+      Ca<lb ed="#A" n="34" break="no"/>tholica in 6. vbi dicitur Spiritus sanctus 
+      procede<lb ed="#A" n="35" break="no"/>re a Patre &amp; Filio, vt ab vno principio. Idem dici 
+      <lb ed="#A" n="36"/>tar in Concil. Florent. sess. vlt. in literis vnionis, &amp; 
+      <lb ed="#A" n="37"/>docet August. lib. 5. de Trinit. cap. 13. &amp; alij Patres. 
+      <lb ed="#A" n="38"/>quos inferius commemorabimus. Probari autem 
+      <lb ed="#A" n="39"/>potest optima ratione deducta ex definitione ipsa 
+      <lb ed="#A" n="40"/>principij, quam colligere licet ex Aristot. 5. Me 
+      <lb ed="#A" n="41"/>taphys. cap. 1. vbi post sex acceptiones principij, 
+      <lb ed="#A" n="42"/>illud definit his verbis. Principium est, vnde est aliquid 
+      <lb ed="#A" n="43"/>aut fit, aut cognoscitur. Et quamuis Aristot. non 
+      co<lb ed="#A" n="44" break="no"/>gnouerit aliud principium, nisi illud, a quo tan 
+      <lb ed="#A" n="45"/>quam a perfectiori pendet, quidquid ab eo pro 
+      <lb ed="#A" n="46"/>cedit, eius tamen definitionem sic vniuerse acci 
+      <lb ed="#A" n="47"/>pere possumus, vt nihil denotetur imperfectionis 
+      <lb ed="#A" n="48"/>in eo, quod ab alio tanquam a principio procedit, 
+      <lb ed="#A" n="49"/>&amp; idcirco S. Thom. vt aptam definitionem, qua 
+      <lb ed="#A" n="50"/>in diuinas personas conueniret, nobis traderet, sic 
+      <lb ed="#A" n="51"/>definit in hoc art. principium, Vnde aliquid procedit 
+      <lb ed="#A" n="52"/>eadem fere verba Aristot. ita in vniuersum vsur 
+      <lb ed="#A" n="53"/>pans, vt nulla imperfectio denotetur illius, quod 
+      <!--00164.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="54"/>ab alio procedit. Ex hac definitione recte 
+      colligi<lb ed="#A" n="55" break="no"/>tur secundum fidem nostram, Patrem aeternum, 
+      <lb ed="#A" n="56"/>&amp; Filium esse principium, quia ab vtroque aliqua 
+      <lb ed="#A" n="57"/>persona re ipsa procedit. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e214">
+                     <lb ed="#A" n="58"/>De nomine, Initium, alio modo dicendum est, 
+      <lb ed="#A" n="59"/>nimirum nullo modo de patre aut filio 
+      praedicari<lb ed="#A" n="60" break="no"/>Nam quamuis Bonau. in I. d. 29. a. 1. q. 1. ad 2. dicat 
+      <lb ed="#A" n="61"/>initium posse sumi latiori significatione, &amp; tunc 
+      <lb ed="#A" n="62"/>etiam significare idem, quod principium, a quo 
+      <lb ed="#A" n="63"/>aliud procedit, &amp; magis propria pro principio du 
+      <lb ed="#A" n="64"/>rationis, quia tamen absolute, &amp; communiter 
+      de<lb ed="#A" n="65" break="no"/>notat principium durationis, ideo non potest de 
+      <lb ed="#A" n="66"/>aliqua persona diuina cum sit aeterna, praedicari 
+      <lb ed="#A" n="67"/>Quamobrem Hylar. 4. de Trinit. fol. 2. ita inquit; 
+      <lb ed="#A" n="68"/>Nouit (scilicet Ecclesia) rnum innascibilem Deum. 
+      <lb ed="#A" n="69"/>nouit, &amp; vnum ingenitum Dei Filium, confitetur Patrem 
+      <lb ed="#A" n="70"/>aeternum, &amp; ab origine liberum, &amp; Filij originem ab aeter 
+      <lb ed="#A" n="71"/>no, non ipsum ab initio, sed ab initiabili, &amp;c. Cum 
+      Hylar<lb ed="#A" n="72" break="no"/>sentit Magist. in 1. d. 29. vbi docet, Hylarium 
+      appel<lb ed="#A" n="73" break="no"/>lasse Patrem initiabilem, quia in se habet princi 
+      <lb ed="#A" n="74"/>pium omnium rerum, a quo res habent initium 
+      <lb ed="#A" n="75"/>suae durationis; quare initiabilem vocauit, quasi 
+      <lb ed="#A" n="76"/>initiatiuum, vt cxplicat S. Thom. ibidem. Addit 
+      <lb ed="#A" n="77"/>Magist. dici non posse, Filius habet principium, 
+      tam<lb ed="#A" n="78" break="no"/>etsi dicamus, Filius est a principio, quia habere 
+      prin<lb ed="#A" n="79" break="no"/>cipium, denotat initium durationis. Modum 
+      et<lb ed="#A" n="80" break="no"/>iam loquendi Hylarij, sequitur Concil. Tolet. XI. 
+      <lb ed="#A" n="81"/>in confess. fidei, cum asserit, filium natum sine 
+      ini<lb ed="#A" n="82" break="no"/>tio ante saecula, &amp; Concil. Vuormatiense etiam in 
+      <lb ed="#A" n="83"/>sua fidei confessione. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e273">
+                     <lb ed="#A" n="84"/>Neque obstat, quod dicitur Micheae. 5. Et egressu 
+      <lb ed="#A" n="85"/>eius ab initio a diebus aeternis, nam licet ibi loquatur 
+      <lb ed="#A" n="86"/>Propheta de aeterna Messiae generatione, vt verba 
+      <lb ed="#A" n="87"/>manifesta indicant, de cuius temporali proxime 
+      <lb ed="#A" n="88"/>dixerat, Ex te (scilicet Bethlehem) mihi egreditur, qui 
+      <lb ed="#A" n="89"/>sit dominator in Israel, tamen illud, Ab initio, ibi non 
+      <lb ed="#A" n="90"/>denotat Patrem, a quo tanquam a principio 
+      egres<lb ed="#A" n="91" break="no"/>sus, &amp; natiuitas Filij est, sed idem est, ab initio, quod 
+      <lb ed="#A" n="92"/>antequam quidquam fieret, hoc est, ab aeterno, quod, vt 
+      <lb ed="#A" n="93"/>melius exprimeret, addidit a diebus aeternitatis, sicut 
+      <lb ed="#A" n="94"/>Prouerb. 8. dicitur. Dominus possedit me initio viarum 
+      <lb ed="#A" n="95"/>suarum, antequam quidquam faceret, &amp; Eccles. 24. Al 
+      <lb ed="#A" n="96"/>initio, &amp; ante saecula creata sum, appellat enim 
+      Scri<lb ed="#A" n="97" break="no"/>ptura initium id, quod ante tempora erat, hoc 
+      au<lb ed="#A" n="98" break="no"/>tem erat aeternitas 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e309">
+                  <head xml:id="tavaz1-d1e216-Hd1e311">Caput 2</head>
+                  <p xml:id="tavaz1-d1e216-d1e313">
+                     <lb ed="#A" n="99" type="fixed=156"/>CAPVT II. 
+      <lb ed="#A" n="100"/>Quibus locis Scripturae aliqui probent, Patrem, at 
+      <lb ed="#A" n="101"/>Filium dici principium.
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e322">
+                     <lb ed="#A" n="102"/>Ecentiores Theologi aliquibus Scripturae te 
+      <lb ed="#A" n="103"/>stimoniis probare nituntur, Patrem, &amp; Filium 
+      <lb ed="#A" n="104"/>esse principium. Primum est, Ioan. 1. In principio era 
+      <lb ed="#A" n="105"/>verbum. August. enim lib. 6. de Trinit. cap. 2. 
+      expli<lb ed="#A" n="106" break="no"/>cat, In Patre, sic etiam intelligitur Cyrillus lib. I. in 
+      <lb ed="#A" n="107"/>Ioan. cap. 1. in parte tanquam in fonte, &amp; origine, 
+      <lb ed="#A" n="108"/>iuxta illud Ioan. 8. Ego a patre exiui, sumpserunt 
+      au<lb ed="#A" n="109" break="no"/>tem ab Origine homil. 2. in diuersos. Verum 
+      sen<lb ed="#A" n="110" break="no"/>sus planior illius loci est, quem sequuntur alij 
+      Pa<lb ed="#A" n="111" break="no"/>tres, vt idem sit, In principio, quod, ab initio, iuxta 
+      <lb ed="#A" n="112"/>Phrasim eiusdem loan. in 1. sua Epist. cap. 1. vbi pro 
+      <lb ed="#A" n="113"/>eo, quod hic dixit, In principio, ibi ait, Quod fuit ab 
+      <lb ed="#A" n="114"/>initio. Quam interpretationem sequitur etiam 
+      Au<lb ed="#A" n="115" break="no"/>gust. loco allegato, &amp; lib. quaestionum ex vtroque 
+      <lb ed="#A" n="116"/>Testamento c. 22. &amp; fuit Basilij in haec verba loan. 
+      <lb ed="#A" n="117"/>Chrysost. homil. 2. in Ioan. Ambros. lib. 1. de fide, 
+      <lb ed="#A" n="118"/>cap. 5. consonat etiam lectio Tertull. lib. aduersus 
+      <lb ed="#A" n="119"/>Praxeam, c. 5. &amp; 16. In primordio sermo erat apud Deum, 
+      <lb ed="#A" n="120"/>&amp; Deus erat sermo. Dicit itaque loannes, in prin¬ 
+      <!--00165.xml-->
+      <pb ed="#A" n="157"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>cipio, quando facta sunt omnia, iam erat verbum 
+      <lb ed="#A" n="2"/>apud Deum, antequam quidquam eorum fieret, 
+      <lb ed="#A" n="3"/>ergo sine nomine principij intelligas initium, vt 
+      <lb ed="#A" n="4"/>dicebamus praecedenti capite pro eo, quod 
+      om<lb ed="#A" n="5" break="no"/>nem temporis durationem antecedit, siue pro 
+      <lb ed="#A" n="6"/>ipso initio durationis, &amp; vim facias, vt ait 
+      Basi<lb ed="#A" n="7" break="no"/>lius, in verbo illo; erat, eo testimonio 
+      significa<lb ed="#A" n="8" break="no"/>tur, verbum Dei fuisse, antequam quidquam in 
+      <lb ed="#A" n="9"/>ciperet, quia initio, quando aliquid incoepit, iam 
+      <lb ed="#A" n="10"/>erat, quare assignare non possumus, quando non 
+      <lb ed="#A" n="11"/>erat verbum, vt notat Basilius, ideoque asserit, si 
+      <lb ed="#A" n="12"/>non recedatur a verbo, erat, hoc est, si recte si 
+      <lb ed="#A" n="13"/>gnificatio illius intelligatur, nihil contra 
+      aeterni<lb ed="#A" n="14" break="no"/>tatem filij affirmari posse. Mitto alias 
+      expositio<lb ed="#A" n="15" break="no"/>nes, hinc enim satis constat, ex eo loco non 
+      pro<lb ed="#A" n="16" break="no"/>bari, Patrem esse principium. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e407">
+                     <lb ed="#A" n="17"/>Secundus locus est Plal. 109. Tecum principium 
+      <lb ed="#A" n="18"/>in die virtutis tuae. Vbi Augustinus intelligit per 
+      <lb ed="#A" n="19"/>principium Patrem: ac si dicat, Tecum Pater, iuxta 
+      <lb ed="#A" n="20"/>illud Ioannis 14. Pater autem in me manens facit ope 
+      <lb ed="#A" n="21"/>ra sua. Basilius tamen homilia 10. In hexamero, 
+      <lb ed="#A" n="22"/>&amp; Euthymius in eum locum, non Patrem; sed re 
+      <lb ed="#A" n="23"/>gnum, &amp; imperium intelligunt. Quam expositio 
+      <lb ed="#A" n="24"/>nem sequuntur lansenius, &amp; Geneb. vt Pater 
+      aeter<lb ed="#A" n="25" break="no"/>nus ad filium suum in die resurrectionis loquatur 
+      <lb ed="#A" n="26"/>in hunc modum: tecum erit regnum, &amp; imperium, 
+      <lb ed="#A" n="27"/>id est obtinebis principatum, &amp; imperium in die 
+      <lb ed="#A" n="28"/>roboris, &amp; potentiae tuae cum splendoribus 
+      san<lb ed="#A" n="29" break="no"/>ctitatum, id est, cum sacrarissima maiestate, gloria, 
+      <lb ed="#A" n="30"/>&amp; splendore. Conuenit Tertul. aduersus Hermog 
+      <lb ed="#A" n="31"/>cap. 19. vbi illud Genes. 1. In principio creauit Deus. 
+      <lb ed="#A" n="32"/>plicat de principatu potestatis: in Graeco enim 
+      <lb ed="#A" n="33"/>est ἀρχὴ, quod &amp; initium, &amp; principatum 
+      signi<lb ed="#A" n="34" break="no"/>ficat. In qua posteriori significatione vsurpant 
+      prae<lb ed="#A" n="35" break="no"/>dictum nomen Xenophon libro 1. de imperio. 
+      <lb ed="#A" n="36"/>Aristor. 1. policorum, &amp; Plato de Republica, &amp; 
+      <lb ed="#A" n="37"/>Hebraea vox O12173 Nedibim, principatum signi 
+      <lb ed="#A" n="38"/>ficat: quare latina vox Principium, quam habet 
+      no<lb ed="#A" n="39" break="no"/>stra Latina editio, in hac significatione accipien 
+      <lb ed="#A" n="40"/>da videtur. Mitto aliam lectionem Hebraicam, quae 
+      <lb ed="#A" n="41"/>pro, Tecum, habet, populus tuus, haec enim variatio 
+      <lb ed="#A" n="42"/>ex variatione punctorum orta est. Dies autem vir 
+      <lb ed="#A" n="43"/>tutis, vel est dies resurrectionis, cum deuicto 
+      mor<lb ed="#A" n="44" break="no"/>tis imperio, omnia fuerunt subiecta filios vt 
+      com<lb ed="#A" n="45" break="no"/>muniter Patres interpretantur, quod mihi 
+      maxi<lb ed="#A" n="46" break="no"/>me probatur: vel est dies secundi aduentus, vt 
+      <lb ed="#A" n="47"/>vult Theodoretus. Habemus igitur non satis hoc 
+      <lb ed="#A" n="48"/>testimonio probari, Patrem dici principium. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e479">
+                     <lb ed="#A" n="49"/>Filium quoque dici principium, probare 
+      nitun<lb ed="#A" n="50" break="no"/>tur aliqui testimonio Ioan. 8. vbi Christus Iudaeis 
+      <lb ed="#A" n="51"/>interrogantibus, quis esset, respondit, Principium 
+      <lb ed="#A" n="52"/>qui &amp; loquor vobis. Sed hic locus adeo difficilis est, 
+      <lb ed="#A" n="53"/>&amp; tot habet, tamque varias expositiones, vt ex illo 
+      <lb ed="#A" n="54"/>nihil certi probari possit. Est autem notandum in 
+      <lb ed="#A" n="55"/>Graeco vocem illam, Principium; non esse in casu 
+      <lb ed="#A" n="56"/>nominandi, sed in casu accusandi, dicitur enim τῇ 
+      <lb ed="#A" n="57"/>ἀρχὴν, deinde vox, qui, in Graeco est ὅὴ, quae si 
+      <lb ed="#A" n="58"/>gnificat, quia, seu, quod, &amp; est nota causalis: quod si 
+      <lb ed="#A" n="59"/>diuiduatur particula οq hoc modo est, &amp;, est relatiuum 
+      <lb ed="#A" n="60"/>neutrius generis, ex quo factum est, vt hunc 
+      lo<lb ed="#A" n="61" break="no"/>cum varie Doctores exponant. Iam vero in textu 
+      <lb ed="#A" n="62"/>vulgato emendato dicitur, Qui &amp; loquor vobis 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e513">
+                     <lb ed="#A" n="63"/>Explicant autem Doctores variae praedictum 
+      lo<lb ed="#A" n="64" break="no"/>cum, primo. Amb. lib. 3. de fide c. 4. &amp; lib. 5. c. 5. &amp; 
+      <lb ed="#A" n="65"/>1. lib. Hexameron c. 2. &amp; 4. &amp; Aug. in illud Ps. 109. 
+      <lb ed="#A" n="66"/>Tecum principium, &amp; lib. 1o. de ciuitate c. 24. &amp; li. 11 
+      <lb ed="#A" n="67"/>c. 23. &amp; lib. 5. de Trinit. c. 13. dicunt, Christum 
+      re<lb ed="#A" n="68" break="no"/>spondisse Iudaeis interrogantibus, qui esset, se es 
+      <!--00165.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>se principium, quod loquebatur cum illis: id est, 
+      <lb ed="#A" n="70"/>Deum terum omnium principium, quod 
+      assum<lb ed="#A" n="71" break="no"/>pta humanitate loquebatur cum illis: videns 
+      au<lb ed="#A" n="72" break="no"/>tem Aug. vocem illam, Principium, non esse in 
+      ca<lb ed="#A" n="73" break="no"/>su nominandi, sed accusandi, ac proinde 
+      praedi<lb ed="#A" n="74" break="no"/>ctam expositionem minime quadrare, tractat. 38. 
+      <lb ed="#A" n="75"/>in loannem aliquid supplet hoc modo, Credite me 
+      <lb ed="#A" n="76"/>esse principium, qui &amp; loquor vobis. Dixerat enim prius. 
+      <lb ed="#A" n="77"/>Nisi credideritis, quia ego sum, moriemini, respondens 
+      <lb ed="#A" n="78"/>igitur Christus tacitae obiectioni Iudaeorum, qua 
+      <lb ed="#A" n="79"/>si interrogantium; Quem debemus te esse credere? dixi 
+      <lb ed="#A" n="80"/>principium, supple, credite me esse. Secundo Nonnus 
+      <lb ed="#A" n="81"/>author Graecus sic interpretatur, Principium, qui &amp; 
+      <lb ed="#A" n="82"/>loquor vobis, vt principium sit loco aduerbij, prius: vt 
+      <lb ed="#A" n="83"/>suppleatur in Graeco praepositio κατὰ latine, 
+      secun<lb ed="#A" n="84" break="no"/>dum, nam Genesis 13. vbi latine dicitur, loco 
+      alta<lb ed="#A" n="85" break="no"/>ris, quod fecerat prius, pro prius, Graece dicitur τὴ 
+      <lb ed="#A" n="86"/>ἀρχὴν &amp; eodem modo habetur Genes. 43. vbi 
+      di<lb ed="#A" n="87" break="no"/>citur, Propter pecuniam, quam retulimus prius, &amp; ita 
+      <lb ed="#A" n="88"/>sensus sit, ego sum id, quod a principio, aut 
+      <lb ed="#A" n="89"/>prius dixi vobis, me esse: aut ego sum ille, qui 
+      <lb ed="#A" n="90"/>a principio loquor vobiscum, &amp; saepius dixi, quis 
+      <lb ed="#A" n="91"/>essem. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e583">
+                     <lb ed="#A" n="92"/>Tertio Theophylact. &amp; Euthymius, &amp; 
+      Chry<lb ed="#A" n="93" break="no"/>sostomus homil. 52. in loannem nomen 
+      princi<lb ed="#A" n="94" break="no"/>pium vsurpant pro aduerbio Inprimis, ita vt sit 
+      ora<lb ed="#A" n="95" break="no"/>tio ecliptica &amp; sensus sit: Inprimis, aut sane 
+      indi<lb ed="#A" n="96" break="no"/>gni estis, vt audiatis, quod &amp; loquor vobis. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e596">
+                     <lb ed="#A" n="97"/>Quarto, Recentiores aliqui sic interpretantur, 
+      <lb ed="#A" n="98"/>vt interrogatio illa, quae praecessit, Tu quis es? sit 
+      <lb ed="#A" n="99"/>quasi despicientis, ac si dicerent Iudaei, Tu quis e 
+      <lb ed="#A" n="100"/>vt dicas nobis in peccato nostro nos morituros 
+      <lb ed="#A" n="101"/>esse? &amp; responderit Christus oratione ecliptica, 
+      <lb ed="#A" n="102"/>principium, ac si diceret, me, qui sum principium, 
+      <lb ed="#A" n="103"/>despicitis, quia &amp; loquor vobis? 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e614">
+                     <lb ed="#A" n="104"/>Quinto alii recentiores illud, Principium, expli 
+      <lb ed="#A" n="105"/>cant, a principio, nam in Hebraeo nomen pro 
+      ad<lb ed="#A" n="106" break="no"/>uerbio ponitur, Psalm. 78. Loquar propositiones al 
+      <lb ed="#A" n="107"/>initio. in Hebraeo enim pro ab initio, habetur 
+      Sns<lb ed="#A" n="108" break="no"/>kedem sine praepositione, vt sensus sit, A principio, 
+      <lb ed="#A" n="109"/>hoc est, ego sum a principio, seu ab aeterno, qui &amp; 
+      <lb ed="#A" n="110"/>nunc in carne assumpta loquor vobis. Denique si 
+      <lb ed="#A" n="111"/>illud nomen, Principium, quod est in casu 
+      accusan<lb ed="#A" n="112" break="no"/>bi, explicari potest per hoc, quod est a principio, 
+      <lb ed="#A" n="113"/>possemus etiam explicare hoc modo. Ego sum, 
+      <lb ed="#A" n="114"/>quia sum a principio, nempe a Patre aeterno, qui 
+      <lb ed="#A" n="115"/>est principium omnium rerum: nam postea sub 
+      <lb ed="#A" n="116"/>ditur, Et non cognouerunt, quia patrem suum dicebat 
+      <lb ed="#A" n="117"/>Deum. Addidit autem, Quia &amp; loquor vobis, ac si 
+      <lb ed="#A" n="118"/>diceret ego sum a Patre, quia &amp; ita loquor, &amp; 
+      di<lb ed="#A" n="119" break="no"/>co vobis in vestro peccato vos morituros. 
+      Quo<lb ed="#A" n="120" break="no"/>cunque autem modo explices, ex hoc loco 
+      pro<lb ed="#A" n="121" break="no"/>bari non potest, Filium Dei esse principium 
+      no<lb ed="#A" n="122" break="no"/>tionale, vt manifeste patet. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e658">
+                     <lb ed="#A" n="123"/>Demum alij probant, filium esse principium 
+      <lb ed="#A" n="124"/>exillo Apocalypsis 22. Ego sum principium &amp; finis 
+      <lb ed="#A" n="125"/>sed manifestum est, ibi non de principio Spiritus 
+      <lb ed="#A" n="126"/>sancti, sed de principio creaturarum sermonem 
+      <lb ed="#A" n="127"/>esse. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e673">
+                  <head xml:id="tavaz1-d1e216-Hd1e675">Caput 3</head>
+                  <p xml:id="tavaz1-d1e216-d1e677">
+                     <lb ed="#A" n="128" type="fixed=157"/>CAPVT III. 
+      <lb ed="#A" n="129"/>Quo pacto Pater dicatur principium totius deitatis
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e684">
+                     <lb ed="#A" n="130"/>
+                     <ref xml:id="tavaz1-d1e216-Rd1e688">AVgustinus 4. de Trinit. c. 2. circa fin.</ref> appellat 
+      <lb ed="#A" n="131"/>Patrem principium totius Deitatis: imo etiam 
+      <lb ed="#A" n="132"/>Dionys. ca. 3. de diuinis nominibus post medium 
+      <lb ed="#A" n="133"/>solum Patrem appellauit fontem coelestis diuini¬ 
+      <!--00166.xml-->
+      <pb ed="#A" n="158"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>tatis Graece μόὴν δὲπηγὴ τὸ ὕπορουσ ουδεότητος ὁ 
+      <lb ed="#A" n="2"/>πατὴρ ac si verbum pro verbo redderemus; Sols 
+      <lb ed="#A" n="3"/>autem fons super sub stantialis Deitatis Pater. Nomine 
+      <lb ed="#A" n="4"/>fontis intelligit Dionys. principium sine principio: 
+      <lb ed="#A" n="5"/>ideoque dixit, solum fontem: quia in diulnis tan 
+      <lb ed="#A" n="6"/>tum est fons: nam filius est principium Spiritus 
+      <lb ed="#A" n="7"/>sancti, non vt fons, sed vt riuus: est enim princi 
+      <lb ed="#A" n="8"/>pium de principio. Hoc eodem modo loquitur 
+      <lb ed="#A" n="9"/>Conc. Tolet. 6. in confessione fidei, cum ait, con 
+      <lb ed="#A" n="10"/>fitemur Patrem ingenitum, increatum, fontem, 
+      <lb ed="#A" n="11"/>&amp; originem totius Deitatis. Fons enim, &amp; origo 
+      <lb ed="#A" n="12"/>plus significare videntur, quam principium, vt pro 
+      <lb ed="#A" n="13"/>xime dicebamus. Idem dicitur in Concil. Vuor 
+      <lb ed="#A" n="14"/>maciensi in confessione fidei, &amp; in Concilio 
+      Flo<lb ed="#A" n="15" break="no"/>rentino in litteris vnionis sess. 22. &amp; Athanasiu 
+      <lb ed="#A" n="16"/>in oratione contra Gregales Sabellij parum a 
+      prin<lb ed="#A" n="17" break="no"/>cipio Deum appellat fontem Deitatis 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e741">
+                     <lb ed="#A" n="18"/>Sed cum ita Patres, &amp; Concilia loquantur, 
+      ni<lb ed="#A" n="19" break="no"/>hilominus Canariensis in hunc articulum putat, 
+      <lb ed="#A" n="20"/>non esse absolute eam propositionem asserendam 
+      <lb ed="#A" n="21"/>eam vero explicat Mag. in 1. d. 29. eo modo, vt 
+      Pa<lb ed="#A" n="22" break="no"/>ter dicatur totius Deitatis principium; non quia 
+      <lb ed="#A" n="23"/>ab ipso procedat Deitas, aut producatur: 
+      anathe<lb ed="#A" n="24" break="no"/>matizatur enim in cap. Damnamus, de summa 
+      Tri<lb ed="#A" n="25" break="no"/>nitate &amp; fide Catholica, qui dixerit essentiam 
+      ge<lb ed="#A" n="26" break="no"/>nerari, aut produci: sed quia est principium 
+      cuius<lb ed="#A" n="27" break="no"/>que personae procedentis, cui diuina natura com 
+      <lb ed="#A" n="28"/>municatur. Qua etiam ratione dicemus infra 
+      di<lb ed="#A" n="29" break="no"/>sput. 156. c. 6. filium vocari Deitatem de Deitate 
+      <lb ed="#A" n="30"/>lucem de luce. Qua etiam ratione hanc proposi 
+      <lb ed="#A" n="31"/>tionem concedunt Augustin. Dionysius, Atha 
+      <lb ed="#A" n="32"/>nasius, Concilium Toletanum &amp; Vuormaciense 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e776">
+                     <lb ed="#A" n="33"/>Alij exponunt ita, vt abstractum Deitas fuma 
+      <lb ed="#A" n="34"/>tur pro concreto &amp; sensus sit, Pater est principium 
+      <lb ed="#A" n="35"/>omnium personarum, non quia sit sui ipsius prin 
+      <lb ed="#A" n="36"/>cipium, sed sicut ait Bonau. in expositione littera 
+      <lb ed="#A" n="37"/>dist. 29. citatae, vt sit distributio accomoda: velu 
+      <lb ed="#A" n="38"/>ti cum dicimus. Coelum contlnet omnia: quis 
+      <lb ed="#A" n="39"/>continet omnia alia a se. Dicitur ergo Pater 
+      prin<lb ed="#A" n="40" break="no"/>cipium omnium aliarum personarum a se, vel o 
+      <lb ed="#A" n="41"/>mnium, quae procedunt. Eodem modo dici po 
+      <lb ed="#A" n="42"/>test principium Trinitatis, non quia tota Trini 
+      <lb ed="#A" n="43"/>tas a Patre procedat, sed quia in Trinitate Pate 
+      <lb ed="#A" n="44"/>est primum principium: quo pacto dicimus, 
+      pri<lb ed="#A" n="45" break="no"/>mam vnitatem esse principium ternarij, non quia 
+      <lb ed="#A" n="46"/>sit sui ipsius, quae in ternario includitur; sed quia 
+      <lb ed="#A" n="47"/>inter tres, quibus constat ternarius, primum 
+      lo<lb ed="#A" n="48" break="no"/>cum habet. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e814">
+                  <head xml:id="tavaz1-d1e216-Hd1e816">Caput 4</head>
+                  <p xml:id="tavaz1-d1e216-d1e818">
+                     <lb ed="#A" n="49" type="fixed=158"/>CAPVT IV. 
+      <lb ed="#A" n="50"/>Nomen Principium non dicitur vniuoce de principis 
+      <lb ed="#A" n="51"/>essentiali, &amp; notionali. 
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e827">
+                     <lb ed="#A" n="52"/>IN vero nomen, Principium, vniuoce dicatur 
+      <lb ed="#A" n="53"/>de principio notionali respectu personarum, 
+      <lb ed="#A" n="54"/>&amp; essentiali respectu creaturarum, non 
+      consen<lb ed="#A" n="55" break="no"/>tiunt Doctores Scholastici. Henricus Anglicus, 
+      <lb ed="#A" n="56"/>quem ex <name xml:id="tavaz1-d1e216-Nd1e840">Aureolo</name> refert Capreolus in I. d. 29. q. 1. 
+      <lb ed="#A" n="57"/>artic. 2. in argumentis contra tertiam 
+      conclusio<lb ed="#A" n="58" break="no"/>nem, putauit, nomen principij de vtroque vniuoce 
+      <lb ed="#A" n="59"/>praedicari: probat vero quatuor argumentis, ex 
+      <lb ed="#A" n="60"/>quibus duo tantum asseremus. Alterum est. Si non 
+      <lb ed="#A" n="61"/>diceretur vniuoce, eo esset, quia principium notio 
+      <lb ed="#A" n="62"/>nale dicitur respectu alicuius in eadem natura, es 
+      <lb ed="#A" n="63"/>sentiale autem respectu alicuius in alia natura: sed 
+      <lb ed="#A" n="64"/>hoc non obest; sicut efficere, aliquid in alia 
+      natu<lb ed="#A" n="65" break="no"/>ra, vel in eadem secundum speciem, non tollit ra¬ 
+      <!--00166.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="66"/>tionem causae ideoque nomen causa vniuoc a con 
+      <lb ed="#A" n="67"/>uenit Soli, &amp; homini generanti. Alterum est, si a 
+      <lb ed="#A" n="68"/>aliquid aliud vniuocatione obstaret, illud esset 
+      <lb ed="#A" n="69"/>quod notionale connotat respectum realem ad 
+      <lb ed="#A" n="70"/>id, quod procedit: essentiale autem connotat 
+      re<lb ed="#A" n="71" break="no"/>spectum rationis tantum: relationi autem 
+      ratio<lb ed="#A" n="72" break="no"/>nis, &amp; reali nihil potest esse vniuoce 
+      commune<lb ed="#A" n="73" break="no"/>sed hoc non impedit: quia relatio rationis vere est 
+      <lb ed="#A" n="74"/>in praedicamento reali; alioqui debet esse in alio 
+      <lb ed="#A" n="75"/>praedicamento, quod est absurdum. Eiusdem opi 
+      <lb ed="#A" n="76"/>nionis meminit Durandus loco cirando. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e890">
+                     <lb ed="#A" n="77"/>Ceterum multo verior sententia est aliorum 
+      <lb ed="#A" n="78"/>Scholasticorum, qui affirmant, nomen principis 
+      <lb ed="#A" n="79"/>non praedicari vniuoce de vtroque principio. Sic 
+      <lb ed="#A" n="80"/>docent sanctus Thom. in 1. dist. 29. q. 1. articul. 2 
+      <lb ed="#A" n="81"/>Bonauentura artic. 1. q. 2. Scotus q. 1. Durandus 
+      <lb ed="#A" n="82"/>q. 1. Capreolus qui ¾. artic. 1. conclus. 2. Gabr. q. 1. 
+      <lb ed="#A" n="83"/>art. 2. Marsilius in primum q 31. ar. 3. dub. 4. &amp; Ca 
+      <lb ed="#A" n="84"/>nariensis in hunc articulum circa finem. Probat 
+      <lb ed="#A" n="85"/>autem Durand. quia si ratio principij vniuoce con 
+      <lb ed="#A" n="86"/>ueniret principio essentiali, &amp; notionali, vniuoce 
+      <lb ed="#A" n="87"/>etiam conueniret ratio potentiae: sed ratio 
+      poten<lb ed="#A" n="88" break="no"/>tiae non conuenit vniuoce potentiae generatiuae, 
+      <lb ed="#A" n="89"/>&amp; spiratiuae ex vna parte &amp; potentiae productiua 
+      <lb ed="#A" n="90"/>creaturarum ex alia, alioqui potentia generatiua, 
+      <lb ed="#A" n="91"/>&amp; spiratiua contineretur sub ratione 
+      omnipoten<lb ed="#A" n="92" break="no"/>tiae, quod tamen est absurdum, &amp; ipse Durandus 
+      <lb ed="#A" n="93"/>ibidem ostendit: ergo nec ratio potentiae de illis 
+      <lb ed="#A" n="94"/>vuiuoce praedicatur, &amp; de potentia creaturarum. 
+      <lb ed="#A" n="95"/>Haec tamen ratio sutilis est: nam licet vniuoce 
+      di<lb ed="#A" n="96" break="no"/>ceretur potentia de illis, solum sequeretur, 
+      omni<lb ed="#A" n="97" break="no"/>potentiam, quae solum est potentia circa omnem 
+      <lb ed="#A" n="98"/>creaturam, &amp; potentiam generatiuam simul 
+      <lb ed="#A" n="99"/>cum spiratiua sub ratione communi potentiae 
+      <lb ed="#A" n="100"/>contineri: at vero vtranque sub omnipotentia, 
+      <lb ed="#A" n="101"/>nequaquam: omnipotentia enim non est omnis 
+      <lb ed="#A" n="102"/>potentia, sed potentia circa omnem creaturam, 
+      <lb ed="#A" n="103"/>vel circa omne; quod non implicat contradictio 
+      <lb ed="#A" n="104"/>nem, vt producatur, &amp; non producatur. Quare, 
+      <lb ed="#A" n="105"/>vt nos etiam dicemus disput. 165. ex eo, quod in 
+      <lb ed="#A" n="106"/>Filio non sit potentia generandi, &amp; in Spiritu 
+      <lb ed="#A" n="107"/>sancto non sit potentia genetandi, nec spirandi, 
+      <lb ed="#A" n="108"/>non sequitur aliquid omnipotentiae Filio, aut 
+      Spi<lb ed="#A" n="109" break="no"/>ritui sancto deesse 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e964">
+                     <lb ed="#A" n="110"/>Optima igitur ratio est, quam reddit Scotus, 
+      <lb ed="#A" n="111"/>&amp; terigit Henricus ille in secundo argumento 
+      <lb ed="#A" n="112"/>quia scilicet relationali reali, &amp; rationis nequit ali 
+      <lb ed="#A" n="113"/>quis vniuocus conceptus assignari: de ratione 
+      au<lb ed="#A" n="114" break="no"/>tem principij essentialis est respectus rationis ad 
+      <lb ed="#A" n="115"/>creaturas, vt disputat. 104. c. 6. probatum est: de 
+      <lb ed="#A" n="116"/>ratione vero potentiae notionalis est relatio 
+      rea<lb ed="#A" n="117" break="no"/>lis, vel aliqua modificatio inde proueniens, vt in 
+      <lb ed="#A" n="118"/>fra disputat. 164. dicemus: ergo nihil vtrique 
+      po<lb ed="#A" n="119" break="no"/>test esse vniuoce commune. Nam quod 
+      Henri<lb ed="#A" n="120" break="no"/>cus ille asserit, relationem rationis in eodem reali 
+      <lb ed="#A" n="121"/>praedicamento cum reali collocari, est omnino 
+      <lb ed="#A" n="122"/>commentitium, praedicamenta enim sunt entium 
+      <lb ed="#A" n="123"/>realium deinde enti reali, &amp; rationis nullum 
+      po<lb ed="#A" n="124" break="no"/>test esse commune genus, vt manifestum est 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1000">
+                     <lb ed="#A" n="125"/>Porro circa hanc rationem obseruandum est, 
+      <lb ed="#A" n="126"/>aut nos loqui de intellectu vidente Deum, aut de 
+      <lb ed="#A" n="127"/>intellectu viatoris, si de vidente Deum 
+      manife<lb ed="#A" n="128" break="no"/>stum est nihil dari commune abstractum 
+      secun<lb ed="#A" n="129" break="no"/>dum conceptum, quia vt monstrauimus disp. 118. 
+      <lb ed="#A" n="130"/>c. 4. ille qui videt res sicuti sunt nequit ab eis 
+      con<lb ed="#A" n="131" break="no"/>ceptum communem abstrahere, tum etiam, licet 
+      <lb ed="#A" n="132"/>posset abstrahere, hoc tantum facere posset, 
+      quan<lb ed="#A" n="133" break="no"/>do videret plura distincte, at in Deo non potest 
+      <!--00167.xml-->
+      <pb ed="#A" n="159"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>aliquis clare videre vt distincta, quae re ipsa non 
+      <lb ed="#A" n="2"/>differunt: qualia sunt principium essentiale, &amp; 
+      <lb ed="#A" n="3"/>notionale, vt eadem disputatione cap. 3. praedi 
+      <lb ed="#A" n="4"/>ctum est: ergo respectu intellectus videntis Deum 
+      <lb ed="#A" n="5"/>non datur conceptus vniuoce communis princi 
+      <lb ed="#A" n="6"/>pio notionali, &amp; essentiali. Praeterea talem 
+      conce<lb ed="#A" n="7" break="no"/>ptum assignari non posse ab intellectu viatoris, 
+      <lb ed="#A" n="8"/>probatur: quia siue viator apprehendat principium 
+      <lb ed="#A" n="9"/>essentiale in Deo sub relatione rationis, siue sub 
+      <lb ed="#A" n="10"/>conceptu omnino absoluto; cum absoluto, &amp; re 
+      <lb ed="#A" n="11"/>latiuo, seu relationi reali, &amp; rationis conceptus 
+      <lb ed="#A" n="12"/>communis nequeat apprehendi; nec principio 
+      <lb ed="#A" n="13"/>notionali, &amp; essentiali communis ratio cogitari 
+      <lb ed="#A" n="14"/>poterit. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e1060">
+                  <head xml:id="tavaz1-d1e216-Hd1e1062">Caput 5</head>
+                  <p xml:id="tavaz1-d1e216-d1e1064">
+                     <lb ed="#A" n="15" type="fixed=159"/>CAPVT V. 
+      <lb ed="#A" n="16"/>Principium analogice, non aequiuoce dicitur de 
+      <lb ed="#A" n="17"/>vtroque principio. 
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e1073">
+                     <lb ed="#A" n="18"/>INter eos, qui docent, nomen Principium; non 
+      <lb ed="#A" n="19"/>praedicari vniuoce de principio notionali &amp; est 
+      <lb ed="#A" n="20"/>sentiali, controuersum est, vtrum aequiuoce, an a 
+      <lb ed="#A" n="21"/>nalogice dicatur Gabr. loco citato censet, aequi 
+      <lb ed="#A" n="22"/>uoce praedicari: ceteri vero omnes allegati affir 
+      <lb ed="#A" n="23"/>mant, analogice dici: id quod mihi vero similius 
+      <lb ed="#A" n="24"/>apparet. Negare enim non possumus, esse aliquam 
+      <lb ed="#A" n="25"/>rationem similitudinis inter vtrunque principium, 
+      <lb ed="#A" n="26"/>quare &amp; analogiam aliquam esse, necesse est. Ce 
+      <lb ed="#A" n="27"/>terum de quo prius praedicetur, non omnes eo 
+      <lb ed="#A" n="28"/>dem modo sentiunt. Durandus dixit, perfectius 
+      <lb ed="#A" n="29"/>conuenire rationem principij essentiali, quam no 
+      <lb ed="#A" n="30"/>tionali. Reddit rationem; quia vbi principium 
+      <lb ed="#A" n="31"/>producit aliud simpliciter, maior &amp; principalio 
+      <lb ed="#A" n="32"/>est ratio principij, quam vbi id, quod producitur 
+      <lb ed="#A" n="33"/>non est aliud simpliciter, a principio autem 
+      es<lb ed="#A" n="34" break="no"/>sentiali producitur aliud simpliciter, hoc est, aliud 
+      <lb ed="#A" n="35"/>natura, &amp; supposito dictinctum: a principio vero 
+      <lb ed="#A" n="36"/>notionali non producitur aliud simpliciter; sed 
+      <lb ed="#A" n="37"/>aliud tantum suppositum: ergo magis principalis 
+      <lb ed="#A" n="38"/>est ratio principij essentialis in Deo, quam no 
+      <lb ed="#A" n="39"/>tionalis. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1123">
+                     <lb ed="#A" n="40"/>Mihi tamen probatur aliorum sententia, qui 
+      <lb ed="#A" n="41"/>dicunt, rationem principij. primo, &amp; magis 
+      prae<lb ed="#A" n="42" break="no"/>cipue conuenite principio notionali, quam essen 
+      <lb ed="#A" n="43"/>tiali. Opinio est S. Thomae in primum distinct. 29 
+      <lb ed="#A" n="44"/>q. t. art. 2. in responsione ad quaestiunculami Mar 
+      <lb ed="#A" n="45"/>silij, &amp; Canariensis locis citatis, quia quocunque 
+      <lb ed="#A" n="46"/>modo cogitemus rationem principii essentialis 
+      <lb ed="#A" n="47"/>semper intelligitur a nobis per respectum ad crea 
+      <lb ed="#A" n="48"/>turas; notionale vero per ordinem ad personas 
+      di<lb ed="#A" n="49" break="no"/>uinas, &amp; ad originem immanentem. Duplici er 
+      <lb ed="#A" n="50"/>go ratione perfectiori modo concipitur &amp; nomi 
+      <lb ed="#A" n="51"/>natur a nobis ratio principijs notionalis: 
+      pri<lb ed="#A" n="52" break="no"/>mum, quia cum ordine &amp; respectu reali ad 
+      id<lb ed="#A" n="53" break="no"/>quod producitur, essentiale vero cum ordine tan 
+      <lb ed="#A" n="54"/>tum rationis concipitur: deinde quia modus pro 
+      <lb ed="#A" n="55"/>ducendi notionaliter perfectior, &amp; praestantior 
+      <lb ed="#A" n="56"/>est eo, quod magis assimilet productum produ 
+      <lb ed="#A" n="57"/>centi: tanto enim praestantior est productio, quam 
+      <lb ed="#A" n="58"/>to magis simile est productum producenti, hoc 
+      <lb ed="#A" n="59"/>autem habet principium notionale. At vero hoc 
+      <lb ed="#A" n="60"/>intelligendum est nostro modo concipiendi, nam 
+      <lb ed="#A" n="61"/>in re ipsa, cum vtrumque principium idem sit sua 
+      <lb ed="#A" n="62"/>pte natura cum essentia, vnum non est re ipsa per 
+      <lb ed="#A" n="63"/>fectius alio, nec aliquis est conceptus diuersus eo 
+      <lb ed="#A" n="64"/>rum, sed vno conceptu, &amp; vno nomine significa 
+      <lb ed="#A" n="65"/>tur videnti Deum, ergo perpetuam maiorem per 
+      <lb ed="#A" n="66"/>fectionem potentiae, &amp; principij considerauit 
+      Du<lb ed="#A" n="67" break="no"/>randus ex eo, quod producitur aliud simpliciter, 
+      <!--00167.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>potius enim ex maiori similitudine producti eam 
+      <lb ed="#A" n="69"/>deberet colligere. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1195">
+                     <lb ed="#A" n="70"/>Vltimo, vt quae de nomine, Principium, 
+      dicen<lb ed="#A" n="71" break="no"/>di sunt, concludamus, notandum est ita Patrem, 
+      <lb ed="#A" n="72"/>&amp; Filium appellari principium, vt nec Filius dicatur 
+      <lb ed="#A" n="73"/>principatus a Patre, nec Spiritus Sanctus ab 
+      vtro<lb ed="#A" n="74" break="no"/>que. Sic docuit sanctus Thomas in hoc articulo 
+      <lb ed="#A" n="75"/>in solutione 2. refert nihilominus idem sanctus 
+      <lb ed="#A" n="76"/>Doctor, in opusculo contra errores Graecorum 
+      <lb ed="#A" n="77"/>ca. 1. dixisse Athanasium in Nicena synodo, 
+      Spi<lb ed="#A" n="78" break="no"/>ritum sanctum non esse imprincipiatum, &amp; in hoc 
+      <lb ed="#A" n="79"/>articulo in solut. 2. nomen, principatus, reperiri 
+      a<lb ed="#A" n="80" break="no"/>pud Graecos patres. Ceterum vox haec nec 
+      Lati<lb ed="#A" n="81" break="no"/>nis, nec Graecis vsitata est, ideo ab ea abstinendum 
+      <lb ed="#A" n="82"/>commodius esse censeo, tametsi illam admittat 
+      <lb ed="#A" n="83"/>Durandus in 1. dist. 11. q. 2. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e1229">
+                  <head xml:id="tavaz1-d1e216-Hd1e1231">Caput 6</head>
+                  <p xml:id="tavaz1-d1e216-d1e1233">
+                     <lb ed="#A" n="84" type="fixed=159"/>CAPVT VI. 
+      <lb ed="#A" n="85"/>De nominibus Author, &amp; Causa.
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e1240">
+                     <lb ed="#A" n="86"/>Hilarius 4. de Trin. non longe ab initio vo 
+      <lb ed="#A" n="87"/>cat Patrem Filii authorem &amp; hanc vocem 
+      <lb ed="#A" n="88"/>admittunt S. Thom. in d. 29. q. 1. ar. 1. Caiet. &amp; Ca 
+      <lb ed="#A" n="89"/>nar. in hoc art. quia nomen ita videatur 
+      significa<lb ed="#A" n="90" break="no"/>re rationem principii, vt non denotet causam 
+      su<lb ed="#A" n="91" break="no"/>periorem. Addit S. Thom. solum Patrem dici au 
+      <lb ed="#A" n="92"/>thorem filii, quia nomen, author, primum 
+      princi<lb ed="#A" n="93" break="no"/>pium significare videtur; sed cum idem Hilar. 2. 
+      <lb ed="#A" n="94"/>de Trinit. dicat, a Patre, &amp; Filio authoribus 
+      confi<lb ed="#A" n="95" break="no"/>tendum esse Spiritum sanctum, non debemus 
+      no<lb ed="#A" n="96" break="no"/>men, author, in ea significatione vsurpare, vt 
+      signi<lb ed="#A" n="97" break="no"/>ficet solum primum fontem, sed quamcumque 
+      <lb ed="#A" n="98"/>rationem principii, etiamsi sit principium de 
+      prin<lb ed="#A" n="99" break="no"/>cipio, qualis est Filius. Hoc modo Phaebad. in lib. 
+      <lb ed="#A" n="100"/>contra Arrianos post medium, qui habetur 5. tom. 
+      <lb ed="#A" n="101"/>Bibl. sacrae Patrem appellat authorem sine authore. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1277">
+                     <lb ed="#A" n="102"/>De Nominibus autem, causa, &amp; causatum, 
+      Grae<lb ed="#A" n="103" break="no"/>ce, 4ἰτεον ἀιτι κτὸν maior est difficultas. Primum 
+      <lb ed="#A" n="104"/>autem his vocibus passim Graeci sine vlla offensio 
+      <lb ed="#A" n="105"/>ne vtuntur. Basilius libr. 1. 3. &amp; 4. contra Euno 
+      <lb ed="#A" n="106"/>mium, Nyssenus in opusculo, quod putandum non 
+      <lb ed="#A" n="107"/>sic, tres Deos dici oportere, Nazianz. in oratione de 
+      <lb ed="#A" n="108"/>constitutione Episcoporum quae est 29. Damasc.I. 
+      <lb ed="#A" n="109"/>1. de fideca. 8. &amp; 11. &amp; alibi sepenumero, 
+      Theo<lb ed="#A" n="110" break="no"/>phylactus in ca. II. 1. ad Corinthios, &amp; alij, quos 
+      <lb ed="#A" n="111"/>allegat sanctus Thom. opusculo illo contra 
+      Grae<lb ed="#A" n="112" break="no"/>cos: imo ex Latinis Hilarius 9. de Trinit. cum ait, 
+      <lb ed="#A" n="113"/>Filium ex patre causam sumere. Hunc etiam esse 
+      <lb ed="#A" n="114"/>modum loquendi Graecorum patrum, dicit 
+      Con<lb ed="#A" n="115" break="no"/>cilium Florent. sessione vltima in litteris vnionis. 
+      <lb ed="#A" n="116"/>Quocirca Bessarion in oratione pro vnione, qua 
+      <lb ed="#A" n="117"/>habetur sessione vlt. Concilij Florentini, cum in 
+      <lb ed="#A" n="118"/>ea saepius vsus fuisset nomine causae, cap. vlt. illius 
+      <lb ed="#A" n="119"/>sic ait: Notandum primo quod sancti Doctores 
+      orienta<lb ed="#A" n="120" break="no"/>les, etiam in diuinis viuntur nomine causae, &amp; causati lar 
+      <lb ed="#A" n="121"/>go modo, non quidem vt limitationem, &amp; 
+      dependen<lb ed="#A" n="122" break="no"/>tiam importat: sed prout emanationem, &amp; productio 
+      <lb ed="#A" n="123"/>nem a principio, eius quod est a principio significat: e 
+      <lb ed="#A" n="124"/>ideo sme etiam ad Graecos loquentem his nominibus vsum 
+      <lb ed="#A" n="125"/>fuisse. Fatetur nihiloninus in eadem oratione 
+      ca<lb ed="#A" n="126" break="no"/>3. Cyrillum Alex. in epist. ad Hermiam, cum 
+      oc<lb ed="#A" n="127" break="no"/>cidentalibus (intelligit Latinos) non admittere in 
+      <lb ed="#A" n="128"/>diuinis nomen causae, &amp; causati. Ex Latinis vero 
+      <lb ed="#A" n="129"/>Hilar. li. 4. de Trin. negat Patrem esse causam Filij 
+      <lb ed="#A" n="130"/>&amp; vt notauit Bessarion, cum latine vox causa 
+      im<lb ed="#A" n="131" break="no"/>perfectionem denotet causati, quod sc. pendeat 
+      <lb ed="#A" n="132"/>ab ea, vt a perfectiori, non est Latino sermone ea 
+      <!--00168.xml-->
+      <pb ed="#A" n="160"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>voce vtendum. Interpretes ergo Latini Graecorum 
+      <lb ed="#A" n="2"/>patrum, vbi illa vox occurrit mellius reddidissent, 
+      <lb ed="#A" n="3"/>principium, quam causam. Quod si loannes 
+      Theo<lb ed="#A" n="4" break="no"/>log. Ecclesiae Latinae in Conc. Florentino sess. 23. 
+      <lb ed="#A" n="5"/>&amp; 24. aliquando vtitur nomine latino causae, id fe 
+      <lb ed="#A" n="6"/>cit, quia cum Graecis disputabat. Cum vero 
+      Au<lb ed="#A" n="7" break="no"/>gustinus lib. 33. quaestionum quaest. 16. dicit, Deum 
+      <lb ed="#A" n="8"/>aeternum esse causam aeternae sapientiae, &amp; de 
+      <lb ed="#A" n="9"/>Trinit. cap. 1. Quod est Deo causa, vt sit, est etiam, vt 
+      <lb ed="#A" n="10"/>sapiens sit, causam non vsurpauit pro causa reali, aut 
+      <lb ed="#A" n="11"/>principio; sed pro ratione, quae nostro modo 
+      in<lb ed="#A" n="12" break="no"/>telligendi causa est. Eodem sensu dixit Hieron. 
+      <lb ed="#A" n="13"/>in c. ad Ephesios, Deum, qui semper est, neque 
+      <lb ed="#A" n="14"/>aliunde habet sui principium, esse originem, &amp; 
+      <lb ed="#A" n="15"/>causam suae subsistentiae. Quare immerito 
+      Aureo<lb ed="#A" n="16" break="no"/>lus apud Capreolum in 1. d. 29. contendit, patrem 
+      <lb ed="#A" n="17"/>dici posse latine causam filij, &amp; filium etiam 
+      Spi<lb ed="#A" n="18" break="no"/>ritus sancti. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1392">
+                     <lb ed="#A" n="19"/>Sed obijcere posset aliquis Aristotelem, qui 4. 
+      <lb ed="#A" n="20"/>Metaphys. cap. 2. dicit in haec verba, si itaque ens 
+      <lb ed="#A" n="21"/>&amp; vnum idem, ac vna natura sunt, propterea quod se 
+      <lb ed="#A" n="22"/>inuicem sequuntur quemadmodum principium, &amp; causa 
+      <lb ed="#A" n="23"/>&amp;c. vbi videtur, aut pro eodem accepisse 
+      princi<lb ed="#A" n="24" break="no"/>pium &amp; causam, aut saltem ita inter se ea compa 
+      <lb ed="#A" n="25"/>rasse, vt reciprocarentur tanquam aequalia, quod 
+      <lb ed="#A" n="26"/>si ita est, non minus dici potest Pater causa filij 
+      <lb ed="#A" n="27"/>quam principium. Accedit, q. 5. metaph. c.1. 
+      enu<lb ed="#A" n="28" break="no"/>meratis multis modis, quibus dicitur principium 
+      <lb ed="#A" n="29"/>sub finem capitis subiungit; Toties autem causae 
+      quo<lb ed="#A" n="30" break="no"/>que dicuntur, aut, vt transferunt alij, totidem autem 
+      <lb ed="#A" n="31"/>modis &amp; causae dicuntur, subdit tationem, omnes nam 
+      <lb ed="#A" n="32"/>que causae principia, h.e. omnes causae principia sunt. 
+      <lb ed="#A" n="33"/>Et quamuis certum sit nomen Graecum, ἀίτκων. 
+      <lb ed="#A" n="34"/>latine, causa, diuinis personis ita recte conuenire, 
+      <lb ed="#A" n="35"/>vt Arist. non dubitaret hoc nomen illis tribuere. 
+      <lb ed="#A" n="36"/>si eas cognouisset, nihilominus contendimus 
+      <lb ed="#A" n="37"/>quacunque ratione etiam a Latinis esse 
+      tribuen<lb ed="#A" n="38" break="no"/>dum, quia ex sententia Aristotelis idem sunt, 
+      cau<lb ed="#A" n="39" break="no"/>sa, &amp; principium, &amp; mutuo conuertuntur. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1441">
+                     <lb ed="#A" n="40"/>Respondent quidam ad primum locum Arist 
+      <lb ed="#A" n="41"/>lam ibi Aristot. vsurpasse causam latiori significatione 
+      <lb ed="#A" n="42"/>pro quauis vel minima occasione: sic autem cum 
+      <lb ed="#A" n="43"/>principio conuerti. Verum haec interpretatio nec 
+      <lb ed="#A" n="44"/>est secundum mentem Aristot. primum quia cum 
+      <lb ed="#A" n="45"/>statim 5. metaphys. capit. 1. &amp; 2. deberet 
+      distingue<lb ed="#A" n="46" break="no"/>re principium a causa, sicut commmune a 
+      particu<lb ed="#A" n="47" break="no"/>lari cur tam breui spatio tam vario modo vsurpa 
+      <lb ed="#A" n="48"/>ret principium? Tum etiam, quoniam eo c. I. enu 
+      <lb ed="#A" n="49"/>merat aliquos modos principij, qui nulla ratione 
+      <lb ed="#A" n="50"/>possunt esse causae, est enim principium, vnde 
+      <lb ed="#A" n="51"/>quis incipit moueri, vt initium viae, huiusmodi 
+      <lb ed="#A" n="52"/>etiam est punctum, vt initium lineae, at quis dicat 
+      <lb ed="#A" n="53"/>haec esse causas, aut vllo modo occasiones? Re 
+      <lb ed="#A" n="54"/>spondeo igitur, ibi solum ostendere Arist. quo 
+      pa<lb ed="#A" n="55" break="no"/>cto vna scientia sit vnius generis obiecti, vt inde 
+      <lb ed="#A" n="56"/>colligat, ad eandem scientiam pertinere, tractare 
+      <lb ed="#A" n="57"/>deente, &amp; de vno. Reddit rationem, quia haec 
+      <lb ed="#A" n="58"/>duo natura sunt idem, hoc est, ex natura rei non 
+      <lb ed="#A" n="59"/>differunt, quia reciprocantur. Cum vero asserit. 
+      <lb ed="#A" n="60"/>Quemadmodum principium, &amp; causa, non affert in 
+      <lb ed="#A" n="61"/>exemplum mutuae conuersionis, sed identiratis 
+      <lb ed="#A" n="62"/>ex natura rei, ob quam ad vnam scientiam 
+      vtrius<lb ed="#A" n="63" break="no"/>que tractatio pertinet. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1496">
+                     <lb ed="#A" n="64"/>Ad secundum molestum esset referre, quae 
+      me<lb ed="#A" n="65" break="no"/>taphysici comminiscuntur in expositionem ilius 
+      <lb ed="#A" n="66"/>loci; mihi vero summopere placuit interpretatio 
+      <lb ed="#A" n="67"/>quam adhibet Alexander Alens. in illum locum, 
+      <lb ed="#A" n="68"/>vt Aristot. dicat praeter modos enumeratos cap.1. 
+      <!--00168.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>quibus dici solet principium, accipi etiam totide 
+      <lb ed="#A" n="70"/>modis, quibus &amp; causa vsurpari solet, quos 
+      enu<lb ed="#A" n="71" break="no"/>merat sequenti cap. &amp; sunt quatuor. Qua ratione 
+      <lb ed="#A" n="72"/>non dicit Arist. totidem modis dici causam, qui 
+      <lb ed="#A" n="73"/>bus dicitur principium, cum sit manifestum, 
+      la<lb ed="#A" n="74" break="no"/>tius patere principium, &amp; pluribus modis 
+      vsurpa<lb ed="#A" n="75" break="no"/>ri, sed praeter modos enumeratos principij, 
+      toti<lb ed="#A" n="76" break="no"/>dem alijs dici principium, quibus &amp; causa. Hoc 
+      <lb ed="#A" n="77"/>autem mihi suadeo primum, quia c. 1. recensens 
+      <lb ed="#A" n="78"/>acceptiones principij, non numerauit eas, quibus 
+      <lb ed="#A" n="79"/>capitur causa: cum tamen totidem etiam modis 
+      <lb ed="#A" n="80"/>principium dicatur, quibus dicitur causa, quos 
+      <lb ed="#A" n="81"/>refert c. 2. Deinde hoc pacto recte quadrat ratio 
+      <lb ed="#A" n="82"/>illa, quam subdit Arist. Omnes namque causae princi 
+      <lb ed="#A" n="83"/>pia: ac si dicat, cum omnis causa sit principium, 
+      <lb ed="#A" n="84"/>recte sequitur, totidem modis etiam dici 
+      princi<lb ed="#A" n="85" break="no"/>pium, quot etiam dicitur causa: cum tamen non 
+      <lb ed="#A" n="86"/>sequatur contra, tot modis dici causam, quot 
+      di<lb ed="#A" n="87" break="no"/>citur principium; etiamsi omnis causa sit 
+      princi<lb ed="#A" n="88" break="no"/>pium, quia principium latius patet, quam causa. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e1557">
+                     <lb ed="#A" n="89"/>Solum vero superest difficultas in verbis cita 
+      <lb ed="#A" n="90"/>tis, quibus videtur Arist. asserere, non totidem 
+      <lb ed="#A" n="91"/>modis principium vsurpari, quot dicitur causa 
+      <lb ed="#A" n="92"/>sed potius contra, tot modis dici causam, quo 
+      <lb ed="#A" n="93"/>principium vsurpatur: quod nec verum esse, nec 
+      <lb ed="#A" n="94"/>cum ratione, quam subiungit quadrare potest. 
+      <lb ed="#A" n="95"/>Haec tamen difficultas tollitur, si alio modo 
+      tex<lb ed="#A" n="96" break="no"/>tum Aristotel. latine vertamus, quam omnes 
+      ha<lb ed="#A" n="97" break="no"/>ctenus reddiderunt, quae sane translatio licet no 
+      <lb ed="#A" n="98"/>ua sit, si tamen textus Graecus eam patiatur, 
+      ce<lb ed="#A" n="99" break="no"/>teris est praeferenda. Ex ipso autem textu Graeco 
+      <lb ed="#A" n="100"/>clarissime eam colligo. Textus enim sic habet, 
+      <lb ed="#A" n="101"/>ἰσαχῶς δὲ καὶ τὰ ἀἶτια λέγεται ac si verbum pro 
+      <lb ed="#A" n="102"/>verbo tranferas, AEque porro, atque causae, dicitur, 
+      <lb ed="#A" n="103"/>(supple) principium; de quo proxime dixerat. Item 
+      <lb ed="#A" n="104"/>vnde res primum cognita est, illud quoque principium 
+      di<lb ed="#A" n="105" break="no"/>tur. Graece ἀρχὴ λέγεῖαι. Nunc ergo per singula 
+      <lb ed="#A" n="106"/>hanc nostram versionem probemus. Primum 
+      <lb ed="#A" n="107"/>quidem particula ἰσαχῶς significat idem, quod 
+      <lb ed="#A" n="108"/>latine aeque, quod alij reddiderunt, totidem 
+      mo<lb ed="#A" n="109" break="no"/>dis, vel, toties, sed admittamus eorum 
+      lectlo<lb ed="#A" n="110" break="no"/>nem. Deinde particula δὲ continuantis est, &amp; 
+      si<lb ed="#A" n="111" break="no"/>gnificat idem quod latine, porro, ideoque 
+      parti<lb ed="#A" n="112" break="no"/>cula. autem, quam omnes interpretes habent, in 
+      <lb ed="#A" n="113"/>hunc sensum, quem saepius reddit, accipienda est 
+      <lb ed="#A" n="114"/>Praeterea particula καὶ, quae vim habet 
+      coniun<lb ed="#A" n="115" break="no"/>ctionis copulantis, hic debet in alio sensu accipi, 
+      <lb ed="#A" n="116"/>quem interdum habet, vt periti linguae Graecae 
+      <lb ed="#A" n="117"/>testantur, pro perinde, atque, vel pro, atque, quae 
+      <lb ed="#A" n="118"/>habent notionem comparantis, &amp; hoc praesertim, 
+      <lb ed="#A" n="119"/>quia praecessit particula ἰσαχῶς, quae significat 
+      <lb ed="#A" n="120"/>comparationem; nempe totidem modis, vel, 
+      to<lb ed="#A" n="121" break="no"/>ties, vel, aeque. Adde, quod pars illa ra dilia, vt in 
+      <lb ed="#A" n="122"/>dicat articulus ra, est in plurali, ac si dicas latine, 
+      <lb ed="#A" n="123"/>causae, &amp; ita omnes transtulerunt: verbum autem 
+      <lb ed="#A" n="124"/>λέγεται est in singulari, quod nullus interpretum 
+      <lb ed="#A" n="125"/>idetur aduertisse, &amp; ita latine verti potius debet, 
+      <lb ed="#A" n="126"/>dicitur, quam, dicuntur, vt omnes reddiderunt: at 
+      <lb ed="#A" n="127"/>que referri debet ad suppositum, quod proxima 
+      <lb ed="#A" n="128"/>periodo praecessit, scilicet, ἀρχὴ, latine principium, 
+      <lb ed="#A" n="129"/>non ad vocem numeri pluralis, causae, nam 
+      quam<lb ed="#A" n="130" break="no"/>uis nomina numeri pluralis apud Graecos 
+      aliquan<lb ed="#A" n="131" break="no"/>do coniungarkur verbo singulari, tamen, quia si 
+      <lb ed="#A" n="132"/>haec regula hoc loco seruaretur, difficilior, imo 
+      <lb ed="#A" n="133"/>falsa esset sententia, ideo multo melius est verbum 
+      <lb ed="#A" n="134"/>singulare singulariter etiam latine vertere, &amp; ad 
+      <lb ed="#A" n="135"/>nomen, principium, referre. Ergo non debemus 
+      <lb ed="#A" n="136"/>transferre sic, totidem autem modis &amp; causae dicuntur. 
+      <!--00169.xml-->
+      <pb ed="#A" n="161"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>sed ita, toties, vel, aeque porro, vel, perinde atque causae 
+      <lb ed="#A" n="2"/>dicitur (supple) principium; aut sine particula, perinde, 
+      <lb ed="#A" n="3"/>quod idem est: &amp; eodem verbo vsus fuerat in prae 
+      <lb ed="#A" n="4"/>cedenti periodo, cum dixit ἀρχὴ λέγεται hoc es 
+      <lb ed="#A" n="5"/>principium dicitur: omnia ergo recte cum nostra 
+      <lb ed="#A" n="6"/>versione consonant: quae cum alijs secum haerere 
+      <lb ed="#A" n="7"/>non possunt. 
+      </p>
+               </div>
+            </div>
+            <div xml:id="tavaz1-d1e216-Dd1e1687"><!-- vaz-p1q33a2 -->
+               <head xml:id="tavaz1-d1e216-Hd1e1690">Articulus 2</head>
+               <p xml:id="tavaz1-d1e216-d1e1692">
+                  <lb ed="#A" n="111" type="fixed=161"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e216-d1e1697">
+                  <lb ed="#A" n="112"/>COnclusio est, Nomen Patet, est proprium 
+      no<lb ed="#A" n="113" break="no"/>men primae personae. Circa titulum articuli, no 
+      <lb ed="#A" n="114"/>tat Caietanus particulam, proprie. vsurpari, vt op 
+      <lb ed="#A" n="115"/>ponitur communi, metaphorico, &amp; extraneo, 
+      <lb ed="#A" n="116"/>quae omnia examinat sanctus Doctor in artic. At 
+      <lb ed="#A" n="117"/>Canariensis in primo sensu existimat capi 
+      parti<lb ed="#A" n="118" break="no"/>culam illam; solum enim contendit inuestigare, 
+      <lb ed="#A" n="119"/>vtrum nomen Pater, conueniat soli primae 
+      perso<lb ed="#A" n="120" break="no"/>nae, an commune sit, &amp; alijs etiam tribuatur: &amp; 
+      <!--00170.xml-->
+      <pb ed="#A" n="162"/>
+                  <cb ed="#A" n="a"/>
+                  <lb ed="#A" n="1"/>huc solum spectat ratio S. Thomae in corpore 
+      ar<lb ed="#A" n="2" break="no"/>ticuli. An vero hoc nomen proprie, hoc est, absque 
+      <lb ed="#A" n="3"/>metaphora de patre dicatur, colligitur ex ijs, quae 
+      <lb ed="#A" n="4"/>diximus disp. 22. c. 4. vbi etiam ostendimus, an no 
+      <lb ed="#A" n="5"/>mina communia Deo &amp; creaturis, ex Deo ad 
+      crea<lb ed="#A" n="6" break="no"/>turas fuerint deriuata: inter quae de nomine pa 
+      <lb ed="#A" n="7"/>ternitatis disseruimus, quam quaestionem dispu 
+      <lb ed="#A" n="8"/>tat hic Caietanus circa solutionem quarti. 
+      </p>
+               <p xml:id="tavaz1-d1e216-d1e1743">
+                  <lb ed="#A" n="9"/>Ratio vero S. Thomae in hoc articulo est 
+      huius<lb ed="#A" n="10" break="no"/>modi. Nomen proprium cuiuscunque persona 
+      <lb ed="#A" n="11"/>est, quod significat id, per quod illa persona ab a 
+      <lb ed="#A" n="12"/>lijs distinguitur, sed pater significat id, per quod 
+      <lb ed="#A" n="13"/>prima persona ab alijs distinguitur, ergo est 
+      no<lb ed="#A" n="14" break="no"/>men proprium illius. Circa quam rationem quae 
+      <lb ed="#A" n="15"/>rit Caietanus hoc modo. Aut sanctus Thomas 
+      <lb ed="#A" n="16"/>intelligit illud esse nomen proprium, quod for 
+      <lb ed="#A" n="17"/>maliter, &amp; distincte significat id, per quod perso 
+      <lb ed="#A" n="18"/>na distinguitur, aut materialiter tantum, &amp; quasi 
+      <lb ed="#A" n="19"/>in potentia, sicut ratio particularis significari so 
+      <lb ed="#A" n="20"/>let interdum communi nomine; si priori modo 
+      <lb ed="#A" n="21"/>intelligat sanctus Thomas, non est vera minor 
+      <lb ed="#A" n="22"/>propositio syllogismi, quia nomen Pater est analo 
+      <lb ed="#A" n="23"/>gice commune creato, &amp; increato, ergo non signi 
+      <lb ed="#A" n="24"/>ficat distincte &amp; formaliter id, per quod persona 
+      <lb ed="#A" n="25"/>patris distinguitur, sed materialiter, &amp; posteriori 
+      <lb ed="#A" n="26"/>illo modo, si vero hoc posteriori modo intelligat 
+      <lb ed="#A" n="27"/>maior est falsa, siquidem illo modo voce etiam 
+      <lb ed="#A" n="28"/>communi significari solet id, quod distinguit, ergo 
+      <lb ed="#A" n="29"/>ratio S. Thomae nullo modo probat. Respondet 
+      <lb ed="#A" n="30"/>ipse bene, maiorem propositionem intelligen 
+      <lb ed="#A" n="31"/>dam esse priori illo modo, ita, vt nomen illud sit 
+      <lb ed="#A" n="32"/>proprium, quod distincte, &amp; formaliter signifi 
+      <lb ed="#A" n="33"/>cat id quo distinguitur persona: minor autem 
+      <lb ed="#A" n="34"/>propositio est vera quia licet nomen, Pater, sit com 
+      <lb ed="#A" n="35"/>mune analogice creato &amp; increato, tamen cum 
+      <lb ed="#A" n="36"/>dicitur nomen proprium diuinae personae, ex 
+      cir<lb ed="#A" n="37" break="no"/>cumstantijs intelligitur determinatum pro 
+      prin<lb ed="#A" n="38" break="no"/>cipaliori significato. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e216-Dd1e1812"><!-- vaz-p1q33a3 -->
+               <head xml:id="tavaz1-d1e216-Hd1e1815">Articulus 3</head>
+               <p xml:id="tavaz1-d1e216-d1e1817">
+                  <lb ed="#A" n="46" type="fixed=163"/>Notationes circa Articulum.
+    </p>
+               <p xml:id="tavaz1-d1e216-d1e1822">
+                  <lb ed="#A" n="47"/>COnclusio articuli est Nomen Pater sumptum 
+      <lb ed="#A" n="48"/>notionaliter, prius Deo conuenit, quam dictum 
+      es<lb ed="#A" n="49" break="no"/>sentialiter. 
+      </p>
+               <p xml:id="tavaz1-d1e216-d1e1831">
+                  <lb ed="#A" n="50"/>Circa titulum articuli notat Caietanus primo, 
+      <lb ed="#A" n="51"/>nomen Patris bifariam Deo conuenire; tum 
+      no<lb ed="#A" n="52" break="no"/>tionaliter, cum dicitur Deus, &amp; Pater Domini nostri Iesi 
+      <lb ed="#A" n="53"/>Christi tum etiam essentialiter, cum dicitur; Pater 
+      <lb ed="#A" n="54"/>noster, &amp; Pater misericordiarum. Secundo notat, non 
+      <lb ed="#A" n="55"/>esse quaestionem, an Deus prius sit Pater Filij sui 
+      <lb ed="#A" n="56"/>quam Pater creaturarum, sed an ratio paternita 
+      <lb ed="#A" n="57"/>tis hoc nomine significata, prius Deo conueniat 
+      <lb ed="#A" n="58"/>intra se, quam extra. Tertio, inquit, quamuis ex 
+      <lb ed="#A" n="59"/>argumento, Sed contra, colligi videatur, 
+      particu<lb ed="#A" n="60" break="no"/>lam, prius, significare proprietatem vniuersim; ex 
+      <lb ed="#A" n="61"/>corpore tamen articuli deducitur directe solum 
+      <!--00171.xml-->
+      <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="62"/>sermonem esse de prioritate secundum naturae 
+      <lb ed="#A" n="63"/>ordinem, vt sensus sit, an ratio Patris hoc 
+      no<lb ed="#A" n="64" break="no"/>mine significata, quae personalis est, sit naturae 
+      <lb ed="#A" n="65"/>ordine prior, quam ratio eiusdem essentialiter 
+      di<lb ed="#A" n="66" break="no"/>cta. Quare nonnulli Thomistae mentem 
+      Docto<lb ed="#A" n="67" break="no"/>ris sancti non videntur assecuti, intelligentes ipsum 
+      <lb ed="#A" n="68"/>fuisse locutum de prioritate perfectionis: cum 
+      e<lb ed="#A" n="69" break="no"/>nim S. Thom. vt probet Patrem notionaliter di 
+      <lb ed="#A" n="70"/>ctum priorem esse patre essentialiter dicto, assumit 
+      <lb ed="#A" n="71"/>Patrem notionaliter perfectius dici, quam 
+      essen<lb ed="#A" n="72" break="no"/>tialiter, prioritate perfectionis non infert, &amp; 
+      pro<lb ed="#A" n="73" break="no"/>bat: sed ex illa prioritatem natura colligit. 
+      </p>
+               <p xml:id="tavaz1-d1e216-d1e1890">
+                  <lb ed="#A" n="74"/>Quomodo autem Pater notionaliter dictus 
+      si<lb ed="#A" n="75" break="no"/>prior ordine naturae, quam Pater essentialiter, 
+      o<lb ed="#A" n="76" break="no"/>ptime explicat Caiet. &amp; Canariensis in hunc arti 
+      <lb ed="#A" n="77"/>culum circa solut. 2. ex eodem S. Thoma ibidem. 
+      <lb ed="#A" n="78"/>Nam quamuis nomina essentialia, &amp; communia 
+      <lb ed="#A" n="79"/>priora sint nominibus notionalibus, prioritate 
+      <lb ed="#A" n="80"/>quasi vniuersalis, sicut animal dicitur prius 
+      homi<lb ed="#A" n="81" break="no"/>ne, hoc tamen intelligitur de ijs tantum, quae non 
+      <lb ed="#A" n="82"/>significant relationem ex tempore ad creaturas, 
+      <lb ed="#A" n="83"/>sicut nomen, Pater &amp; Dominus significat: imo illa, 
+      <lb ed="#A" n="84"/>quae significant relationes ad creaturas, non ex 
+      <lb ed="#A" n="85"/>tempore, sed ab aeterno, talem quidem, quae Deo 
+      <lb ed="#A" n="86"/>posset non conuenire, vt scientia visionis, &amp; 
+      prae<lb ed="#A" n="87" break="no"/>destinatio, etiamsi communia sint, &amp; essentialia, 
+      <lb ed="#A" n="88"/>tamen ordine naturae posteriora sunt. An vero 
+      a<lb ed="#A" n="89" break="no"/>ctus intellectus, vt terminatur ad creaturas 
+      possi<lb ed="#A" n="90" break="no"/>biles, prior sit, quam verbi productio, &amp; actus, 
+      <lb ed="#A" n="91"/>quo diligit creaturas, prior quam Spiritus sancti 
+      <lb ed="#A" n="92"/>processio, dicemus disputat. 143. 
+      </p>
+               <p xml:id="tavaz1-d1e216-d1e1935">
+                  <lb ed="#A" n="93"/>Ceterum Canariensis in hunc articulum, quae 
+      <lb ed="#A" n="94"/>rit, an nomen, Pater, vniuoce Deo conueniat, qua 
+      <lb ed="#A" n="95"/>tenus est Pater essentialiter, &amp; notionaliter 
+      Re<lb ed="#A" n="96" break="no"/>spondet ipse, non praedicari vniuoce, quia sicut a 
+      <lb ed="#A" n="97"/>filio aeterno, &amp; creaturis non potest abstrahi ratio 
+      <lb ed="#A" n="98"/>communis filij, nam creaturae non producuntur a 
+      <lb ed="#A" n="99"/>Deo generatione, a principio sc. conluncto in 
+      si<lb ed="#A" n="100" break="no"/>militudinem naturae, quae est ratio filii sumpta ex 
+      <lb ed="#A" n="101"/>generatione proprie, sic etiam nec ratio Patris 
+      re<lb ed="#A" n="102" break="no"/>spectu filii aeterni, &amp; creaturarum communis esse 
+      <lb ed="#A" n="103"/>potest. Hanc solutionem adhibet Canariens. quia 
+      <lb ed="#A" n="104"/>putat solutionem S. Thomae, quae est ad secundum, 
+      <lb ed="#A" n="105"/>non satisfacere argumento: cum tamen ab ea non 
+      <lb ed="#A" n="106"/>differat. Addit idem Canariensis, nomen, Filius, 
+      <lb ed="#A" n="107"/>aequiuoce praedicari de filio aeterno, &amp; creaturis: 
+      <lb ed="#A" n="108"/>idem docet, de nomine, Pater, respectu patris 
+      no<lb ed="#A" n="109" break="no"/>tionaliter, &amp; essentialiter. Reddit rationem, quia 
+      <lb ed="#A" n="110"/>non datur communis conceptus utrique, vt 
+      pro<lb ed="#A" n="111" break="no"/>batum est quasi vero in analogis vnus conceptus 
+      <lb ed="#A" n="112"/>communis significatus ea voce possit assignari. 
+      <lb ed="#A" n="113"/>Verum ex S. Thoma in solut. 2. colligitur 
+      analo<lb ed="#A" n="114" break="no"/>gice praedicari: nam licet non detur communis 
+      <lb ed="#A" n="115"/>conceptus, quod etiam in analogis contingit, vt 
+      <lb ed="#A" n="116"/>disp. 114. c. 2. diximus: quia tamen vna filiatio 
+      si<lb ed="#A" n="117" break="no"/>gnificatur per similitudinem ad aliam, &amp; meta 
+      <lb ed="#A" n="118"/>phorice, ideo nomina haec analogice praedicantur 
+      <lb ed="#A" n="119"/>Creaturae enim dicuntur filij Dei. non proprie, 
+      <lb ed="#A" n="120"/>sed metaphorice per similitudinem ad verum 
+      fi<lb ed="#A" n="121" break="no"/>lium, qui generatur a principio intrinseco: ergo 
+      <lb ed="#A" n="122"/>aliqua in illis est nominis analogia. 
+      </p>
+            </div>
+            <div xml:id="tavaz1-d1e216-Dd1e2005"><!-- vaz-p1q33a4 -->
+               <head xml:id="tavaz1-d1e216-Hd1e2008">Articulus 4</head>
+               <p xml:id="tavaz1-d1e216-d1e2010">
+                  <lb ed="#A" n="53" type="fixed=165"/>COnclusio est Nomen, ingenitum, est propriun 
+      <lb ed="#A" n="54"/>Patri. Dicitur autem proprium, vt notauit 
+      <lb ed="#A" n="55"/>Caietanus, prout distinguitur 1. communi: quia 
+      <lb ed="#A" n="56"/>ita conuenit soli patri, vt nec alteri perlonae, nec 
+      <lb ed="#A" n="57"/>essentiae, &amp; naturae conueniat, vt colligitur ex 
+      so<lb ed="#A" n="58" break="no"/>lution. 
+    </p>
+            </div>
+            <div xml:id="tavaz1-d1e216-Dd1e2027"><!-- vaz-p1q33a4-d140 -->
+               <head xml:id="tavaz1-d1e216-Hd1e2030">Disputatio 140</head>
+               <head xml:id="tavaz1-d1e216-Hd1e2032" type="question-title">
+    Quomodo nomen, ingenitum, sit 
+    proprium personae Patris
+  </head>
+               <p xml:id="tavaz1-d1e216-d1e2035">
+      <!--00173.xml-->
+                  <cb ed="#A" n="b"/>
+                  <lb ed="#A" n="59" type="fixed=165"/>DISPVTATIO CXL. 
+      <lb ed="#A" n="60"/>Quomodo nomen, ingenitum, sit 
+      pro<lb ed="#A" n="61" break="no"/>prium personae Patris. 
+      </p>
+               <div xml:id="tavaz1-d1e216-Dd1e2048">
+                  <head xml:id="tavaz1-d1e216-Hd1e2050">Caput 1</head>
+                  <p xml:id="tavaz1-d1e216-d1e2052">
+                     <lb ed="#A" n="62" type="fixed=165"/>CAPVT I. 
+      <lb ed="#A" n="63"/>Nomen ingenitum quondam Patribus fuisse 
+      <lb ed="#A" n="64"/>suspectum. 
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e2061">
+                     <lb ed="#A" n="65"/>VOx Graeca ἄγένητον Latine, ingenitum, 
+      si<lb ed="#A" n="66" break="no"/>gnificat idem quod increatum, &amp; minime 
+      <lb ed="#A" n="67"/>factum, qua voce Arriani Patrem aeternum 
+      mali<lb ed="#A" n="68" break="no"/>tiose appellant, non quod ille increatus non sit, 
+      <lb ed="#A" n="69"/>sed vt filium opposita voce γένοητον, hoc est 
+      crea<lb ed="#A" n="70" break="no"/>tum, &amp; factum nuncuparent: &amp; vt probarent 
+      fi<lb ed="#A" n="71" break="no"/>lium non esse ὁμούσιον Homousion, hoc est eiusdem 
+      <lb ed="#A" n="72"/>cum Patre substantiae, vtebantur hoc argumento. 
+      <lb ed="#A" n="73"/>Genitum &amp; ingenitum, hoc est, creatum &amp; 
+      in<lb ed="#A" n="74" break="no"/>creatum natura differunt: atqui Pater est 
+      ingeni<lb ed="#A" n="75" break="no"/>tus, filius autem est genitus: ergo substantia &amp; na 
+      <lb ed="#A" n="76"/>tura differunt. Ideoque nonnulli Patres hanc 
+      vo<lb ed="#A" n="77" break="no"/>cem suspectam habuerunt, vt Dionys. 
+      Alexandri<lb ed="#A" n="78" break="no"/>nus in Epistola ad Paulum Samosatenum, quam 
+      <lb ed="#A" n="79"/>habet noster Francisc. Turrian. in sua 
+      Hoplothe<lb ed="#A" n="80" break="no"/>ca nondum typis excusa in principio. Reddit 
+      au<lb ed="#A" n="81" break="no"/>tem rationem Dionys. his verbis, Ingenitum Patrem 
+      <lb ed="#A" n="82"/>nulla scriptura tradidit. Caeterum vt notat ibid. 
+      Tur<lb ed="#A" n="83" break="no"/>rianus num. 13. illud dixit Dionysius, non quod 
+      <lb ed="#A" n="84"/>sensu Catholico negaret Patrem ingenitum esse 
+      <lb ed="#A" n="85"/>sed contra Paulum Samosatenum, qui eo 
+      nomi<lb ed="#A" n="86" break="no"/>ne vt Arrianus vtebatur; &amp; sicut Patrem 
+      ingeni<lb ed="#A" n="87" break="no"/>tum, sic Christum genitum appellabat; vt 
+      osten<lb ed="#A" n="88" break="no"/>deret, esse recentem, &amp; creatum: nam purum 
+      ho<lb ed="#A" n="89" break="no"/>minem eum esse asserebat. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2118">
+                     <lb ed="#A" n="90"/>Eodem modo reijcit Athanasius nomen ἀγέ¬ 
+      <lb ed="#A" n="91"/>νητον in in dialogo orthodoxi &amp; Anomoei, quod 
+      <lb ed="#A" n="92"/>Anomoei eadem de causa, qua Arriani, ea voce 
+      v<lb ed="#A" n="93" break="no"/>terentur: reijcit autem, quia in scripturis 
+      nus<lb ed="#A" n="94" break="no"/>quam habeatur, &amp; pijs auribus non recte lonet, 
+      <lb ed="#A" n="95"/>cumque Anomoeus instaret, an dicendus esset 
+      <lb ed="#A" n="96"/>Pater γένητος? respondet Orthodoxus, 
+      nequa<lb ed="#A" n="97" break="no"/>quam; ob id tamen non esse dicendum ἀγένητοι 
+      <lb ed="#A" n="98"/>sicut quamuis Deus non dicatur credens alicui, 
+      <lb ed="#A" n="99"/>non ideo dici potest incredulus, vel non credens, 
+      <lb ed="#A" n="100"/>quia haec verba male sonant 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2144">
+                     <lb ed="#A" n="101"/>Eadem ratione hanc vocem reijcit Athanas. &amp; 
+      <lb ed="#A" n="102"/>malitiose ab Arrianis introductam fatetur in epist. 
+      <lb ed="#A" n="103"/>de decretis Nicenae synodi aliquantulum ante 
+      fi<lb ed="#A" n="104" break="no"/>nem &amp; in orat. 2. cont. Arrianos, circa medium, 
+      <lb ed="#A" n="105"/>vbi ait, Ego enim ab ethnicis didici ro ἄγέ. ητον id dici 
+      <lb ed="#A" n="106"/>quod nondum factum est, fieri tamen potest, vt lignum, 
+      <lb ed="#A" n="107"/>quod nondum abijt in formam scaphae, tametsi ibidem 
+      <lb ed="#A" n="108"/>&amp; Catholicam significationem subiungat, &amp; in 
+      <lb ed="#A" n="109"/>eo sensu vocem admittat, vt infra referemus, 
+      di<lb ed="#A" n="110" break="no"/>cit tamen interrogandos esse haereticos, in quem 
+      <lb ed="#A" n="111"/>sensum loquantur, vt videamus, an vox illa 
+      admit<lb ed="#A" n="112" break="no"/>tenda sit. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2174">
+                     <lb ed="#A" n="113"/>Porro ex Latinis Patribus Ambrosius libro de 
+      <lb ed="#A" n="114"/>dominicae incarnationis sacramento, c. 8. &amp; 9. 
+      con<lb ed="#A" n="115" break="no"/>tra Arrianos, qui vocem ὁμούσιοκ Homousion non 
+      <lb ed="#A" n="116"/>admittebant in sacris litteris non haberetur, obij 
+      <!--00174.xml-->
+      <pb ed="#A" n="166"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>cit vocem, ingenitum, quam &amp; ipsi captiose 
+      inuene<lb ed="#A" n="2" break="no"/>runt, nusquam in scripturis reperiri: ex quo ipse 
+      <lb ed="#A" n="3"/>non improbauit hanc vocem, sed simili eos 
+      argu<lb ed="#A" n="4" break="no"/>mento vrgere voluit. Neque vero Patres Graeci 
+      pro<lb ed="#A" n="5" break="no"/>xime commemorati, ea solum ratione vocem In 
+      <lb ed="#A" n="6"/>genitum reiecerunt, quod in sacris literis non esset, 
+      <lb ed="#A" n="7"/>nam eadem ratione &amp; ὁμούσιον Homousion, debe 
+      <lb ed="#A" n="8"/>rent improbare, cum in scripturis non habeatur, 
+      <lb ed="#A" n="9"/>Quod enim Ambros. &amp; Cyrillus conatur ex 
+      scri<lb ed="#A" n="10" break="no"/>ptura vocem Homousion partim colligere, vt re 
+      <lb ed="#A" n="11"/>tulimus disput. 190.c. 5. satis non est, vt illa in 
+      scri<lb ed="#A" n="12" break="no"/>ptura contineri dicatur: ideo igitur Patres illi 
+      vo<lb ed="#A" n="13" break="no"/>cem, Ingenitum, non admiserunt, quia in 
+      scriptu<lb ed="#A" n="14" break="no"/>ra non esset, &amp; callide ab haereticis introducto 
+      su<lb ed="#A" n="15" break="no"/>spectam significationem haberet. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2224">
+                     <lb ed="#A" n="16"/>Alia quoque ratione Basilius hanc vocem putat 
+      <lb ed="#A" n="17"/>introductam ab Eunomio, &amp; ipso Arriano, vt 
+      si<lb ed="#A" n="18" break="no"/>significaret nullam in Deo esse generationem, qua 
+      <lb ed="#A" n="19"/>naturam suam alteri communicans, illius pater 
+      <lb ed="#A" n="20"/>constitueretur. Sic notauit libr. 1. contra 
+      Euno<lb ed="#A" n="21" break="no"/>mium longe post medium, vbi refert haec verba 
+      <lb ed="#A" n="22"/>Eunomij, Ingenitus vero cum sit, scilicet Deus) in 
+      <lb ed="#A" n="23"/>quit (scilicet Eunomius) nunquam generationem 
+      su<lb ed="#A" n="24" break="no"/>scipiet, cui addidit (sc. idem Eunomius) vt cum genito 
+      <lb ed="#A" n="25"/>naturam suam communicet. Ex quibus verbis colli 
+      <lb ed="#A" n="26"/>git Basilius excludi ab Eunomio in Deo genera 
+      <lb ed="#A" n="27"/>tionem filij in eadem natura, &amp; ideo Deum inge 
+      <lb ed="#A" n="28"/>nitum appellasse. Quare in eodem libro 
+      aliquan<lb ed="#A" n="29" break="no"/>tulum a principio suspectam habens hanc vocem 
+      <lb ed="#A" n="30"/>sic ait, Ego autem etiam ingeniti siue innascibilis 
+      appel<lb ed="#A" n="31" break="no"/>lationem, quamuis summopere cogitationibus nostri 
+      <lb ed="#A" n="32"/>congruat; tamen quoniam nullo loco in scriptura &amp; ipsam 
+      <lb ed="#A" n="33"/>inuenio, &amp; quoniam primum est elementum blasphemiae 
+      <lb ed="#A" n="34"/>istorum, silentio tradendam merito duxeram. Huius si 
+      <lb ed="#A" n="35"/>gnificationis ingeniti apud Eunomianos 
+      memi<lb ed="#A" n="36" break="no"/>nit Nazianzen. orat. 39. quae est in sancta lumina 
+      <lb ed="#A" n="37"/>&amp; Nicetas ibidem in illa verba, Pater pater est cum 
+      <lb ed="#A" n="38"/>ait, Neque enim Pater ingenitus esse destitit, quia genuit, 
+      <lb ed="#A" n="39"/>quae verba explicans Nicetas inquit, Ingenitus enin 
+      <lb ed="#A" n="40"/>dicitur, vt nunquam genitus, non autem quod minim 
+      <lb ed="#A" n="41"/>genuerit. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e2284">
+                  <head xml:id="tavaz1-d1e216-Hd1e2286">Caput 2</head>
+                  <p xml:id="tavaz1-d1e216-d1e2288">
+                     <lb ed="#A" n="42" type="fixed=166"/>CAPVT I1. 
+      <lb ed="#A" n="43"/>Merito postea nomen ingenitum fuisse a Patribus receptum, 
+      <lb ed="#A" n="44"/>vt Patris significarent notionem. 
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e2297">
+                     <lb ed="#A" n="45"/>VErum enimuero iam Patres tam Graeci, qua 
+      <lb ed="#A" n="46"/>Latini admittunt vocem Graecam ἀyeνηro 
+      <lb ed="#A" n="47"/>&amp; Latinam, ingenitus, absque vlla suspicione, eam 
+      <lb ed="#A" n="48"/>que non ad essentiam, sed ad essentiae seu subsi 
+      <lb ed="#A" n="49"/>stentiae modum, &amp; characteristicam proprietate 
+      <lb ed="#A" n="50"/>significandam, quam Scholastici vocant notionem 
+      <lb ed="#A" n="51"/>accommodant ita, vt significet, non negationem 
+      <lb ed="#A" n="52"/>creationis, vt volebant Arriani, nec impotentiam 
+      <lb ed="#A" n="53"/>generandi, vt contendebat Eunomius, nec solam 
+      <lb ed="#A" n="54"/>negationem generationis, sed cuiusque 
+      proces<lb ed="#A" n="55" break="no"/>sionis, &amp; idem sit ingenitus, quod sui ipsius 
+      autho<lb ed="#A" n="56" break="no"/>rem, aut principium non habens 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2326">
+                     <lb ed="#A" n="57"/>Hanc vocem ad denotandam proprietatem 
+      so<lb ed="#A" n="58" break="no"/>lius patris in ea significatione admiserunt patres 
+      <lb ed="#A" n="59"/>synodi Antiochenae in Epist. ad Paulum 
+      Samosa<lb ed="#A" n="60" break="no"/>tenum, quae in eadem Hoplotheca Turriani 
+      ha<lb ed="#A" n="61" break="no"/>betur, Basil. lib. 4. contra Eunomium c. 2. Nazian 
+      <lb ed="#A" n="62"/>in illa oratione 38. quae est in sancta lumina, &amp; 
+      Ni<lb ed="#A" n="63" break="no"/>cetas ibidem verbis iam allegatis: sic etiam Magn 
+      <lb ed="#A" n="64"/>Athanasius in Epistola de Synodis Arimini &amp; 
+      Se<lb ed="#A" n="65" break="no"/>leuciae aliquantum ante finem, qui quamuis fatea, 
+      <lb ed="#A" n="66"/>tur voceni ingenitum in scriptura non contineri, 
+      <lb ed="#A" n="67"/>
+                     <!-- line coord error -->
+                     <!--00174.xml-->
+                     <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="68"/>inquit tamen admitti posse, tam ad 
+      significan<lb ed="#A" n="69" break="no"/>dum Patrem; quam Filium, si rectus sensus vocis 
+      <lb ed="#A" n="70"/>teneatur, cum duae sint nominis significationes. 
+      <lb ed="#A" n="71"/>Aut enim significat id, quod existit, factum tame 
+      <lb ed="#A" n="72"/>non est; &amp; ita conuenit Filio: aut eum, qui sui 
+      au<lb ed="#A" n="73" break="no"/>thorem non habet, &amp; ita conuenit soli Patri. Por 
+      <lb ed="#A" n="74"/>ro in priori sensu dicit, Filium Dei Christum vo 
+      <lb ed="#A" n="75"/>catum fuisse ab Ignatio, ingenitum, in Epistola ad 
+      <lb ed="#A" n="76"/>Ephesios illis verbis, Vnus est medicus carnalis, &amp; 
+      Spi<lb ed="#A" n="77" break="no"/>ritualis genitus, &amp; ingenitus in homine Deus, quae verba 
+      <lb ed="#A" n="78"/>aliter nunc in codicibus, qui circum feruntur 
+      le<lb ed="#A" n="79" break="no"/>gimus, vt retulimus disput. 109. cap. 4. hoc ergo 
+      <lb ed="#A" n="80"/>loco Ignatius, vt exponit ibidem Athanasius, 
+      vo<lb ed="#A" n="81" break="no"/>cat genitum Christum, id est, factum secundum 
+      <lb ed="#A" n="82"/>humanitatem, sed ingenitum, id est, increatum &amp; 
+      <lb ed="#A" n="83"/>infectum secundum diuinitatem: subdit vero 
+      A<lb ed="#A" n="84" break="no"/>than. Quidam porro post Ignatium magistri, ipsi quoque 
+      <lb ed="#A" n="85"/>scripserunt, vnus ingenitus Pater est, ex ipso filius 
+      genui<lb ed="#A" n="86" break="no"/>nus, &amp;c. eodem modo hanc vocem recepit 
+      Atha<lb ed="#A" n="87" break="no"/>nas. orat. 2. contra Arrianos, vt supra vidimus 
+      <lb ed="#A" n="88"/>cum his sentit lustinus in expositione fidei, vbi fi 
+      <lb ed="#A" n="89"/>lium, &amp; Spiritum sanctum negat esse ingenitos, 
+      <lb ed="#A" n="90"/>&amp; solum Patrem ingenitum fatetur, &amp; Cyrillus 
+      <lb ed="#A" n="91"/>libr. 1. Thesauri capit. 2. 3. &amp; 4. demum ex Graecis 
+      <lb ed="#A" n="92"/>eandem vocem in praedicta significatione, quae in 
+      <lb ed="#A" n="93"/>solum Patrem aeternum conuenit, probat Damaso 
+      <lb ed="#A" n="94"/>lib. I. de fide cap. 9. notat tamen aliter scribi, cum 
+      <lb ed="#A" n="95"/>denotat increatum, aliter cum significat nullo 
+      <lb ed="#A" n="96"/>modo procedentem ab alio: num priori modo vox 
+      <lb ed="#A" n="97"/>ὁγένουτος cum simplici j scribitur, posteriori vero 
+      <lb ed="#A" n="98"/>cum duplici. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2426">
+                     <lb ed="#A" n="99"/>Ex Latinis quoqus eadem voce, absque vlla 
+      <lb ed="#A" n="100"/>suspicione in ea, quam diximus significatione 
+      v<lb ed="#A" n="101" break="no"/>tuntur Concilium Tolet. 6. &amp; 11. in confessione 
+      <lb ed="#A" n="102"/>fidei, &amp; Damasus in symbolo ad Hieronymum 
+      <lb ed="#A" n="103"/>quod est in 4. tomo Hilarius in libro de synodis, 
+      <lb ed="#A" n="104"/>&amp; 4. de Trinitate prope finem, &amp; lib. 9. vbi 
+      vti<lb ed="#A" n="105" break="no"/>tur nomine innascibilis, seu innascibilitatis, quo 
+      <lb ed="#A" n="106"/>frequentius Scholastici vtuntur; August. etiam 
+      <lb ed="#A" n="107"/>eadem voce ingeniti vtitur 5. lib. de Trinitate c. 6. 
+      <lb ed="#A" n="108"/>&amp; 7. &amp; lib. 15. c. 26. &amp; lib. 83. quaestionum quaest. 2 
+      <lb ed="#A" n="109"/>&amp; nulla iam inter Scholasticos de hac re 
+      contro<lb ed="#A" n="110" break="no"/>uersia est. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2456">
+                     <lb ed="#A" n="111"/>Ex quo recte colligit S. Thom. in hoc artic. in 
+      <lb ed="#A" n="112"/>solutione 4. si duo essent innascibiles, duos etiam 
+      <lb ed="#A" n="113"/>fore Deos, iuxta doctrinam Hilarij 4. de Trinitat 
+      <lb ed="#A" n="114"/>quia illi non possent distingui relationibus origi 
+      <lb ed="#A" n="115"/>nis, sed absolutis modis, quod fieri non posset 
+      <lb ed="#A" n="116"/>in eadem numero natura. Hanc rationem 
+      ample<lb ed="#A" n="117" break="no"/>ctitur Henricus quoalib. 6. quaestio. 1. sed dissentit Scotu 
+      <lb ed="#A" n="118"/>in 1. distinct. 2. quaest. 5. qui putat personas constitui, 
+      <lb ed="#A" n="119"/>&amp; distingui absolutis proprietatibus: probat ni 
+      <lb ed="#A" n="120"/>hilominus multis alijs rationibus, fore plures 
+      <lb ed="#A" n="121"/>Deos, si essent plures ingeniti. Verum vt 
+      ostende<lb ed="#A" n="122" break="no"/>mus disputat. 147. cum sola oppositio relatiua in 
+      <lb ed="#A" n="123"/>diuinis sit causa distinctionis, ratio sancti Thomae 
+      <lb ed="#A" n="124"/>optime probat id, quod contendit. Cum Hilario 
+      <lb ed="#A" n="125"/>sentit Athanas. in orat. contra Gregales Sabelli 
+      <lb ed="#A" n="126"/>circa mediam, vbi ait, Qui enim duo principia introdu 
+      <lb ed="#A" n="127"/>cit, is duo numina praedicat. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2495">
+                     <lb ed="#A" n="128"/>Notat tamen S. Thom. in solut. 2. ingenitum, 
+      <lb ed="#A" n="129"/>etiam dici posse de Spiritu sancto, in alia tamen 
+      <lb ed="#A" n="130"/>significatione, quatenus nimirum significat id 
+      <lb ed="#A" n="131"/>quod non procedit per generationem tanquam 
+      <lb ed="#A" n="132"/>filius, citatque Hieronymum in hanc 
+      significatio<lb ed="#A" n="133" break="no"/>nem, in quo ego id non inueni. Referri etiam 
+      so<lb ed="#A" n="134" break="no"/>let Nazianzenus, apud quem etiam nihil reperiri: 
+      <lb ed="#A" n="135"/>solum Nicetam legi, qui in orat. 39. Nazianz. ex¬ 
+      <!--00175.xml-->
+      <pb ed="#A" n="167"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>plicans illa verba, Pater pater est, &amp;c. inquit, Nec enin 
+      <lb ed="#A" n="2"/>ingenitus, &amp; genitus ex eorum numero sunt, qui medio 
+      <lb ed="#A" n="3"/>carent, vel alterum borum spiritui necessario tribuendun 
+      <lb ed="#A" n="4"/>sit, verum inter ea medium aliquod interiectum est, nempe 
+      <lb ed="#A" n="5"/>processio. Dixerat autem Nazianz. Nec spiritus idcirco 
+      <lb ed="#A" n="6"/>vel in patrem, vel in filium migrat, quia processit, ac pro 
+      <lb ed="#A" n="7"/>cessit, etiamsi impijs hominibus aliter videatur, ac si dice 
+      <lb ed="#A" n="8"/>ret, etiamsi Spiritus sanctus non sit ingenitus non 
+      <lb ed="#A" n="9"/>propterea genitus dicendus est, vt impij homines 
+      <lb ed="#A" n="10"/>autumant. Vt enim ait Nicetas explicans haec 
+      ver<lb ed="#A" n="11" break="no"/>ba, non sunt haec nomina de eorum numero, qua 
+      <lb ed="#A" n="12"/>medio catent: id quod merito docuit, quia non 
+      <lb ed="#A" n="13"/>opponuntur haec nomina contradictorie, etiamsi 
+      <lb ed="#A" n="14"/>speciem habeant contradictionis: cum sola 
+      prae<lb ed="#A" n="15" break="no"/>posita negatione distincta videantur, Notandum 
+      <lb ed="#A" n="16"/>enim est, genitum in diuinis non significare pro 
+      <lb ed="#A" n="17"/>cedens in vniuersum quouis genere processionis 
+      <lb ed="#A" n="18"/>sed generatione, quae est solius filij productio 
+      <lb ed="#A" n="19"/>Idem dicendum de nomine Graeco γένητος: at no 
+      <lb ed="#A" n="20"/>men latinum ingenitum, Graeco ἀγένητος negat 
+      <lb ed="#A" n="21"/>non solam processionem generationis, sed 
+      quam<lb ed="#A" n="22" break="no"/>uis aliam, vt ita Patrem significemus, quae duo 
+      <lb ed="#A" n="23"/>non opponuntur contradictione. Quod si geni 
+      <lb ed="#A" n="24"/>tus in eadem vniuersali significatione 
+      accipere<lb ed="#A" n="25" break="no"/>tut, non esset notio filij, sed communis 
+      conce<lb ed="#A" n="26" break="no"/>ptus conueniens vtrique personae procedenti 
+      <lb ed="#A" n="27"/>Contra vero si ingenitus solam significaret nega 
+      <lb ed="#A" n="28"/>tionem generationis filii, Spiritus sanctus 
+      ingeni<lb ed="#A" n="29" break="no"/>tus diceretur. In qua significatione vsurpasse 
+      vi<lb ed="#A" n="30" break="no"/>detur August. libr. 5. de Trinitate capitul. 6. &amp; 7. 
+      <lb ed="#A" n="31"/>cum asserit, idem esse ingenitum, quod est non 
+      <lb ed="#A" n="32"/>filius, aut si Latine dicere liceret, infilius eodem 
+      <lb ed="#A" n="33"/>modo dicit, ingenitum esse, qui parentem su 
+      <lb ed="#A" n="34"/>non habet; quae omnia in Spiritum sanctum 
+      con<lb ed="#A" n="35" break="no"/>ueniunt. Caeteri vero cum aliis Patribus ingenitum 
+      <lb ed="#A" n="36"/>vocant, quod nullo modo ab alio procedit, &amp; sui 
+      <lb ed="#A" n="37"/>authorem non habet: ideoque soli patri ea vor 
+      <lb ed="#A" n="38"/>tribuitur: genitum vero, quod procedit, vt filius 
+      <lb ed="#A" n="39"/>&amp; ita soli filio tribuitur. 
+      </p>
+               </div>
+               <div xml:id="tavaz1-d1e216-Dd1e2608">
+                  <head xml:id="tavaz1-d1e216-Hd1e2610">Caput 3</head>
+                  <p xml:id="tavaz1-d1e216-d1e2612">
+                     <lb ed="#A" n="40" type="fixed=167"/>CAPVT III. 
+      <lb ed="#A" n="41"/>Nomen Ingenitum non solam negationem 
+      <lb ed="#A" n="42"/>denotare.
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e2621">
+                     <lb ed="#A" n="43"/>CVm Scholastici omnes nomen ingeniti, &amp; 
+      <lb ed="#A" n="44"/>&amp; innascibilitatis admittant variant nihilomi 
+      <lb ed="#A" n="45"/>nus, cum disputant de significato vtriusque, 
+      v<lb ed="#A" n="46" break="no"/>trum scilicet sit sola negatio, an ratio aliqua 
+      posi<lb ed="#A" n="47" break="no"/>tiua. Referam igitur breuiter eorum sententias 
+      <lb ed="#A" n="48"/>vt quid in hac re dicendum sit, melius explicare 
+      <lb ed="#A" n="49"/>possim. Fuit quorundam opinio, cuius mentio 
+      <lb ed="#A" n="50"/>nem fecit Bonauent. in distinct. 28. quaest. 1. qui 
+      <lb ed="#A" n="51"/>dicebant, ingenitum, significare positiuam quan 
+      <lb ed="#A" n="52"/>dam rationem relationis oppositae relationi 
+      geni<lb ed="#A" n="53" break="no"/>toris, sicut inaequale denotat relationem opposi 
+      <lb ed="#A" n="54"/>tam relationi aequalis. Verum hanc sententiam 
+      <lb ed="#A" n="55"/>merito impugnat Bonauent. eo loco, quia ex illa 
+      <lb ed="#A" n="56"/>sequeretur esse in Deo quinque relationes reales 
+      <lb ed="#A" n="57"/>contra Scholasticorum communem sententiam: 
+      <lb ed="#A" n="58"/>tum etiam quia non apparet, quae sit illa relatio 
+      <lb ed="#A" n="59"/>realis in patre opposita esset, constitueret aliam 
+      <lb ed="#A" n="60"/>personam: nam relatiua oppositione in Deo 
+      per<lb ed="#A" n="61" break="no"/>sonae distinguuntur. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2665">
+                     <lb ed="#A" n="62"/>Scotus vero in primum dist. 28. q. 2. artic. 1. in 
+      <lb ed="#A" n="63"/>quit, ingenitum, vt est notio patris, solam 
+      negatio<lb ed="#A" n="64" break="no"/>nem geniti significare, &amp; quandam in hoc deno 
+      <lb ed="#A" n="65"/>tare dignitatem personalis proprietatis: nam per 
+      <!--00175.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="66"/>sonalia in diuinis, nec significant 
+      imperfectio<lb ed="#A" n="67" break="no"/>nem, nec perfectionem simpliciter simplicem, 
+      <lb ed="#A" n="68"/>quae melior est ipsa, quam non ipsa. Quod si 
+      ali<lb ed="#A" n="69" break="no"/>quis (inquit Scotus) contendat, vocem hanc 
+      si<lb ed="#A" n="70" break="no"/>gnificare aliquam dignitatem, quia ad rationem 
+      <lb ed="#A" n="71"/>notionis pertinet aliquam habere dignitatem, con 
+      <lb ed="#A" n="72"/>cedi posset, negationem illam, quam ingenitum 
+      <lb ed="#A" n="73"/>significat esse perfectionem ratione sui, non 
+      ra<lb ed="#A" n="74" break="no"/>tione alicuius positiui, quia sicut in secunda 
+      per<lb ed="#A" n="75" break="no"/>sona dignitas est, habere genitorem; ita in prima 
+      <lb ed="#A" n="76"/>non habere. Hanc sententiam refert etiam 
+      Bona<lb ed="#A" n="77" break="no"/>uent. &amp; eam merito improbat: quoniam 
+      nega<lb ed="#A" n="78" break="no"/>tio pura, quatenus negatio est, nulla potest esse 
+      <lb ed="#A" n="79"/>perfectio, nisi ratione positiui cui coniungitur, 
+      <lb ed="#A" n="80"/>&amp; a quo oritur: cumque notio debeat aliquam 
+      <lb ed="#A" n="81"/>perfectionem, &amp; dignitatem nostro modo 
+      intel<lb ed="#A" n="82" break="no"/>ligendi significare: sola illa negatio non potest 
+      <lb ed="#A" n="83"/>esse significatum huius nominis, quod a Schola 
+      <lb ed="#A" n="84"/>sticis ponitur, ad denotandam quandam rationem 
+      <lb ed="#A" n="85"/>patris.
+    </p>
+                  <p xml:id="tavaz1-d1e216-d1e2724">
+                     <lb ed="#A" n="86"/>Mihi ergo placet communis opinio, quae 
+      do<lb ed="#A" n="87" break="no"/>cet ita nomen hoc expresse &amp; formaliter 
+      negatio<lb ed="#A" n="88" break="no"/>nem significare, aut sicut quibusdam placet 
+      pri<lb ed="#A" n="89" break="no"/>uationem, (id quod statim explicabitur) sic vt si 
+      <lb ed="#A" n="90"/>mul etiam significet positiuam quandam rationem. 
+      <lb ed="#A" n="91"/>&amp; dignitatem; &amp; directe quidem, sed materiali 
+      <lb ed="#A" n="92"/>ter, quam negatione illa denotare volumus, vt di 
+      <lb ed="#A" n="93"/>cebamus disput. 138. capit. 5. nam licet interdum 
+      <lb ed="#A" n="94"/>nominibus negatiuis vtamur ad significandum 
+      <lb ed="#A" n="95"/>ea, praesertim, quae sunt in Deo, quia facilius 
+      con<lb ed="#A" n="96" break="no"/>cipimus de Deo, quod non est, quam explicare 
+      va<lb ed="#A" n="97" break="no"/>leamus, quod est, illis tamen concipimus, &amp; 
+      si<lb ed="#A" n="98" break="no"/>gnificare volumus aliquid positiuum, vt nomine, 
+      <lb ed="#A" n="99"/>Infinitum, incorruptibile; quia notius nobis est 
+      op<lb ed="#A" n="100" break="no"/>positum, cuius negatione id intelligimus, &amp; alii 
+      <lb ed="#A" n="101"/>explicamus. Hanc sententiam praeter Bonauent 
+      <lb ed="#A" n="102"/>in 1. 28. q. 1. 2. &amp; 3. qui eam diserte tradidit, docue 
+      <lb ed="#A" n="103"/>runt etiam S. Thom. in hoc artic. ad 1. &amp; clarius in 
+      <lb ed="#A" n="104"/>1. d. 28. q. 1. art. 1. ad i. Capreolus q. 1. art. 1. concl. 
+      <lb ed="#A" n="105"/>1. Durant. q. 1. Canariensis, &amp; Caietanus in art. 3. q. 
+      <lb ed="#A" n="106"/>32. &amp; in hunc etiam articulum: qui omnes 
+      exce<lb ed="#A" n="107" break="no"/>pto Caiet. addunt, negationem quam significat 
+      <lb ed="#A" n="108"/>expresse nomen, Ingenitum, non esse puram 
+      nega<lb ed="#A" n="109" break="no"/>tionem, sed priuationem quodammodo, absque 
+      <lb ed="#A" n="110"/>imperfectione; non quod sit negatio formae in eo 
+      <lb ed="#A" n="111"/>subiecto, quod aptum natum erat habere formam 
+      <lb ed="#A" n="112"/>oppositam, quia non habere illam, imperfectio 
+      <lb ed="#A" n="113"/>esset: sed quod sit negatio formae, quae in alio simi 
+      <lb ed="#A" n="114"/>li subiecto eiusdem naturae nata est inesse: ingeni 
+      <lb ed="#A" n="115"/>tum enim significat negationem omnis 
+      proces<lb ed="#A" n="116" break="no"/>sionis, cuius filius, &amp; Spiritus S. qui sunt eiusdem 
+      <lb ed="#A" n="117"/>naturae cum patre, capaces sunt 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2797">
+                     <lb ed="#A" n="118"/>Porro praedicti doctores docent materiale 
+      <lb ed="#A" n="119"/>quod nomine illo negatiuo significamus, esse ra 
+      <lb ed="#A" n="120"/>tionem primi principii, prima enim &amp; simplicia 
+      <lb ed="#A" n="121"/>melius negatione innotescunt, vt ex Aristotel 
+      <lb ed="#A" n="122"/>probauimus disp. 137. ca. 5. ratione cuius nos ibi 
+      <lb ed="#A" n="123"/>dem diximus, ingenitum esse notionem patris 
+      <lb ed="#A" n="124"/>quia de ratione notionis est aliqua dignitas, seu 
+      <lb ed="#A" n="125"/>perfectio nostro modo intelligendi. Qua vero 
+      ra<lb ed="#A" n="126" break="no"/>tione haec notio a notione paternitatis differat, 
+      <lb ed="#A" n="127"/>eo loco explicatum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2821">
+                     <lb ed="#A" n="128"/>Ceterum S. Thom. in hoc articul. ad primum 
+      <lb ed="#A" n="129"/>refellit opinionem Bonau. in eo, quod dixit, no 
+      <lb ed="#A" n="130"/>men, Ingenitum, non solam negationem, sed ali 
+      <lb ed="#A" n="131"/>quid etiam positiuum significare; denotat enim 
+      <lb ed="#A" n="132"/>inquit Bonauent. non esse ab alio, &amp; esse fontalem 
+      <lb ed="#A" n="133"/>originem, &amp; vniuersale principium aliarum per¬ 
+      <!--00176.xml-->
+      <pb ed="#A" n="168"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>sonarum; quod hac ratione impugnat Doctor 
+      <lb ed="#A" n="2"/>Angelicus. Quia inde sequeretur, innascibilitate 
+      <lb ed="#A" n="3"/>non esse notionem distinctam a paternitate, &amp; 
+      fi<lb ed="#A" n="4" break="no"/>liatione: nam vniuersalis ratio principij non 
+      con<lb ed="#A" n="5" break="no"/>stituit diuersam proprietatem, &amp; notionem, a ta 
+      <lb ed="#A" n="6"/>li &amp; tali principio, vt notauimus quaestion. 33 
+      <lb ed="#A" n="7"/>in notationibus articul. 3. cum igitur ratio vni 
+      <lb ed="#A" n="8"/>uersalis principii, &amp; fontalis plenitudinis si 
+      <lb ed="#A" n="9"/>communis huic, &amp; illi, sicut genus, aut species 
+      <lb ed="#A" n="10"/>suis inferioribus, non erit distincta notio a pater 
+      <lb ed="#A" n="11"/>nitate &amp; spiratione. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2867">
+                     <lb ed="#A" n="12"/>Verum haec ratio parum contra Bonauentu 
+      <lb ed="#A" n="13"/>ram probat, cum enim ipse asserit, eo nomine non 
+      <lb ed="#A" n="14"/>solam negationem significari, sed etiam positiuum: 
+      <lb ed="#A" n="15"/>non contendit vtrumque formaliter, &amp; expresse 
+      <lb ed="#A" n="16"/>ex aequo significari, sed negationem primo, &amp; for 
+      <lb ed="#A" n="17"/>maliter; positiuum vero materialiter, sed directe, 
+      <lb ed="#A" n="18"/>vt supra explicauimus. Deinde cum ait, 
+      materia<lb ed="#A" n="19" break="no"/>le, illud, &amp; positiuum significatum esse rationem 
+      <lb ed="#A" n="20"/>fontalis plenitudinis, &amp; vniuersalis, principij, non 
+      <lb ed="#A" n="21"/>intelligit rationem aliquam communem 
+      secun<lb ed="#A" n="22" break="no"/>dum praedicationem ad modum generis aut 
+      spe<lb ed="#A" n="23" break="no"/>ciei, sed rationem primi principij, quae nec pater 
+      <lb ed="#A" n="24"/>nitate, nec spiratione exprimitur. Fons enim, vt 
+      <lb ed="#A" n="25"/>dicebamus disput. 139. cap. 5. non significat 
+      prin<lb ed="#A" n="26" break="no"/>cipium vtcumque, sed primum principium, quod 
+      <lb ed="#A" n="27"/>soli patri conuenit, qui est principium sine 
+      prin<lb ed="#A" n="28" break="no"/>cipio: nam filius est principium, non sicut fons, 
+      <lb ed="#A" n="29"/>sed sicut riuus: quia est principium de principio, 
+      <lb ed="#A" n="30"/>haec autem ratio nec sola paternitate, nec paterni 
+      <lb ed="#A" n="31"/>tate &amp; spiratione simul sufficienter exprimitur, vt 
+      <lb ed="#A" n="32"/>dicebamus disputat. 137. ca. 5. dignitas autem 
+      pa<lb ed="#A" n="33" break="no"/>tris sub ratione primae personae commodo 
+      signifi<lb ed="#A" n="34" break="no"/>catur a nobis negatione omnis processionis, quae 
+      <lb ed="#A" n="35"/>est innascibilitas. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2922">
+                     <lb ed="#A" n="36"/>Cum vero addit Bonau. hac notione denotar. 
+      <lb ed="#A" n="37"/>quoque rationem vniuersalis principij, idem 
+      o<lb ed="#A" n="38" break="no"/>mnino significat, intelligit enim non rationem 
+      <lb ed="#A" n="39"/>abstractam, &amp; communem principii, sic enim 
+      <lb ed="#A" n="40"/>(vt ait S. Thom.) non esset diuersa notio a pater 
+      <lb ed="#A" n="41"/>nitate, &amp; spiratione; sed ceterarum personarum 
+      <lb ed="#A" n="42"/>principium: quasi diceret, omnium, quae proce 
+      <lb ed="#A" n="43"/>dunt, quod idem omnino est cum ratione primi 
+      <lb ed="#A" n="44"/>principii, &amp; fontis. Fons enim est vniuersale prin 
+      <lb ed="#A" n="45"/>cipium cuiusque riuuli ex eo fluentis: non ergo S. 
+      <lb ed="#A" n="46"/>Thom. impugnauit significatum positiuum hu 
+      <lb ed="#A" n="47"/>ius negationis, cum ipse plane ilud concedat, 
+      <lb ed="#A" n="48"/>sed putauit illud male assignatum fuisse a 
+      Bo<lb ed="#A" n="49" break="no"/>nauentura cum tamen nihil diuersum ab eo 
+      <lb ed="#A" n="50"/>sentiat. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e2957">
+                     <lb ed="#A" n="51"/>Sed obijciunt aliqui hoc modo, Etiam si 
+      Pa<lb ed="#A" n="52" break="no"/>ter non esset spirator, &amp; principium Spirit. sancti, 
+      <lb ed="#A" n="53"/>esset ingenitus, id est, a nullo alio procedens, vt 
+      <lb ed="#A" n="54"/>constat: ergo, Ingenitum, non significat pro mate 
+      <lb ed="#A" n="55"/>riali vniuersale principium, hoc est, spirationem 
+      <lb ed="#A" n="56"/>&amp; paternitatem simul, in quibus consistit ratio 
+      <lb ed="#A" n="57"/>vniuersalis principij: vel (quod idem est) negatio 
+      <lb ed="#A" n="58"/>significata nomine, Ingenitum, non nascitur ex 
+      <lb ed="#A" n="59"/>positiua ratione paternitatis, &amp; spirationis simul 
+      <lb ed="#A" n="60"/>in quibus ratio principij, vniuersalis consistit 
+      <lb ed="#A" n="61"/>Respondetur, non oriri hanc negationem ex 
+      v<lb ed="#A" n="62" break="no"/>traque illa relatione primae personae, sed ex 
+      pa<lb ed="#A" n="63" break="no"/>ternitate sola sub ratione primi principij, nam 
+      pri<lb ed="#A" n="64" break="no"/>mum, &amp; vniuersale principium, idem est, lices 
+      <lb ed="#A" n="65"/>enim pater non spiraret simul cum filio, esset 
+      ni<lb ed="#A" n="66" break="no"/>hilominus principium Spiritus sancti remote 
+      sal<lb ed="#A" n="67" break="no"/>tem, ratione cuius ab eo distingueretur, vt di 
+      <lb ed="#A" n="68"/>sputatione 147. capite septimo dicemus, &amp; vni 
+      <!--00176.xml-->
+      <cb ed="#A" n="b"/>
+                     <lb ed="#A" n="69"/>uersale principium, seu fons (quod idem est) 
+      <lb ed="#A" n="70"/>diceretur, quia sicut omnis aqua proxime, aut 
+      <lb ed="#A" n="71"/>remote a fonte oritur, sic a patre vtraque 
+      perso<lb ed="#A" n="72" break="no"/>na oreretur. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3012">
+                     <lb ed="#A" n="73"/>Ex patribus etiam Basilius, Cyrillus; 
+      Damasce<lb ed="#A" n="74" break="no"/>nus, &amp; Nicetas, quos eodem loco allegauimus, 
+      <lb ed="#A" n="75"/>plane sentiunt eo nomine significari modum ali 
+      <lb ed="#A" n="76"/>quem personae. Quod si aliqui ibidem etiam ci 
+      <lb ed="#A" n="77"/>tati dicunt, hoc nomen denotare potius, quod in 
+      <lb ed="#A" n="78"/>Deo non est, quam quod est, nihil obstat, 
+      loquun<lb ed="#A" n="79" break="no"/>tur enim de expresso &amp; formali significato, non 
+      <lb ed="#A" n="80"/>de materiali directo, sicut nomina alia 
+      significan<lb ed="#A" n="81" break="no"/>tia aliqua Dei attributa, &amp; positiuas perfectiones 
+      <lb ed="#A" n="82"/>formaliter &amp; expresse potius denotant quod non 
+      <lb ed="#A" n="83"/>est Deus, quam quod est, vt, Incorruptibile, quia 
+      <lb ed="#A" n="84"/>eo modo nostra cognitio aliquando melius fer 
+      <lb ed="#A" n="85"/>tur in Dei perfectiones, vt disputatione 22. capit. 
+      <lb ed="#A" n="86"/>4. notatum est. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3046">
+                     <lb ed="#A" n="87"/>Sed vtrum positiuum, quod diximus hoc 
+      no<lb ed="#A" n="88" break="no"/>mine, Ingenitum, significari, sit absolutum, an 
+      re<lb ed="#A" n="89" break="no"/>latiuum, facile ex dictis in disputatione 137. cap. 5 
+      <lb ed="#A" n="90"/>colligitur. Patres vero solum contendunt contra 
+      <lb ed="#A" n="91"/>Eunomium, &amp; Arrium, eo nomine non 
+      signifi<lb ed="#A" n="92" break="no"/>cari substantiam, hoc est, essentiam Dei, inde 
+      e<lb ed="#A" n="93" break="no"/>nim Arriani inferrebant, Patrem, &amp; Filium esse 
+      <lb ed="#A" n="94"/>diuersae substantiae, &amp; naturae, quia pater diceba 
+      <lb ed="#A" n="95"/>tur ingenitus, &amp; filius genitus. Et quidem, si 
+      in<lb ed="#A" n="96" break="no"/>genitum significaret id, quod infectum, &amp; 
+      increa<lb ed="#A" n="97" break="no"/>tum est; &amp; genitum id, quod factum, &amp; creatum, 
+      <lb ed="#A" n="98"/>est, nomen, Ingenitum, essentiam significaret. Ita 
+      <lb ed="#A" n="99"/>Nazlanzenus in oratione 3. de Theologia qua 
+      <lb ed="#A" n="100"/>est 35. a numero 36. &amp; Nicetas in orationem 
+      Nazian<lb ed="#A" n="101" break="no"/>zeni 23. quae est in laudem Heronis philosophi 
+      <lb ed="#A" n="102"/>in illa verba, Illud item, idem docent Dionys. A 
+      <lb ed="#A" n="103"/>lexandrinus, Ignatius, Athanas. Basil. Cyrillus 
+      <lb ed="#A" n="104"/>Damascenus, &amp; Ambrosius, allegati supra capite 
+      <lb ed="#A" n="105"/>primo, &amp; secundo, nec aliud contendunt contra 
+      <lb ed="#A" n="106"/>Arrianos, vt hac ratione defendant filium Dei 
+      <lb ed="#A" n="107"/>ὁμούσιου Homousion, patri, id est eiusdem cum illo 
+      <lb ed="#A" n="108"/>substantiae. Vtrum autem absolutum aliquid, an 
+      <lb ed="#A" n="109"/>relationem significet, non disputant. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3098">
+                     <lb ed="#A" n="110"/>Mitto tamen rationes, quibus Nazianzenus, 
+      <lb ed="#A" n="111"/>Cyrillus, &amp; Nicetas probant, ingenitum non 
+      si<lb ed="#A" n="112" break="no"/>gnificare Dei essentiam, praesertim, quia est nomo 
+      <lb ed="#A" n="113"/>negatiuum indicans potius quid non sit Deus, 
+      <lb ed="#A" n="114"/>quam quid sit: quae ratio mea sententia non 
+      mul<lb ed="#A" n="115" break="no"/>tum probat. Nam &amp; essentiam, vel illius attributa, 
+      <lb ed="#A" n="116"/>quod idem est, nominibus negatiuis significare 
+      <lb ed="#A" n="117"/>solemus: vt, Infinitum, immensum, &amp;c. Ratio vero 
+      <lb ed="#A" n="118"/>praecipua est, ex principijs fidei desumpta: quia 
+      <lb ed="#A" n="119"/>cum Pater, &amp; Filius sint eiusdem naturae, &amp; sub 
+      <lb ed="#A" n="120"/>stantiae, si pater dicitur ingenitus, &amp; filius genitus 
+      <lb ed="#A" n="121"/>cum haec nomina significatione opponantur, non 
+      <lb ed="#A" n="122"/>poterunt ad essentiam, vel ad ea, quae essentialia 
+      <lb ed="#A" n="123"/>sunt, vllo modo referri. Haec enim eadem sunt 
+      <lb ed="#A" n="124"/>in patre, &amp; filio. Quare Basilius Cyrillus, 
+      Damas<lb ed="#A" n="125" break="no"/>cenus, &amp; Nicetas, a nobis allegati disputatione 
+      <lb ed="#A" n="126"/>138. c. 5. recte dixerunt, non substantiam, nec 
+      exi<lb ed="#A" n="127" break="no"/>stentiam, sed existentiae modum, quem vocant 
+      <lb ed="#A" n="128"/>hypostaticam, vel characteristicam proprieta 
+      <lb ed="#A" n="129"/>tem, denotare. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3144">
+                     <lb ed="#A" n="130"/>Ceterum Augustinus lib. 5. de Trinitate capit 
+      <lb ed="#A" n="131"/>6. &amp; 7. vt contra eosdem Arrianus probet, ingeni 
+      <lb ed="#A" n="132"/>tum, non significare substantiam, sed notionem 
+      <lb ed="#A" n="133"/>personae; ostendit non significare aliquid absolu 
+      <lb ed="#A" n="134"/>tum, &amp; ad se, sed relatiuum, non quia significatum 
+      <lb ed="#A" n="135"/>huius nominis sit aliqua relatio, sed quia denotat 
+      <lb ed="#A" n="136"/>negationem relationis, &amp; negatio eodem respicere 
+      <!--00177.xml-->
+      <pb ed="#A" n="169"/>
+                     <cb ed="#A" n="a"/>
+                     <lb ed="#A" n="1"/>videtur, quo etiam habitus spectat; cumque 
+      signi<lb ed="#A" n="2" break="no"/>ficet negationem generationis, quae in Filio est 
+      <lb ed="#A" n="3"/>relatio; erit etiam de numero eorum, quae non 
+      <lb ed="#A" n="4"/>ad se, sed ad aliquid dicuntur. Hoc autem 
+      confir<lb ed="#A" n="5" break="no"/>mare videtur doctrina communis Scholasticorum 
+      <lb ed="#A" n="6"/>qui contra Scotum docent, in diuinis, quae funt 
+      <lb ed="#A" n="7"/>absoluta, &amp; vt talia significantur, esse communia, 
+      <lb ed="#A" n="8"/>&amp; essentialia, personales vero proprietates esse 
+      <lb ed="#A" n="9"/>solum relationes, quia nulla persona 
+      proprietati<lb ed="#A" n="10" break="no"/>bus absolutis constituitur, quod an definitum sit 
+      <lb ed="#A" n="11"/>ab Ecclesia, aut apud patres Ecclesiae certum sit, 
+      <lb ed="#A" n="12"/>dicemus disput. 159. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3194">
+                     <lb ed="#A" n="13"/>Ego quidem existimo nomen, Ingenitum, non 
+      <lb ed="#A" n="14"/>solum esse de numero eorum, quae ad aliquid 
+      di<lb ed="#A" n="15" break="no"/>cuntur, &amp; non ad se, ratione expressi, &amp; directi si 
+      <lb ed="#A" n="16"/>gnificati, quod est negatio, ad quod solum 
+      atten<lb ed="#A" n="17" break="no"/>disse videtur August. verumetiam ratione 
+      mate<lb ed="#A" n="18" break="no"/>rialis, quod diximus esse paternitatem ipsam, sub 
+      <lb ed="#A" n="19"/>ratione primi principij. 
+      </p>
+                  <p xml:id="tavaz1-d1e216-d1e3212">
+                     <lb ed="#A" n="20"/>Porto si solum expressum significatum, &amp; for 
+      <lb ed="#A" n="21"/>male spectemus, quod est negatio, non debemus 
+      <lb ed="#A" n="22"/>inter relatiua nomina, Ingenitum, numerare, quia 
+      <lb ed="#A" n="23"/>significet negationem generationis, &amp; 
+      natiuita<lb ed="#A" n="24" break="no"/>tis, quae est propria filij, sed cuiusque processionis, 
+      <lb ed="#A" n="25"/>sic enim communiter vsurpatur a Patribus, &amp; 
+      <lb ed="#A" n="26"/>Scholasticis, vt capite praecedenti notauimus, &amp; 
+      <lb ed="#A" n="27"/>eodem modo ad relatiua pertinebit. Deinde sicut 
+      <lb ed="#A" n="28"/>processio vniuerse accepta, non est peculiaris no 
+      <lb ed="#A" n="29"/>tio, quia est vniuersale praedicatum, quod non 
+      <lb ed="#A" n="30"/>constituit diuersam notionem a particularibus 
+      <lb ed="#A" n="31"/>sic etiam ingenitum ratione solius negationis non 
+      <lb ed="#A" n="32"/>deberet peculiarem notionem constituere: ergo 
+      <lb ed="#A" n="33"/>necesse est, vt diuersam notionem constituat 
+      ra<lb ed="#A" n="34" break="no"/>tione materialis significati, quod ab alijs diuer 
+      <lb ed="#A" n="35"/>sum est, vt disput. 138. cap. 5. probauimus. 
+      Verum<lb ed="#A" n="36" break="no"/>enim vero licet cum personam Patris 
+      innascibili<lb ed="#A" n="37" break="no"/>tate ab alijs duabus distinguimus, eam actu 
+      rela<lb ed="#A" n="38" break="no"/>tam ad illas intelligere debeamus; tamen quia in 
+      <lb ed="#A" n="39"/>priori quodam considerationis nostrae signo eam 
+      <lb ed="#A" n="40"/>cogitare possumus antequam generet, magna 
+      <lb ed="#A" n="41"/>quaestionis est, vtrum eo modo intelligatur a 
+      no<lb ed="#A" n="42" break="no"/>bis constituta aliquo absoluto, an relatiuo; &amp; vtrum 
+      <lb ed="#A" n="43"/>vt innascibilis tunc possit comprehendi sub con 
+      <lb ed="#A" n="44"/>ceptu absoluto, an sub relatiuo, quae sane difficul 
+      <lb ed="#A" n="45"/>tas quod maiorem postulet discussionem, ex 
+      pro<lb ed="#A" n="46" break="no"/>fesso examinanda est disput. 159. 
+      </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
