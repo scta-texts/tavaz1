@@ -84,6 +84,7 @@
             <lb ed="#A" n="56"/>Explicatar amplius praecedens doctrina, cap. 3
           </p>
           <div xml:id="tavaz1-d1e113-Dd1e156">
+            <head xml:id="tavaz1-d1e113-Hd1e161">Caput 1</head>
             <p xml:id="tavaz1-d1e113-d1e158">
               <lb ed="#A" n="57" type="fixed=292"/>CAPVT I. 
               <lb ed="#A" n="58"/>Variaopimionas Thealopprum. 
@@ -238,6 +239,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e480">
+            <head xml:id="tavaz1-d1e113-Hd1e487">Caput 2</head>
             <p xml:id="tavaz1-d1e113-d1e482">
               <lb ed="#A" n="63" type="fixed=293"/>CAPVT II. 
             </p>
@@ -504,6 +506,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e1034">
+            <head xml:id="tavaz1-d1e113-Hd1e1043">Caput 3</head>
             <p xml:id="tavaz1-d1e113-d1e1036">
               <lb ed="#A" n="17" type="fixed=295"/>CAPVT III. 
               <lb ed="#A" n="18"/>Exeplicatur amplius praecedens doctrina. 
@@ -1347,6 +1350,7 @@
             <lb ed="#A" n="17"/>cap. 3. 
           </p>
           <div xml:id="tavaz1-d1e113-Dd1e2782">
+            <head xml:id="tavaz1-d1e113-Hd1e2808">Caput 1</head>
             <p xml:id="tavaz1-d1e113-d1e2784">
               <lb ed="#A" n="18" type="fixed=308"/>CAPVT I. 
               <lb ed="#A" n="19"/>Qui senserint Patres de hoc nomine, DEVS. 
@@ -1404,6 +1408,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e2900">
+            <head xml:id="tavaz1-d1e113-Hd1e2928">Caput 2</head>
             <p xml:id="tavaz1-d1e113-d1e2902">
               <!--323.xml-->
               <cb ed="#A" n="b"/>
@@ -1482,6 +1487,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e3060">
+            <head xml:id="tavaz1-d1e113-Hd1e3090">Caput 3</head>
             <p xml:id="tavaz1-d1e113-d1e3062">
               <!--324.xml-->
               <pb ed="#A" n="309"/>
@@ -1654,13 +1660,14 @@
             <lb ed="#A" n="28"/>grammaton idem esse. cap. 3. 
           </p>
           <div xml:id="tavaz1-d1e113-Dd1e3409">
+            <head xml:id="tavaz1-d1e113-Hd1e3445">Caput 1</head>
             <p xml:id="tavaz1-d1e113-d1e3411">
               <lb ed="#A" n="29" type="fixed=313"/>CAPVT I. 
               <lb ed="#A" n="30"/>Duae sententiae extremae de hac re 
             </p>
             <p xml:id="tavaz1-d1e113-d1e3418">
-              <lb ed="#A" n="31"/>OPinio S. Thom. in solut. 1. est esse duo distin 
-              <lb ed="#A" n="32"/>cta nomina Dei, ad ipsum significandum 
+              <lb ed="#A" n="31"/>OPinio S. Thom. in solut. 1. est esse duo 
+              distin<lb ed="#A" n="32" break="no"/>cta nomina Dei, ad ipsum significandum 
               im<lb ed="#A" n="33" break="no"/>posita, nomen, Qui est, &amp; nomen tetragrammaton, 
               <lb ed="#A" n="34"/>seu nomen Iehoua, quam prius tradiderat Hier. in 
               <lb ed="#A" n="35"/>Epist. ad Marcellam, quae est ordine 138. probatur 
@@ -1723,6 +1730,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e3552">
+            <head xml:id="tavaz1-d1e113-Hd1e3590">Caput 2</head>
             <p xml:id="tavaz1-d1e113-d1e3554">
               <lb ed="#A" n="86" type="fixed=313"/>CAPVT II. 
               <lb ed="#A" n="87"/>Verior opinio. 
@@ -1813,6 +1821,7 @@
             </p>
           </div>
           <div xml:id="tavaz1-d1e113-Dd1e3737">
+            <head xml:id="tavaz1-d1e113-Hd1e3778">Caput 3</head>
             <p xml:id="tavaz1-d1e113-d1e3739">
               <lb ed="#A" n="31" type="fixed=314"/>CAPVT III. 
               <lb ed="#A" n="32"/>Posterior pars opinionis, nomen QVI EST 
