@@ -88,7 +88,7 @@
           <head xml:id="tavaz1-d1e149-Hd1e166">Articulus 2</head>
           <p xml:id="tavaz1-d1e149-d1e168">
             <lb ed="#A" n="65" type="fixed=462"/>Conclusio articuli est: Deus amat omnia, quae 
-            exi<lb ed="#A" n="66" break="no"/>stunt. Est etiam de fide Sapientiae 2. <quote source="http://scta.info/resource/sap11_25@1-11">Diligis omnia
+            exi<lb ed="#A" n="66" break="no"/>stunt. Est etiam de fide Sapientiae 2. <quote xml:id="tavaz1-d1e149-Qd1e178" source="http://scta.info/resource/sap11_25@1-11">Diligis omnia
             <lb ed="#A" n="67"/>quae sunt, &amp; nihil odisti eorum, quae fecisti</quote>. Cur vero S.
             <lb ed="#A" n="68"/>Th ad res solum existentes Dei referat amorem, 
             <lb ed="#A" n="69"/>disp. seque etiam dicemus. 
@@ -146,8 +146,8 @@
               <lb ed="#A" n="105"/>spes est circa arduum, &amp; difficile; Deo autem ni 
               <lb ed="#A" n="106"/>hil est huiusmodi: tum etiam quia spes non est 
               <lb ed="#A" n="107"/>circa id, quod euidenter cognoscitur esse fururum. 
-              <lb ed="#A" n="108"/>vt enim ait Paulus <quote source="http://scta.info/resource/rom8_24@6-18">Spes autem quae videtur, non est spes.
-              <lb ed="#A" n="109"/>Nam quod videt quis, quid sperat</quote>? <quote source="http://scta.info/resource/rom8_25@1-9">si autem quod non
+              <lb ed="#A" n="108"/>vt enim ait Paulus <quote xml:id="tavaz1-d1e149-Qd1e297" source="http://scta.info/resource/rom8_24@6-18">Spes autem quae videtur, non est spes.
+              <lb ed="#A" n="109"/>Nam quod videt quis, quid sperat</quote>? <quote xml:id="tavaz1-d1e149-Qd1e302" source="http://scta.info/resource/rom8_25@1-9">si autem quod non
               vide<lb ed="#A" n="110" break="no"/>mus, speramus, per patientiam spectamus.</quote> Deus autem
               <lb ed="#A" n="111"/>euidenter nouit omne futurum. Verum hae 
               ratio<lb ed="#A" n="112" break="no"/>nes non sunt efficaces: nam &amp; spes circa facile esse: 
@@ -647,14 +647,14 @@
               <lb ed="#A" n="16"/>Deut. 23. Accommodauit se tuis moribus, Epiphan. haeres 
               <lb ed="#A" n="17"/>38. post medium Chrysost. sermone de poenitentia non lon 
               <lb ed="#A" n="18"/>ge a fine in 5. tomo. Nazian. in carmine lambico 21. Basit 
-              <lb ed="#A" n="19"/>in illud Psal. 37. <quote source="http://scta.info/resource/ps37_2@9-13 http://scta.info/resource/ps6_2@9-13">Neque in ira tua corripias me</quote>, satis
+              <lb ed="#A" n="19"/>in illud Psal. 37. <quote xml:id="tavaz1-d1e149-Qd1e1354" source="http://scta.info/resource/ps37_2@9-13 http://scta.info/resource/ps6_2@9-13">Neque in ira tua corripias me</quote>, satis
               pos<lb ed="#A" n="20" break="no"/>medium, Cyril. lib 5. contra Iulianum post medium, Da
               <lb ed="#A" n="21"/>mas.i. de fide c. 14. Ex latinis vero Cyprian ad
-              Demetria<lb ed="#A" n="22" break="no"/>num circa finem, Ambros. in illud psal. 37. <quote source="http://scta.info/resource/ps37_2@1-6 http://scta.info/resource/ps6_2@1-6">Domine ne in
-              <lb ed="#A" n="23"/>turore tuo</quote>, Hieron. in illud Psalm. 29. <quote source="http://scta.info/resource/ps29_6@1-5">Quoniam ira in
+              Demetria<lb ed="#A" n="22" break="no"/>num circa finem, Ambros. in illud psal. 37. <quote xml:id="tavaz1-d1e149-Qd1e1364" source="http://scta.info/resource/ps37_2@1-6 http://scta.info/resource/ps6_2@1-6">Domine ne in
+              <lb ed="#A" n="23"/>turore tuo</quote>, Hieron. in illud Psalm. 29. <quote xml:id="tavaz1-d1e149-Qd1e1369" source="http://scta.info/resource/ps29_6@1-5">Quoniam ira in
               in<lb ed="#A" n="24" break="no"/>dignatione eius</quote>. &amp; in illud Isa. 65. Isti fuimus. Augusi
               <lb ed="#A" n="25"/>epist. 157. &amp; 13. de Trinit. cap. 16. &amp; in illa verba Psal. 105.
-              <lb ed="#A" n="26"/><quote source="http://scta.info/resource/ps105_40@1-6">Et iratus est furore Dominus</quote>. &amp; lib. 83. quaest. q. 52.
+              <lb ed="#A" n="26"/><quote xml:id="tavaz1-d1e149-Qd1e1377" source="http://scta.info/resource/ps105_40@1-6">Et iratus est furore Dominus</quote>. &amp; lib. 83. quaest. q. 52.
               nul<lb ed="#A" n="27" break="no"/>lus tamen eorum, aut aliquis alius docet, miseri 
               <lb ed="#A" n="28"/>cordiam proprie in peo non esse, quae eodem 
               mo<lb ed="#A" n="29" break="no"/>do cum corporea perturbatione, &amp; compassione 
@@ -841,7 +841,7 @@
               sa<lb ed="#A" n="26" break="no"/>pientiam, ipsa etiam illos diligit, hoc est, illis se 
               <lb ed="#A" n="27"/>praebet: nihiloninus aliunde id ipsum probari 
               po<lb ed="#A" n="28" break="no"/>test. Qui enim diligit Deum, diligitur a peo,
-              loan<lb ed="#A" n="29" break="no"/>14. <quote source="http://scta.info/resource/io14_23@6-17">Si quis diligit me, sermonem meum seruabit, &amp; pate
+              loan<lb ed="#A" n="29" break="no"/>14. <quote xml:id="tavaz1-d1e149-Qd1e1773" source="http://scta.info/resource/io14_23@6-17">Si quis diligit me, sermonem meum seruabit, &amp; pate
               <lb ed="#A" n="30"/>meus diligit eum</quote>: &amp; qui magis diligitur: Petrus autem
               <lb ed="#A" n="31"/>dilexit Christum plus, quam caeteri Apostoli, Ioan 
               <lb ed="#A" n="32"/>nis enim 21. interrogatus a Christo, an plus dilige 

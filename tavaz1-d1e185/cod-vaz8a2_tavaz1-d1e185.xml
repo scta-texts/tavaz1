@@ -553,7 +553,7 @@
                   <p xml:id="tavaz1-d1e185-d1e1123">
                      <lb ed="#A" n="86"/>Iam ergo testimonia veteris testamenti contra 
       <lb ed="#A" n="87"/>Iudaeos proferamus. Primo probari solet ex illo 
-      <lb ed="#A" n="88"/>Genesis primo. <quote source="http://scta.info/resource/gen1_1@1-7">In principio creauit Deus</quote>, vsque ac
+      <lb ed="#A" n="88"/>Genesis primo. <quote xml:id="tavaz1-d1e185-Qd1e1140" source="http://scta.info/resource/gen1_1@1-7">In principio creauit Deus</quote>, vsque ac
       <lb ed="#A" n="89"/>illud, &amp; Spiritus Domini ferebatur super aquas: hin
       <lb ed="#A" n="90"/>colligunt mysterium Trinitatis Augustin. lib. de 
       <lb ed="#A" n="91"/>Genesi ad litteram imperfecto cap. primo, Origi 
@@ -591,7 +591,7 @@
       <lb ed="#A" n="123"/>Hieron. docet voce illa, in principio, posse 
       denota<lb ed="#A" n="124" break="no"/>ri filium; non quia vox ipsa filium significet: sed 
       <lb ed="#A" n="125"/>quia de filio incarnato dictum est illud Psalm. 39.
-      <quote source="http://scta.info/resource/ps39_8@5-11"><lb ed="#A" n="126"/>In capite libri scriptum est de me.</quote>
+      <quote xml:id="tavaz1-d1e185-Qd1e1224" source="http://scta.info/resource/ps39_8@5-11"><lb ed="#A" n="126"/>In capite libri scriptum est de me.</quote>
       </p>
                   <p xml:id="tavaz1-d1e185-d1e1215">
                      <lb ed="#A" n="127"/>Verum ex praedicto testimonio, omnibus pen 
@@ -604,12 +604,12 @@
       <lb ed="#A" n="134"/>alij. Tum quia illud Psalmi 39. in capite libri, non 
       <lb ed="#A" n="135"/>recte refertur ad initium Genesis, sed aut ad 
       ini<lb ed="#A" n="136" break="no"/>tium libri Psalmorum, cum dicitur in 1. Psalmo
-      <lb ed="#A" n="137"/><quote source="http://scta.info/resource/ps1_2@1-6">sed in lege Domini voluntas eius</quote>, vt docent August. &amp;
+      <lb ed="#A" n="137"/><quote xml:id="tavaz1-d1e185-Qd1e1255" source="http://scta.info/resource/ps1_2@1-6">sed in lege Domini voluntas eius</quote>, vt docent August. &amp;
       <!--00018.xml-->
       <pb ed="#A" n="10"/>
                      <cb ed="#A" n="a"/>
                      <lb ed="#A" n="1"/>Ruffinus: subditur enim statim in eodem 
-      Psal<lb ed="#A" n="2" break="no"/>mo 39. <quote source="http://scta.info/resource/ps39_9@1-14">vt facerem voluntatem tuam, Deus meus volui
+      Psal<lb ed="#A" n="2" break="no"/>mo 39. <quote xml:id="tavaz1-d1e185-Qd1e1269" source="http://scta.info/resource/ps39_9@1-14">vt facerem voluntatem tuam, Deus meus volui
       <lb ed="#A" n="3"/>&amp; legem tuam in medio cordis mei</quote>. ac si dicat, initio
       <lb ed="#A" n="4"/>huius libri Psalmorum de me scriptum est, vt 
       face<lb ed="#A" n="5" break="no"/>rem voluntatem tuam. Aut vt explicat Aug. 
@@ -630,7 +630,7 @@
       <lb ed="#A" n="20"/>&amp; Tertull. citatos, docent Ambr. lib. I. Hexame 
       <lb ed="#A" n="21"/>ron cap. 3. &amp; 4. Nyssenus lib. etiam Hexameron, 
       <lb ed="#A" n="22"/>Basil. homilia prima Hexameron, Athanas. ora
-      <lb ed="#A" n="23"/>tione in illud, <quote source="http://scta.info/resource/lc10_22@1-7 http://scta.info/resource/mt11_27@1-7">Omnia mihi tradita sunt a Patre meo</quote>
+      <lb ed="#A" n="23"/>tione in illud, <quote xml:id="tavaz1-d1e185-Qd1e1317" source="http://scta.info/resource/lc10_22@1-7 http://scta.info/resource/mt11_27@1-7">Omnia mihi tradita sunt a Patre meo</quote>
       <lb ed="#A" n="24"/>Chrysost. homil. 2. in Genesim. Addit quod
       <lb ed="#A" n="25"/>nomen Spiritus, cum dicitur, Et Spiritus Domini fe 
       <lb ed="#A" n="26"/>rebatur super aquas, multo melius ibi aërem 
@@ -689,7 +689,7 @@
       <lb ed="#A" n="75"/>mos est Hebraeis vti plurali pro singulari, sed 
       e<lb ed="#A" n="76" break="no"/>tiam nomen pluralis numeri verbo singularis 
       <lb ed="#A" n="77"/>coniungere: imo &amp; ipsum nomen, O*3VN 
-      He<lb ed="#A" n="78" break="no"/>lohim, Exodi. 20. <quote source="http://scta.info/resource/deut5_7@1-7">Non habebis Deos alienos</quote>, in Hebraec 
+      He<lb ed="#A" n="78" break="no"/>lohim, Exodi. 20. <quote xml:id="tavaz1-d1e185-Qd1e1446" source="http://scta.info/resource/deut5_7@1-7">Non habebis Deos alienos</quote>, in Hebraec 
       <lb ed="#A" n="79"/>est, Non erit tibi Dij alij, pro erunt dij alieni, vel erit 
       <lb ed="#A" n="80"/>Deus alienus: quod idem est. Vacat ergo mysterio 
       <lb ed="#A" n="81"/>nomen O¬1178 Helohim, verbo singularis nume 
@@ -723,7 +723,7 @@
       <lb ed="#A" n="109"/>13517 Halecu Helohim iuerunt dij, pro iuit Deus. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e1490">
-                     <lb ed="#A" n="110"/>Tertium testimonium sit ex Genesi 1. <quote source="http://scta.info/resource/gen1_26@3-9">Facia
+                     <lb ed="#A" n="110"/>Tertium testimonium sit ex Genesi 1. <quote xml:id="tavaz1-d1e185-Qd1e1522" source="http://scta.info/resource/gen1_26@3-9">Facia
       <lb ed="#A" n="111"/>mus hominem ad imaginem, &amp; similitudinem nostram</quote>
       <lb ed="#A" n="112"/>quod propter patrum authoritatem contemnendun
       <lb ed="#A" n="113"/>non est. Ex eo colligunt mysterium hoc Orig. &amp; 
@@ -744,7 +744,7 @@
       <lb ed="#A" n="128"/>&amp;c. Hanc interpretationem confirmat Petrus 
       <lb ed="#A" n="129"/>Galatinus, lib. 2. de Arcanis cap. 9. versus finem 
       <lb ed="#A" n="130"/>ex Midras Coheleth in expositione Ecclesiastae 2 
-      <lb ed="#A" n="131"/>in illa verba, <quote source="http://scta.info/resource/qoh2_12@8-17">quid est homo, vt sequi possit regem facto
+      <lb ed="#A" n="131"/>in illa verba, <quote xml:id="tavaz1-d1e185-Qd1e1570" source="http://scta.info/resource/qoh2_12@8-17">quid est homo, vt sequi possit regem facto
       <lb ed="#A" n="132"/>rem suum</quote>? In Hebraeo enim habetur, regem, qui fe
       <lb ed="#A" n="133"/>cerunt eum. Praedicta ergo expositio sic habet. 
       Pos<lb ed="#A" n="134" break="no"/>regem, videlicet aliorum regum regem, Deum sanctum, c 
@@ -780,7 +780,7 @@
       Tri<lb ed="#A" n="25" break="no"/>nitate vna est natura, &amp; potentia principij. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e1612">
-                     <lb ed="#A" n="26"/>Quartum testimonium est Genes. 19. <quote source="http://scta.info/resource/gen19_24@2-14">Pluit
+                     <lb ed="#A" n="26"/>Quartum testimonium est Genes. 19. <quote xml:id="tavaz1-d1e185-Qd1e1650" source="http://scta.info/resource/gen19_24@2-14">Pluit
       Do<lb ed="#A" n="27" break="no"/>minus super Sodomam &amp; Gomorram sulphur, &amp; ignem a
       <lb ed="#A" n="28"/>Domino de coelo</quote>. Ex quo loco colligunt pluralitatem
       <lb ed="#A" n="29"/>perionarum Ignatius in epist. ad Antiochenos 
@@ -830,7 +830,7 @@
       <lb ed="#A" n="71"/>reperiri. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e1719">
-                     <lb ed="#A" n="72"/>Quinto probat Galatinus ex illo Deut. 6. <quote source="http://scta.info/resource/mc12_29@10-17">Aud.
+                     <lb ed="#A" n="72"/>Quinto probat Galatinus ex illo Deut. 6. <quote xml:id="tavaz1-d1e185-Qd1e1759" source="http://scta.info/resource/mc12_29@10-17">Aud.
       <lb ed="#A" n="73"/>Istael Dominus Deus noster, Deus vnus est</quote>. In Hlebraeo
       <lb ed="#A" n="74"/>enim pro illa voce, Dominus, est nomen ineffabile 
       <lb ed="#A" n="75"/>qua sane repetitione, &amp; Trinitas, &amp; vnitas 
@@ -877,10 +877,10 @@
       E<lb ed="#A" n="116" break="no"/>pistola de Trisagio, &amp; alii Patres. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e1819">
-                     <lb ed="#A" n="117"/>Sextum testimonium est Zachariae 2. cap. <quote source="http://scta.info/resource/zac2_10@1-16">Lau
+                     <lb ed="#A" n="117"/>Sextum testimonium est Zachariae 2. cap. <quote xml:id="tavaz1-d1e185-Qd1e1862" source="http://scta.info/resource/zac2_10@1-16">Lau
       <lb ed="#A" n="118"/>da, &amp; laetare filia Sion: quia ecce ego venio, &amp; habitabe
-      <lb ed="#A" n="119"/>in medio tuii ait Dominus.</quote> <quote source="http://scta.info/resource/zac2_11@1-9">Et applicabuntur gentes multa
-      <lb ed="#A" n="120"/>ad Dominum in die illa</quote>: &amp; <quote source="http://scta.info/resource/zac2_11@21-28">scies, quia Dominus
+      <lb ed="#A" n="119"/>in medio tuii ait Dominus.</quote> <quote xml:id="tavaz1-d1e185-Qd1e1869" source="http://scta.info/resource/zac2_11@1-9">Et applicabuntur gentes multa
+      <lb ed="#A" n="120"/>ad Dominum in die illa</quote>: &amp; <quote xml:id="tavaz1-d1e185-Qd1e1874" source="http://scta.info/resource/zac2_11@21-28">scies, quia Dominus
       exerci<lb ed="#A" n="121" break="no"/>tuum misit me ad te</quote>. Versio Chaldaica sic habet
       <lb ed="#A" n="122"/>Quia ego reuelabor, &amp; ponam diuinitatem meam in me 
       <lb ed="#A" n="123"/>dio ait Deus. &amp; applicabunt se populi multi ad populun 
@@ -895,7 +895,7 @@
                   <p xml:id="tavaz1-d1e185-d1e1853">
                      <lb ed="#A" n="131"/>Septimum testimonium sit, quod refert 
       Ga<lb ed="#A" n="132" break="no"/>latinus libro secundo capite tertio ex Esaia. cap 
-      <lb ed="#A" n="133"/>48. <quote source="http://scta.info/resource/is48_16@7-28">Non a principio in abscondito locutus sum, ex tempore
+      <lb ed="#A" n="133"/>48. <quote xml:id="tavaz1-d1e185-Qd1e1909" source="http://scta.info/resource/is48_16@7-28">Non a principio in abscondito locutus sum, ex tempore
       <lb ed="#A" n="134"/>antequam fierent, ibi eram, &amp; nunc Dominus Deus misit
       <lb ed="#A" n="135"/>me, &amp; spiritus eius</quote>. Quod fusius explicat Galatinus
       <lb ed="#A" n="136"/>contenditque ibi loqui Deum misum a Deo mit 
@@ -1026,8 +1026,8 @@
       <lb ed="#A" n="92"/>in hoc capite comprobanda est. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e2118">
-                     <lb ed="#A" n="93"/>Primum testimonium est Psal. 44. <quote source="http://scta.info/resource/ps44_7@1-11">Sedes tua Deus
-      <lb ed="#A" n="94"/>in seculum seculi, virgae directionis virga regni tui</quote>. <quote source="http://scta.info/resource/ps44_8@1-16">Dilexisti
+                     <lb ed="#A" n="93"/>Primum testimonium est Psal. 44. <quote xml:id="tavaz1-d1e185-Qd1e2175" source="http://scta.info/resource/ps44_7@1-11">Sedes tua Deus
+      <lb ed="#A" n="94"/>in seculum seculi, virgae directionis virga regni tui</quote>. <quote xml:id="tavaz1-d1e185-Qd1e2180" source="http://scta.info/resource/ps44_8@1-16">Dilexisti
       <lb ed="#A" n="95"/>iustitiam, &amp; odisti iniquitatem: propterea vnxit te Deus,
       <lb ed="#A" n="96"/>Deus tuus oleo laetitiae prae consortibus tuis</quote>. Quo recte v
       <lb ed="#A" n="97"/>titur Paulus ad Hebraeos i. vt probet filii diuinita 
@@ -1047,7 +1047,7 @@
       <lb ed="#A" n="111"/>ba proxime citata. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e2163">
-                     <lb ed="#A" n="112"/>Secundum est Psalmo 109. <quote source="http://scta.info/resource/ps109_1@3-10 http://scta.info/resource/mt22_44@1-8">Dixit Dominus Do
+                     <lb ed="#A" n="112"/>Secundum est Psalmo 109. <quote xml:id="tavaz1-d1e185-Qd1e2226" source="http://scta.info/resource/ps109_1@3-10 http://scta.info/resource/mt22_44@1-8">Dixit Dominus Do
       <lb ed="#A" n="113"/>mino meo sede a dextris meis</quote>, quod adduxit Christus
       <lb ed="#A" n="114"/>Matth. 22. ad suam diuinitatem comprobandam.
       <lb ed="#A" n="115"/>Teste autem Euangelista adeo fuit efficax contra 
@@ -1060,7 +1060,7 @@
       commo<lb ed="#A" n="122" break="no"/>de non posset intelligi. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e2189">
-                     <lb ed="#A" n="123"/>Tertium est Ps. 2. <quote source="http://scta.info/resource/ps2_7@5-12 http://scta.info/resource/hebr1_5@1-13">Filius meus es tu, ego hodie genui
+                     <lb ed="#A" n="123"/>Tertium est Ps. 2. <quote xml:id="tavaz1-d1e185-Qd1e2255" source="http://scta.info/resource/ps2_7@5-12 http://scta.info/resource/hebr1_5@1-13">Filius meus es tu, ego hodie genui
       <lb ed="#A" n="124"/>te</quote>, quod adducit Paulus ad Hebr. 1. neque puto
       <lb ed="#A" n="125"/>Paulum vti ea parte testimonii, ego hodie genui 
       te<lb ed="#A" n="126" break="no"/>vt probet aeternam generationem Filii, sicut 
@@ -1070,7 +1070,7 @@
       col<lb ed="#A" n="130" break="no"/>ligitur pluralitas personarum. Vbi enim est filius 
       <lb ed="#A" n="131"/>est etiam Pater, neque eadem persona sui ipsius 
       <lb ed="#A" n="132"/>&amp; pater &amp; filius esse potest Accedit quod eodem 
-      <lb ed="#A" n="133"/>Psal. dicitur, <quote source="http://scta.info/resource/ps2_12@1-2">Apprehendite disciplinam</quote> Nam in Hebr
+      <lb ed="#A" n="133"/>Psal. dicitur, <quote xml:id="tavaz1-d1e185-Qd1e2280" source="http://scta.info/resource/ps2_12@1-2">Apprehendite disciplinam</quote> Nam in Hebr
       <lb ed="#A" n="134"/>dicitur, osculamini filium, quod idem omnino esse 
       <!--00021.xml-->
       <pb ed="#A" n="13"/>
@@ -1083,22 +1083,22 @@
       <lb ed="#A" n="6"/>irascatur refertur ad filium, quare cum 70. 
       Domi<lb ed="#A" n="7" break="no"/>nus, addiderunt, filium ipsum significarunt esse 
       <lb ed="#A" n="8"/>Dominum Deum, de quo etiam intelligitur illud
-      <quote source="http://scta.info/resource/ps2_13@1-12"><lb ed="#A" n="9"/>cum exarserit in breui ira eius, beati omnes qui confidunt
+      <quote xml:id="tavaz1-d1e185-Qd1e2309" source="http://scta.info/resource/ps2_13@1-12"><lb ed="#A" n="9"/>cum exarserit in breui ira eius, beati omnes qui confidunt
       <lb ed="#A" n="10"/>in eo</quote> quae omnia manifeste filij diuinitatem
       prae<lb ed="#A" n="11" break="no"/>dicant, tanquam personae a Patre distinctae. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e2248">
                      <lb ed="#A" n="12"/>Sed iam proferamus aliqua testimonia noui 
       <lb ed="#A" n="13"/>testamenti, quibus haereticos etiam reuincamus. 
-      <lb ed="#A" n="14"/>Ioan. 5. <quote source="http://scta.info/resource/io5_26@1-17">sicut Pater habet vitam in se ipso, sic dedit &amp;
+      <lb ed="#A" n="14"/>Ioan. 5. <quote xml:id="tavaz1-d1e185-Qd1e2326" source="http://scta.info/resource/io5_26@1-17">sicut Pater habet vitam in se ipso, sic dedit &amp;
       Fi<lb ed="#A" n="15" break="no"/>lio vitam habere in semeripso</quote>, habemus ergo Patrem,
       <lb ed="#A" n="16"/>&amp; Filium. Eos vero eiusdem substantiae &amp; naturae
       <lb ed="#A" n="17"/>esse contra Arrianos infra probabitur Ioann. 1.
-      <lb ed="#A" n="18"/><quote source="http://scta.info/resource/io1_18@5-13">Vnigenitus qui est in sinu Patris, ipse narrauit</quote>. IIoann. 14.
-      <quote source="http://scta.info/resource/io14_11@1-11"><lb ed="#A" n="19"/>Fgo in Patre, &amp; Pater in me est</quote>, vbi distinctio perso
+      <lb ed="#A" n="18"/><quote xml:id="tavaz1-d1e185-Qd1e2337" source="http://scta.info/resource/io1_18@5-13">Vnigenitus qui est in sinu Patris, ipse narrauit</quote>. IIoann. 14.
+      <quote xml:id="tavaz1-d1e185-Qd1e2340" source="http://scta.info/resource/io14_11@1-11"><lb ed="#A" n="19"/>Fgo in Patre, &amp; Pater in me est</quote>, vbi distinctio perso
       <lb ed="#A" n="20"/>narum manifeste ostenditur. Nam licet Dei attri 
       <lb ed="#A" n="21"/>buta dicantur in Deo esse, imo etiam apud Deum 
-      <lb ed="#A" n="22"/>vt Psal. 120. <quote source="http://scta.info/resource/ps129_7@1-9">apud Dominum misericordia, &amp; copiosa
+      <lb ed="#A" n="22"/>vt Psal. 120. <quote xml:id="tavaz1-d1e185-Qd1e2351" source="http://scta.info/resource/ps129_7@1-9">apud Dominum misericordia, &amp; copiosa
       a<lb ed="#A" n="23" break="no"/>pud eum redemptio</quote>, &amp; Psalm. 35. Apud te est fons vitae,
       <lb ed="#A" n="24"/>tamen nunquam diceretur vnus in alio esse, &amp; 
       <lb ed="#A" n="25"/>contra, nisi personaliter distinguerentur, de quo 
@@ -1106,12 +1106,12 @@
       <lb ed="#A" n="27"/>lius denique saepenumero in Scriptura 
       nomina<lb ed="#A" n="28" break="no"/>tur. Sed non solum pluralitas personarum in 
       no<lb ed="#A" n="29" break="no"/>uo testamento, verumetiam Trinitas proprijs 
-      no<lb ed="#A" n="30" break="no"/>minibus notata traditur. Matth. vlti. <quote source="http://scta.info/resource/mt28_19@6-15">Baptizante.
+      no<lb ed="#A" n="30" break="no"/>minibus notata traditur. Matth. vlti. <quote xml:id="tavaz1-d1e185-Qd1e2371" source="http://scta.info/resource/mt28_19@6-15">Baptizante.
       <lb ed="#A" n="31"/>eos in nomine Patris, &amp; Filij, &amp; Spiritus sancti.</quote> 1. Ioan.
-      <lb ed="#A" n="32"/>5. <quote source="http://scta.info/resource/Iio5_7@1-6">Tres sunt, qui testimonium dant in coelo, Pater, verbum
+      <lb ed="#A" n="32"/>5. <quote xml:id="tavaz1-d1e185-Qd1e2378" source="http://scta.info/resource/Iio5_7@1-6">Tres sunt, qui testimonium dant in coelo, Pater, verbum
       <lb ed="#A" n="33"/>et Spiritus sanctus, et hi tres vnum sunt</quote>. De quo
       testi<lb ed="#A" n="34" break="no"/>monio disp. sequenti cap. 2. plura dicemus. 
-      Deni<lb ed="#A" n="35" break="no"/>que loan. c. 15. <quote source="http://scta.info/resource/io15_26@1-16">cum venerit paracletus, quem ego mittam
+      Deni<lb ed="#A" n="35" break="no"/>que loan. c. 15. <quote xml:id="tavaz1-d1e185-Qd1e2388" source="http://scta.info/resource/io15_26@1-16">cum venerit paracletus, quem ego mittam
       <lb ed="#A" n="36"/>vobis a Patre Spiritum veritatis, qui a Patre procedit</quote>, vbi
       <lb ed="#A" n="37"/>non solum tres nominantur, sed aperte etiam di 
       <lb ed="#A" n="38"/>stinguuntur. Primum cum dicitur Spiritus 
@@ -1344,13 +1344,13 @@
       in<lb ed="#A" n="99" break="no"/>strumentum Patris, quo modo loquebatur 
       Ar<lb ed="#A" n="100" break="no"/>rius, &amp; ex publicis precationibus expungi 
       cura<lb ed="#A" n="101" break="no"/>ranit illud, Sancta Trinitas vnus Deus, miserere nobis, 
-      <lb ed="#A" n="102"/>Deleuit etiam illud 1. Epistolae loannis 5. <quote source="http://scta.info/resource/Iio5_7@1-6">Tres sunt,
+      <lb ed="#A" n="102"/>Deleuit etiam illud 1. Epistolae loannis 5. <quote xml:id="tavaz1-d1e185-Qd1e2878" source="http://scta.info/resource/Iio5_7@1-6">Tres sunt,
       <lb ed="#A" n="103"/>qui testimonium dant in coelo</quote>, &amp;c. Et hi tres vnum sunt:
       <lb ed="#A" n="104"/>Deinde Melanchton in lib. contra Stancarum, &amp; 
       <lb ed="#A" n="105"/>in Epist. ad electorem Brandeburgensem inquit, 
       <lb ed="#A" n="106"/>Filius orat, intercedit, postulat, tum etiam, Filius mini 
       <lb ed="#A" n="107"/>ster est Patris Sacerdos, Pontifex, &amp; mediator. Denique,
-      <lb ed="#A" n="108"/>Filio imperat kater. <quote source="http://scta.info/resource/ps2_8@1-7">Postula a me, &amp; dabo tibi gentes</quote>, &amp;c.
+      <lb ed="#A" n="108"/>Filio imperat kater. <quote xml:id="tavaz1-d1e185-Qd1e2894" source="http://scta.info/resource/ps2_8@1-7">Postula a me, &amp; dabo tibi gentes</quote>, &amp;c.
       <lb ed="#A" n="109"/>Quae omnia tribuit Fllio, etiam secundum 
       diui<lb ed="#A" n="110" break="no"/>nam naturam. Haec omnia Arrius asserebat, vt 
       <lb ed="#A" n="111"/>colligitur ex August. in lib. contra sermonem Ar 
@@ -1440,7 +1440,7 @@
                      <lb ed="#A" n="46"/>Sed proferamus iam testimonia noui 
       testa<lb ed="#A" n="47" break="no"/>menti, quae manifestissima sunt. Primum est prae 
       <lb ed="#A" n="48"/>clara illa Petri confessio ab ipso Christo 
-      admo<lb ed="#A" n="49" break="no"/>dum commendata Matth. 16. <quote source="http://scta.info/resource/mt16_16@5-10">Tu es Christus Filius
+      admo<lb ed="#A" n="49" break="no"/>dum commendata Matth. 16. <quote xml:id="tavaz1-d1e185-Qd1e3080" source="http://scta.info/resource/mt16_16@5-10">Tu es Christus Filius
       <lb ed="#A" n="50"/>Dei viui</quote>. Cum enim dixic Filium Dei viui,
       natura<lb ed="#A" n="51" break="no"/>ralem Filium Dei esse indicauit, qui etiam alibi 
       <lb ed="#A" n="52"/>dicitur vnigenitus Igan. 3. &amp; proprius ad Rom. 8. 
@@ -1456,15 +1456,15 @@
       <lb ed="#A" n="62"/>nisi adoptiuus esse posset. Eodem spectant alia te 
       <lb ed="#A" n="63"/>stimonia, in quibus Iudaei Christum accusabant 
       <lb ed="#A" n="64"/>quod se fecisset, aut praedicasset filium Dei Ioan.
-      <lb ed="#A" n="65"/>19. <quote source="http://scta.info/resource/io19_7@4-16">Nos legem habemus, &amp; secundum legem debet mori
+      <lb ed="#A" n="65"/>19. <quote xml:id="tavaz1-d1e185-Qd1e3118" source="http://scta.info/resource/io19_7@4-16">Nos legem habemus, &amp; secundum legem debet mori
       <!--00023.xml-->
       <cb ed="#A" n="b"/>
                      <lb ed="#A" n="66"/>quia Filium Dei se fecit</quote>: &amp; loan. 10. cum Christus
       <lb ed="#A" n="67"/>dixisset, se filium Dei esse, Iudaei intelligentes se 
       <lb ed="#A" n="68"/>Deum nominasse, &amp; ita aequalem se patri fecisse: 
-      <lb ed="#A" n="69"/>responderunt; <quote source="http://scta.info/resource/io10_33@4-22">De bono opere non lapidamus te, sed de
+      <lb ed="#A" n="69"/>responderunt; <quote xml:id="tavaz1-d1e185-Qd1e3134" source="http://scta.info/resource/io10_33@4-22">De bono opere non lapidamus te, sed de
       <lb ed="#A" n="70"/>blasphemia, &amp; quia tu homo cum sis, facis te ipsum Deum</quote>
-      <lb ed="#A" n="71"/>Ioan. 5. <quote source="http://scta.info/resource/io5_18@3-22">Magis quaerebant eum Iudaei interficere, quia non
+      <lb ed="#A" n="71"/>Ioan. 5. <quote xml:id="tavaz1-d1e185-Qd1e3141" source="http://scta.info/resource/io5_18@3-22">Magis quaerebant eum Iudaei interficere, quia non
       <lb ed="#A" n="72"/>solum soluebat sabbatum, sed &amp; patrem suum dicebat
       <lb ed="#A" n="73"/>Deum, aequalem se faciens Deo</quote>. Neque enim
       vn<lb ed="#A" n="74" break="no"/>quam Christus se excusauit quod dixisset, se esse 
@@ -1472,7 +1472,7 @@
       Iudaeo<lb ed="#A" n="76" break="no"/>rum calumnia, certe nequaquam eam ferret, sed 
       <lb ed="#A" n="77"/>sicut alias etiam, quas ipsi falso obiecerant, 
       con<lb ed="#A" n="78" break="no"/>tunderet, id autem nusquam fecit, quin potius c. 
-      <lb ed="#A" n="79"/>illo 5. Ioan. post verba cit. sic ait. <quote source="http://scta.info/resource/io5_19@1-25">Amen dico vobis
+      <lb ed="#A" n="79"/>illo 5. Ioan. post verba cit. sic ait. <quote xml:id="tavaz1-d1e185-Qd1e3161" source="http://scta.info/resource/io5_19@1-25">Amen dico vobis
       <lb ed="#A" n="80"/>non potest filius a se facere quidquam, nisi quod viderit
       pa<lb ed="#A" n="81" break="no"/>trem facientem, quaecunque enim ille fecerit, haec &amp;
       simi<lb ed="#A" n="82" break="no"/>liter facit</quote>, &amp;c. quibus verbis non solum non
@@ -1481,7 +1481,7 @@
       <lb ed="#A" n="85"/>omnino facere, quae facit Pater. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e3066">
-                     <lb ed="#A" n="86"/>Secundum testimonium est Ioan. <quote source="http://scta.info/resource/io10_30@1-5">Ego &amp; pater
+                     <lb ed="#A" n="86"/>Secundum testimonium est Ioan. <quote xml:id="tavaz1-d1e185-Qd1e3183" source="http://scta.info/resource/io10_30@1-5">Ego &amp; pater
       <lb ed="#A" n="87"/>vnum sumus</quote>, quo test. vtuntur Patres
       communi<lb ed="#A" n="88" break="no"/>ter contra Arrium, vt filij diuinitatem probent, 
       <lb ed="#A" n="89"/>hic ergo primum distinctio personarum asseritur 
@@ -1491,7 +1491,7 @@
       com<lb ed="#A" n="93" break="no"/>tra Eunomium circa finem, &amp; Chrysost. in eum 
       <lb ed="#A" n="94"/>locum, ex praecedentibus. Christus enim 
       di<lb ed="#A" n="95" break="no"/>xerat, Et non rapit eas, (scilicet oues) quisquam
-      <lb ed="#A" n="96"/>de manumea, confirmat deinde his verbis. <quote source="http://scta.info/resource/io10_29@10-16">Nemo
+      <lb ed="#A" n="96"/>de manumea, confirmat deinde his verbis. <quote xml:id="tavaz1-d1e185-Qd1e3208" source="http://scta.info/resource/io10_29@10-16">Nemo
       <lb ed="#A" n="97"/>potest rapere de manu patris mei</quote>, ego &amp; Pater vnum
       <lb ed="#A" n="98"/>sumus, ac si ea maiori, &amp; minori positis,
       collige<lb ed="#A" n="99" break="no"/>reret hanc conclusionem, quam posuerat, ergo 
@@ -1508,7 +1508,7 @@
                   <p xml:id="tavaz1-d1e185-d1e3118">
                      <lb ed="#A" n="109"/>Sed obijciunt Transsiluani, Christus se 
       excu<lb ed="#A" n="110" break="no"/>sauit apud Iudaeos, testimonio illo scripturae. Eg.
-      <lb ed="#A" n="111"/>dixi Diy estis, &amp;c. hoc modo, <quote source="http://scta.info/resource/io10_35@1-10">si illi ad quos sermo Der
+      <lb ed="#A" n="111"/>dixi Diy estis, &amp;c. hoc modo, <quote xml:id="tavaz1-d1e185-Qd1e3245" source="http://scta.info/resource/io10_35@1-10">si illi ad quos sermo Der
       <lb ed="#A" n="112"/>factus est, dicuntur dij</quote>, cur non dicetur Filius Dei
       <lb ed="#A" n="113"/>ille, quem pater misit in mundum &amp; sanctificauit? ex 
       <lb ed="#A" n="114"/>quo solum sequitur Christum se Filium Dei 
@@ -1526,7 +1526,7 @@
       <lb ed="#A" n="126"/>Dei factus est, etiam dij dicuntur. Deinde 
       reie<lb ed="#A" n="127" break="no"/>cta calumnia ostendisse ex operibus, se esse 
       ve<lb ed="#A" n="128" break="no"/>rum Deum, his verbis. Si non facio opera Patri
-      <lb ed="#A" n="129"/>mei, nolite mihi credere. &amp; vt cognoscatis <quote source="http://scta.info/resource/io14_11@1-11">quia eg
+      <lb ed="#A" n="129"/>mei, nolite mihi credere. &amp; vt cognoscatis <quote xml:id="tavaz1-d1e185-Qd1e3287" source="http://scta.info/resource/io14_11@1-11">quia eg
       <lb ed="#A" n="130"/>in Patre, &amp; Pater in me est.</quote> Porro Iudaeos in sua
       <lb ed="#A" n="131"/>opinione mansisse, quia diceret, se esse aequalem 
       <lb ed="#A" n="132"/>Patri colligitur ex eo, quod statim addit Euan¬ 
@@ -1542,7 +1542,7 @@
       <lb ed="#A" n="7"/>occidendi mutassent. 
       </p>
                   <p xml:id="tavaz1-d1e185-d1e3194">
-                     <lb ed="#A" n="8"/>Tertium testimonium est, 1. Ioan. 5. <quote source="http://scta.info/resource/Iio5_7@1-6">tres sunt,
+                     <lb ed="#A" n="8"/>Tertium testimonium est, 1. Ioan. 5. <quote xml:id="tavaz1-d1e185-Qd1e3323" source="http://scta.info/resource/Iio5_7@1-6">tres sunt,
       <lb ed="#A" n="9"/>qui testimonium dant in coelo, Pater, verbum, &amp; Spiritus
       <lb ed="#A" n="10"/>S. &amp; hi, tres vnum sunt</quote>. Et tres sunt, qui testimonium
       <lb ed="#A" n="11"/>dant in terra Spiritus, aqua, &amp; sanguis &amp; hi tres vnum 
@@ -1552,10 +1552,10 @@
       <lb ed="#A" n="15"/>sti natiuitatem, &amp; alla mysteria annunciauerant 
       <lb ed="#A" n="16"/>sed esse diuinos testes, tres scilicet personas 
       Tri<lb ed="#A" n="17" break="no"/>nitatis: id quod verba sequentia clarius indicant. 
-      <lb ed="#A" n="18"/><quote source="http://scta.info/resource/Iio5_9@1-22">Si testimonium hominum accipimus, testimonium Dei
+      <lb ed="#A" n="18"/><quote xml:id="tavaz1-d1e185-Qd1e3346" source="http://scta.info/resource/Iio5_9@1-22">Si testimonium hominum accipimus, testimonium Dei
       <lb ed="#A" n="19"/>maius est: quoniam hoc est testimonium Dei, quod maius
       <lb ed="#A" n="20"/>est quoniam testificatus est de filio suo</quote>. Qui credit in filium
-      <lb ed="#A" n="21"/>Dei, habet testimanium Dei in seipso. Et infra. <quote source="http://scta.info/resource/Iio5_11@1-17">&amp; hoc est
+      <lb ed="#A" n="21"/>Dei, habet testimanium Dei in seipso. Et infra. <quote xml:id="tavaz1-d1e185-Qd1e3356" source="http://scta.info/resource/Iio5_11@1-17">&amp; hoc est
       <lb ed="#A" n="22"/>testimonium. quoniam vitam aeternam, dedit nobis Deus,
       <lb ed="#A" n="23"/>&amp; haec vita in filio eius est</quote>: ac si dicat, si terreno
       testi<lb ed="#A" n="24" break="no"/>monio fi sem habemus &amp; propter illud 
@@ -1571,15 +1571,15 @@
       <lb ed="#A" n="34"/>humana, sed diuina virtute tormenta sustinuisses 
       <lb ed="#A" n="35"/>quare videns Centurio, quod voce magna 
       expi<lb ed="#A" n="36" break="no"/>rasset, dixit Marci 15. Vere hic homo Filius Dei erat, &amp; 
-      <lb ed="#A" n="37"/>Luc. 23 <quote source="http://scta.info/resource/lc23_47@10-14">vere hic homo iustus erat</quote>, haec orgo
+      <lb ed="#A" n="37"/>Luc. 23 <quote xml:id="tavaz1-d1e185-Qd1e3393" source="http://scta.info/resource/lc23_47@10-14">vere hic homo iustus erat</quote>, haec orgo
       testifi<lb ed="#A" n="38" break="no"/>cantur in terra, Christum esse Filium Dri. Sed te 
       <lb ed="#A" n="39"/>stimonium Dei majus est: hoc autem etiam per 
       <lb ed="#A" n="40"/>hibent tres, qui sunt in coelo, id est tres diuinita 
       <lb ed="#A" n="41"/>tis personae: testificantur autem, vitam aeter 
       <lb ed="#A" n="42"/>nam nobis esse in Christo, si crediderimus ipsum 
       <lb ed="#A" n="43"/>esse Filium Dei. Nam paulo ante citata verba sic
-      <lb ed="#A" n="44"/>ait loannes, <quote source="http://scta.info/resource/Iio5_5@1-13">Quis est, qui vincit mundum, nisi qui cre
-      <lb ed="#A" n="45"/>dit quia lesus est Filius Dei</quote>, &amp; in fine capitis, <quote source="http://scta.info/resource/Iio5_20@2-27">scimus
+      <lb ed="#A" n="44"/>ait loannes, <quote xml:id="tavaz1-d1e185-Qd1e3412" source="http://scta.info/resource/Iio5_5@1-13">Quis est, qui vincit mundum, nisi qui cre
+      <lb ed="#A" n="45"/>dit quia lesus est Filius Dei</quote>, &amp; in fine capitis, <quote xml:id="tavaz1-d1e185-Qd1e3417" source="http://scta.info/resource/Iio5_20@2-27">scimus
       <lb ed="#A" n="46"/>quia Filius Dei venit &amp; dedit nobis sensum, vt co
       <lb ed="#A" n="47"/>gnoscamus verum Deum, &amp; simus in vero Filio eius, hic
       <lb ed="#A" n="48"/>est verus Deus, &amp; vita aeterna</quote>. Tres ergo qui sunt
@@ -1591,7 +1591,7 @@
       </p>
                   <p xml:id="tavaz1-d1e185-d1e3296">
                      <lb ed="#A" n="54"/>Sed obijcit primo Blandrata in 2.
-      disputatio<lb ed="#A" n="55" break="no"/>ne Albana, verba illa, <quote source="http://scta.info/resource/Iio5_7@1-6">Tres sunt qui testimonium dant
+      disputatio<lb ed="#A" n="55" break="no"/>ne Albana, verba illa, <quote xml:id="tavaz1-d1e185-Qd1e3444" source="http://scta.info/resource/Iio5_7@1-6">Tres sunt qui testimonium dant
       <lb ed="#A" n="56"/>in coelo</quote>, a solo Hieronymo legi: fallitur tamen
       <lb ed="#A" n="57"/>Nam ira quoque legerunt Higinius Papa Episto 
       <lb ed="#A" n="58"/>la, 1. Cyprianus libro de vnitate Ecclesiae, Atha 
@@ -1634,7 +1634,7 @@
       </p>
                   <p xml:id="tavaz1-d1e185-d1e3385">
                      <lb ed="#A" n="91"/>Tertio obiicit idem Blandrata contra illud, 
-      <lb ed="#A" n="92"/>quod ex eodem capite loanuis allegauimus, <quote source="http://scta.info/resource/Iio5_20@21-27">hic
+      <lb ed="#A" n="92"/>quod ex eodem capite loanuis allegauimus, <quote xml:id="tavaz1-d1e185-Qd1e3536" source="http://scta.info/resource/Iio5_20@21-27">hic
       ve<lb ed="#A" n="93" break="no"/>rus Deus. &amp; vita aeterna</quote>, Christum esse verum Deu
       <lb ed="#A" n="94"/>temporalem tamen, quia ex tempore ei 
       commu<lb ed="#A" n="95" break="no"/>nicata fuit diuinitas iuxta illud Apocal. 5. Dignus 
@@ -1648,7 +1648,7 @@
                   <p xml:id="tavaz1-d1e185-d1e3412">
                      <lb ed="#A" n="102"/>Quarto Erasmus, qui omnia fidei nostrae 
       fun<lb ed="#A" n="103" break="no"/>dimenta clanculum euertere moliebatur, respon
-      <lb ed="#A" n="104"/>det verba illa, <quote source="http://scta.info/resource/Iio5_20@21-27">hic est verus Deus. &amp; vita aeternae</quote>, re
+      <lb ed="#A" n="104"/>det verba illa, <quote xml:id="tavaz1-d1e185-Qd1e3568" source="http://scta.info/resource/Iio5_20@21-27">hic est verus Deus. &amp; vita aeternae</quote>, re
       <lb ed="#A" n="105"/>ferri non ad Christum, sed ad Patrem, hoc 
       pa<lb ed="#A" n="106" break="no"/>cto: Vt simus in vero filio eius, hic (nimirum Pater 
       <lb ed="#A" n="107"/>huius Filij) est verus Deus. Sed cum nullum 
@@ -1660,7 +1660,7 @@
       <lb ed="#A" n="113"/>autem praecessetat, in vero Filioeius: Et in Graeco 
       <lb ed="#A" n="114"/>sic legitur, in vero filio eius lesu Christo, hic est veru 
       <lb ed="#A" n="115"/>Deus &amp; vita aeterna: consonat etiam illa sententia 
-      <lb ed="#A" n="116"/>eiusdem Ioan. in Euang. ca. 17. <quote source="http://scta.info/resource/io17_3@1-16">Haec est vita aeterna
+      <lb ed="#A" n="116"/>eiusdem Ioan. in Euang. ca. 17. <quote xml:id="tavaz1-d1e185-Qd1e3597" source="http://scta.info/resource/io17_3@1-16">Haec est vita aeterna
       <lb ed="#A" n="117"/>vt cognoscant te solum verum Deum, &amp; quem, misist.
       <lb ed="#A" n="118"/>lesum Christum</quote>, illum ergo dixit loannes capite il
       <lb ed="#A" n="119"/>lo 5. esse verum Deum, quem etiam appellauit 
@@ -1686,7 +1686,7 @@
                      <cb ed="#A" n="a"/>
                      <lb ed="#A" n="1"/>nant distinctionem Christi a Patre aeterno, 
       opti<lb ed="#A" n="2" break="no"/>me etiam Arrium conuincunt. Inter alia dicit Paul. 
-      <lb ed="#A" n="3"/>de Christo, <quote source="http://scta.info/resource/hebr1_3@1-20">qui cum sit splendor gloriae, &amp; figura
+      <lb ed="#A" n="3"/>de Christo, <quote xml:id="tavaz1-d1e185-Qd1e3655" source="http://scta.info/resource/hebr1_3@1-20">qui cum sit splendor gloriae, &amp; figura
       sub<lb ed="#A" n="4" break="no"/>stantiae eius. portansque omnia verbo virtutis suae,
       purga<lb ed="#A" n="5" break="no"/>tionem peccatorum faciens, sedet ad dexteram</quote> in excelsis,
       <lb ed="#A" n="6"/>&amp;c. Vbi ostenditur distinctio personalis, cum
@@ -1795,7 +1795,7 @@
                   <p xml:id="tavaz1-d1e185-d1e3714">
                      <lb ed="#A" n="88"/>Secundo obijciunt eundem Ignatium in Epi 
       <lb ed="#A" n="89"/>stola ad Tarsenses, vbi de Christo ait. Et quia non
-      <lb ed="#A" n="90"/>est ipse ille, qui est <quote source="http://scta.info/resource/rom9_5@9-13">super omnia Deus</quote>, sed filius ipsius,
+      <lb ed="#A" n="90"/>est ipse ille, qui est <quote xml:id="tavaz1-d1e185-Qd1e3881" source="http://scta.info/resource/rom9_5@9-13">super omnia Deus</quote>, sed filius ipsius,
       sen<lb ed="#A" n="91" break="no"/>tit ergo filium Dei non esse Deum super omnia. 
       <lb ed="#A" n="92"/>Respondeo non negare Ignatium Filium Dei 
       es<lb ed="#A" n="93" break="no"/>se Deum super omnia: cum postea paucis 
@@ -1813,9 +1813,9 @@
       as<lb ed="#A" n="105" break="no"/>serere esse aliam personam ab illo, dixit ergo, non 
       <lb ed="#A" n="106"/>est ille, pronomine enim ille, denotauit personam. 
       <lb ed="#A" n="107"/>Nam quaedam verba Pauli appropriauit Patri,
-      <lb ed="#A" n="108"/>quaedam Filio, personae Patri tribuit illa <quote source="http://scta.info/resource/Icor8_6@3-10">Vnus Deu
+      <lb ed="#A" n="108"/>quaedam Filio, personae Patri tribuit illa <quote xml:id="tavaz1-d1e185-Qd1e3923" source="http://scta.info/resource/Icor8_6@3-10">Vnus Deu
       <lb ed="#A" n="109"/>Pater, ex quo omnia</quote>, &amp; hunc dixit appellari super
-      <lb ed="#A" n="110"/>omnia Deum, illa vero, <quote source="http://scta.info/resource/Icor8_6@13-20">Vnus Dominus lesus Christus,
+      <lb ed="#A" n="110"/>omnia Deum, illa vero, <quote xml:id="tavaz1-d1e185-Qd1e3931" source="http://scta.info/resource/Icor8_6@13-20">Vnus Dominus lesus Christus,
       <lb ed="#A" n="111"/>per quem omnia</quote>, applicauit Filio.
       </p>
                   <p xml:id="tavaz1-d1e185-d1e3769">
@@ -2275,9 +2275,9 @@
       <lb ed="#A" n="95"/>diuinitas probaretur; sufficiant tamen nobis ad 
       <lb ed="#A" n="96"/>uersus haereticos praecipua noui Testamenti loca 
       <lb ed="#A" n="97"/>quibus magis aperte id asseritur. Matth. vltimo
-      <quote source="http://scta.info/resource/mt28_19@2-11"><lb ed="#A" n="98"/>Baptizantes eos in nomine Patris, &amp; Filij, &amp; Spiritu
-      <lb ed="#A" n="99"/>sancti</quote>, Ioan. 3. <quote source="http://scta.info/resource/io3_5@7-20">Nisi quis renatus fuerit ex aqua &amp; Spiritu
-      <lb ed="#A" n="100"/>sancto, non potest intrare in regnum Dei.</quote> Ad Tit. 3. <quote source="http://scta.info/resource/tit3_5@12-21">Saluos
+      <quote xml:id="tavaz1-d1e185-Qd1e4882" source="http://scta.info/resource/mt28_19@2-11"><lb ed="#A" n="98"/>Baptizantes eos in nomine Patris, &amp; Filij, &amp; Spiritu
+      <lb ed="#A" n="99"/>sancti</quote>, Ioan. 3. <quote xml:id="tavaz1-d1e185-Qd1e4888" source="http://scta.info/resource/io3_5@7-20">Nisi quis renatus fuerit ex aqua &amp; Spiritu
+      <lb ed="#A" n="100"/>sancto, non potest intrare in regnum Dei.</quote> Ad Tit. 3. <quote xml:id="tavaz1-d1e185-Qd1e4893" source="http://scta.info/resource/tit3_5@12-21">Saluos
       <lb ed="#A" n="101"/>nos fecit per lauacrum regenerationis, &amp; renouationis
       Spi<lb ed="#A" n="102" break="no"/>ritus sancti</quote>. Ex quibus locis optime Nazianz.
       ar<lb ed="#A" n="103" break="no"/>gumentatur pro diuinitate Spiritus sancti, his 
@@ -2287,14 +2287,14 @@
       <lb ed="#A" n="107"/>Deus participatione sanctitatis, ergo ille est Deus 
       <lb ed="#A" n="108"/>adorandus, quia solus Deus est, qui sanctificat, &amp; 
       <lb ed="#A" n="109"/>delet peccata. Idem argumentum fieri potest ex 
-      <lb ed="#A" n="110"/>illo 2. Corinth. 3. <quote source="http://scta.info/resource/IIcor13_13@1-15">Gratia Domini nostri Iosu Christi, &amp;
+      <lb ed="#A" n="110"/>illo 2. Corinth. 3. <quote xml:id="tavaz1-d1e185-Qd1e4917" source="http://scta.info/resource/IIcor13_13@1-15">Gratia Domini nostri Iosu Christi, &amp;
       <lb ed="#A" n="111"/>caritas Dei, &amp; communicatio sancti Spiritus sit cum
       om<lb ed="#A" n="112" break="no"/>nibus vobis</quote>, Amen. Quid enim aliud est communica
       <lb ed="#A" n="113"/>tio sancti Spiritus, nisi animae sanctificatio? ille 
       <lb ed="#A" n="114"/>igitur author est sanctitatis: ac proinde Deus. 
-      De<lb ed="#A" n="115" break="no"/>inde Actor. 5. Dixit autem Petrus, <quote source="http://scta.info/resource/act5_3@5-13">Anania, cur tentaui
+      De<lb ed="#A" n="115" break="no"/>inde Actor. 5. Dixit autem Petrus, <quote xml:id="tavaz1-d1e185-Qd1e4931" source="http://scta.info/resource/act5_3@5-13">Anania, cur tentaui
       <lb ed="#A" n="116"/>Sathanas cor tuum, mentiri te Spiritui sancto</quote>? non es men
-      <lb ed="#A" n="117"/>titus hominibus, sed Deo. Denique 1. Ioan. 5. <quote source="http://scta.info/resource/Iio5_7@1-6">Tres sunt:
+      <lb ed="#A" n="117"/>titus hominibus, sed Deo. Denique 1. Ioan. 5. <quote xml:id="tavaz1-d1e185-Qd1e4938" source="http://scta.info/resource/Iio5_7@1-6">Tres sunt:
       <lb ed="#A" n="118"/>qui testimonium dant in coelo, Pater, Filius, &amp; Spiritu
       <lb ed="#A" n="119"/>sanctus, &amp; hi tres vnum sunt</quote>.
       </p>
@@ -2325,7 +2325,7 @@
                      <lb ed="#A" n="9"/>Ex quibus sequitur, Spiritum sanctum non 
       <lb ed="#A" n="10"/>posse esse auimam mundi, alioqui creatura esset. 
       <lb ed="#A" n="11"/>Si enim est Deus, ergo est coelo, &amp; toto vniuerso 
-      <lb ed="#A" n="12"/>excelsior: nec eo definiri potest Iob. 22. <quote source="http://scta.info/resource/iob22_12@4-11">Nonne
+      <lb ed="#A" n="12"/>excelsior: nec eo definiri potest Iob. 22. <quote xml:id="tavaz1-d1e185-Qd1e5004" source="http://scta.info/resource/iob22_12@4-11">Nonne
       co<lb ed="#A" n="13" break="no"/>gitas, quod Deus excelsior coelo sit, &amp; super stellarum
       ver<lb ed="#A" n="14" break="no"/>ticem sublimatur</quote>? &amp; 2 Paralip. 2. Coelum &amp; coeli coelorum
       <lb ed="#A" n="15"/>cum capere non possunt, at si esset anima mundi toto 
@@ -2378,9 +2378,9 @@
       perso<lb ed="#A" n="49" break="no"/>na, explicant hoc modo: postulat, hoc est, postu 
       <lb ed="#A" n="50"/>lare facit, quia adiuuat infirmitatem nostram, vi
       <lb ed="#A" n="51"/>postulemus. Eadem ratione putant, ad Galat. 4
-      <lb ed="#A" n="52"/>dicit, <quote source="http://scta.info/resource/gal4_6@5-15">Misiu Deus Spiritum Filij sui in corda vestra cla
+      <lb ed="#A" n="52"/>dicit, <quote xml:id="tavaz1-d1e185-Qd1e5114" source="http://scta.info/resource/gal4_6@5-15">Misiu Deus Spiritum Filij sui in corda vestra cla
       <lb ed="#A" n="53"/>mantem Abba Pater</quote>. Perinde enim est, atque illud
-      <lb ed="#A" n="54"/>eiusdem cap. ad Rom. 8. <quote source="http://scta.info/resource/rom8_15@10-18">Accepistis Spiritum filiorum
+      <lb ed="#A" n="54"/>eiusdem cap. ad Rom. 8. <quote xml:id="tavaz1-d1e185-Qd1e5122" source="http://scta.info/resource/rom8_15@10-18">Accepistis Spiritum filiorum
       <lb ed="#A" n="55"/>in quo clamamus, Abba Pater</quote>. Nam quia clamare
       <lb ed="#A" n="56"/>nos facit, in eo, hoc est, eius virtute roborati di 
       <lb ed="#A" n="57"/>cimur clamare, &amp; ipse dicitur clamans, Abba Pater 
@@ -2924,8 +2924,8 @@
       <lb ed="#A" n="106"/>&amp; Anselmi in monolog. cap. 47. Adde, quod idem 
       <lb ed="#A" n="107"/>August. lib. is. de Trinitate cap. 10. ex illo 
       sapien<lb ed="#A" n="108" break="no"/>tiae 2. Dixerunt apud se cogitantes, &amp; Matth. 9. 
-      <quote source="http://scta.info/resource/mt9_3@6-10">Dixe<lb ed="#A" n="109" break="no"/>runt intra se, hic blasphemat</quote>, quibus Christus respon
-      <lb ed="#A" n="110"/>dit, <quote source="http://scta.info/resource/mt9_4@8-14">Vt quid cogitatis mala in cordibus vestris?</quote> Et Luc.5
+      <quote xml:id="tavaz1-d1e185-Qd1e6243" source="http://scta.info/resource/mt9_3@6-10">Dixe<lb ed="#A" n="109" break="no"/>runt intra se, hic blasphemat</quote>, quibus Christus respon
+      <lb ed="#A" n="110"/>dit, <quote xml:id="tavaz1-d1e185-Qd1e6251" source="http://scta.info/resource/mt9_4@8-14">Vt quid cogitatis mala in cordibus vestris?</quote> Et Luc.5
       <lb ed="#A" n="111"/>vbi idem hactenus, colligit, ipsum, dicere mentis 
       <lb ed="#A" n="112"/>nostrae, esse, cogitare, sic enim ait August. Quid es 
       <lb ed="#A" n="113"/>enim, dixerunt intra se, nisi cogitando, &amp; infra, quaedan 
@@ -3446,7 +3446,7 @@
       <lb ed="#A" n="23"/>genui te: verum locum illum non intelligi de aeterna 
       <lb ed="#A" n="24"/>fifij generatione, sed de Christi resutrectione, 
       o<lb ed="#A" n="25" break="no"/>stendimus supra eadem disp. c. 3. probatur tamen ex 
-      <lb ed="#A" n="26"/>illo Psa. 109. <quote source="http://scta.info/resource/ps109_3@9-14">Ex vtero ante Luciferum genui te</quote>, vbi
+      <lb ed="#A" n="26"/>illo Psa. 109. <quote xml:id="tavaz1-d1e185-Qd1e7344" source="http://scta.info/resource/ps109_3@9-14">Ex vtero ante Luciferum genui te</quote>, vbi
       ser<lb ed="#A" n="27" break="no"/>monem esse de Messia dubium non est? cum &amp; 
       <lb ed="#A" n="28"/>Paulus ad Hebr 5. de Christo intelligat illud 
       eius<lb ed="#A" n="29" break="no"/>dem Pia. Tu es sacerdos in aternum secundum ordinem 
@@ -3457,12 +3457,12 @@
       <lb ed="#A" n="34"/>solum exprimitur generatio filij, sed quam pro 
       <lb ed="#A" n="35"/>prie sit ostenditur, cum dicitur, Ex vtero, quod 
       <lb ed="#A" n="36"/>Theologi in definitione generationis dicunt. 
-      <lb ed="#A" n="37"/>principio coniuncto. Praeterea loan. 1. dicitur, <quote source="http://scta.info/resource/io1_14@11-18">Vidimus
+      <lb ed="#A" n="37"/>principio coniuncto. Praeterea loan. 1. dicitur, <quote xml:id="tavaz1-d1e185-Qd1e7371" source="http://scta.info/resource/io1_14@11-18">Vidimus
       <lb ed="#A" n="38"/>gloriam eius, gloriam quasi vnigeniti a patre</quote>? neque e
       <lb ed="#A" n="39"/>nim particula quasi, est diminuens, nec folius 
       si<lb ed="#A" n="40" break="no"/>militudinis nota, sed Phrasi Hebraica veritatem 
       <lb ed="#A" n="41"/>ipsam significat, &amp; ita eodem c. iterum dicitur 
-      v<lb ed="#A" n="42" break="no"/>nigenitus, absque ea particula, <quote source="http://scta.info/resource/io1_18@5-13">Vnigenitus qui est in
+      v<lb ed="#A" n="42" break="no"/>nigenitus, absque ea particula, <quote xml:id="tavaz1-d1e185-Qd1e7384" source="http://scta.info/resource/io1_18@5-13">Vnigenitus qui est in
       <lb ed="#A" n="43"/>sinu Patris</quote>, &amp;c. Vbi etiam proprietas illa
       genera<lb ed="#A" n="44" break="no"/>tionis, esse scilicet a principio coniuncto, de nota 
       <lb ed="#A" n="45"/>tur, cum dicitur filius esse in sinu patris. Mitto a 
@@ -3579,7 +3579,7 @@
       <lb ed="#A" n="6"/>(scilicet Patris) vnicum. Et in Niceno, cum Filius 
       <lb ed="#A" n="7"/>Dei vocatut vnigenitus, quo pacto appellatur in 
       <lb ed="#A" n="8"/>Scriptura loan. 1. gloriam quasi vnigeniti: &amp; iterum,
-      <lb ed="#A" n="9"/><quote source="http://scta.info/resource/io1_18@5-13">vnigenitus, qui est in sinu Patris</quote>. Et Ioan. 4. <quote source="http://scta.info/resource/io3_16@6-10">vt Filium
+      <lb ed="#A" n="9"/><quote xml:id="tavaz1-d1e185-Qd1e7631" source="http://scta.info/resource/io1_18@5-13">vnigenitus, qui est in sinu Patris</quote>. Et Ioan. 4. <quote xml:id="tavaz1-d1e185-Qd1e7634" source="http://scta.info/resource/io3_16@6-10">vt Filium
       <lb ed="#A" n="10"/>suum vnigenitum daret</quote>, nam si Spiritus sancti
       pro<lb ed="#A" n="11" break="no"/>cessio esset generatio, &amp; ipse genitus, procul 
       du<lb ed="#A" n="12" break="no"/>bio Filius Dei non esset vnigenitus. 
@@ -3589,7 +3589,7 @@
       <lb ed="#A" n="14"/>dicit se vnigenitum matri suae, cum tamen 
       habue<lb ed="#A" n="15" break="no"/>rit alios fratres quos fuisse ex eodem etiam Patre 
       <lb ed="#A" n="16"/>Dauide optime conuincit Iansenius in locum cit. 
-      <lb ed="#A" n="17"/>Prouerb. 4. nam &amp; 1. Paralip. 3. dicitur, <quote source="http://scta.info/resource/Ichr3_5@7-19">Porro in
+      <lb ed="#A" n="17"/>Prouerb. 4. nam &amp; 1. Paralip. 3. dicitur, <quote xml:id="tavaz1-d1e185-Qd1e7658" source="http://scta.info/resource/Ichr3_5@7-19">Porro in
       <lb ed="#A" n="18"/>Hierusalem nati sunt ei (scilicet Dauidi) quatuor di
       <lb ed="#A" n="19"/>Bethsabee</quote>, qui quatuor dicuntur filij Dauid. 2. Reg.
       <lb ed="#A" n="20"/>5. &amp; ita fallitur Lyranus cum c illo Prouer. 4. dicit. 

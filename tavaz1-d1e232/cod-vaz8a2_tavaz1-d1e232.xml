@@ -303,9 +303,9 @@
       </p>
                   <p xml:id="tavaz1-d1e232-d1e617">
                      <lb ed="#A" n="102"/>Secundum testimonium est eodem cap. Ioan. 16.
-      <quote source="http://scta.info/resource/io16_13@12-21"><lb ed="#A" n="103"/>Non enim (scilicet Spiritus sanctus) loquetur a
+      <quote xml:id="tavaz1-d1e232-Qd1e627" source="http://scta.info/resource/io16_13@12-21"><lb ed="#A" n="103"/>Non enim (scilicet Spiritus sanctus) loquetur a
       semet<lb ed="#A" n="104" break="no"/>ipso, sed quae audiet, loquetur</quote>, &amp; quae ventura sunt, annun
-      <lb ed="#A" n="105"/>tiabit vobis. <quote source="http://scta.info/resource/io16_14@1-10">Ille me clarificabit, quia de meo accipiet, &amp;
+      <lb ed="#A" n="105"/>tiabit vobis. <quote xml:id="tavaz1-d1e232-Qd1e635" source="http://scta.info/resource/io16_14@1-10">Ille me clarificabit, quia de meo accipiet, &amp;
       <lb ed="#A" n="106"/>annuntiabit vobis</quote>. Quod licet non eodem modo
       <lb ed="#A" n="107"/>omnes Patres interpretentur, plures tamen, &amp; 
       <lb ed="#A" n="108"/>grauiores ex Latinis, de processione Spiritus 
@@ -412,7 +412,7 @@
       <lb ed="#A" n="66"/>loco probabitur. 
       </p>
                   <p xml:id="tavaz1-d1e232-d1e848">
-                     <lb ed="#A" n="67"/>Quartum testimonium est ad Roman. 8. <quote source="http://scta.info/resource/rom8_9@17-27">Si quis
+                     <lb ed="#A" n="67"/>Quartum testimonium est ad Roman. 8. <quote xml:id="tavaz1-d1e232-Qd1e862" source="http://scta.info/resource/rom8_9@17-27">Si quis
       <lb ed="#A" n="68"/>Spiritum Christi non habet, hic non est eius</quote>. Sunt etiam
       <!--00213.xml-->
       <cb ed="#A" n="b"/>
@@ -434,7 +434,7 @@
       nul<lb ed="#A" n="84" break="no"/>libi Scriptura habeatur. 
       </p>
                   <p xml:id="tavaz1-d1e232-d1e894">
-                     <lb ed="#A" n="85"/>Sed obiiciunt etiam illud Ioan. 15. <quote source="http://scta.info/resource/io15_26@1-16">Cum veneri
+                     <lb ed="#A" n="85"/>Sed obiiciunt etiam illud Ioan. 15. <quote xml:id="tavaz1-d1e232-Qd1e911" source="http://scta.info/resource/io15_26@1-16">Cum veneri
       <lb ed="#A" n="86"/>Paraclitus, quem ego mittam vobis a patre spiritum veri
       <lb ed="#A" n="87"/>tatis, qui a patre procedit.</quote> Nam cum Christus non
       <lb ed="#A" n="88"/>addiderit, a seipso etiam procedere, sed solum 
@@ -446,7 +446,7 @@
       <lb ed="#A" n="94"/>respondet Anselmus libro de process. Spiritus sancti, hoc 
       <lb ed="#A" n="95"/>modo, Etiamsi diceretur, Nullus producit Spiritum 
       <lb ed="#A" n="96"/>sanctum, nisi solus pater, non excluderetur Filius; 
-      si<lb ed="#A" n="97" break="no"/>cut illis verbis Matth. 11. <quote source="http://scta.info/resource/mt11_27@9-24">Nemo nouit Filium
+      si<lb ed="#A" n="97" break="no"/>cut illis verbis Matth. 11. <quote xml:id="tavaz1-d1e232-Qd1e940" source="http://scta.info/resource/mt11_27@9-24">Nemo nouit Filium
       nis<lb ed="#A" n="98" break="no"/>Pater, neque patrem quis nouit, nisi Filius, &amp; cui voluerit
       <lb ed="#A" n="99"/>Filius reuelare</quote>? nec excluditur Filius a cognitione
       <lb ed="#A" n="100"/>sui, neque Spiritus sanctus a cognitione 
@@ -1208,7 +1208,7 @@
       authorita<lb ed="#A" n="91" break="no"/>tis Latinorum Patrum proferre posset, qui 
       nega<lb ed="#A" n="92" break="no"/>ret Spiritum a filio tanquam a principio de 
       prin<lb ed="#A" n="93" break="no"/>cipio procedere, sic etiam ego intelligerem Theo
-      <lb ed="#A" n="94"/>phyl. in illud Ioan. 3. <quote source="http://scta.info/resource/io3_34@8-14">Non enim ad mensuram dat Deus
+      <lb ed="#A" n="94"/>phyl. in illud Ioan. 3. <quote xml:id="tavaz1-d1e232-Qd1e2543" source="http://scta.info/resource/io3_34@8-14">Non enim ad mensuram dat Deus
       <lb ed="#A" n="95"/>spiritum filio</quote>: &amp; Euthymum in illud Ioan. 14. Ego
       ro<lb ed="#A" n="96" break="no"/>gabo patrem: qui cum Damasceno negant, 
       Spiri<lb ed="#A" n="97" break="no"/>tum sauctum a filio, aut ex filio procedere; quia 
@@ -3033,7 +3033,7 @@
       <lb ed="#A" n="25"/>Concilia particulam, tanquam, nihil interest: ea 
       <lb ed="#A" n="26"/>namque non est similitudinis nota, sed ipsius rei 
       <lb ed="#A" n="27"/>veritatem demonstrat: sicut particula, quasi, Ioan. 1
-      <lb ed="#A" n="28"/><quote source="http://scta.info/resource/io1_14@14-18">Gloriam quasi vnigeniti a Patre</quote>. Voluerunt enim
+      <lb ed="#A" n="28"/><quote xml:id="tavaz1-d1e232-Qd1e6380" source="http://scta.info/resource/io1_14@14-18">Gloriam quasi vnigeniti a Patre</quote>. Voluerunt enim
       <lb ed="#A" n="29"/>Concilia Graecis occurrere, qui Latinis falso 
       im<lb ed="#A" n="30" break="no"/>ponebant, quod assererent Spiritum S. a 
       Patre<lb ed="#A" n="31" break="no"/>&amp; Filio procedere, vt a duobus principiis; opor 

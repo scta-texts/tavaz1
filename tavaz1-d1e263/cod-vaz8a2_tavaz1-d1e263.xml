@@ -1156,7 +1156,7 @@
                <head xml:id="tavaz1-d1e263-Hd1e2345">Articulus 5</head>
                <p xml:id="tavaz1-d1e263-d1e2347">
                   <lb ed="#A" n="115" type="fixed=332"/>COnclusio est affirmans, &amp; de fide, Ioan. 14
-      <lb ed="#A" n="116"/><quote source="http://scta.info/resource/io14_11@4-11">Ego in patre, &amp; pater in me est</quote>.
+      <lb ed="#A" n="116"/><quote xml:id="tavaz1-d1e263-Qd1e2371" source="http://scta.info/resource/io14_11@4-11">Ego in patre, &amp; pater in me est</quote>.
     </p>
             </div>
             <div xml:id="tavaz1-d1e263-Dd1e2355"><!-- vaz-p1q42a4-d169 -->
@@ -1187,7 +1187,7 @@
                   <p xml:id="tavaz1-d1e263-d1e2398">
                      <lb ed="#A" n="6"/>NEmo Scholasticorum negat, filium esse in 
       <lb ed="#A" n="7"/>patre, &amp; patrem in filio, &amp; eodem modo 
-      <lb ed="#A" n="8"/>vnam personam in alia, cum dicatur, <quote source="http://scta.info/resource/io14_11@4-11">Ego in patre
+      <lb ed="#A" n="8"/>vnam personam in alia, cum dicatur, <quote xml:id="tavaz1-d1e263-Qd1e2429" source="http://scta.info/resource/io14_11@4-11">Ego in patre
       <lb ed="#A" n="9"/>&amp; pater in me est</quote>, vtrum vero sit vna persona in alia
       <lb ed="#A" n="10"/>secundum se totam, an secundum aliquid sui, con 
       <lb ed="#A" n="11"/>trouersum est inter Scholasticos. Henricus in 
